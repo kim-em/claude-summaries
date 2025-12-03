@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2013
-generated: 2025-12-02T08:35:00Z
+generated: 2025-12-03T00:15:00Z
 git_sha: 0b9c4ded524bc589e2fb661dc7e146a6200fde94
 git_branch: master
-status: preliminary
+status: complete
 files_count: 3
 subdirs_count: 1
 ---
@@ -12,7 +12,11 @@ subdirs_count: 1
 
 ## Overview
 
-Second year of employment at ANU (2013), containing annual report, teaching materials for MATH3325 (Analysis 3) course taught during DECRA fellowship, and outreach activities. The annual report documents extensive international travel (Vietnam, USA including Bodega Bay and Maui, Australia), research collaborations on subfactors and Khovanov homology with researchers at Vanderbilt, Northwestern, Kyoto, Microsoft Station Q, and others, supervision of Joshua Chen (Honours), Sebastian Mueller (reading course), and Narjess Afzaly (PhD committee), and MathOverflow moderation. Media coverage in Quanta Magazine, New Scientist, and ANU Reporter. Includes materials for Maths Day competition with 10 challenging problems covering algebra, geometry, combinatorics, and number theory.
+Second year of ANU employment (2013) during DECRA fellowship, featuring extensive research collaborations, a complete archive of honours-level functional analysis teaching, and community outreach. The annual report documents international travel (Vietnam, USA including Bodega Bay and Maui, Australia), research collaborations on subfactors and Khovanov homology with researchers at Vanderbilt, Northwestern, Kyoto, Microsoft Station Q, and others, supervision of Joshua Chen (Honours), Sebastian Mueller (reading course), and Narjess Afzaly (PhD committee), MathOverflow moderation, and media coverage in Quanta Magazine, New Scientist, and ANU Reporter. Three competitive grants totaling $357k (DECRA $125k, DARPA $228k, Sloan $4k) supported this research.
+
+The centerpiece is the complete MATH3325 Analysis 3 teaching archive from Semester 2, documenting a rigorous progression from Hilbert space theory through measure theory to spectral theory and Banach spaces. The course enrolled 14 students (13 completed) with comprehensive materials including 14 lectures (0-13), four graded assignments with 50+ student submissions, essay component with draft feedback cycle, four problem sets, final examination, student evaluations (4.2/5 course satisfaction), and exemplar assessments across all grade bands. Also preserved are Andrew Mathas's complete 2012 reference materials, build automation for XeLaTeX/SVN publication, and a reference library including Stein & Shakarchi, Conway, Halmos, Helmberg, and Pedersen texts. Student evaluations highlighted excellent feedback and materials quality while suggesting slower pacing and more board work.
+
+Community engagement included organizing a Maths Day competition with 10 challenging problems covering work rate, ratios, probability, geometry, Fibonacci sequences, combinatorics, and number theory.
 
 ## Key Files
 
