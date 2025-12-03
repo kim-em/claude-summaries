@@ -1,7 +1,7 @@
 ---
 source_path: /Users/kim/.claude/skills
-generated: 2025-12-02T12:50:00Z
-git_sha: 32cd90a0e7958aec05709fb9cc5e790bb3a5f63a
+generated: 2025-12-03T00:00:00Z
+git_sha: de9cdf88330ad2de18e589f60297ea3fd2844884
 git_branch: master
 status: complete
 files_count: 0

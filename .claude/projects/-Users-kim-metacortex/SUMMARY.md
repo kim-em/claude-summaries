@@ -1,10 +1,10 @@
 ---
 source_path: /Users/kim/.claude/projects/-Users-kim-metacortex
-generated: 2025-12-01T17:30:00Z
-git_sha: 30814212c8781d22dad9d3cf53af6f73be2146c9
+generated: 2025-12-03T00:00:00Z
+git_sha: de9cdf88330ad2de18e589f60297ea3fd2844884
 git_branch: master
 status: complete
-files_count: 292
+files_count: 304
 subdirs_count: 0
 ---
 
@@ -12,7 +12,7 @@ subdirs_count: 0
 
 ## Overview
 
-Claude Code session history for the ~/metacortex project (personal TODO, activity log, and note management system). Contains 292 JSONL transcript files recording all Claude sessions while working in this directory. Sessions include work on project automation (claude-usage script development using expect), TODO/log management, metacortex scripts, and various task planning and execution. Mix of UUID-based session files (full conversations) and agent-based transcripts (subagent executions), totaling approximately 14MB of conversation history.
+Claude Code session history for the ~/metacortex project (personal TODO, activity log, and note management system). Contains 304 JSONL transcript files recording all Claude sessions while working in this directory. Sessions include work on project automation (claude-usage script development using expect), TODO/log management, metacortex scripts, and various task planning and execution. Mix of UUID-based session files (full conversations) and agent-based transcripts (subagent executions), totaling approximately 14MB of conversation history.
 
 ## Key Files
 
