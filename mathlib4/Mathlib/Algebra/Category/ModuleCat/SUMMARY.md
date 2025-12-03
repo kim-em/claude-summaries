@@ -53,7 +53,7 @@ The `ModuleCat/` directory defines the category of R-modules (`ModuleCat R`) and
 - [x] `Monoidal/` - Monoidal category structure on modules including symmetric and closed monoidal structures (complete)
 - [x] `Presheaf/` - Theory of presheaves of modules over presheaves of rings (complete)
 - [x] `Sheaf/` - Theory of sheaves of modules over sheaves of rings (complete)
-- [ ] `Topology/` - Topological aspects of module categories (pending)
+- [x] `Topology/` - Category of topological modules with compatible topology; limits/colimits via induced/coinduced topologies; adjunctions; homology (complete)
 
 ## Search Tags
 
