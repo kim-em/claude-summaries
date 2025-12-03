@@ -24,7 +24,7 @@ Second year of employment at ANU (2013), containing annual report, teaching mate
 
 ## Subdirectories
 
-- [~] `Analysis3/` - Complete teaching materials for MATH3325 (Analysis 3) course including lecture notes, assignments, problem sets, grade sheets, student evaluations, textbook receipts, references on operators and functional analysis, course website materials (preliminary)
+- [x] `Analysis3/` - Complete teaching materials for MATH3325 (Analysis 3) course including lecture notes, assignments, problem sets, grade sheets, student evaluations, textbook receipts, references on operators and functional analysis, course website materials (complete)
 
 ## Search Tags
 
