@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Algebra/Category/Ring
-generated: 2025-12-03T10:55:00Z
+generated: 2025-12-03T11:05:00Z
 git_sha: 5bfa1623542d7f245e45ac880c26cfe8f9ecc5ea
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 11
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-The `Ring/` directory contains the categorical formulation of ring theory in Mathlib4, defining bundled categories for semirings, rings, commutative semirings, and commutative rings (`SemiRingCat`, `RingCat`, `CommSemiRingCat`, `CommRingCat`). It provides the complete categorical infrastructure including morphisms (ring homomorphisms), forgetful functors to other algebraic categories, limits and colimits constructions, adjunctions, and categorical properties specific to ring categories. The directory includes specialized functionality for finite presentations, filtered colimits, epimorphisms, topological structures on homomorphism sets, and constructions involving tensor products and algebras.
+The `Ring/` directory contains the categorical formulation of ring theory in Mathlib4, defining bundled categories for semirings, rings, commutative semirings, and commutative rings (`SemiRingCat`, `RingCat`, `CommSemiRingCat`, `CommRingCat`). It provides the complete categorical infrastructure including morphisms (ring homomorphisms), forgetful functors to other algebraic categories, limits and colimits constructions, adjunctions, and categorical properties specific to ring categories. The directory includes specialized functionality for finite presentations, filtered colimits, epimorphisms, topological structures on homomorphism sets, and constructions involving tensor products and algebras. The `Under/` subdirectory extends this framework by providing the categorical API for working with `R`-algebras as objects in the comma category `Under R`, enabling functorial base change operations and limit-preserving constructions under flatness assumptions.
 
 ## Key Files
 
