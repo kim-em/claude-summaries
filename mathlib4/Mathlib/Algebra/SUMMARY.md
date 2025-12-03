@@ -1,0 +1,103 @@
+---
+source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Algebra
+generated: 2025-12-01T14:30:00Z
+git_sha: dc19f2a67ff55a2078ba23a4c1740a5eb0d50e41
+git_branch: master
+status: preliminary
+files_count: 32
+subdirs_count: 46
+---
+
+# Algebra
+
+## Overview
+
+The `Algebra/` directory contains the foundations of algebraic structures in mathlib4, organized hierarchically from basic to complex structures. It implements the core algebraic hierarchy (notation → groups → groups-with-zero → rings → fields) and extends it with advanced constructions including quaternions, polynomials, free algebras, homological algebra, and specialized algebraic systems. The directory contains both the fundamental type class definitions that define algebraic structures and substantial theory development for specific algebraic objects like continued fractions, graded monoids, and Lie algebras.
+
+## Key Files
+
+| File | Purpose |
+|------|---------|
+| README.md | Documents the algebraic hierarchy structure and folder organization (notation → group → group-with-zero → ring → field) |
+| HierarchyDesign.lean | Library note documenting design principles for extending the algebraic hierarchy, explaining when to introduce new typeclasses and trade-offs between extension vs mixin approaches |
+| Quaternion.lean | Defines quaternion algebras `ℍ[R, a, b, c]` and standard quaternions `ℍ[R]` over commutative rings, with ring/star-ring/algebra structures and division ring structure for ordered fields |
+| Free.lean | Free algebraic constructions: free magmas, free semigroups, and their universal properties expressing adjointness |
+| GradedMonoid.lean | Additively-graded multiplicative structures over sigma types where `(*) : A i → A j → A (i + j)` |
+| RingQuot.lean | Direct construction of quotients of semirings by arbitrary relations via ideal generation, with universal properties |
+| Polynomial.lean | Entry point for univariate polynomial theory (46 files/subdirs) |
+| MvPolynomial/ | Multivariate polynomial theory |
+| FreeAlgebra.lean | Free algebra construction over a commutative semiring with universal property |
+| DualNumber.lean | Dual numbers (automatic differentiation, jet spaces) |
+| Quaternion.lean | Quaternion algebras and Hamilton's quaternions |
+| QuaternionBasis.lean | Quaternion basis theory |
+| CubicDiscriminant.lean | Discriminant theory for cubic polynomials |
+| QuadraticDiscriminant.lean | Discriminant theory for quadratic forms |
+| Quandle.lean | Quandles and racks (self-distributive algebraic structures from knot theory) |
+| LinearRecurrence.lean | Linear recurrence relations |
+| ModEq.lean | Modular arithmetic and congruences |
+| GeomSum.lean | Geometric sum formulas |
+| Exact.lean | Exact sequences in algebra |
+| FiveLemma.lean | The five lemma from homological algebra |
+| Symmetrized.lean | Symmetrization operations on algebraic structures |
+| TrivSqZeroExt.lean | Trivial square-zero extensions |
+| IsPrimePow.lean | Prime power characterization |
+| NeZero.lean | Non-zero type class for constants |
+| AlgebraicCard.lean | Algebraic cardinality theory |
+| Opposites.lean | Opposite algebras and rings |
+| Quotient.lean | General quotient constructions for algebraic structures |
+| PEmptyInstances.lean | Algebraic instances for the empty type |
+| Expr.lean | Expression manipulation for algebra |
+| Notation.lean | Entry point for algebraic notation definitions |
+
+## Subdirectories
+
+- [x] `Notation/` - Basic algebraic notation and symbols (complete)
+- [x] `Group/` - Semigroups, monoids, groups (52 files/subdirs) - foundational layer (complete)
+- [x] `GroupWithZero/` - Monoids/groups with zero adjoined (36 files/subdirs) (complete)
+- [x] `Ring/` - Additive groups with one, semirings, rings (55 files/subdirs) (complete)
+- [x] `Field/` - Division rings and fields: fundamental type classes (`DivisionSemiring`, `DivisionRing`, `Semifield`, `Field`), rich theory of division arithmetic, rational casting, geometric series, periodic functions, instance transfer, conjugation actions, and bundled subfield structures (complete)
+- [x] `Algebra/` - Algebra structures over rings (26 files/subdirs) (complete)
+- [x] `Module/` - Modules over rings: comprehensive theory of semimodules and modules with `Module R M` typeclass, congruences and quotients, linear equivalences and automorphisms, linear maps and endomorphism rings, submodules with complete lattice structure, localization at multiplicative sets, presentations by generators/relations, torsion theory, and ℤ-lattices in normed spaces (complete)
+- [x] `Polynomial/` - Univariate polynomial theory (41 files, 3 subdirs): `R[X]` structure wrapping `AddMonoidAlgebra R ℕ`, comprehensive theory including degree/coefficients with leading/trailing variants, evaluation as ring homomorphisms with irreducibility preservation, formal and Hasse derivatives, division algorithms with Euclidean domain structure, roots with multiplicities and factorization, polynomial module structures, and advanced topics (Laurent polynomials, Taylor expansion, Descartes' rule of signs) (complete)
+- [x] `MvPolynomial/` - Multivariate polynomial theory: `MvPolynomial σ R` represents `R[X_i : i ∈ σ]` with arbitrary variable type, built on `AddMonoidAlgebra`, provides evaluation/renaming, degree analysis (`degrees`, `degreeOf`, `totalDegree`), equivalences, monadic operations, derivations/partial derivatives, monomial division, and Schwartz-Zippel lemma (complete)
+- [x] `MonoidAlgebra/` - Monoid algebras and group rings: `MonoidAlgebra R M := M →₀ R` construction with convolution product, comprehensive algebraic structure (semiring/ring/algebra instances), support analysis, degree theory (supDegree/infDegree), internal grading structure, division by monomials (divOf/modOf), no zero divisors under UniqueProds condition, and conversions to DirectSum (complete)
+- [x] `FreeMonoid/` - Free monoid construction over arbitrary types: `FreeMonoid α` as synonym for `List α` with concatenation multiplication, universal property `lift : (α → M) ≃ (FreeMonoid α →* M)`, embedding `of : α → FreeMonoid α`, operations (length, membership, map, reverse), counting homomorphisms, finite symbol sets, and `TwoUniqueProds` property for factorization uniqueness (complete)
+- [x] `FreeAbelianGroup/` - Canonical isomorphism `FreeAbelianGroup X ≃+ (X →₀ ℤ)` with transported support/coefficient notions and `TwoUniqueSums` property (complete)
+- [x] `FreeAlgebra/` - Cardinality theory for free algebras: proves `#(FreeAlgebra R X) = lift #R ⊔ lift #X ⊔ ℵ₀` for nontrivial R and nonempty X, with specialized results for empty generators and subsingleton base rings, and bounds for `Algebra.adjoin` (complete)
+- [x] `BigOperators/` - Big sum and product operations: complete infrastructure for finite sums (`∑`) and products (`∏`) built on three-layer hierarchy (List → Multiset → Finset) for commutative monoids, extended to rings (distributivity, products-of-sums, binomial formulas), groups with zero (zero-propagation, scalar actions), and finitely-supported functions, plus 15 specialized files covering variant notations (finprod/finsum), expectations, type-specific operations (Fin/Option/Pi/intervals), and connections to modular arithmetic, summation by parts, and structures with top/bottom elements (complete)
+- [x] `Order/` - Ordered algebraic structures synthesizing algebra and order theory: bundled/unbundled typeclasses for ordered groups/rings/monoids/modules/fields with fine-grained monotonicity control, Hahn embedding theorem, Cauchy completion construction, floor/ceiling functions, archimedean theory, classical inequalities (Bernoulli, Cauchy-Schwarz, Chebyshev, rearrangement), Kleene algebras, quantales, absolute values, interval arithmetic, and nonnegative/positive subtype theories (complete)
+- [x] `Star/` - Star algebras and involution operations: core typeclasses (`InvolutiveStar`, `StarMul`, `StarRing`, `StarModule`) defining structures with antiautomorphic star operation, theory of self-adjoint/unitary/normal elements, star-preserving morphisms and substructures, CHSH/Tsirelson inequalities, and algebraic foundations for C*-algebras and quantum mechanics (complete)
+- [x] `Lie/` - Lie algebras and Lie modules: foundational definitions (`LieRing`, `LieAlgebra`, `LieModule`) with Jacobi identity and Leibniz rule, comprehensive theory (subalgebras, ideals, quotients, representation theory), classification theory (nilpotent/solvable/semisimple via lower central and derived series), major theorems (Engel, Lie, Cartan subalgebra existence and properties), classical Lie algebras (sl/sp/so), sl₂ representation theory, Killing/trace forms, derivations (all inner for Killing algebras), weight space decompositions with root systems for semisimple algebras, and irreducibility results for simple Lie algebras (complete)
+- [x] `Homology/` - Homological algebra: complete framework building from short complexes (three-object diagrams with dual homology data, exactness, snake lemma) to general homological complexes with arbitrary index types, homotopy category (quotient by homotopy with triangulated structure via mapping cones), derived category (localization at quasi-isomorphisms with shift sequences, t-structure, Ext groups), complex shape embeddings (extension/restriction/truncation functors), functorial resolutions (projective resolutions via iterative kernels), and model category factorizations (CM5b axiom for derived functor applications) (complete)
+- [~] `Category/` - Categorical aspects of algebra: bundled categories for algebraic structures (groups, rings, modules, algebras, bialgebras, coalgebras, Hopf algebras) with morphisms, forgetful functors, categorical equivalences, and specialized constructions (Boolean rings, continuous cohomology, finitely generated modules) (preliminary)
+- [ ] `CharP/` - Characteristic p theory (18 files/subdirs) (pending)
+- [ ] `CharZero/` - Characteristic zero theory (6 files/subdirs) (pending)
+- [ ] `DirectSum/` - Direct sum constructions (12 files/subdirs) (pending)
+- [ ] `GCDMonoid/` - GCD monoids and structures (8 files/subdirs) (pending)
+- [ ] `EuclideanDomain/` - Euclidean domains (6 files/subdirs) (pending)
+- [ ] `Divisibility/` - Divisibility theory (7 files/subdirs) (pending)
+- [ ] `NoZeroSMulDivisors/` - Scalar multiplication without zero divisors (6 files/subdirs) (pending)
+- [ ] `Prime/` - Prime elements in algebraic structures (4 files/subdirs) (pending)
+- [ ] `Regular/` - Regular elements (10 files/subdirs) (pending)
+- [ ] `Central/` - Central elements and centralizers (7 files/subdirs) (pending)
+- [ ] `ContinuedFractions/` - Continued fraction theory (9 files/subdirs) (pending)
+- [ ] `AddTorsor/` - Additive torsors (affine spaces) (4 files/subdirs) (pending)
+- [ ] `AddConstMap/` - Add-constant maps (4 files/subdirs) (pending)
+- [ ] `AffineMonoid/` - Affine monoid structures (6 files/subdirs) (pending)
+- [ ] `Azumaya/` - Azumaya algebras (5 files/subdirs) (pending)
+- [ ] `BrauerGroup/` - Brauer group theory (3 files/subdirs) (pending)
+- [ ] `Colimit/` - Colimits in algebra (7 files/subdirs) (pending)
+- [ ] `Jordan/` - Jordan algebras (3 files/subdirs) (pending)
+- [ ] `NonAssoc/` - Non-associative algebras (4 files/subdirs) (pending)
+- [ ] `PresentedMonoid/` - Monoids by generators and relations (3 files/subdirs) (pending)
+- [ ] `QuadraticAlgebra/` - Quadratic algebras (5 files/subdirs) (pending)
+- [ ] `SkewMonoidAlgebra/` - Skew monoid algebras (6 files/subdirs) (pending)
+- [ ] `SkewPolynomial/` - Skew polynomial rings (3 files/subdirs) (pending)
+- [ ] `Squarefree/` - Squarefree elements (3 files/subdirs) (pending)
+- [ ] `Tropical/` - Tropical algebra (min-plus and max-plus semirings) (5 files/subdirs) (pending)
+- [ ] `Vertex/` - Vertex algebras (4 files/subdirs) (pending)
+- [ ] `Pointwise/` - Pointwise operations on sets (3 files/subdirs) (pending)
+
+## Search Tags
+
+algebra algebraic-hierarchy groups rings fields modules polynomial quaternion free-algebra graded-monoid homological-algebra lie-algebra star-algebra category-theory characteristic-p gcd-monoid euclidean-domain divisibility continued-fractions azumaya brauer-group tropical-algebra vertex-algebra bigoperators ordered-algebra
