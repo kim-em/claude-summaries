@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Algebra/Category/ModuleCat
-generated: 2025-12-02T12:00:00Z
-git_sha: 91b78e4d87f6d8084f92183992611f2312971592
-git_branch: master
-status: preliminary
+generated: 2025-12-03T15:20:00Z
+git_sha: 5bfa1623542d7f245e45ac880c26cfe8f9ecc5ea
+git_branch: heads/nightly-testing
+status: complete
 files_count: 27
 subdirs_count: 5
 ---
@@ -12,7 +12,7 @@ subdirs_count: 5
 
 ## Overview
 
-The `ModuleCat/` directory defines the category of R-modules (`ModuleCat R`) and establishes its rich categorical structure. It proves that ModuleCat is an abelian category with all limits and colimits, defines monoidal and symmetric structures via tensor products, and provides change-of-rings functors (restriction, extension, and coextension of scalars) with their adjunctions. The directory also extends modules to categorical contexts including presheaves and sheaves of modules over presheaves/sheaves of rings, and establishes connections to homological algebra through kernels, cokernels, exact sequences, and projective/injective objects.
+The `ModuleCat/` directory provides a comprehensive categorical treatment of R-modules, establishing `ModuleCat R` as an abelian category with all limits and colimits, complete monoidal structure (including braided, symmetric, and closed monoidal structures via tensor products), and extensive infrastructure for homological algebra. Beyond the core module category, it extends the theory to presheaves and sheaves of modules over presheaves/sheaves of rings (both abelian categories with generators and sheafification functors), topological modules with compatible continuous structures, and Kähler differentials for algebraic geometry. The directory provides change-of-rings functors (restriction, extension, coextension of scalars, pullback, and pushforward) with their adjunctions, free-forgetful adjunctions, and complete homological machinery including kernels, cokernels, exact sequences, projective/injective objects, and enough injectives. Special focus is given to finitely generated and quasicoherent sheaves following Stacks Project conventions, making this directory foundational for both abstract category theory and algebraic geometry applications.
 
 ## Key Files
 
@@ -49,12 +49,12 @@ The `ModuleCat/` directory defines the category of R-modules (`ModuleCat R`) and
 
 ## Subdirectories
 
-- [x] `Differentials/` - Kähler differentials and derivations in categorical framework for modules over commutative rings (complete)
-- [x] `Monoidal/` - Monoidal category structure on modules including symmetric and closed monoidal structures (complete)
-- [x] `Presheaf/` - Theory of presheaves of modules over presheaves of rings (complete)
-- [x] `Sheaf/` - Theory of sheaves of modules over sheaves of rings (complete)
-- [x] `Topology/` - Category of topological modules with compatible topology; limits/colimits via induced/coinduced topologies; adjunctions; homology (complete)
+- [x] `Differentials/` - Kähler differentials and derivations for ring morphisms; constructs universal module of differentials with universal property; extends to presheaves of commutative rings for algebraic geometry applications
+- [x] `Monoidal/` - Complete monoidal infrastructure: tensor product monoidal structure with coherence axioms, symmetric braiding via tensor commutativity, and monoidal closed structure with internal hom adjunction `M ⊗ - ⊣ ihom M`
+- [x] `Presheaf/` - Full presheaf theory: abelian category structure, pointwise limits/colimits, free presheaves with adjunction, change-of-rings functors (restriction, pullback, pushforward), monoidal structure, generators, sheafification functor and adjunction for converting to sheaves
+- [x] `Sheaf/` - Sheaf category infrastructure: abelian structure via sheafification transfer, limits (pointwise in presheaves) and colimits (via sheafification), free sheaves and generators, pullback/pushforward functors for continuous functors, finite type and quasicoherent sheaves (Stacks Project conventions)
+- [x] `Topology/` - Topological modules category `TopModuleCat R`: limits via induced topology, colimits via coinduced topology, three adjunctions (module topology, indiscrete topology, free-forgetful), homology structure despite non-abelian nature with appropriate topological kernels/cokernels
 
 ## Search Tags
 
-category-theory modules linear-algebra abelian-categories limits colimits monoidal-categories tensor-products change-of-rings restriction-of-scalars extension-of-scalars adjunctions presheaves sheaves homological-algebra kernels cokernels exact-sequences projective-modules injective-modules free-modules concrete-categories
+category-theory modules linear-algebra abelian-categories limits colimits monoidal-categories braided-categories symmetric-monoidal monoidal-closed tensor-products internal-hom change-of-rings restriction-of-scalars extension-of-scalars coextension-of-scalars pullback pushforward adjunctions presheaves sheaves presheaves-of-modules sheaves-of-modules homological-algebra kernels cokernels exact-sequences projective-modules injective-modules free-modules enough-injectives concrete-categories topological-modules induced-topology coinduced-topology kaehler-differentials derivations grothendieck-topology sheafification generators finite-type quasicoherent locally-finitely-generated presentations stacks-project algebraic-geometry commutative-rings ring-morphisms universal-properties continuous-functors well-powered

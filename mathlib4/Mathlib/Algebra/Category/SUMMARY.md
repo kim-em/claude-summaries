@@ -33,7 +33,7 @@ The `Category/` directory contains categorical aspects of algebraic structures, 
 - [x] `FGModuleCat/` - Category of finitely generated modules (complete)
 - [x] `Grp/` - Category of groups and related group-theoretic categories (complete)
 - [x] `HopfAlgCat/` - Category of Hopf algebras (complete)
-- [~] `ModuleCat/` - Category of modules over rings (preliminary)
+- [x] `ModuleCat/` - Category of modules over rings (complete)
 - [ ] `MonCat/` - Category of monoids (pending)
 - [ ] `Ring/` - Category of rings and related categories (semirings, commutative rings, etc.) (pending)
 - [ ] `Semigrp/` - Category of semigroups (pending)
