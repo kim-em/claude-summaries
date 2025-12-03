@@ -51,7 +51,7 @@ The `ModuleCat/` directory defines the category of R-modules (`ModuleCat R`) and
 
 - [x] `Differentials/` - Kähler differentials and derivations in categorical framework for modules over commutative rings (complete)
 - [x] `Monoidal/` - Monoidal category structure on modules including symmetric and closed monoidal structures (complete)
-- [ ] `Presheaf/` - Theory of presheaves of modules over presheaves of rings (pending)
+- [x] `Presheaf/` - Theory of presheaves of modules over presheaves of rings (complete)
 - [ ] `Sheaf/` - Theory of sheaves of modules over sheaves of rings (pending)
 - [ ] `Topology/` - Topological aspects of module categories (pending)
 
