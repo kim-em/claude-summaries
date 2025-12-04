@@ -30,7 +30,7 @@ Third year of ANU faculty employment documenting teaching (MATH3325 Analysis 3, 
 - [x] `Analysis3/` - Complete teaching archive for MATH3325 Analysis 3 Honours (Semester 2, 2014): twelve lecture chapters progressing from Hilbert spaces through Banach spaces; four problem sets with handwritten hints; four graded assignments with complete submission records and extensive handwritten feedback; essay workflow with 15 topics, 12 annotated drafts, 13 final submissions; final examination; complete reference library (Stein & Shakarchi volumes 1-4 plus supplementary texts); student evaluations (14 enrollments, 4.3/5 satisfaction); grade calculation and statistical analysis (Mathematica SVD and correlation analysis); build script and LaTeX infrastructure; TODO list of proof corrections needed (complete)
 - [x] `HonoursThesisReports/` - Honours thesis examination reports and theses for Christopher Chung, Hannah Keese, Hilary Hunt, and Joshua Chen, with grader's reports in TeX and PDF formats (complete)
 - [x] `postdoc/` - Postdoctoral fellowship applications received (66 applications from candidates including Chirvasitu, Clark, Dancso, Duong, Giannelli, Golovko, Gopalakrishnamurty, Guerberoff, Hague, and others), plus zip archive of all applications (complete)
-- [ ] `website/` - Google doc link for updating Algebra & Topology web pages (pending)
+- [x] `website/` - Google doc link for updating Algebra & Topology web pages (complete)
 
 ## Search Tags
 
