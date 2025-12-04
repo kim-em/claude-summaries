@@ -43,7 +43,7 @@ Lecture notes for MATH1014 (Mathematics and Applications 2) semester 2 2015, con
 - [x] `Lecture13/` - Thirteenth lecture on eigenvalues and eigenvectors: characteristic equation (det(A - λI) = 0), similarity transformations, and dynamical systems applications with Maple computational examples (complete)
 - [x] `Lecture14/` - Fourteenth lecture on matrix diagonalization: definition of diagonalizable matrices, diagonalization theorem A = PDP⁻¹, computing matrix powers using diagonalization, connection between eigenvectors and change of basis (complete)
 - [x] `Lecture15/` - Fifteenth lecture on advanced diagonalization theory with worked examples including non-diagonalizable matrices, eigenspace dimension theorem, and change of basis interpretation (complete)
-- [ ] `Lecture16/` - Sixteenth lecture material (pending)
+- [x] `Lecture16/` - Sixteenth lecture on matrix representations of linear transformations relative to arbitrary bases, connecting diagonalization to diagonal B-matrix representations (complete)
 - [ ] `Lecture17/` - Seventeenth lecture material (pending)
 - [ ] `Lecture18/` - Eighteenth lecture material (pending)
 - [ ] `Lecture19/` - Nineteenth lecture material (pending)
