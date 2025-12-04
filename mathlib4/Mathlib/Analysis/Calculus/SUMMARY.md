@@ -46,7 +46,7 @@ The `Calculus/` directory contains the formalization of differential and integra
 - [x] `BumpFunction/` - Smooth bump functions (smooth functions with compact support) (complete)
 - [x] `Conformal/` - Conformal maps (angle-preserving differentiable maps) (complete)
 - [x] `ContDiff/` - Continuously differentiable functions (C^n smoothness classes) (complete)
-- [ ] `Deriv/` - One-dimensional derivatives (real and complex derivatives) (pending)
+- [x] `Deriv/` - One-dimensional derivatives (real and complex derivatives) (complete)
 - [ ] `DifferentialForm/` - Differential forms on normed spaces (pending)
 - [ ] `FDeriv/` - Fréchet derivatives (multivariable derivatives in normed spaces) (pending)
 - [ ] `Gradient/` - Gradient of functions (vector of partial derivatives in inner product spaces) (pending)
