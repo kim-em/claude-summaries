@@ -23,7 +23,7 @@ Second lecture of MATH1014 covering vector multiplication operations (dot produc
 
 ## Subdirectories
 
-- [ ] `diagrams/` - Supporting visual materials including PDF diagrams for geometric illustrations (angle between vectors, scalar/vector projections, cross product right-hand rule) and PNG image for right-handed coordinate system (pending)
+- [x] `diagrams/` - Supporting visual materials including PDF diagrams for geometric illustrations (angle between vectors, scalar/vector projections, cross product right-hand rule) and PNG image for right-handed coordinate system (complete)
 
 ## Search Tags
 
