@@ -24,7 +24,7 @@ Eighteenth lecture on discrete linear dynamical systems (x_{k+1} = Ax_k), applyi
 
 ## Subdirectories
 
-- [ ] `diagrams/` - 16 visualization files for dynamical systems (phase portraits showing attractors, repellors, saddle points, spirals; predator-prey illustrations including Woodrat.png and predatorpray.png; trajectory plots in PDF/PS/PNG formats) (pending)
+- [x] `diagrams/` - 16 visualization files for dynamical systems (phase portraits showing attractors, repellors, saddle points, spirals; predator-prey illustrations including Woodrat.png and predatorpray.png; trajectory plots in PDF/PS/PNG formats) (complete)
 
 ## Search Tags
 
