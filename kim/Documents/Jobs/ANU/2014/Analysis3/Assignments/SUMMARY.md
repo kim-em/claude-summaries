@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2014/Analysis3/Assignments
-generated: 2025-12-04T02:06:26Z
+generated: 2025-12-04T11:00:00Z
 git_sha: 48a99ef1be36fc0c3cca2af4518f1aebb71ec697
 git_branch: master
-status: preliminary
+status: complete
 files_count: 18
 subdirs_count: 7
 ---
@@ -12,7 +12,7 @@ subdirs_count: 7
 
 ## Overview
 
-Student assessment materials for MATH3325 Analysis 3 Honours (Semester 2, 2014). Contains four graded assignments covering operators on Hilbert spaces, compact operators, spectral theory, and integral operators. Each assignment includes LaTeX source, compiled PDFs, sample solutions (for Assignments 1, 2, and 4), and student submission folders. Also includes essay component materials (suggested topics, drafts, examples, final submissions) and the final examination with alternative questions. Assignments were due at regular intervals through the semester and formed 40% of the final grade (20 marks per assignment for mathematical content plus writing quality).
+Complete student assessment materials for MATH3325 Analysis 3 Honours (Semester 2, 2014), documenting both the pedagogical design and the full grading workflow. Contains four graded assignments (due August 15, September 23, October 7, and November 7) covering advanced functional analysis: bounded linear transformations on Hilbert spaces, Fourier transforms and convolution in L^p spaces, measure theory and convergence, and spectral theory of operators. Each assignment includes LaTeX source, compiled PDFs, and sample solutions (for Assignments 1, 2, and 4). Student work reveals extensive pedagogical engagement: Assignment 1 and 2 submissions include graded subfolders with detailed handwritten feedback in red and blue ink showing careful attention to mathematical rigor, proof presentation, and conceptual understanding (scores ranging from 77/100 to 120/100). Approximately 10-15 students per assignment, with submissions showing collaboration patterns (e.g., Thompson-Reddy pairs) and varying submission formats (named PDFs, timestamped scans, with corrections as JPG files). The essay component demonstrates a complete writing workflow: 15 suggested topics from Dirichlet problems to Brownian motion, 12 draft essays with extensive instructor annotations (October 20-22), 4 example essays from previous years, and 13 final submissions on topics including Bochner's Theorem, fixed point theorems with game theory applications, and ergodic theory. Final examination (3 hours, 135 points, one double-sided A4 note sheet permitted) tests the full course scope with alternative questions documented separately. Assessment formed 40% of final grade (4 assignments × 20 marks each for content + 20 marks writing).
 
 ## Key Files
 
@@ -38,13 +38,13 @@ Student assessment materials for MATH3325 Analysis 3 Honours (Semester 2, 2014).
 
 ## Subdirectories
 
-- [x] `Assignment1Submissions/` - Student submissions for Assignment 1 (includes graded subfolder with extensive handwritten annotations)
-- [x] `Assignment2Submissions/` - Student submissions for Assignment 2 (complete submission and grading workflow with 20 submissions and 16 graded versions)
-- [x] `Assignment3Submissions/` - Student submissions for Assignment 3 (14 submissions including named and timestamped scanned PDFs, no graded subfolder)
-- [x] `Assignment4Submissions/` - Student submissions for Assignment 4 (15 PDF submissions and 1 JPG correction from ~14-15 students, no graded subfolder)
-- [x] `EssayDrafts/` - Draft essay submissions from students with instructor feedback workflow (12 drafts + 12 commented versions from October 20-22, 2014)
-- [x] `EssayExamples/` - Four example essays (Example1-4.pdf) demonstrating expected quality and format for MATH3325 essay component: trace class operators and Lidskii's Theorem, Peter-Weyl Theorem, Bochner's Theorem, and fixed point theorems
-- [x] `FinalEssays/` - Final essay submissions from students (13 completed essays on advanced topics including Bochner's Theorem, fixed point theorems, and applications to economics and game theory)
+- [x] `Assignment1Submissions/` - Complete collection of 11 ungraded student submissions plus Assignment1Graded subfolder with 15 extensively annotated versions showing detailed pedagogical engagement with handwritten feedback in red and blue ink on bounded linear transformations, integral operators, and orthogonal projections
+- [x] `Assignment2Submissions/` - Complete submission and grading workflow with 20 original submissions (11 named + 9 timestamped scans from September 23) and Assignment2Graded subfolder with 16 graded PDFs containing extensive instructor feedback on Fourier transforms, convolution, and density arguments (scores 84-120/100, graded October 1-3, 2014)
+- [x] `Assignment3Submissions/` - 14 student submissions on measure theory topics (distribution functions, spherical volumes, Lebesgue measure, convergence in measure) including named submissions and timestamped scans from October 3-7, 2014; no graded subfolder
+- [x] `Assignment4Submissions/` - 15 PDF submissions plus 1 JPG correction from ~14-15 students covering spectral theory, unitary operators, positive operators, Banach spaces, and weak convergence (timestamped November 7, 2014); no graded subfolder; includes PGP signature file
+- [x] `EssayDrafts/` - 12 draft essays on advanced topics (Gelfand-Naimark Theorem, Bochner's Theorem, Birkhoff-Khinchin Ergodic Theorem, statistical mechanics) with Commented subfolder containing 12 scanned PDFs with extensive red-pen annotations on mathematical rigor, clarity, and exposition (October 20-22, 2014)
+- [x] `EssayExamples/` - Four example essays from previous years (2009-2013) demonstrating expected quality: trace class operators and Lidskii's Theorem (Phelan 2009), Peter-Weyl Theorem on compact Lie groups (Lim 2013), Bochner's Theorem on Fourier transforms (Lei 2013), and fixed point theorems with Nash equilibrium applications (Keese 2013)
+- [x] `FinalEssays/` - 13 completed final essay submissions on advanced topics including Bochner's Theorem, fixed point theorems with applications to economics and game theory (including Hex game proof, Kakutani FPT, Nash existence), trace class operators, Peter-Weyl Theorem, and ergodic theory
 
 ## Search Tags
 
