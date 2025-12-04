@@ -85,7 +85,7 @@ The `Algebra/` directory contains the foundations of algebraic structures in mat
 - [x] `AddConstMap/` - Bundled maps and equivalences semiconjugating shifts: `f (x + a) = f x + b` property with comprehensive theory for circle lifts, monotonicity on fundamental intervals, group structure on automorphisms, and floor ring constructions (complete)
 - [x] `AffineMonoid/` - Finitely generated cancellative torsion-free commutative monoids that embed into ℤⁿ, with unique sums/products and irreducible element characterization (complete)
 - [x] `Azumaya/` - Azumaya algebras: noncommutative algebras generalizing central simple algebras over commutative rings, defined via tensor product isomorphism with endomorphisms, with instances for the base ring itself and matrix algebras (complete)
-- [ ] `BrauerGroup/` - Brauer group theory (3 files/subdirs) (pending)
+- [x] `BrauerGroup/` - Foundational definitions for Brauer group of a field: `CSA K` structure for finite-dimensional central simple algebras, `IsBrauerEquivalent` relation where algebras are equivalent if their matrix rings are isomorphic, proof that Brauer equivalence is an equivalence relation, and `BrauerGroup K` as the quotient type classifying central simple algebras up to Morita equivalence (complete)
 - [ ] `Colimit/` - Colimits in algebra (7 files/subdirs) (pending)
 - [ ] `Jordan/` - Jordan algebras (3 files/subdirs) (pending)
 - [ ] `NonAssoc/` - Non-associative algebras (4 files/subdirs) (pending)
