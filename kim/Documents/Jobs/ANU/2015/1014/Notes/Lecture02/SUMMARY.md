@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2015/1014/Notes/Lecture02
-generated: 2025-12-04T06:30:00Z
+generated: 2025-12-04T06:40:00Z
 git_sha: 48a99ef1be36fc0c3cca2af4518f1aebb71ec697
 git_branch: master
-status: preliminary
+status: complete
 files_count: 2
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Second lecture of MATH1014 covering vector multiplication operations (dot product and cross product) in ℝ³. The lecture introduces the dot product as a scalar result, its relationship to magnitude and angles between vectors, and applications to scalar/vector projections. The second half covers the cross product (specific to ℝ³), including its geometric interpretation, determinant computation method, and properties. The lecture includes worked examples demonstrating applications to right triangle detection, coplanarity testing, work calculations in physics, and projection computations.
+Second lecture of MATH1014 covering vector multiplication operations (dot product and cross product) in ℝ³. The lecture introduces the dot product as a scalar result, its relationship to magnitude and angles between vectors, and applications to scalar/vector projections. The second half covers the cross product (specific to ℝ³), including its geometric interpretation, determinant computation method, and properties. The lecture includes worked examples demonstrating applications to right triangle detection, coplanarity testing, work calculations in physics, and projection computations. The lecture is supported by a comprehensive set of 8 geometric diagrams illustrating key concepts including the right-hand rule, angle between vectors, projection decompositions, and force/work calculations.
 
 ## Key Files
 

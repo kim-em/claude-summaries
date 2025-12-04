@@ -29,7 +29,7 @@ Lecture notes for MATH1014 (Mathematics and Applications 2) semester 2 2015, con
 ## Subdirectories
 
 - [x] `Lecture01/` - First lecture: Administrative overview and introduction to vectors, coordinates, and geometry in ℝ³, with 42 supporting diagrams (complete)
-- [~] `Lecture02/` - Second lecture: Vector multiplication operations (dot product and cross product in ℝ³), including scalar/vector projections and applications (preliminary)
+- [x] `Lecture02/` - Second lecture: Vector multiplication operations (dot product and cross product in ℝ³), including scalar/vector projections and applications (complete)
 - [ ] `Lecture03/` - Third lecture material (pending)
 - [ ] `Lecture04/` - Fourth lecture with additional examples file (potentially short per parent TODO note) (pending)
 - [ ] `Lecture05/` - Fifth lecture material (pending)
