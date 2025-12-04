@@ -47,7 +47,7 @@ Lecture notes for MATH1014 (Mathematics and Applications 2) semester 2 2015, con
 - [x] `Lecture17/` - Seventeenth lecture on complex eigenvalues and eigenvectors for real matrices, rotation-scaling decomposition A = PCP⁻¹, with complex numbers addendum and 8 geometric diagrams (complete)
 - [x] `Lecture18/` - Eighteenth lecture on discrete linear dynamical systems with eigenvalue-based trajectory analysis (attractors, repellors, saddle points, spirals) and predator-prey/population modeling examples, supported by 16 mathematical and ecological diagrams (complete)
 - [x] `Lecture19/` - Nineteenth lecture on inner products and orthogonality (dot product, vector length, orthogonal complements, dimension theorem dim(W) + dim(W⊥) = n, vector decomposition into W + W⊥) (complete)
-- [ ] `Lecture20/` - Twentieth lecture material (pending)
+- [x] `Lecture20/` - Twentieth lecture on orthogonal and orthonormal sets (orthogonal set definitions, linear independence theorem, orthogonal basis coordinate formulas, orthonormal sets, orthogonal matrices with U^TU = I property) (complete)
 - [ ] `Lecture21/` - Twenty-first lecture material (pending)
 - [ ] `Lecture22/` - Twenty-second lecture material (pending)
 - [ ] `Lecture23/` - Twenty-third lecture material (pending)
