@@ -33,7 +33,7 @@ Draft essay submissions from students in MATH3325 Analysis 3 Honours (Semester 2
 
 ## Subdirectories
 
-- [ ] `Commented/` - Scanned PDFs with instructor feedback (12 timestamped files from October 20-22, 2014, larger file sizes 1.4-3.6MB indicating annotations)
+- [x] `Commented/` - Scanned PDFs with instructor feedback (12 timestamped files from October 20-22, 2014, larger file sizes 1.4-3.6MB indicating annotations)
 
 ## Search Tags
 
