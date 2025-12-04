@@ -26,7 +26,7 @@ Complete lecture materials from Joan Licata's Semester 1 2013/2015 offering of M
 
 ## Subdirectories
 
-- [ ] `CaseStudies/` - Application examples and case studies including SVD analysis, cryptography (Hill cipher), Fibonacci sequences, error-correcting codes, and various PDF/document resources (pending)
+- [x] `CaseStudies/` - Application examples and case studies including SVD analysis, cryptography (Hill cipher), Fibonacci sequences, error-correcting codes, and various PDF/document resources (complete)
 - [ ] `David/` - Small collection of LaTeX files (LA11, LA12) and beamer preamble, possibly materials from another instructor or teaching assistant (pending)
 - [ ] `LayExams/` - Exam materials, likely practice problems or solutions from Lay's Linear Algebra textbook (pending)
 - [ ] `Lecture01/` - First lecture materials including course introduction, LaTeX source, Beamer presentations (regular and print versions), and Graffle diagrams (pending)
