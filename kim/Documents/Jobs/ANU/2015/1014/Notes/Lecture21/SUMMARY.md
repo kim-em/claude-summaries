@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2015/1014/Notes/Lecture21
-generated: 2025-12-04T06:30:00Z
+generated: 2025-12-04T06:35:00Z
 git_sha: 48a99ef1be36fc0c3cca2af4518f1aebb71ec697
 git_branch: master
-status: preliminary
+status: complete
 files_count: 3
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Lecture 21 materials for MATH1014 focusing on orthogonal projections onto subspaces. The lecture generalizes the 2D/3D projection formula to higher-dimensional subspaces, covering the Orthogonal Decomposition Theorem (decomposing vectors as y = ŷ + z where ŷ ∈ W and z ∈ W⊥), the Best Approximation Theorem (showing ŷ is the closest vector in W to y), and the matrix formula proj_W(y) = UU^T y for orthonormal bases. Content includes multiple worked examples in ℝ³ and ℝ⁴, distance calculations from vectors to subspaces, and applications to finding orthogonal bases.
+Lecture 21 materials for MATH1014 focusing on orthogonal projections onto subspaces, building on the orthogonality foundations from Lecture 20. The lecture generalizes the 2D/3D projection formula to arbitrary-dimensional subspaces, developing two major theoretical results: the Orthogonal Decomposition Theorem (decomposing vectors as y = ŷ + z where ŷ ∈ W and z ∈ W⊥) and the Best Approximation Theorem (proving ŷ is the unique closest vector in W to y using the Pythagorean theorem). The material includes the practical projection matrix formula proj_W(y) = UU^T y for orthonormal bases, with extensive worked examples demonstrating decompositions, distance calculations, and basis computations in ℝ³ and ℝ⁴. The diagrams subfolder contains four carefully designed geometric visualizations illustrating projection onto 1D subspaces, orthogonal decomposition into W and W⊥ components, and the triangle inequality proof for the Best Approximation Theorem.
 
 ## Key Files
 
@@ -24,7 +24,7 @@ Lecture 21 materials for MATH1014 focusing on orthogonal projections onto subspa
 
 ## Subdirectories
 
-- [x] `diagrams/` - Supporting diagrams for geometric visualization of projections (4 PDF files: ex1.pdf, ex2.pdf, ex3.pdf for worked examples, la2201.pdf for Best Approximation Theorem illustration) (complete)
+- [x] `diagrams/` - Four geometric visualizations: projection onto 1D subspaces (ex1.pdf), orthogonal decomposition into W and W⊥ with basis vectors (ex2.pdf, ex3.pdf), and Best Approximation Theorem triangle inequality proof (la2201.pdf)
 
 ## Search Tags
 
