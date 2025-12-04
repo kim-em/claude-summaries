@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2015/1014/Notes/Lecture23
-generated: 2025-12-04T06:00:00Z
+generated: 2025-12-04T06:10:00Z
 git_sha: 48a99ef1be36fc0c3cca2af4518f1aebb71ec697
 git_branch: master
-status: preliminary
+status: complete
 files_count: 3
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Twenty-third lecture on the Least Squares Problem (Lay §6.5), which addresses finding best approximations to inconsistent linear systems. The lecture derives the normal equations A^TA x̂ = A^T b as the method for finding least squares solutions, proves existence and uniqueness conditions, and includes three detailed worked examples. Also includes optional material on QR factorization as a numerically stable alternative method for computing least squares solutions. Supported by 7 diagrams illustrating geometric interpretation of projections onto column spaces.
+Twenty-third lecture on the Least Squares Problem (Lay §6.5), which addresses finding best approximations to inconsistent linear systems. The lecture derives the normal equations A^TA x̂ = A^T b as the method for finding least squares solutions, proves existence and uniqueness conditions, and includes three detailed worked examples. Also includes optional material on QR factorization as a numerically stable alternative method for computing least squares solutions. The lecture is richly illustrated with 7 geometric diagrams in the diagrams subdirectory, including progressive visualizations of orthogonal projection onto column spaces, worked example diagrams, and a best-fit line visualization with data points. These diagrams provide strong geometric intuition for understanding least squares as an orthogonal projection problem.
 
 ## Key Files
 
