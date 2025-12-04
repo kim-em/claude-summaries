@@ -25,7 +25,7 @@ The `Mathlib/` directory is the core of the mathlib4 library, containing the com
 
 - [x] `Algebra/` - Theoretical bedrock of mathlib4's algebraic hierarchy: complete stratified development from primitive notation through core hierarchy (Group/Ring/Field/Module/Algebra) to sophisticated frameworks (Lie algebras with classification, homological algebra with derived categories, categorical treatment as abelian categories), encompassing specialized theories (BigOperators, Order, CharP/CharZero, DirectSum, GCDMonoid, divisibility, free constructions, ContinuedFractions, Tropical, Azumaya/BrauerGroup, affine structures, non-associative algebras), systematic multiplicative/additive duality via to_additive, bundled morphisms with complete composition, lattice structures on subobjects with Galois insertions, and categorical infrastructure proving AddCommGrpCat/ModuleCat are abelian categories—foundation for mathlib's algebraic edifice from elementary number theory to algebraic geometry (complete)
 - [x] `AlgebraicGeometry/` - Algebraic geometry foundations (schemes, morphisms, sheaves) (complete)
-- [ ] `AlgebraicTopology/` - Algebraic topology (simplicial sets, homology, fundamental groups) (pending)
+- [~] `AlgebraicTopology/` - Algebraic topology (simplicial sets, homology, fundamental groups) (preliminary)
 - [ ] `Analysis/` - Real and complex analysis (calculus, measure theory, functional analysis) (pending)
 - [ ] `CategoryTheory/` - Category theory framework (categories, functors, limits, adjunctions) (pending)
 - [ ] `Combinatorics/` - Combinatorial mathematics (graph theory, enumeration, designs) (pending)
