@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Analysis/CStarAlgebra
-generated: 2025-12-04T14:30:00Z
+generated: 2025-12-04T18:00:00Z
 git_sha: 453cce856d41bd2715d9055ecdc877015033095f
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 17
 subdirs_count: 4
 ---
@@ -12,7 +12,11 @@ subdirs_count: 4
 
 ## Overview
 
-The `CStarAlgebra/` directory contains the formalization of C⋆-algebra theory. C⋆-algebras are Banach ⋆-algebras over ℂ (or more generally a densely normed field) satisfying the C⋆-identity `‖x⋆ * x‖ = ‖x‖²`. This directory includes basic definitions, classes for unital and non-unital C⋆-algebras, spectral theory, the Gelfand duality theorem (contravariant equivalence between compact Hausdorff spaces and commutative unital C⋆-algebras), multiplier algebras, continuous functional calculus, and various structural results. The formalization covers both commutative and noncommutative C⋆-algebras, approximate units, positive and completely positive maps, and connections to operator theory via matrices.
+The `CStarAlgebra/` directory contains a comprehensive formalization of C⋆-algebra theory and related structures in functional analysis. C⋆-algebras are Banach ⋆-algebras over ℂ (or more generally a densely normed field) satisfying the C⋆-identity `‖x⋆ * x‖ = ‖x‖²`. This directory provides the foundational definitions, type classes for both unital and non-unital variants, spectral theory results, and deep structural theorems.
+
+The formalization includes several major theoretical components: (1) **Continuous functional calculus** enables applying continuous functions to operators, providing both unital (`cfc`) and non-unital (`cfcₙ`) APIs with support for complex, real, and nonnegative scalars, complete with isometric properties, continuity theorems, and spectral mapping results. (2) **Gelfand duality** establishes the contravariant equivalence between compact Hausdorff spaces and commutative unital C⋆-algebras via the Gelfand transform. (3) **Hilbert C⋆-modules** generalize Hilbert spaces to modules with A-valued inner products, including constructions for products, pi-types, and inner product spaces. (4) **Unitary theory** proves the unitary group is locally path connected and that unitaries span the entire algebra. (5) **Structural results** on positive/negative part decompositions, approximate units, multiplier algebras, and spectral properties.
+
+The theory covers both commutative and noncommutative C⋆-algebras, with particular attention to homomorphisms (which are automatically isometric), completely positive maps, projections, exponentials, and connections to matrix algebras with operator norms.
 
 ## Key Files
 
