@@ -37,7 +37,7 @@ The `AlgebraicTopology/` directory contains formalized algebraic topology theory
 - [x] `SimplicialCategory/` - Simplicial categories (categories enriched over simplicial sets) (complete)
 - [x] `SimplicialObject/` - General theory of simplicial objects in arbitrary categories (complete)
 - [x] `SimplicialSet/` - Simplicial sets as presheaves on the simplex category (complete)
-- [ ] `SingularHomology/` - Singular homology theory for topological spaces (pending)
+- [x] `SingularHomology/` - Singular homology theory for topological spaces (complete)
 
 ## Search Tags
 
