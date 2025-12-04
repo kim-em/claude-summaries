@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2015/1014/Notes
-generated: 2025-12-04T06:00:00Z
+generated: 2025-12-04T07:30:00Z
 git_sha: 48a99ef1be36fc0c3cca2af4518f1aebb71ec697
 git_branch: master
-status: preliminary
+status: complete
 files_count: 7
 subdirs_count: 25
 ---
@@ -12,7 +12,7 @@ subdirs_count: 25
 
 ## Overview
 
-Lecture notes for MATH1014 (Mathematics and Applications 2) semester 2 2015, containing 25 individual lecture directories with LaTeX source files for linear algebra topics. The folder includes a sophisticated build system using make and latexmk that automatically generates both presentation slides and 3-up handouts from each lecture's source. Key infrastructure files provide shared LaTeX formatting (beamer preamble, custom lecture document class, mathematical notation shortcuts) and build automation (makefile with targets for compilation and web posting).
+Complete lecture materials for MATH1014 (Mathematics and Applications 2) semester 2 2015, comprising 25 lectures that form a comprehensive first-year linear algebra course at ANU. The course progresses systematically from concrete geometric concepts (vectors, lines, and planes in ℝ³) through abstract vector space theory (subspaces, linear independence, bases, dimension) to advanced topics (eigenvalues, diagonalization, orthogonality, least squares). Special applications include Markov chains, dynamical systems, and SVD image compression. Each lecture contains professionally crafted LaTeX source with beamer presentations, worked examples, and supporting geometric diagrams (over 200 diagrams total across lectures). A sophisticated build infrastructure with custom LaTeX document classes, shared notation macros, and automated make/latexmk compilation generates both presentation slides and 3-up handouts, with automated posting to the tqft.net teaching website.
 
 ## Key Files
 

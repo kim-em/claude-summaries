@@ -33,7 +33,7 @@ Complete teaching materials and administrative records for MATH1014 (Mathematics
 
 - [x] `EAP/` - Confidential student accommodation documents: Education Access Plans for disability accommodations and Elite Athlete plans (complete)
 - [x] `Exams/` - Examination papers and related assessment materials (complete)
-- [~] `Notes/` - Lecture notes and slides for the course (preliminary)
+- [x] `Notes/` - Complete lecture materials comprising 25 lectures for MATH1014 linear algebra course, from vectors in ℝ³ through abstract vector spaces to eigenvalues, diagonalization, and applications (complete)
 - [ ] `OldMaterial/` - Archived or legacy teaching materials from previous offerings (pending)
 - [ ] `PastExams/` - Past examination papers for student practice (pending)
 - [ ] `Worksheets/` - Problem sets and tutorial worksheets (pending)
