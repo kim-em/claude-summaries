@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2015/1014/Notes/Lecture05
-generated: 2025-12-04T07:30:00Z
+generated: 2025-12-04T14:45:00Z
 git_sha: 48a99ef1be36fc0c3cca2af4518f1aebb71ec697
 git_branch: master
-status: preliminary
+status: complete
 files_count: 2
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Fifth lecture introducing abstract vector spaces and subspaces in MATH1014. The lecture transitions from concrete Euclidean vectors to abstract algebraic structures, presenting the formal 10-axiom definition of vector spaces and proving that various mathematical objects (matrices, polynomials, functions) satisfy these axioms. Major topics include vector space examples (M₂ₓ₂, Pₙ, functions, positive reals with exotic operations), the three-axiom subspace definition, and the span construction as a "recipe for building subspaces." The lecture emphasizes geometric intuition (planes through origin vs. translated planes) while developing algebraic rigor (references Lay §4.1).
+Fifth lecture introducing abstract vector spaces and subspaces in MATH1014. The lecture transitions from concrete Euclidean vectors to abstract algebraic structures, presenting the formal 10-axiom definition of vector spaces and proving that various mathematical objects (matrices, polynomials, functions) satisfy these axioms. Major topics include vector space examples (M₂ₓ₂, Pₙ, functions, positive reals with exotic operations), the three-axiom subspace definition, and the span construction as a "recipe for building subspaces." The lecture emphasizes geometric intuition (planes through origin vs. translated planes) while developing algebraic rigor (references Lay §4.1). Supporting diagrams illustrate key geometric concepts including 3D coordinate systems with planes, first quadrant counterexamples, and linear transformations.
 
 ## Key Files
 
@@ -23,7 +23,7 @@ Fifth lecture introducing abstract vector spaces and subspaces in MATH1014. The 
 
 ## Subdirectories
 
-- [ ] `diagrams/` - Supporting PNG and PDF diagrams (5 files: plane y=0, translated line y=x+1, first quadrant, example illustrations) (pending)
+- [x] `diagrams/` - Mathematical diagrams and figures including 3D coordinate system illustrations (planes and quadrants), 2D linear transformations, and vector diagrams supporting geometric concepts in the lecture (complete)
 
 ## Search Tags
 
