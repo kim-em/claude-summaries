@@ -33,7 +33,7 @@ Lecture notes for MATH1014 (Mathematics and Applications 2) semester 2 2015, con
 - [x] `Lecture03/` - Third lecture: Lines and planes in Euclidean space (vector/parametric/symmetric equations for lines, vector/scalar equations for planes using normal vectors) with professionally crafted 3D geometric diagrams
 - [x] `Lecture04/` - Fourth lecture on distances in ℝ³ (point-to-plane, point-to-line, line-to-line) with comprehensive 25KB examples file containing 12 worked problems and 16 exercises, supported by 25 vector diagrams in multiple formats (complete)
 - [x] `Lecture05/` - Fifth lecture introducing abstract vector spaces and subspaces in MATH1014, with supporting diagrams illustrating geometric concepts (complete)
-- [ ] `Lecture06/` - Sixth lecture material (pending)
+- [x] `Lecture06/` - Sixth lecture on null spaces, column spaces, and linear transformations (kernel and range) in abstract vector spaces, with 5 detailed worked examples (complete)
 - [ ] `Lecture07/` - Seventh lecture material (pending)
 - [ ] `Lecture08/` - Eighth lecture material (pending)
 - [ ] `Lecture09/` - Ninth lecture material (pending)
