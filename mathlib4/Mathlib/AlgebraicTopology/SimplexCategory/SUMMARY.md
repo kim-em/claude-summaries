@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/AlgebraicTopology/SimplexCategory
-generated: 2025-12-04T00:00:00Z
+generated: 2025-12-04T08:00:00Z
 git_sha: 453cce856d41bd2715d9055ecdc877015033095f
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 6
 subdirs_count: 2
 ---
@@ -12,7 +12,7 @@ subdirs_count: 2
 
 ## Overview
 
-The `SimplexCategory/` directory contains the complete formalization of the simplex category Δ, which is fundamental to algebraic topology. The simplex category has natural numbers as objects (representing n-dimensional simplices) and monotone functions between finite linear orders as morphisms. This directory provides both the basic skeletal model and proves its equivalence to the category of nonempty finite linear orders, establishes all standard face and degeneracy maps that generate the category, defines the truncated simplex category for computations with bounded simplices, introduces augmented simplices and their monoidal structure, and proves properties about morphism generation and composition.
+The `SimplexCategory/` directory contains the complete formalization of the simplex category Δ, which is fundamental to algebraic topology and serves as the indexing category for simplicial objects. The directory provides multiple equivalent perspectives on the simplex category: the skeletal model with natural numbers as objects and monotone maps as morphisms, the generators-and-relations presentation via face and degeneracy maps satisfying simplicial identities, and the augmented version with an adjoined initial object and monoidal structure. Key results include equivalence to the category of nonempty finite linear orders, epi-mono factorization of all morphisms as compositions of degeneracies followed by faces, normal form theory for morphisms via admissible lists, and the monoidal structure on the augmented simplex category where tensor products correspond to ordinal sums.
 
 ## Key Files
 
@@ -27,8 +27,8 @@ The `SimplexCategory/` directory contains the complete formalization of the simp
 
 ## Subdirectories
 
-- [x] `Augmented/` - Augmented simplex category and monoidal structure (complete)
-- [x] `GeneratorsRelations/` - Generators and relations presentation, normal forms, and epimorphism/monomorphism properties (complete)
+- [x] `Augmented/` - Augmented simplex category extending the standard simplex category with an initial object, equipped with monoidal structure where tensor products correspond to ordinal sums; establishes equivalences between functors and augmented (co)simplicial objects
+- [x] `GeneratorsRelations/` - Presentation of the simplex category via generators (face and degeneracy maps) and relations (simplicial identities); includes epi-mono factorization theory showing every morphism decomposes as P_σ followed by P_δ, and normal form theory via admissible lists
 
 ## Search Tags
 
