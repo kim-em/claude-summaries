@@ -42,7 +42,7 @@ The `Calculus/` directory contains the formalization of differential and integra
 
 ## Subdirectories
 
-- [ ] `AddTorsor/` - Calculus on affine spaces and torsors (pending)
+- [x] `AddTorsor/` - Calculus on affine spaces and torsors (complete)
 - [ ] `BumpFunction/` - Smooth bump functions (smooth functions with compact support) (pending)
 - [ ] `Conformal/` - Conformal maps (angle-preserving differentiable maps) (pending)
 - [ ] `ContDiff/` - Continuously differentiable functions (C^n smoothness classes) (pending)
