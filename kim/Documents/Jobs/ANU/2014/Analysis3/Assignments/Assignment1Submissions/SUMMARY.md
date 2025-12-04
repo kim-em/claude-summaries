@@ -31,7 +31,7 @@ Student submissions for MATH3325 Analysis 3 Assignment 1 (due August 15, 2014). 
 
 ## Subdirectories
 
-- [ ] `Assignment1Graded/` - Graded and annotated student submissions (15 PDF files ranging from 852KB to 10.8MB, with student numbers as filenames) (pending)
+- [x] `Assignment1Graded/` - Graded and annotated student submissions (15 PDF files ranging from 852KB to 10.8MB, with student numbers as filenames) (complete)
 
 ## Search Tags
 
