@@ -45,7 +45,7 @@ Lecture notes for MATH1014 (Mathematics and Applications 2) semester 2 2015, con
 - [x] `Lecture15/` - Fifteenth lecture on advanced diagonalization theory with worked examples including non-diagonalizable matrices, eigenspace dimension theorem, and change of basis interpretation (complete)
 - [x] `Lecture16/` - Sixteenth lecture on matrix representations of linear transformations relative to arbitrary bases, connecting diagonalization to diagonal B-matrix representations (complete)
 - [x] `Lecture17/` - Seventeenth lecture on complex eigenvalues and eigenvectors for real matrices, rotation-scaling decomposition A = PCP⁻¹, with complex numbers addendum and 8 geometric diagrams (complete)
-- [ ] `Lecture18/` - Eighteenth lecture material (pending)
+- [~] `Lecture18/` - Eighteenth lecture on discrete linear dynamical systems with eigenvalue-based trajectory analysis (attractors, repellors, saddle points, spirals) and predator-prey/population modeling examples (preliminary)
 - [ ] `Lecture19/` - Nineteenth lecture material (pending)
 - [ ] `Lecture20/` - Twentieth lecture material (pending)
 - [ ] `Lecture21/` - Twenty-first lecture material (pending)
