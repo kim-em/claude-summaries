@@ -51,7 +51,7 @@ Lecture notes for MATH1014 (Mathematics and Applications 2) semester 2 2015, con
 - [x] `Lecture21/` - Twenty-first lecture on orthogonal projections onto subspaces (Orthogonal Decomposition Theorem, Best Approximation Theorem, projection matrix UU^T, with 4 geometric diagrams) (complete)
 - [x] `Lecture22/` - Twenty-second lecture on Gram-Schmidt orthogonalization and QR matrix factorization with six worked examples and supporting geometric diagrams (complete)
 - [x] `Lecture23/` - Twenty-third lecture on the Least Squares Problem (finding best approximations to inconsistent linear systems via normal equations A^TA x̂ = A^T b) (complete)
-- [ ] `Lecture24/` - Twenty-fourth lecture with supplementary materials (SVD compression Mathematica notebook, Markov chain Python scripts, Harry Potter text, GIF/PNG images) (pending)
+- [x] `Lecture24/` - Twenty-fourth lecture on Markov chains for text prediction/generation and SVD for image compression, with Mathematica notebook and Python implementations (complete)
 - [ ] `Lecture25/` - Final lecture material (pending)
 
 ## Search Tags
