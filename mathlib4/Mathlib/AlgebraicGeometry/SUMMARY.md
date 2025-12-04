@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/AlgebraicGeometry
-generated: 2025-12-04T04:09:11Z
+generated: 2025-12-04T23:30:00Z
 git_sha: 453cce856d41bd2715d9055ecdc877015033095f
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 28
 subdirs_count: 7
 ---
@@ -12,7 +12,11 @@ subdirs_count: 7
 
 ## Overview
 
-The `AlgebraicGeometry/` directory provides a comprehensive formalization of algebraic geometry in Lean4, centered on the theory of schemes. It defines schemes as locally ringed spaces that are locally isomorphic to the spectrum of a commutative ring, establishes the fundamental Spec functor and its adjunction with the global sections functor Γ, and develops the theory of morphisms between schemes (including affine, étale, proper, separated, smooth morphisms and many other properties). The directory includes specialized theories for elliptic curves, rational maps, gluing constructions, fiber products (pullbacks), and the projective spectrum, providing the categorical and geometric foundations for modern algebraic geometry.
+The `AlgebraicGeometry/` directory provides a comprehensive formalization of algebraic geometry in Lean4, centered on the theory of schemes and their applications. At its foundation, the directory establishes schemes as locally ringed spaces that are locally isomorphic to the spectrum of a commutative ring, constructs the fundamental Spec functor and its adjunction with the global sections functor Γ (the Γ ⊣ Spec adjunction), and develops the complete machinery for building complex schemes via gluing constructions and fiber products (pullbacks). The 28 core files provide essential infrastructure including the structure sheaf on prime spectra, the affine-scheme equivalence (AffineScheme ≌ CommRingᵒᵖ), limits and colimits in the category of schemes, open immersions and restriction to open subschemes, and specialized structures such as residue fields, function fields, stalks, rational maps, and valuative criteria for separation and properness.
+
+The directory's seven subdirectories develop the complete theory of modern algebraic geometry: (1) **Morphisms/** provides a comprehensive framework for 30+ morphism properties (affine, closed immersions, étale, finite, flat, proper, separated, smooth, and universal properties) with systematic local-to-global principles via the `IsZariskiLocalAtTarget/Source` infrastructure; (2) **EllipticCurve/** formalizes elliptic curves with three equivalent coordinate systems (affine, projective, Jacobian), complete group law implementations, normal forms for all characteristics, explicit models for prescribed j-invariants, reduction theory for discrete valuation rings, and division polynomials for torsion point computation; (3) **ProjectiveSpectrum/** constructs the Proj functor for graded rings with proofs that Proj is a proper and separated scheme over Spec A₀; (4) **Cover/** develops the theory of covers with respect to morphism properties, including open covers, affine covers, locally directed covers with transition maps, and covers over a base scheme; (5) **Sites/** formalizes Grothendieck topologies (Zariski, étale) as the categorical framework for sheaf theory and descent, proving subcanonicity and establishing equivalences between sheaf categories; (6) **IdealSheaf/** constructs closed subschemes via ideal sheaves with functorial operations (pullback/pushforward), scheme-theoretic images, and the kernel adjunction; (7) **Modules/** establishes the abelian category X.Modules of sheaves of modules and the tilde construction M^~ with stalk isomorphisms (M^~)_x ≅ M_x.
+
+Together, these components provide the complete foundation for modern algebraic geometry in Lean4, supporting both theoretical investigations (cohomology, descent theory) and practical applications (elliptic curve cryptography, computational number theory), with rigorous categorical infrastructure and geometric intuition preserved throughout.
 
 ## Key Files
 
