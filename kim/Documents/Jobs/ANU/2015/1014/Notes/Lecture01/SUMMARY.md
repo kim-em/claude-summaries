@@ -23,7 +23,7 @@ First lecture of MATH1014 (Mathematics and Applications 2) covering administrati
 
 ## Subdirectories
 
-- [ ] `diagrams/` - Illustration files for lecture content: 15 OmniGraffle source files and 24 exported images (PDF/PNG) for visualizing 3D coordinate systems, vector addition, boat/aircraft velocity problems, and geometric shapes (pending)
+- [x] `diagrams/` - Illustration files for lecture content: 15 OmniGraffle source files and 24 exported images (PDF/PNG) for visualizing 3D coordinate systems, vector addition, boat/aircraft velocity problems, and geometric shapes (complete)
 
 ## Search Tags
 
