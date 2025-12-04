@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/AlgebraicGeometry/IdealSheaf
-generated: 2025-12-04T20:47:00Z
+generated: 2025-12-04T21:30:00Z
 git_sha: 453cce856d41bd2715d9055ecdc877015033095f
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 3
 subdirs_count: 0
 ---
