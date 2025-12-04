@@ -24,7 +24,7 @@ Twenty-second lecture on the Gram-Schmidt process and QR matrix factorization. T
 
 ## Subdirectories
 
-- [ ] `diagrams/` - Supporting visual materials for geometric interpretation of orthogonal projections and Gram-Schmidt process (pending)
+- [x] `diagrams/` - Supporting visual materials for geometric interpretation of orthogonal projections and Gram-Schmidt process (complete)
 
 ## Search Tags
 
