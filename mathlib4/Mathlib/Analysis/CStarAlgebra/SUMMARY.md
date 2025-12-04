@@ -38,7 +38,7 @@ The `CStarAlgebra/` directory contains the formalization of C⋆-algebra theory.
 
 ## Subdirectories
 
-- [ ] `ContinuousFunctionalCalculus/` - Continuous functional calculus for C⋆-algebras (applying continuous functions to operators); includes basic theory, instances, integral formulation, isometric properties, order properties, restrictions, uniqueness, and separate unital/non-unital treatments (pending)
+- [x] `ContinuousFunctionalCalculus/` - Continuous functional calculus for C⋆-algebras (applying continuous functions to operators); includes basic theory, instances, integral formulation, isometric properties, order properties, restrictions, uniqueness, and separate unital/non-unital treatments (complete)
 - [ ] `Module/` - Module theory for C⋆-algebras; constructions and definitions for modules over C⋆-algebras, type synonyms (pending)
 - [ ] `SpecialFunctions/` - Special functions in C⋆-algebras using continuous functional calculus; positive part function (pending)
 - [ ] `Unitary/` - Theory of unitary elements in C⋆-algebras; connectedness properties of unitary group and span of unitaries (pending)
