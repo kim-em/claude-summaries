@@ -53,7 +53,7 @@ The `AlgebraicGeometry/` directory provides a comprehensive formalization of alg
 - [x] `EllipticCurve/` - Elliptic curves over fields and rings, including Weierstrass forms, group structure, Jacobian coordinates, normal forms, projective and affine models, division polynomials, and reduction theory (complete)
 - [x] `ProjectiveSpectrum/` - Projective spectrum Proj of graded rings, the projective analogue of Spec for graded commutative algebras (complete)
 - [x] `Cover/` - Theory of covers of schemes with respect to morphism properties, open covers, locally directed covers with transition maps, covers over a base, and functorial operations (complete)
-- [ ] `Sites/` - Grothendieck sites and topologies on schemes (Zariski, étale, etc.) for sheaf theory and descent (pending)
+- [x] `Sites/` - Grothendieck sites and topologies on schemes (Zariski, étale, etc.) for sheaf theory and descent (complete)
 - [ ] `IdealSheaf/` - Theory of ideal sheaves and sheaves of ideals on schemes (pending)
 - [ ] `Modules/` - Theory of sheaves of modules on schemes, quasi-coherent sheaves, and module operations (pending)
 
