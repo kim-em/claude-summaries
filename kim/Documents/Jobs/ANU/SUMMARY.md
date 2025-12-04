@@ -22,7 +22,7 @@ No files are stored directly in the ANU root directory (only subdirectories).
 
 - [x] `2012/` - First year materials including annual report (DECRA and DARPA grants, subfactor research, Joshua Chen supervision), AustMS application, bike shelter access, Academic SOE form (complete)
 - [x] `2013/` - Second year employment records and annual activities (complete)
-- [~] `2014/` - Materials including ASC category theory, Analysis3 course, honours thesis reports, market loading case, OHS incident form, postdoc records, projects files, website materials, annual report (preliminary)
+- [x] `2014/` - Third year of ANU faculty employment (2014) documenting complete teaching archive for MATH3325 Analysis 3 Honours (14 students, 4.3/5 satisfaction, twelve lecture chapters, extensive grading with handwritten feedback), Australian Summer Course supervision (five category theory students), examination of four exceptional honours theses in Khovanov homology (grades 85-93, one potential university medal candidate), processing 66 postdoctoral fellowship applications from 25 candidates, Christopher Heyde Medal, annual report with international research travel, market loading case, OHS incident report, research project descriptions, website coordination
 - [ ] `2015/` - Annual report (DECRA teaching, MATH1014, supervision of Cain Edie-Michell PhD and others, AustMS Medal, Christopher Heyde Medal, HDR Convenor role), postdoc applications, Level D promotion materials, SOE records, building committee, continuing positions, videos (pending)
 - [ ] `2016/` - Employment records and annual activities (pending)
 - [ ] `2017/` - Employment records and annual activities (pending)
