@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2015/1014/Notes/Lecture04
-generated: 2025-12-04T06:15:00Z
+generated: 2025-12-04T07:00:00Z
 git_sha: 48a99ef1be36fc0c3cca2af4518f1aebb71ec697
 git_branch: master
-status: preliminary
+status: complete
 files_count: 4
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Fourth lecture on distances in ℝ³, covering geometric relationships between points, lines, and planes. The main lecture file (11KB) develops formulas for computing distances: point-to-plane using scalar projection, point-to-line using cross product magnitude, and distance between two lines (parallel case using cross product, skew lines case using triple scalar product). The examples file (25KB) is a comprehensive supplement containing 12 worked examples and 16 exercises with full solutions, covering applied vector problems (forces on skydivers, aircraft navigation, tension in wires, torque), geometric computations (intersecting planes and lines, perpendicular conditions), and distance calculations.
+Fourth lecture on distances in ℝ³, developing formulas for computing geometric distances between points, lines, and planes. The main lecture file derives three key distance formulas: point-to-plane using scalar projection onto normal vectors, point-to-line using cross product magnitude and perpendicular projection, and line-to-line distances distinguishing parallel (cross product method) from skew line cases (triple scalar product). A comprehensive 25KB examples supplement provides 12 worked problems spanning applied vector physics (skydiver forces, aircraft navigation, tension analysis, torque calculations) and pure geometric computations (line/plane intersections, perpendicularity conditions), plus 16 additional practice exercises with full solutions. The diagrams subdirectory contains 25 professionally crafted vector diagrams in multiple formats (OmniGraffle sources, PDFs, PNGs, EPS, MS Word sources) illustrating both theoretical distance concepts and specific worked examples from the exercises.
 
 ## Key Files
 
@@ -25,7 +25,7 @@ Fourth lecture on distances in ℝ³, covering geometric relationships between p
 
 ## Subdirectories
 
-- [x] `diagrams/` - Supporting vector diagrams and illustrations (25 files including Graffle sources, PDFs, PNGs, and MS Word sources for examples) (complete)
+- [x] `diagrams/` - Supporting vector diagrams and illustrations in multiple formats: theoretical distance formula diagrams (point-to-plane, point-to-line, parallel lines, skew lines) as OmniGraffle/EPS/PNG files, plus worked example illustrations (skydiver forces, wagon pulling, torque, line intersections) as MS Word/PDF sources - 25 files total providing comprehensive visual aids for lecture concepts (complete)
 
 ## Search Tags
 
