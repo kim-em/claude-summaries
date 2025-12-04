@@ -44,7 +44,7 @@ Student assessment materials for MATH3325 Analysis 3 Honours (Semester 2, 2014).
 - [x] `Assignment4Submissions/` - Student submissions for Assignment 4 (15 PDF submissions and 1 JPG correction from ~14-15 students, no graded subfolder)
 - [x] `EssayDrafts/` - Draft essay submissions from students with instructor feedback workflow (12 drafts + 12 commented versions from October 20-22, 2014)
 - [x] `EssayExamples/` - Four example essays (Example1-4.pdf) demonstrating expected quality and format for MATH3325 essay component: trace class operators and Lidskii's Theorem, Peter-Weyl Theorem, Bochner's Theorem, and fixed point theorems
-- [ ] `FinalEssays/` - Final essay submissions from students (pending)
+- [x] `FinalEssays/` - Final essay submissions from students (13 completed essays on advanced topics including Bochner's Theorem, fixed point theorems, and applications to economics and game theory)
 
 ## Search Tags
 
