@@ -90,7 +90,7 @@ The `Algebra/` directory contains the foundations of algebraic structures in mat
 - [x] `Jordan/` - Jordan algebras: foundational theory of non-associative structures with commutative multiplication satisfying Jordan identity `(a * b) * a^2 = a * (b * a^2)`, includes `IsJordan` (non-commutative) and `IsCommJordan` (commutative) typeclasses, instances showing every semigroup is Jordan, formulation via commuting multiplication operators and Lie brackets, and linearization theorems expressing trilinear Jordan identities (complete)
 - [x] `NonAssoc/` - Non-associative algebras: pre-Lie rings and algebras with left or right symmetric associators, and Lie-admissible structures where associator identities ensure commutator brackets form Lie algebras (complete)
 - [x] `PresentedMonoid/` - Monoids defined by generators and relations: `PresentedMonoid rels` constructs quotient of free monoid by congruence closure of relations, with canonical map `of : α → PresentedMonoid rels`, universal property `lift` for extending maps that respect relations, induction principles, and proof that generators generate the whole monoid (complete)
-- [ ] `QuadraticAlgebra/` - Quadratic algebras (5 files/subdirs) (pending)
+- [x] `QuadraticAlgebra/` - Quadratic algebras over commutative rings representing extensions `R[X]/(X²-bX-a)` with star involution, norm map, and field structure when irreducible (complete)
 - [ ] `SkewMonoidAlgebra/` - Skew monoid algebras (6 files/subdirs) (pending)
 - [ ] `SkewPolynomial/` - Skew polynomial rings (3 files/subdirs) (pending)
 - [ ] `Squarefree/` - Squarefree elements (3 files/subdirs) (pending)
