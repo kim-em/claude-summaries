@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2015/1014/Notes/Lecture03
-generated: 2025-12-04T06:10:32Z
+generated: 2025-12-04T06:53:00Z
 git_sha: 48a99ef1be36fc0c3cca2af4518f1aebb71ec697
 git_branch: master
-status: preliminary
+status: complete
 files_count: 2
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Third lecture covering lines and planes in Euclidean space. The lecture introduces vector and parametric equations for lines in ℝ² and ℝ³, symmetric equations using direction numbers, and vector/scalar equations for planes using normal vectors. Topics include determining line intersections, finding direction vectors via cross products, and computing plane equations from three points. Builds directly on dot and cross product operations from Lecture 2.
+Third lecture covering lines and planes in Euclidean space, building directly on dot and cross product operations from Lecture 2. The lecture introduces vector and parametric equations for lines in ℝ² and ℝ³, symmetric equations using direction numbers, and vector/scalar equations for planes using normal vectors. Topics include determining line intersections, finding direction vectors via cross products, and computing plane equations from three points. The lecture is supported by professionally crafted 3D geometric diagrams created in OmniGraffle, illustrating normal vectors to planes, direction vectors along lines, and the right-hand rule for cross products.
 
 ## Key Files
 
@@ -23,7 +23,7 @@ Third lecture covering lines and planes in Euclidean space. The lecture introduc
 
 ## Subdirectories
 
-- [x] `diagrams/` - Supporting diagrams including OmniGraffle source files (.graffle) and exported PDFs, plus one PNG image (11 files: 4 .graffle sources, 3 exported PDFs, 1 PNG of right-hand rule cross product) (complete)
+- [x] `diagrams/` - Supporting vector graphics created in OmniGraffle for 3D geometric diagrams of planes with normal vectors, lines with direction vectors, and right-hand rule illustration for cross products (11 files: 4 .graffle sources, 3 exported PDFs, 1 PNG)
 
 ## Search Tags
 

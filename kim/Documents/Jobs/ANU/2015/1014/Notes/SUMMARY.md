@@ -30,7 +30,7 @@ Lecture notes for MATH1014 (Mathematics and Applications 2) semester 2 2015, con
 
 - [x] `Lecture01/` - First lecture: Administrative overview and introduction to vectors, coordinates, and geometry in ℝ³, with 42 supporting diagrams (complete)
 - [x] `Lecture02/` - Second lecture: Vector multiplication operations (dot product and cross product in ℝ³), including scalar/vector projections and applications (complete)
-- [~] `Lecture03/` - Third lecture: Lines and planes in Euclidean space (vector/parametric/symmetric equations for lines, vector/scalar equations for planes using normal vectors) (preliminary)
+- [x] `Lecture03/` - Third lecture: Lines and planes in Euclidean space (vector/parametric/symmetric equations for lines, vector/scalar equations for planes using normal vectors) with professionally crafted 3D geometric diagrams
 - [ ] `Lecture04/` - Fourth lecture with additional examples file (potentially short per parent TODO note) (pending)
 - [ ] `Lecture05/` - Fifth lecture material (pending)
 - [ ] `Lecture06/` - Sixth lecture material (pending)
