@@ -30,7 +30,7 @@ Complete lecture materials from Joan Licata's Semester 1 2013/2015 offering of M
 - [x] `David/` - Lecture materials for Lectures 13-14 covering Markov chains and eigenvectors/eigenvalues, possibly from a different instructor or TA (complete)
 - [x] `LayExams/` - Practice exam problems and solutions from Lay's Linear Algebra textbook, including Second Exam, Third Exam, and Final Exam versions with detailed solutions (complete)
 - [x] `Lecture01/` - First lecture materials including course introduction, LaTeX source, Beamer presentations (regular and print versions), and Graffle diagrams (complete)
-- [ ] `Lecture02/` - Second lecture materials with LaTeX, Beamer PDFs, and graphical resources (pending)
+- [x] `Lecture02/` - Second lecture materials covering dot product and cross product with LaTeX source, Beamer presentations, and diagrams (complete)
 - [ ] `Lecture03/` - Third lecture materials (pending)
 - [ ] `Lecture04/` - Fourth lecture materials (pending)
 - [ ] `Lecture05/` - Fifth lecture materials (pending)
