@@ -42,7 +42,7 @@ The `Analysis/` directory contains the formalization of real and complex analysi
 - [x] `AbsoluteValue/` - Absolute value functions and their analytical properties (complete)
 - [x] `Analytic/` - Analytic functions (functions with power series expansions in normed spaces) (complete)
 - [x] `Asymptotics/` - Asymptotic analysis (big-O notation, asymptotic equivalence, growth rates) (complete)
-- [ ] `BoxIntegral/` - Box integrals (Henstock-Kurzweil integration theory) (pending)
+- [~] `BoxIntegral/` - Box integrals (Henstock-Kurzweil integration theory) (preliminary)
 - [ ] `CStarAlgebra/` - C*-algebras (Banach *-algebras with C* identity) and their analysis (pending)
 - [ ] `Calculus/` - Differential and integral calculus (derivatives, integrals, fundamental theorem) (pending)
 - [ ] `Complex/` - Complex analysis (holomorphic functions, Cauchy's theorem, residues) (pending)
