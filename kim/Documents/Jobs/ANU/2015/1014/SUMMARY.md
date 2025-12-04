@@ -31,7 +31,7 @@ Complete teaching materials and administrative records for MATH1014 (Mathematics
 
 ## Subdirectories
 
-- [ ] `EAP/` - English for Academic Purposes support materials (pending)
+- [x] `EAP/` - Confidential student accommodation documents: Education Access Plans for disability accommodations and Elite Athlete plans (complete)
 - [ ] `Exams/` - Examination papers and related assessment materials (pending)
 - [ ] `Notes/` - Lecture notes and slides for the course (pending)
 - [ ] `OldMaterial/` - Archived or legacy teaching materials from previous offerings (pending)
