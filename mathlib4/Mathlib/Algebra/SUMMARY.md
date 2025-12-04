@@ -83,7 +83,7 @@ The `Algebra/` directory contains the foundations of algebraic structures in mat
 - [x] `ContinuedFractions/` - Comprehensive continued fraction theory covering theoretical foundations (GCF/SCF/RCF types, dual convergent computation methods via `convs`/`convs'`, recurrence relations, determinant formulas, equivalence proofs) and practical computation (standard floor/fractional decomposition algorithm, correctness/convergence with error bounds `|v - Aₙ/Bₙ| ≤ 1/(Bₙ * Bₙ₊₁)`, Fibonacci lower bounds on denominators, and termination characterization for rationals) (complete)
 - [x] `AddTorsor/` - Additive torsors (principal homogeneous spaces): `AddTorsor G P` typeclass providing transitive and free additive group actions with `+ᵥ` (vadd) and `-ᵥ` (vsub) operations, complete cancellation theory, point reflection equivalences, and instances for products and Pi types (complete)
 - [x] `AddConstMap/` - Bundled maps and equivalences semiconjugating shifts: `f (x + a) = f x + b` property with comprehensive theory for circle lifts, monotonicity on fundamental intervals, group structure on automorphisms, and floor ring constructions (complete)
-- [ ] `AffineMonoid/` - Affine monoid structures (6 files/subdirs) (pending)
+- [x] `AffineMonoid/` - Finitely generated cancellative torsion-free commutative monoids that embed into ℤⁿ, with unique sums/products and irreducible element characterization (complete)
 - [ ] `Azumaya/` - Azumaya algebras (5 files/subdirs) (pending)
 - [ ] `BrauerGroup/` - Brauer group theory (3 files/subdirs) (pending)
 - [ ] `Colimit/` - Colimits in algebra (7 files/subdirs) (pending)
