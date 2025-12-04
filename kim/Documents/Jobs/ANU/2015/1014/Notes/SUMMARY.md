@@ -40,7 +40,7 @@ Lecture notes for MATH1014 (Mathematics and Applications 2) semester 2 2015, con
 - [x] `Lecture10/` - Tenth lecture on applications of linear algebra to Markov chains: stochastic matrices, probability vectors, steady-state vectors, transition matrices, regular stochastic matrices, and convergence theorem with bird aviary, Land of Oz weather, and rat cage examples (complete)
 - [x] `Lecture11/` - Eleventh lecture introducing eigenvectors and eigenvalues: definitions, eigenspaces as null spaces, triangular matrix eigenvalue theorem, linear independence of eigenvectors with distinct eigenvalues, with worked examples finding eigenspace bases (complete)
 - [x] `Lecture12/` - Mid-semester examination review lecture covering worked solutions to 2013 exam questions (lines/planes, bases/coordinates, vector spaces, linear transformations, matrix subspaces) plus thematic revision questions, with Markov chains computational examples (complete)
-- [~] `Lecture13/` - Thirteenth lecture on eigenvalues and eigenvectors: characteristic equation (det(A - λI) = 0), similarity transformations, and dynamical systems applications (preliminary)
+- [x] `Lecture13/` - Thirteenth lecture on eigenvalues and eigenvectors: characteristic equation (det(A - λI) = 0), similarity transformations, and dynamical systems applications with Maple computational examples (complete)
 - [ ] `Lecture14/` - Fourteenth lecture material (pending)
 - [ ] `Lecture15/` - Fifteenth lecture material (pending)
 - [ ] `Lecture16/` - Sixteenth lecture material (pending)
