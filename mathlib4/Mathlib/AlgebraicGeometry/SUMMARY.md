@@ -54,7 +54,7 @@ The `AlgebraicGeometry/` directory provides a comprehensive formalization of alg
 - [x] `ProjectiveSpectrum/` - Projective spectrum Proj of graded rings, the projective analogue of Spec for graded commutative algebras (complete)
 - [x] `Cover/` - Theory of covers of schemes with respect to morphism properties, open covers, locally directed covers with transition maps, covers over a base, and functorial operations (complete)
 - [x] `Sites/` - Grothendieck sites and topologies on schemes (Zariski, étale, etc.) for sheaf theory and descent (complete)
-- [ ] `IdealSheaf/` - Theory of ideal sheaves and sheaves of ideals on schemes (pending)
+- [~] `IdealSheaf/` - Theory of ideal sheaves and sheaves of ideals on schemes (preliminary)
 - [ ] `Modules/` - Theory of sheaves of modules on schemes, quasi-coherent sheaves, and module operations (pending)
 
 ## Search Tags
