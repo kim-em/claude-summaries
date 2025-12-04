@@ -42,7 +42,7 @@ Student assessment materials for MATH3325 Analysis 3 Honours (Semester 2, 2014).
 - [x] `Assignment2Submissions/` - Student submissions for Assignment 2 (complete submission and grading workflow with 20 submissions and 16 graded versions)
 - [x] `Assignment3Submissions/` - Student submissions for Assignment 3 (14 submissions including named and timestamped scanned PDFs, no graded subfolder)
 - [x] `Assignment4Submissions/` - Student submissions for Assignment 4 (15 PDF submissions and 1 JPG correction from ~14-15 students, no graded subfolder)
-- [ ] `EssayDrafts/` - Draft essay submissions from students (pending)
+- [~] `EssayDrafts/` - Draft essay submissions from students (preliminary)
 - [ ] `EssayExamples/` - Four example essays (Example1-4.pdf) demonstrating expected quality and format (pending)
 - [ ] `FinalEssays/` - Final essay submissions from students (pending)
 
