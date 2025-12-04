@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Algebra/NonAssoc
-generated: 2025-12-04T08:35:00Z
+generated: 2025-12-04T09:30:00Z
 git_sha: 453cce856d41bd2715d9055ecdc877015033095f
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 0
 subdirs_count: 2
 ---
@@ -12,7 +12,7 @@ subdirs_count: 2
 
 ## Overview
 
-The `NonAssoc/` directory contains theory for non-associative algebraic structures, focusing on pre-Lie algebras and Lie-admissible algebras. These are generalizations of associative algebras where the associator `(x * y) * z - x * (y * z)` satisfies weaker symmetry conditions rather than being zero. Pre-Lie algebras have associators symmetric in either the first two or last two variables, while Lie-admissible algebras satisfy a specific associator identity that ensures the commutator bracket `[x,y] = x*y - y*x` forms a Lie algebra.
+The `NonAssoc/` directory provides foundational theory for non-associative algebraic structures, specifically pre-Lie algebras and Lie-admissible algebras. These structures generalize associative algebras by imposing weaker conditions on the associator `(x * y) * z - x * (y * z)`. The directory establishes the hierarchy: pre-Lie structures (which have symmetric associators) are instances of Lie-admissible structures (which satisfy associator identities ensuring their commutator brackets form Lie algebras). This formalization includes both ring and algebra (module) versions, with equivalences between left and right variants via opposite multiplication, providing the algebraic foundations for applications in control theory, numerical analysis, and deformation theory.
 
 ## Key Files
 
