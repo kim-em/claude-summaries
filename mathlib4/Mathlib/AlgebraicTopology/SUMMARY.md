@@ -30,7 +30,7 @@ The `AlgebraicTopology/` directory contains formalized algebraic topology theory
 
 - [x] `DoldKan/` - The Dold-Kan correspondence between simplicial objects in abelian categories and chain complexes (complete)
 - [x] `FundamentalGroupoid/` - Fundamental groupoid construction and fundamental group theory (complete)
-- [ ] `ModelCategory/` - Model category structures on simplicial sets and related categories (pending)
+- [x] `ModelCategory/` - Model category structures on simplicial sets and related categories (complete)
 - [ ] `Quasicategory/` - Quasicategory (∞-category) theory via simplicial sets (pending)
 - [ ] `RelativeCellComplex/` - Relative cell complexes and CW-complex theory (pending)
 - [ ] `SimplexCategory/` - The simplex category Δ (finite non-empty linear orders and order-preserving maps) (pending)
