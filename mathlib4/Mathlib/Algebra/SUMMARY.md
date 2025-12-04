@@ -80,7 +80,7 @@ The `Algebra/` directory contains the foundations of algebraic structures in mat
 - [x] `Prime/` - Prime elements in commutative monoids with zero: `Prime p` predicate requiring nonzero, non-unit, and `p ∣ a * b → p ∣ a ∨ p ∣ b`, equivalence with irreducible elements in decomposition monoids, power divisibility theory, and homomorphism transport (complete)
 - [x] `Regular/` - Regular elements: core theory of left/right/fully regular elements where multiplication is injective, `IsSMulRegular` for module-theoretic generalization, closure under products/powers/units, behavior under `MulOpposite`/product types/Pi types/universe lifting, and proof that `0` is regular iff structure is trivial (complete)
 - [x] `Central/` - Central algebras over commutative rings: `Algebra.IsCentral K D` typeclass where center equals base ring image, core results on centrality preservation under isomorphisms/opposite algebras/base field extensions, instances for matrix algebras and endomorphism algebras on free modules, and tensor product decomposition theorems (complete)
-- [ ] `ContinuedFractions/` - Continued fraction theory (9 files/subdirs) (pending)
+- [~] `ContinuedFractions/` - Continued fraction theory (9 files/subdirs) (preliminary)
 - [ ] `AddTorsor/` - Additive torsors (affine spaces) (4 files/subdirs) (pending)
 - [ ] `AddConstMap/` - Add-constant maps (4 files/subdirs) (pending)
 - [ ] `AffineMonoid/` - Affine monoid structures (6 files/subdirs) (pending)
