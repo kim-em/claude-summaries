@@ -47,7 +47,7 @@ The `Calculus/` directory contains the formalization of differential and integra
 - [x] `Conformal/` - Conformal maps (angle-preserving differentiable maps) (complete)
 - [x] `ContDiff/` - Continuously differentiable functions (C^n smoothness classes) (complete)
 - [x] `Deriv/` - One-dimensional derivatives (real and complex derivatives) (complete)
-- [ ] `DifferentialForm/` - Differential forms on normed spaces (pending)
+- [x] `DifferentialForm/` - Differential forms on normed spaces and exterior derivatives (complete)
 - [ ] `FDeriv/` - Fréchet derivatives (multivariable derivatives in normed spaces) (pending)
 - [ ] `Gradient/` - Gradient of functions (vector of partial derivatives in inner product spaces) (pending)
 - [ ] `InverseFunctionTheorem/` - Inverse function theorem (local invertibility from invertible derivative) (pending)
