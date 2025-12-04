@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Analysis/BoxIntegral
-generated: 2025-12-04T00:00:00Z
+generated: 2025-12-04T17:20:00Z
 git_sha: 453cce856d41bd2715d9055ecdc877015033095f
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 4
 subdirs_count: 2
 ---
@@ -12,7 +12,7 @@ subdirs_count: 2
 
 ## Overview
 
-The `BoxIntegral/` directory contains the formalization of box integral theory, providing a unified framework for Riemann, Henstock-Kurzweil, and McShane integration over rectangular boxes in ℝⁿ. The directory defines rectangular boxes as products of half-open intervals `(l i, u i]`, partitions and tagged partitions of boxes, integral sums, and the integral itself as a limit of integral sums along different filters. Key results include the divergence theorem for Henstock-Kurzweil integration, the equivalence between McShane and Bochner integrability, and applications to counting lattice points and computing volumes using unit partitions.
+The `BoxIntegral/` directory provides a comprehensive formalization of box integral theory, offering a unified framework for multiple integration theories including Riemann, Henstock-Kurzweil, McShane, and GP integrals over rectangular boxes in ℝⁿ. The implementation is built on a foundation of rectangular boxes represented as products of half-open intervals `(l i, u i]` (defined in `Box/`), with rich partition machinery (in `Partition/`) that supports 8 different integration theories through Boolean flags controlling Riemann bounds, Henstock tagging, and distortion constraints. The directory's main files establish integral sums as limits along filters, prove fundamental theorems including the divergence theorem for Henstock-Kurzweil integration and the equivalence between McShane and Bochner integrability, and provide applications to lattice point counting and volume approximation via unit partitions. The architecture separates concerns cleanly: `Box/` handles geometric box operations and induction principles, `Partition/` provides the combinatorial partition framework with box-additive maps, and the top-level files build integration theories on these foundations.
 
 ## Key Files
 
