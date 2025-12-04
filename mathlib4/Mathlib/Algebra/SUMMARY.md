@@ -96,7 +96,7 @@ The `Algebra/` directory contains the foundations of algebraic structures in mat
 - [x] `Squarefree/` - Squarefree elements in monoids (elements not divisible by squares except unit squares) with comprehensive characterizations via multiplicity, irreducible factorization, radical elements, and unique factorization, plus multiplication theory, prime power divisibility, GCD preservation, and integer casting (complete)
 - [x] `Tropical/` - Tropical algebra: min-plus semiring structure where addition becomes minimum and multiplication becomes addition, implemented via type synonym `Tropical R` with complete algebraic hierarchy (CommSemiring for linearly ordered types with top), finitary operation conversions between sums/infima and products/sums enabling tropical polynomial evaluation, and lifted lattice structures (ConditionallyCompleteLattice/ConditionallyCompleteLinearOrder) (complete)
 - [x] `Vertex/` - Vertex operators and vertex algebras: foundational theory for R-linear maps to Hahn series, heterogeneous formulation with arbitrary partial orders on index sets, homogeneous specialization to ℤ-indexed Laurent series, normalized coefficient indexing, composition via iterated series, and construction from coefficient functions with bounded-pole conditions (complete)
-- [ ] `Pointwise/` - Pointwise operations on sets (3 files/subdirs) (pending)
+- [x] `Pointwise/` - Stabilizers of sets under pointwise group actions: characterizes `stabilizer G s` as elements preserving set membership under actions, proves self-stabilization `s * stabilizer G s = s` for commutative groups, establishes finiteness of stabilizers for finite nonempty sets, and shows quotient stabilizer triviality (complete)
 
 ## Search Tags
 
