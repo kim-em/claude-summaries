@@ -49,7 +49,7 @@ Lecture notes for MATH1014 (Mathematics and Applications 2) semester 2 2015, con
 - [x] `Lecture19/` - Nineteenth lecture on inner products and orthogonality (dot product, vector length, orthogonal complements, dimension theorem dim(W) + dim(W⊥) = n, vector decomposition into W + W⊥) (complete)
 - [x] `Lecture20/` - Twentieth lecture on orthogonal and orthonormal sets (orthogonal set definitions, linear independence theorem, orthogonal basis coordinate formulas, orthonormal sets, orthogonal matrices with U^TU = I property) (complete)
 - [x] `Lecture21/` - Twenty-first lecture on orthogonal projections onto subspaces (Orthogonal Decomposition Theorem, Best Approximation Theorem, projection matrix UU^T, with 4 geometric diagrams) (complete)
-- [ ] `Lecture22/` - Twenty-second lecture material (pending)
+- [~] `Lecture22/` - Twenty-second lecture on Gram-Schmidt orthogonalization and QR matrix factorization with six worked examples (preliminary)
 - [ ] `Lecture23/` - Twenty-third lecture material (pending)
 - [ ] `Lecture24/` - Twenty-fourth lecture with supplementary materials (SVD compression Mathematica notebook, Markov chain Python scripts, Harry Potter text, GIF/PNG images) (pending)
 - [ ] `Lecture25/` - Final lecture material (pending)
