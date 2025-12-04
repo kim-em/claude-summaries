@@ -49,7 +49,7 @@ The `Calculus/` directory contains the formalization of differential and integra
 - [x] `Deriv/` - One-dimensional derivatives (real and complex derivatives) (complete)
 - [x] `DifferentialForm/` - Differential forms on normed spaces and exterior derivatives (complete)
 - [x] `FDeriv/` - Fréchet derivatives (multivariable derivatives in normed spaces) (complete)
-- [ ] `Gradient/` - Gradient of functions (vector of partial derivatives in inner product spaces) (pending)
+- [x] `Gradient/` - Gradient of functions (vector of partial derivatives in inner product spaces) (complete)
 - [ ] `InverseFunctionTheorem/` - Inverse function theorem (local invertibility from invertible derivative) (pending)
 - [ ] `IteratedDeriv/` - Iterated derivatives (nth derivatives) (pending)
 - [ ] `LineDeriv/` - Directional derivatives (derivatives along lines/vectors) (pending)
