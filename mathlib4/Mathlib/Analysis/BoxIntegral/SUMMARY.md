@@ -26,7 +26,7 @@ The `BoxIntegral/` directory contains the formalization of box integral theory, 
 ## Subdirectories
 
 - [x] `Box/` - Rectangular box data structure and operations (complete)
-- [ ] `Partition/` - Partitions and tagged partitions of boxes (pending)
+- [x] `Partition/` - Partitions and tagged partitions of boxes (complete)
 
 ## Search Tags
 
