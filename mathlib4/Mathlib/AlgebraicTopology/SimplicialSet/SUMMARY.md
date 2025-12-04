@@ -44,7 +44,7 @@ The `SimplicialSet/` directory contains the formalization of simplicial sets and
 
 ## Subdirectories
 
-- [ ] `AnodyneExtensions/` - Theory of anodyne extensions and weak factorization systems for the model category structure on simplicial sets (pending)
+- [x] `AnodyneExtensions/` - Theory of anodyne extensions and weak factorization systems for the model category structure on simplicial sets (complete)
 
 ## Search Tags
 
