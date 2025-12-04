@@ -27,7 +27,7 @@ Third year of ANU faculty employment documenting teaching (MATH3325 Analysis 3, 
 ## Subdirectories
 
 - [x] `ASC category theory/` - Australian Summer Course marking materials for 5 students (Benjamin Thompson, Dominic Weiller, Jack Davies, Lachlan Maynard, Prithvi Reddy) including grader's reports (.docx) and final student reports (.pdf) (complete)
-- [ ] `Analysis3/` - MATH3325 Analysis 3 course materials including assignments, lecture notes, problem sets, course outlines, TODO list, reference books, evaluations, grades, operators and preamble TeX files, symlink to web directory (pending)
+- [~] `Analysis3/` - MATH3325 Analysis 3 course materials including assignments, lecture notes, problem sets, course outlines, TODO list, reference books, evaluations, grades, operators and preamble TeX files, symlink to web directory (preliminary)
 - [ ] `HonoursThesisReports/` - Honours thesis examination reports and theses for Christopher Chung, Hannah Keese, Hilary Hunt, and Joshua Chen, with grader's reports in TeX and PDF formats (pending)
 - [ ] `postdoc/` - Postdoctoral fellowship applications received (66 applications from candidates including Chirvasitu, Clark, Dancso, Duong, Giannelli, Golovko, Gopalakrishnamurty, Guerberoff, Hague, and others), plus zip archive of all applications (pending)
 - [ ] `website/` - Google doc link for updating Algebra & Topology web pages (pending)
