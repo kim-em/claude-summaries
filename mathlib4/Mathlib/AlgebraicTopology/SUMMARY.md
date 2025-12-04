@@ -35,7 +35,7 @@ The `AlgebraicTopology/` directory contains formalized algebraic topology theory
 - [x] `RelativeCellComplex/` - Relative cell complexes and CW-complex theory (complete)
 - [x] `SimplexCategory/` - The simplex category Δ (finite non-empty linear orders and order-preserving maps) (complete)
 - [x] `SimplicialCategory/` - Simplicial categories (categories enriched over simplicial sets) (complete)
-- [ ] `SimplicialObject/` - General theory of simplicial objects in arbitrary categories (pending)
+- [x] `SimplicialObject/` - General theory of simplicial objects in arbitrary categories (complete)
 - [ ] `SimplicialSet/` - Simplicial sets as presheaves on the simplex category (pending)
 - [ ] `SingularHomology/` - Singular homology theory for topological spaces (pending)
 
