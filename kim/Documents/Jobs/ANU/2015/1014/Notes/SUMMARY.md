@@ -35,7 +35,7 @@ Lecture notes for MATH1014 (Mathematics and Applications 2) semester 2 2015, con
 - [x] `Lecture05/` - Fifth lecture introducing abstract vector spaces and subspaces in MATH1014, with supporting diagrams illustrating geometric concepts (complete)
 - [x] `Lecture06/` - Sixth lecture on null spaces, column spaces, and linear transformations (kernel and range) in abstract vector spaces, with 5 detailed worked examples (complete)
 - [x] `Lecture07/` - Seventh lecture on linear independence and bases for abstract vector spaces (linear independence definitions, spanning set theorem, algorithms for bases of Nul A and Col A, unique representation theorem, coordinates) (complete)
-- [~] `Lecture08/` - Eighth lecture on coordinate systems and change of basis (isomorphisms, coordinate mappings, change-of-coordinate matrices P_{C←B}, worked examples in ℝ², P₂, and M_{2×2}) (preliminary)
+- [x] `Lecture08/` - Eighth lecture on coordinate systems and change of basis (isomorphisms, coordinate mappings, change-of-coordinate matrices P_{C←B}, worked examples in ℝ², P₂, and M_{2×2}) (complete)
 - [ ] `Lecture09/` - Ninth lecture material (pending)
 - [ ] `Lecture10/` - Tenth lecture material (pending)
 - [ ] `Lecture11/` - Eleventh lecture material (pending)

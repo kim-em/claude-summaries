@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2015/1014/Notes/Lecture08
-generated: 2025-12-04T06:15:00Z
+generated: 2025-12-04T06:20:00Z
 git_sha: 48a99ef1be36fc0c3cca2af4518f1aebb71ec697
 git_branch: master
-status: preliminary
+status: complete
 files_count: 3
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Eighth lecture in MATH1014 (Mathematics and Applications 2) on coordinate systems and change of basis, covering the relationship between different coordinate representations of vectors relative to different bases. The lecture introduces isomorphisms between vector spaces, proves that coordinate mappings preserve vector space structure, develops change-of-coordinate matrices P_{C←B}, and demonstrates two computational approaches for converting between basis representations. Topics include the Unique Representation Theorem, dimension as a well-defined invariant, and detailed worked examples in ℝ², polynomial spaces P₂, and 2×2 matrix spaces M_{2×2}.
+Eighth lecture in MATH1014 (Mathematics and Applications 2) on coordinate systems and change of basis, covering the relationship between different coordinate representations of vectors relative to different bases. The lecture introduces isomorphisms between vector spaces, proves that coordinate mappings preserve vector space structure, develops change-of-coordinate matrices P_{C←B}, and demonstrates two computational approaches for converting between basis representations. Topics include the Unique Representation Theorem, dimension as a well-defined invariant, and detailed worked examples in ℝ², polynomial spaces P₂, and 2×2 matrix spaces M_{2×2}. The lecture materials are enhanced with three carefully designed visual diagrams that illustrate the abstract coordinate mapping concept, side-by-side comparison of standard versus alternate coordinate systems, and special cases showing partial alignment between different bases.
 
 ## Key Files
 
