@@ -24,7 +24,7 @@ Seventh lecture on linear independence and bases for abstract vector spaces in M
 
 ## Subdirectories
 
-- [ ] `diagrams/` - Supporting geometric diagrams (1 PDF file illustrating a plane spanned by vectors) (pending)
+- [x] `diagrams/` - Supporting geometric diagrams (1 PDF file illustrating a plane spanned by vectors) (complete)
 
 ## Search Tags
 
