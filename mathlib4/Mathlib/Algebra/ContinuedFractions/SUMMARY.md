@@ -27,7 +27,7 @@ This directory implements comprehensive theory for continued fractions in Lean 4
 
 ## Subdirectories
 
-- [ ] `Computation/` - Computable continued fractions for linear ordered floor fields, including the standard algorithm (repeated floor/fractional decomposition), correctness proofs, convergence theory, error bounds (`\|v - Aₙ/Bₙ\| ≤ 1/(Bₙ * Bₙ₊₁)`), and connection to Fibonacci numbers (`Bₙ ≥ Fib(n+1)`) (pending)
+- [x] `Computation/` - Computable continued fractions for linear ordered floor fields, including the standard algorithm (repeated floor/fractional decomposition), correctness proofs, convergence theory, error bounds (`\|v - Aₙ/Bₙ\| ≤ 1/(Bₙ * Bₙ₊₁)`), and connection to Fibonacci numbers (`Bₙ ≥ Fib(n+1)`) (complete)
 
 ## Search Tags
 
