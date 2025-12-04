@@ -51,7 +51,7 @@ The `Calculus/` directory contains the formalization of differential and integra
 - [x] `FDeriv/` - Fréchet derivatives (multivariable derivatives in normed spaces) (complete)
 - [x] `Gradient/` - Gradient of functions (vector of partial derivatives in inner product spaces) (complete)
 - [x] `InverseFunctionTheorem/` - Inverse function theorem (local invertibility from invertible derivative) (complete)
-- [ ] `IteratedDeriv/` - Iterated derivatives (nth derivatives) (pending)
+- [x] `IteratedDeriv/` - Iterated derivatives (nth derivatives) (complete)
 - [ ] `LineDeriv/` - Directional derivatives (derivatives along lines/vectors) (pending)
 - [ ] `LocalExtr/` - Local extrema and critical points (Fermat's theorem) (pending)
 - [ ] `TangentCone/` - Tangent cones and normal cones for convex analysis and optimization (pending)
