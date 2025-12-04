@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Algebra
-generated: 2025-12-01T14:30:00Z
+generated: 2025-12-04T20:00:00Z
 git_sha: dc19f2a67ff55a2078ba23a4c1740a5eb0d50e41
 git_branch: master
-status: preliminary
+status: complete
 files_count: 32
 subdirs_count: 46
 ---
@@ -12,7 +12,11 @@ subdirs_count: 46
 
 ## Overview
 
-The `Algebra/` directory contains the foundations of algebraic structures in mathlib4, organized hierarchically from basic to complex structures. It implements the core algebraic hierarchy (notation → groups → groups-with-zero → rings → fields) and extends it with advanced constructions including quaternions, polynomials, free algebras, homological algebra, and specialized algebraic systems. The directory contains both the fundamental type class definitions that define algebraic structures and substantial theory development for specific algebraic objects like continued fractions, graded monoids, and Lie algebras.
+The `Algebra/` directory forms the theoretical bedrock of mathlib4's algebraic hierarchy, providing a comprehensive and systematic development of algebraic structures from primitive notation through sophisticated constructions like derived categories and semisimple Lie algebras. The implementation follows a carefully designed stratified architecture beginning with `Notation/` (establishing operator typeclasses at the import hierarchy foundation), ascending through the core hierarchy—`Group/` (semigroups/monoids/groups with complete substructure theory), `GroupWithZero/` (groups with zero adjoined), `Ring/` (distributive structures), `Field/` (division rings and fields)—and extending to advanced algebraic systems including `Module/` (generalizing vector spaces to arbitrary rings), `Algebra/` (algebras over rings with bimodule theory), `Polynomial/`/`MvPolynomial/` (univariate and multivariate polynomial rings), and sophisticated theoretical frameworks like `Lie/` (Lie algebras with classification theory), `Homology/` (homological algebra with derived categories), `Category/` (categorical treatment with abelian category structure), and `Star/` (involutive algebras for quantum mechanics).
+
+Beyond the foundational hierarchy, the directory encompasses rich ecosystems for specialized algebraic theories: `BigOperators/` provides the complete finite sum/product infrastructure built on a three-layer List→Multiset→Finset hierarchy; `Order/` synthesizes algebra with order theory including archimedean structures and classical inequalities; `CharP/`/`CharZero/` develop characteristic theory with Frobenius endomorphisms; `DirectSum/` implements graded structures with internal gradings; `GCDMonoid/`/`EuclideanDomain/` establish algorithmic divisibility theory; `Divisibility/`/`Prime/`/`Regular/` provide element-theoretic foundations; specialized constructions include `MonoidAlgebra/`/`FreeMonoid/`/`FreeAlgebra/`/`FreeAbelianGroup/` (free constructions with universal properties), `ContinuedFractions/` (theoretical and computational theory with convergence), `Tropical/` (min-plus semirings), `Azumaya/`/`BrauerGroup/`/`Central/` (noncommutative algebra), `AddTorsor/`/`AddConstMap/` (affine structures), `Jordan/`/`NonAssoc/`/`Vertex/` (non-associative theories), and `QuadraticAlgebra/`/`SkewPolynomial/`/`Squarefree/` (specialized ring constructions).
+
+The directory systematically supports both multiplicative and additive presentations via Lean's `@[to_additive]` attribute, provides bundled morphisms (`MulHom`, `MonoidHom`, `RingHom`, `AlgHom`, `LieHom`) with complete composition theory, establishes complete lattice structures on subobjects (subsemigroups, submonoids, subgroups, subrings, submodules, ideals) with Galois insertions for closure operators, and implements comprehensive categorical infrastructure showing `AddCommGrpCat` and `ModuleCat` are abelian categories satisfying Grothendieck axioms. This unified framework enables both concrete computational mathematics (GCD algorithms, polynomial division, continued fraction expansion) and abstract theoretical development (homological algebra, representation theory, derived functors), serving as the foundation upon which mathlib's entire algebraic edifice—from elementary number theory to advanced algebraic geometry—is constructed.
 
 ## Key Files
 
