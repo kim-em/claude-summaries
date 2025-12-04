@@ -38,7 +38,7 @@ Student assessment materials for MATH3325 Analysis 3 Honours (Semester 2, 2014).
 
 ## Subdirectories
 
-- [~] `Assignment1Submissions/` - Student submissions for Assignment 1 (includes graded subfolder) (preliminary)
+- [x] `Assignment1Submissions/` - Student submissions for Assignment 1 (includes graded subfolder with extensive handwritten annotations)
 - [ ] `Assignment2Submissions/` - Student submissions for Assignment 2 (pending)
 - [ ] `Assignment3Submissions/` - Student submissions for Assignment 3 (pending)
 - [ ] `Assignment4Submissions/` - Student submissions for Assignment 4 (pending)

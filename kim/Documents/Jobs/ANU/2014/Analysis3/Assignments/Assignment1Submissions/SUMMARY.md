@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2014/Analysis3/Assignments/Assignment1Submissions
-generated: 2025-12-04T02:09:55Z
+generated: 2025-12-04T02:23:00Z
 git_sha: 48a99ef1be36fc0c3cca2af4518f1aebb71ec697
 git_branch: master
-status: preliminary
+status: complete
 files_count: 11
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Student submissions for MATH3325 Analysis 3 Assignment 1 (due August 15, 2014). Contains 10 individual student PDF submissions plus one anonymous submission (u3979034.pdf). The assignment covered bounded linear transformations on Hilbert spaces including completeness of L(H), adjoints of integral operators, strong convergence vs operator norm convergence, orthogonal projections, and integral operators. Also includes a graded subfolder with 15 annotated submissions containing instructor feedback and marks.
+Complete collection of student submissions and graded work for MATH3325 Analysis 3 Assignment 1 (due August 15, 2014). The ungraded folder contains 10 named student submissions plus one anonymous submission (u3979034.pdf). The Assignment1Graded subfolder contains 15 graded and extensively annotated versions with handwritten feedback in red and blue ink, showing detailed pedagogical engagement with student work. Annotations include total marks (e.g., "77 + 19 = 96", "72 + 19 = 93"), circled question numbers, checkmarks for correct steps, margin comments on proof techniques, and specific corrections ranging from brief confirmations to detailed explanations of conceptual issues. The assignment tested understanding of bounded linear transformations on Hilbert spaces: completeness of L(H), adjoints of integral operators, strong vs weak convergence, orthogonal projections, and integral operators on unit balls. The grading reveals careful attention to mathematical rigor, proof presentation, and pedagogical guidance on topics like absolute continuity of integrals, uniqueness of adjoints, and proper definitions of convergence.
 
 ## Key Files
 
@@ -31,7 +31,7 @@ Student submissions for MATH3325 Analysis 3 Assignment 1 (due August 15, 2014). 
 
 ## Subdirectories
 
-- [x] `Assignment1Graded/` - Graded and annotated student submissions (15 PDF files ranging from 852KB to 10.8MB, with student numbers as filenames) (complete)
+- [x] `Assignment1Graded/` - Graded and annotated student submissions with extensive handwritten feedback in red and blue ink (15 PDF files ranging from 832KB to 10MB, organized by student number)
 
 ## Search Tags
 
