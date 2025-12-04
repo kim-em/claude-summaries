@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2014/Analysis3/Assignments/EssayDrafts
-generated: 2025-12-04T10:15:30Z
+generated: 2025-12-04T10:45:00Z
 git_sha: 48a99ef1be36fc0c3cca2af4518f1aebb71ec697
 git_branch: master
-status: preliminary
+status: complete
 files_count: 12
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Draft essay submissions from students in MATH3325 Analysis 3 Honours (Semester 2, 2014). Contains 12 draft essays on advanced topics in functional analysis, operator theory, and ergodic theory submitted by students in October 2014. Topics include the Commutative Gelfand-Naimark Theorem, Bochner's Theorem, and Birkhoff-Khinchin Ergodic Theorem. Essays range from 5-8 pages and demonstrate student work on expository mathematical writing targeted at their peers. The Commented subdirectory contains timestamped scanned versions with instructor feedback.
+Draft essay submissions from students in MATH3325 Analysis 3 Honours (Semester 2, 2014), representing an intermediate stage in the essay writing and feedback process. Contains 12 draft essays (ranging from 133KB to 1.3MB) on advanced topics in functional analysis, operator theory, and ergodic theory submitted by students in October 2014. Topics include the Commutative Gelfand-Naimark Theorem (Thompson), Bochner's Theorem on positive-definite functions (Filan), Birkhoff-Khinchin Ergodic Theorem (Wang, handwritten), and applications to statistical mechanics (Reddy). Essays demonstrate student work on expository mathematical writing targeted at their peers, following the 5-8 page guidelines from EssayTopics. The Commented subdirectory preserves the instructor feedback workflow: 12 scanned PDFs (1.3-3.6MB) with extensive handwritten annotations in red pen covering mathematical rigor, clarity, notation issues, and exposition quality, timestamped October 20-22, 2014.
 
 ## Key Files
 
