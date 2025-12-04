@@ -25,7 +25,7 @@ Fourth lecture on distances in ℝ³, covering geometric relationships between p
 
 ## Subdirectories
 
-- [ ] `diagrams/` - Supporting vector diagrams and illustrations (25 files including Graffle sources, PDFs, PNGs, and MS Word sources for examples) (pending)
+- [x] `diagrams/` - Supporting vector diagrams and illustrations (25 files including Graffle sources, PDFs, PNGs, and MS Word sources for examples) (complete)
 
 ## Search Tags
 
