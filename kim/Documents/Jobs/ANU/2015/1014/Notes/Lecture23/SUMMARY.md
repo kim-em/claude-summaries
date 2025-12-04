@@ -24,7 +24,7 @@ Twenty-third lecture on the Least Squares Problem (Lay §6.5), which addresses f
 
 ## Subdirectories
 
-- [ ] `diagrams/` - Supporting geometric diagrams for least squares visualization (pending)
+- [x] `diagrams/` - Supporting geometric diagrams for least squares visualization (complete)
 
 ## Search Tags
 
