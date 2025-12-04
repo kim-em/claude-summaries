@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Algebra/Colimit
-generated: 2025-12-04T19:45:00Z
+generated: 2025-12-04T20:15:00Z
 git_sha: 453cce856d41bd2715d9055ecdc877015033095f
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 5
 subdirs_count: 0
 ---
