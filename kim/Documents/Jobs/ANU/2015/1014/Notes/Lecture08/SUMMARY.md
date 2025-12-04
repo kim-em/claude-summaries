@@ -24,7 +24,7 @@ Eighth lecture in MATH1014 (Mathematics and Applications 2) on coordinate system
 
 ## Subdirectories
 
-- [ ] `diagrams/` - Supporting visual aids: coordinate system comparison diagrams (la0800.pdf showing standard vs B-graph paper with vector x, la0801.pdf variant), coordinate mapping illustration from vector space V to ℝⁿ (ex0801.pdf Figure 5) (pending)
+- [x] `diagrams/` - Supporting visual aids: coordinate system comparison diagrams (la0800.pdf showing standard vs B-graph paper with vector x, la0801.pdf variant), coordinate mapping illustration from vector space V to ℝⁿ (ex0801.pdf Figure 5) (complete)
 
 ## Search Tags
 
