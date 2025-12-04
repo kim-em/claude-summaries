@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Algebra/Divisibility
-generated: 2025-12-04T02:23:11Z
+generated: 2025-12-04T02:43:27Z
 git_sha: 453cce856d41bd2715d9055ecdc877015033095f
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 5
 subdirs_count: 0
 ---
