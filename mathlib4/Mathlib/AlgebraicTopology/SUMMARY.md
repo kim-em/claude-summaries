@@ -32,7 +32,7 @@ The `AlgebraicTopology/` directory contains formalized algebraic topology theory
 - [x] `FundamentalGroupoid/` - Fundamental groupoid construction and fundamental group theory (complete)
 - [x] `ModelCategory/` - Model category structures on simplicial sets and related categories (complete)
 - [x] `Quasicategory/` - Quasicategory (∞-category) theory via simplicial sets (complete)
-- [ ] `RelativeCellComplex/` - Relative cell complexes and CW-complex theory (pending)
+- [x] `RelativeCellComplex/` - Relative cell complexes and CW-complex theory (complete)
 - [ ] `SimplexCategory/` - The simplex category Δ (finite non-empty linear orders and order-preserving maps) (pending)
 - [ ] `SimplicialCategory/` - Simplicial categories (categories enriched over simplicial sets) (pending)
 - [ ] `SimplicialObject/` - General theory of simplicial objects in arbitrary categories (pending)
