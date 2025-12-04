@@ -23,7 +23,7 @@ Third lecture covering lines and planes in Euclidean space. The lecture introduc
 
 ## Subdirectories
 
-- [ ] `diagrams/` - Supporting diagrams including OmniGraffle source files (.graffle) and exported PDFs, plus one PNG image (11 files: 4 .graffle sources, 3 exported PDFs, 1 PNG of right-hand rule cross product) (pending)
+- [x] `diagrams/` - Supporting diagrams including OmniGraffle source files (.graffle) and exported PDFs, plus one PNG image (11 files: 4 .graffle sources, 3 exported PDFs, 1 PNG of right-hand rule cross product) (complete)
 
 ## Search Tags
 
