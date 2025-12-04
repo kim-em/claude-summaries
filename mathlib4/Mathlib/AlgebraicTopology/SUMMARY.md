@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/AlgebraicTopology
-generated: 2025-12-04T00:00:00Z
+generated: 2025-12-04T17:00:00Z
 git_sha: 453cce856d41bd2715d9055ecdc877015033095f
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 7
 subdirs_count: 10
 ---
@@ -12,7 +12,7 @@ subdirs_count: 10
 
 ## Overview
 
-The `AlgebraicTopology/` directory contains formalized algebraic topology theory, including the fundamental constructions for computing homology and homotopy invariants of topological spaces. The directory covers simplicial methods (simplicial sets, simplicial objects, and the simplex category), homological algebra constructions (Moore complex, alternating face map complex, and the Dold-Kan correspondence), and fundamental groups/groupoids. It also includes the bridge between topology and combinatorics via the singular set functor and geometric realization, as well as specialized topics like Čech nerves, quasicategories, and model categories.
+The `AlgebraicTopology/` directory provides a comprehensive formalization of algebraic topology, implementing both the classical computational machinery and modern categorical foundations of the subject. The core architecture builds from the simplex category Δ (with multiple equivalent perspectives including generators-and-relations and monoidal structure on augmentations) to general simplicial objects in arbitrary categories, then specializes to simplicial sets as Type-valued presheaves. The directory establishes the fundamental Dold-Kan correspondence—an equivalence between simplicial objects and chain complexes in abelian categories—using an innovative approach via idempotent completions that constructs projection endomorphisms identifying the normalized Moore complex as a formal direct factor. For topological spaces, it provides the singular set functor and its left adjoint geometric realization, enabling the computation of singular homology with coefficients in arbitrary preadditive categories. The fundamental groupoid construction yields fundamental groups via vertex groups, with complete functoriality and product preservation. Advanced structures include model category theory with fibrations, cofibrations, and weak equivalences satisfying Quillen's axioms (featuring Brown's lemma, Whitehead theorem, and Joyal's trick), quasicategory (∞-category) theory via simplicial sets with inner horn-filling conditions, and the categorical framework for relative cell complexes supporting CW-complex theory and the small object argument. The directory also includes specialized constructions like Čech nerves for cohomology, extra degeneracies for proving contractibility, and simplicial nerves for relating simplicial categories to quasicategories.
 
 ## Key Files
 
