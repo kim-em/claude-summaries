@@ -54,7 +54,7 @@ The `Calculus/` directory contains the formalization of differential and integra
 - [x] `IteratedDeriv/` - Iterated derivatives (nth derivatives) (complete)
 - [x] `LineDeriv/` - Directional derivatives (derivatives along lines/vectors) (complete)
 - [x] `LocalExtr/` - Local extrema and critical points (Fermat's theorem) (complete)
-- [ ] `TangentCone/` - Tangent cones and normal cones for convex analysis and optimization (pending)
+- [x] `TangentCone/` - Tangent cones and normal cones for convex analysis and optimization (complete)
 
 ## Search Tags
 
