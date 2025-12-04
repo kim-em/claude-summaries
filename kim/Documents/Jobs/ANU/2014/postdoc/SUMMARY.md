@@ -22,7 +22,7 @@ This folder contains application materials for an ANU (Australian National Unive
 
 ## Subdirectories
 
-- [ ] `Applications/` - Contains 66 PDF files from 25 applicants for a postdoctoral fellowship position. Files follow naming pattern LASTNAME_APPLICATIONID_SUFFIX.pdf where suffix is C (cover letter/CV), R (resume), or E (additional materials like research statements)
+- [x] `Applications/` - Contains 66 PDF files from 25 applicants for a postdoctoral fellowship position. Files follow naming pattern LASTNAME_APPLICATIONID_SUFFIX.pdf where suffix is C (cover letter/CV), R (resume), or E (additional materials like research statements)
 
 ## Search Tags
 
