@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2015/1014/Notes/Lecture12
-generated: 2025-12-04T06:00:00Z
+generated: 2025-12-04T06:35:00Z
 git_sha: 48a99ef1be36fc0c3cca2af4518f1aebb71ec697
 git_branch: master
-status: preliminary
+status: complete
 files_count: 3
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Mid-semester examination review lecture for MATH1014, containing worked solutions to sample questions from the 2013 mid-semester exam. The lecture systematically covers five major topic areas (lines/planes in ℝ³, bases/coordinates in polynomial spaces, vector space verification, linear transformations on matrix spaces, and subspace computations), followed by comprehensive revision questions organized by theme. The folder includes the LaTeX source, both presentation PDF and annotated scribble PDF, plus a diagrams folder with supporting visual materials.
+Mid-semester examination review lecture for MATH1014, containing worked solutions to sample questions from the 2013 mid-semester exam. The lecture systematically covers five major topic areas (lines/planes in ℝ³, bases/coordinates in polynomial spaces, vector space verification, linear transformations on matrix spaces, and subspace computations), followed by comprehensive revision questions organized by theme. The folder includes the LaTeX source, both presentation PDF and annotated scribble PDF, plus a supporting diagrams folder with Maple computational worksheets demonstrating Markov chain transition matrix calculations and theoretical slides on stochastic matrices and steady-state convergence from Lay §4.9.
 
 ## Key Files
 

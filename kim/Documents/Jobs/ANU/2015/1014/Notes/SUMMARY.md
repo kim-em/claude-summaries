@@ -39,7 +39,7 @@ Lecture notes for MATH1014 (Mathematics and Applications 2) semester 2 2015, con
 - [x] `Lecture09/` - Ninth lecture on dimension theory for vector spaces (dimension definitions, Basis Theorem, Rank Theorem rank(A) + dim(Nul A) = n, row spaces with dim(Row A) = rank(A), Invertible Matrix Theorem extensions) with Hermite polynomial quantum mechanics example (complete)
 - [x] `Lecture10/` - Tenth lecture on applications of linear algebra to Markov chains: stochastic matrices, probability vectors, steady-state vectors, transition matrices, regular stochastic matrices, and convergence theorem with bird aviary, Land of Oz weather, and rat cage examples (complete)
 - [x] `Lecture11/` - Eleventh lecture introducing eigenvectors and eigenvalues: definitions, eigenspaces as null spaces, triangular matrix eigenvalue theorem, linear independence of eigenvectors with distinct eigenvalues, with worked examples finding eigenspace bases (complete)
-- [~] `Lecture12/` - Mid-semester examination review lecture covering worked solutions to 2013 exam questions (lines/planes, bases/coordinates, vector spaces, linear transformations, matrix subspaces) plus thematic revision questions (preliminary)
+- [x] `Lecture12/` - Mid-semester examination review lecture covering worked solutions to 2013 exam questions (lines/planes, bases/coordinates, vector spaces, linear transformations, matrix subspaces) plus thematic revision questions, with Markov chains computational examples (complete)
 - [ ] `Lecture13/` - Thirteenth lecture material (pending)
 - [ ] `Lecture14/` - Fourteenth lecture material (pending)
 - [ ] `Lecture15/` - Fifteenth lecture material (pending)
