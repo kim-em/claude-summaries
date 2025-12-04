@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2015/1014/Notes/Lecture22
-generated: 2025-12-04T06:30:00Z
+generated: 2025-12-04T06:40:00Z
 git_sha: 48a99ef1be36fc0c3cca2af4518f1aebb71ec697
 git_branch: master
-status: preliminary
+status: complete
 files_count: 3
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Twenty-second lecture on the Gram-Schmidt process and QR matrix factorization. The lecture covers orthogonal projection review, the systematic Gram-Schmidt algorithm for converting arbitrary bases into orthogonal bases, normalization to produce orthonormal bases, and QR decomposition for matrices with linearly independent columns. Includes six detailed worked examples demonstrating the process for various subspaces and practical computation of QR factorizations.
+Twenty-second lecture on the Gram-Schmidt process and QR matrix factorization. The lecture covers orthogonal projection review, the systematic Gram-Schmidt algorithm for converting arbitrary bases into orthogonal bases, normalization to produce orthonormal bases, and QR decomposition for matrices with linearly independent columns. Includes six detailed worked examples demonstrating the process for various subspaces and practical computation of QR factorizations. The lecture is supported by a comprehensive diagrams folder containing 3D geometric visualizations of the Gram-Schmidt orthogonalization process and least squares interpretations, providing visual intuition for the algebraic procedures presented in the slides.
 
 ## Key Files
 
@@ -24,7 +24,7 @@ Twenty-second lecture on the Gram-Schmidt process and QR matrix factorization. T
 
 ## Subdirectories
 
-- [x] `diagrams/` - Supporting visual materials for geometric interpretation of orthogonal projections and Gram-Schmidt process (complete)
+- [x] `diagrams/` - Visual diagrams supporting the lecture: 3D geometric illustrations of Gram-Schmidt orthogonalization showing how basis vectors are transformed, plus least squares diagrams illustrating orthogonal projection onto column spaces with residual vectors (5 files: 2 Gram-Schmidt visualizations, 3 least squares diagrams)
 
 ## Search Tags
 
