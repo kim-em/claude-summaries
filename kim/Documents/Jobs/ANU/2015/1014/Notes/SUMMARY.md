@@ -37,7 +37,7 @@ Lecture notes for MATH1014 (Mathematics and Applications 2) semester 2 2015, con
 - [x] `Lecture07/` - Seventh lecture on linear independence and bases for abstract vector spaces (linear independence definitions, spanning set theorem, algorithms for bases of Nul A and Col A, unique representation theorem, coordinates) (complete)
 - [x] `Lecture08/` - Eighth lecture on coordinate systems and change of basis (isomorphisms, coordinate mappings, change-of-coordinate matrices P_{C←B}, worked examples in ℝ², P₂, and M_{2×2}) (complete)
 - [x] `Lecture09/` - Ninth lecture on dimension theory for vector spaces (dimension definitions, Basis Theorem, Rank Theorem rank(A) + dim(Nul A) = n, row spaces with dim(Row A) = rank(A), Invertible Matrix Theorem extensions) with Hermite polynomial quantum mechanics example (complete)
-- [ ] `Lecture10/` - Tenth lecture material (pending)
+- [x] `Lecture10/` - Tenth lecture on applications of linear algebra to Markov chains: stochastic matrices, probability vectors, steady-state vectors, transition matrices, regular stochastic matrices, and convergence theorem with bird aviary, Land of Oz weather, and rat cage examples (complete)
 - [ ] `Lecture11/` - Eleventh lecture material (pending)
 - [ ] `Lecture12/` - Twelfth lecture material (pending)
 - [ ] `Lecture13/` - Thirteenth lecture material (pending)
