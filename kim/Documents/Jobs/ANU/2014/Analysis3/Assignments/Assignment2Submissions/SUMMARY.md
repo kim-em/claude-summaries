@@ -3,7 +3,7 @@ source_path: /Users/kim/Documents/Jobs/ANU/2014/Analysis3/Assignments/Assignment
 generated: 2025-12-04T02:15:00Z
 git_sha: 48a99ef1be36fc0c3cca2af4518f1aebb71ec697
 git_branch: master
-status: preliminary
+status: complete
 files_count: 20
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Student submissions for MATH3325 Analysis 3 Honours Assignment 2 (Semester 2, 2014). Contains 11 individual student submissions as PDF files (some students submitted multiple versions), covering problems on Fourier transforms, compact support functions, convolution, and density of continuous functions in L^∞ spaces. Topics include Fourier transform convergence, Taylor series of Fourier transforms, L^1 and L^2 function spaces, and functional analysis. Submissions dated between July-September 2014, with graded versions stored in Assignment2Graded subdirectory.
+Complete submission and grading workflow for MATH3325 Analysis 3 Honours Assignment 2 (Semester 2, 2014). Contains 20 original student submissions as PDFs (11 named submissions plus 9 timestamped scans from the same submission day, September 23, 2014), covering advanced topics in functional analysis including Fourier transform uniform convergence (Riemann-Lebesgue lemma), analyticity and Taylor series of Fourier transforms, convolution identities in L^1/L^2 spaces, and density arguments for bounded continuous functions in L^∞(R). Submissions show collaboration patterns (e.g., Thompson-Reddy pair) and include early submissions from July. The Assignment2Graded subdirectory documents the complete grading process with 16 graded PDFs containing extensive instructor feedback, red-pen corrections on proof structure and mathematical rigor, specific comments on notation (essential supremum vs supremum), and final scores ranging from 84/100 (with late penalty) to 120/100 (100+20 bonus). Grading completed October 1-3, 2014.
 
 ## Key Files
 
