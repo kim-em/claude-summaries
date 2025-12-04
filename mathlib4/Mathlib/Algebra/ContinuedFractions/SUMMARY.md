@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Algebra/ContinuedFractions
-generated: 2025-12-04T00:00:00Z
+generated: 2025-12-04T13:51:00Z
 git_sha: 453cce856d41bd2715d9055ecdc877015033095f
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 6
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-This directory implements comprehensive theory for continued fractions in Lean 4, covering three types: generalized continued fractions (GCF), simple continued fractions (SCF), and regular continued fractions (RCF). It provides both the foundational definitions and two equivalent methods for computing convergents (direct evaluation via `convs'` and recurrence relation via `convs`), along with algorithms for computing continued fractions from values in linear ordered floor fields, convergence proofs, and error bounds showing that convergents approximate the original value with decreasing error.
+This directory implements comprehensive theory for continued fractions in Lean 4, covering both theoretical foundations and practical computation. The theory encompasses three types: generalized continued fractions (GCF), simple continued fractions (SCF), and regular continued fractions (RCF). The theoretical development provides two equivalent methods for computing convergents (direct evaluation via `convs'` and recurrence relation via `convs`), establishes fundamental properties (recurrence relations for continuants, determinant formula `Aₙ * Bₙ₊₁ - Bₙ * Aₙ₊₁ = (-1)^(n + 1)`), and proves their equivalence following Hardy's proof. The computational side implements the standard algorithm (repeated floor/fractional decomposition) for linear ordered floor fields, proves correctness and convergence with explicit error bounds (`|v - Aₙ/Bₙ| ≤ 1/(Bₙ * Bₙ₊₁)`), establishes the Fibonacci lower bound `Bₙ ≥ Fib(n+1)` for denominators, and characterizes termination: `GenContFract.of v` terminates if and only if `v` is rational. Together, this provides a complete formalization from the mathematical theory through to verified computation.
 
 ## Key Files
 
