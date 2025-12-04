@@ -55,7 +55,7 @@ The `AlgebraicGeometry/` directory provides a comprehensive formalization of alg
 - [x] `Cover/` - Theory of covers of schemes with respect to morphism properties, open covers, locally directed covers with transition maps, covers over a base, and functorial operations (complete)
 - [x] `Sites/` - Grothendieck sites and topologies on schemes (Zariski, étale, etc.) for sheaf theory and descent (complete)
 - [x] `IdealSheaf/` - Theory of ideal sheaves on schemes, including the IdealSheafData structure, closed subscheme construction via gluing, functorial operations (pullback/pushforward), and scheme-theoretic images (complete)
-- [ ] `Modules/` - Theory of sheaves of modules on schemes, quasi-coherent sheaves, and module operations (pending)
+- [x] `Modules/` - Theory of sheaves of modules over schemes, abelian category X.Modules, and the tilde construction M^~ from R-modules to sheaves with stalk isomorphisms (complete)
 
 ## Search Tags
 
