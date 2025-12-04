@@ -44,7 +44,7 @@ The `Analysis/` directory contains the formalization of real and complex analysi
 - [x] `Asymptotics/` - Asymptotic analysis (big-O notation, asymptotic equivalence, growth rates) (complete)
 - [x] `BoxIntegral/` - Box integrals (Henstock-Kurzweil integration theory) (complete)
 - [x] `CStarAlgebra/` - C*-algebras (Banach *-algebras with C* identity) and their analysis (complete)
-- [ ] `Calculus/` - Differential and integral calculus (derivatives, integrals, fundamental theorem) (pending)
+- [~] `Calculus/` - Differential and integral calculus (derivatives, integrals, fundamental theorem) (preliminary)
 - [ ] `Complex/` - Complex analysis (holomorphic functions, Cauchy's theorem, residues) (pending)
 - [ ] `Convex/` - Convex analysis (convex functions, convex sets, Jensen's inequality) (pending)
 - [ ] `Distribution/` - Distribution theory (generalized functions, Schwartz distributions) (pending)
