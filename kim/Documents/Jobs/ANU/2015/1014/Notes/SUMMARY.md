@@ -28,7 +28,7 @@ Lecture notes for MATH1014 (Mathematics and Applications 2) semester 2 2015, con
 
 ## Subdirectories
 
-- [ ] `Lecture01/` - First lecture: Administrative overview and course introduction (pending)
+- [~] `Lecture01/` - First lecture: Administrative overview and course introduction (preliminary)
 - [ ] `Lecture02/` - Second lecture material (pending)
 - [ ] `Lecture03/` - Third lecture material (pending)
 - [ ] `Lecture04/` - Fourth lecture with additional examples file (potentially short per parent TODO note) (pending)
