@@ -34,7 +34,7 @@ Lecture notes for MATH1014 (Mathematics and Applications 2) semester 2 2015, con
 - [x] `Lecture04/` - Fourth lecture on distances in ℝ³ (point-to-plane, point-to-line, line-to-line) with comprehensive 25KB examples file containing 12 worked problems and 16 exercises, supported by 25 vector diagrams in multiple formats (complete)
 - [x] `Lecture05/` - Fifth lecture introducing abstract vector spaces and subspaces in MATH1014, with supporting diagrams illustrating geometric concepts (complete)
 - [x] `Lecture06/` - Sixth lecture on null spaces, column spaces, and linear transformations (kernel and range) in abstract vector spaces, with 5 detailed worked examples (complete)
-- [~] `Lecture07/` - Seventh lecture on linear independence and bases for abstract vector spaces (linear independence definitions, spanning set theorem, algorithms for bases of Nul A and Col A, unique representation theorem, coordinates) (preliminary)
+- [x] `Lecture07/` - Seventh lecture on linear independence and bases for abstract vector spaces (linear independence definitions, spanning set theorem, algorithms for bases of Nul A and Col A, unique representation theorem, coordinates) (complete)
 - [ ] `Lecture08/` - Eighth lecture material (pending)
 - [ ] `Lecture09/` - Ninth lecture material (pending)
 - [ ] `Lecture10/` - Tenth lecture material (pending)

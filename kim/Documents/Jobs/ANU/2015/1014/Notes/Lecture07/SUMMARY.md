@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2015/1014/Notes/Lecture07
-generated: 2025-12-04T07:00:00Z
+generated: 2025-12-04T07:30:00Z
 git_sha: 48a99ef1be36fc0c3cca2af4518f1aebb71ec697
 git_branch: master
-status: preliminary
+status: complete
 files_count: 3
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Seventh lecture on linear independence and bases for abstract vector spaces in MATH1014 (Second Semester 2015). The lecture transitions from concrete Euclidean spaces to abstract vector spaces, covering formal definitions of linear independence, spanning sets, and basis sets. Topics include the spanning set theorem, algorithms for finding bases for null spaces and column spaces of matrices, the unique representation theorem, and coordinate systems with respect to different bases. The lecture includes worked examples with polynomial spaces and matrices, building on material from prerequisite course MATH1013.
+Seventh lecture on linear independence and bases for abstract vector spaces in MATH1014 (Second Semester 2015). The lecture transitions from concrete Euclidean spaces to abstract vector spaces, covering formal definitions of linear independence, spanning sets, and basis sets. Topics include the spanning set theorem, algorithms for finding bases for null spaces and column spaces of matrices, the unique representation theorem, and coordinate systems with respect to different bases. The lecture includes worked examples with polynomial spaces and matrices, building on material from prerequisite course MATH1013. Visual support is provided through a 3D geometric diagram illustrating how linear combinations of basis vectors span a two-dimensional subspace within three-dimensional space.
 
 ## Key Files
 
@@ -24,7 +24,7 @@ Seventh lecture on linear independence and bases for abstract vector spaces in M
 
 ## Subdirectories
 
-- [x] `diagrams/` - Supporting geometric diagrams (1 PDF file illustrating a plane spanned by vectors) (complete)
+- [x] `diagrams/` - 3D geometric visualization of spanning sets and linear combinations, showing plane spanned by vectors with parallelogram grid pattern in ℝ³ (complete)
 
 ## Search Tags
 
