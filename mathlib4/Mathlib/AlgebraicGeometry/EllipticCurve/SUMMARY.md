@@ -31,7 +31,7 @@ The `EllipticCurve/` directory provides a comprehensive formalization of ellipti
 
 - [x] `Affine/` - Affine coordinate representation of elliptic curve points, including basic definitions, point arithmetic formulas, and group structure on the set of affine points (complete)
 - [x] `Jacobian/` - Jacobian coordinate system for efficient elliptic curve arithmetic, avoiding inversions in field operations by using weighted projective coordinates `(2, 3, 1)` (complete)
-- [ ] `Projective/` - Projective coordinate representation of elliptic curve points, including the point at infinity as a proper projective point (pending)
+- [x] `Projective/` - Projective coordinate representation of elliptic curve points, including the point at infinity as a proper projective point, with complete group law and equivalence to affine coordinates (complete)
 - [ ] `DivisionPolynomial/` - Division polynomials (polynomials whose roots are the x-coordinates of n-torsion points), including basic definitions and degree calculations (pending)
 
 ## Search Tags
