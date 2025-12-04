@@ -20,7 +20,7 @@ No files directly in this directory - all content is organized in subdirectories
 
 ## Subdirectories
 
-- [ ] `Exams/` - Historical examination materials including 2014-2015 mid-semester and final exams with solutions (pending)
+- [x] `Exams/` - Complete collection of 2014-2015 mid-semester and final exam materials with solutions, study guides, and LaTeX source files (complete)
 - [ ] `JELLecturesSem1_2015/` - Complete lecture materials from Jill E. Lawrence's Semester 1 2015 offering, organized as Lecture01-Lecture24+ directories (pending)
 - [ ] `WebAssignQuizzes/` - Ten PDF quiz files from WebAssign online homework system for Semester 1 2015 (pending)
 - [ ] `Worksheets/` - Tutorial worksheets from previous offerings with solutions, including matrix workshops and transformation summaries (pending)
