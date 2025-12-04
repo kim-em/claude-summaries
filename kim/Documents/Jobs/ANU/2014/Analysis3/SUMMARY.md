@@ -36,7 +36,7 @@ MATH3325 Analysis 3 Honours course materials from Semester 2, 2014 at ANU. An ho
 - [x] `ProblemSets/` - Four problem sets with TeX source, compiled PDFs, and handwritten hints files for problem sets 1, 2, and 4; includes flags.tex for conditional compilation
 - [x] `books/` - Reference textbook collection (10 files) including Stein & Shakarchi volumes 1-4 (Fourier, Complex, Real, Functional analysis) with solutions manual for Vol. 3, and additional references by Bressan, Conway, Halmos, Helmberg, and Pedersen
 - [x] `evaluations/` - Student evaluation results for MATH3325 and instructor Scott Morrison (14 enrollments, 5 responses) showing strong satisfaction (4.3/5 course, 4.2/5 instructor); positive feedback on accessible lecture notes and clear explanations; suggestions for more frequent assignments and clearer exam scope
-- [ ] `grades/` - Grade spreadsheets (2460-MATH-3325-7322.xlsx, 2460-MATH-6214-7325.xlsx) and Mathematica notebook for grade calculations (pending)
+- [x] `grades/` - Grade calculation and tracking materials: two official ANU grade spreadsheets (MATH-3325-7322, MATH-6214-7325) and Mathematica notebook performing statistical analysis (SVD, correlation matrices, performance visualizations) on 15 students' scores across 10 assessment components totaling 140 points
 
 ## Search Tags
 
