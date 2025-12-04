@@ -21,7 +21,7 @@ The `NonAssoc/` directory contains theory for non-associative algebraic structur
 ## Subdirectories
 
 - [x] `LieAdmissible/` - Lie-admissible rings and algebras where the associator satisfies an identity ensuring the commutator bracket forms a Lie ring/algebra, with instances showing pre-Lie structures are Lie-admissible (complete)
-- [ ] `PreLie/` - Pre-Lie rings and algebras defined by left or right symmetry of the associator, with equivalence between left and right versions via opposite multiplication (pending)
+- [x] `PreLie/` - Pre-Lie rings and algebras defined by left or right symmetry of the associator, with equivalence between left and right versions via opposite multiplication (complete)
 
 ## Search Tags
 
