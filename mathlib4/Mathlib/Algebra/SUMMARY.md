@@ -84,7 +84,7 @@ The `Algebra/` directory contains the foundations of algebraic structures in mat
 - [x] `AddTorsor/` - Additive torsors (principal homogeneous spaces): `AddTorsor G P` typeclass providing transitive and free additive group actions with `+ᵥ` (vadd) and `-ᵥ` (vsub) operations, complete cancellation theory, point reflection equivalences, and instances for products and Pi types (complete)
 - [x] `AddConstMap/` - Bundled maps and equivalences semiconjugating shifts: `f (x + a) = f x + b` property with comprehensive theory for circle lifts, monotonicity on fundamental intervals, group structure on automorphisms, and floor ring constructions (complete)
 - [x] `AffineMonoid/` - Finitely generated cancellative torsion-free commutative monoids that embed into ℤⁿ, with unique sums/products and irreducible element characterization (complete)
-- [ ] `Azumaya/` - Azumaya algebras (5 files/subdirs) (pending)
+- [x] `Azumaya/` - Azumaya algebras: noncommutative algebras generalizing central simple algebras over commutative rings, defined via tensor product isomorphism with endomorphisms, with instances for the base ring itself and matrix algebras (complete)
 - [ ] `BrauerGroup/` - Brauer group theory (3 files/subdirs) (pending)
 - [ ] `Colimit/` - Colimits in algebra (7 files/subdirs) (pending)
 - [ ] `Jordan/` - Jordan algebras (3 files/subdirs) (pending)
