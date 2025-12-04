@@ -41,7 +41,7 @@ Student submissions for MATH3325 Analysis 3 Honours Assignment 2 (Semester 2, 20
 
 ## Subdirectories
 
-- [ ] `Assignment2Graded/` - Graded versions of student assignments with feedback (16 PDF files, scanned October 1-3, 2014)
+- [x] `Assignment2Graded/` - Graded versions of student assignments with feedback (16 PDF files, scanned October 1-3, 2014)
 
 ## Search Tags
 
