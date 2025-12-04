@@ -91,7 +91,7 @@ The `Algebra/` directory contains the foundations of algebraic structures in mat
 - [x] `NonAssoc/` - Non-associative algebras: pre-Lie rings and algebras with left or right symmetric associators, and Lie-admissible structures where associator identities ensure commutator brackets form Lie algebras (complete)
 - [x] `PresentedMonoid/` - Monoids defined by generators and relations: `PresentedMonoid rels` constructs quotient of free monoid by congruence closure of relations, with canonical map `of : α → PresentedMonoid rels`, universal property `lift` for extending maps that respect relations, induction principles, and proof that generators generate the whole monoid (complete)
 - [x] `QuadraticAlgebra/` - Quadratic algebras over commutative rings representing extensions `R[X]/(X²-bX-a)` with star involution, norm map, and field structure when irreducible (complete)
-- [ ] `SkewMonoidAlgebra/` - Skew monoid algebras (6 files/subdirs) (pending)
+- [x] `SkewMonoidAlgebra/` - Skew monoid algebras: generalization of monoid algebras with monoid action on coefficient ring, finitely supported functions `G →₀ k` with skewed convolution product `(f*g)(a) = Σ(x*y=a) f(x)*(x•g(y))`, universal properties for lifting homomorphisms, point modification operations (erase/update), and support analysis with multiplicative bounds (complete)
 - [ ] `SkewPolynomial/` - Skew polynomial rings (3 files/subdirs) (pending)
 - [ ] `Squarefree/` - Squarefree elements (3 files/subdirs) (pending)
 - [ ] `Tropical/` - Tropical algebra (min-plus and max-plus semirings) (5 files/subdirs) (pending)
