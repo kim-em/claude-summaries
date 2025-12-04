@@ -50,7 +50,7 @@ The `AlgebraicGeometry/` directory provides a comprehensive formalization of alg
 ## Subdirectories
 
 - [x] `Morphisms/` - Comprehensive theory of morphism properties (30 files including affine, closed immersions, étale, finite, flat, integral, proper, quasi-compact, separated, smooth, and universal properties) (complete)
-- [ ] `EllipticCurve/` - Elliptic curves over fields and rings, including Weierstrass forms, group structure, Jacobian coordinates, normal forms, projective and affine models, division polynomials, and reduction theory (pending)
+- [~] `EllipticCurve/` - Elliptic curves over fields and rings, including Weierstrass forms, group structure, Jacobian coordinates, normal forms, projective and affine models, division polynomials, and reduction theory (preliminary)
 - [ ] `ProjectiveSpectrum/` - Projective spectrum Proj of graded rings, the projective analogue of Spec for graded commutative algebras (pending)
 - [ ] `Cover/` - Theory of open covers of schemes, including Zariski covers and various covering properties used in descent theory (pending)
 - [ ] `Sites/` - Grothendieck sites and topologies on schemes (Zariski, étale, etc.) for sheaf theory and descent (pending)
