@@ -32,7 +32,7 @@ MATH3325 Analysis 3 Honours course materials from Semester 2, 2014 at ANU. An ho
 ## Subdirectories
 
 - [x] `Assignments/` - Complete assessment materials: four assignments with TeX source, PDFs, sample solutions; student submission folders with extensive grading feedback (Assignments 1-2); essay workflow with 15 topics, 12 drafts with annotations, 4 examples, 13 final submissions; final examination with alternative questions
-- [ ] `LectureNotes/` - 12+ lecture note files covering the course progression from Hilbert spaces through Banach spaces, including topics on compact operators, functional calculus, Fourier transform, fundamental solutions, Radon-Nikodym derivatives, Stone-Weierstrass theorem, and spectral theory (pending)
+- [x] `LectureNotes/` - Twelve lecture note chapters (0-12) covering Hilbert spaces, compact operators, functional calculus, Fourier transform, fundamental solutions, Dirichlet problem, measure theory, integration theory, function spaces, Radon-Nikodym derivatives, Stone-Weierstrass theorem, spectral theory, and Banach spaces; each with paired LaTeX source and PDF files, 20pt font for projection, color-coded instructor notes
 - [ ] `ProblemSets/` - Four problem sets with TeX source, compiled PDFs, and hints files for problem sets 1, 2, and 4; includes flags.tex for conditional compilation (pending)
 - [ ] `books/` - Reference textbook collection (10 files) including Stein & Shakarchi volumes 1-4 (Fourier, Complex, Real, Functional analysis) with solutions manual for Vol. 3, and additional references by Bressan, Conway, Halmos, Helmberg, and Pedersen (pending)
 - [ ] `evaluations/` - Course and instructor evaluation PDFs showing student feedback on MATH3325 and Scott Morrison's teaching (pending)
