@@ -27,7 +27,7 @@ The `SimplexCategory/` directory contains the complete formalization of the simp
 
 ## Subdirectories
 
-- [ ] `Augmented/` - Augmented simplex category and monoidal structure (pending)
+- [x] `Augmented/` - Augmented simplex category and monoidal structure (complete)
 - [ ] `GeneratorsRelations/` - Generators and relations presentation, normal forms, and epimorphism/monomorphism properties (pending)
 
 ## Search Tags
