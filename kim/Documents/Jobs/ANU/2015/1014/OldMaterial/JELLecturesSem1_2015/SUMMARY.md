@@ -29,7 +29,7 @@ Complete lecture materials from Joan Licata's Semester 1 2013/2015 offering of M
 - [x] `CaseStudies/` - Application examples and case studies including SVD analysis, cryptography (Hill cipher), Fibonacci sequences, error-correcting codes, and various PDF/document resources (complete)
 - [x] `David/` - Lecture materials for Lectures 13-14 covering Markov chains and eigenvectors/eigenvalues, possibly from a different instructor or TA (complete)
 - [x] `LayExams/` - Practice exam problems and solutions from Lay's Linear Algebra textbook, including Second Exam, Third Exam, and Final Exam versions with detailed solutions (complete)
-- [ ] `Lecture01/` - First lecture materials including course introduction, LaTeX source, Beamer presentations (regular and print versions), and Graffle diagrams (pending)
+- [x] `Lecture01/` - First lecture materials including course introduction, LaTeX source, Beamer presentations (regular and print versions), and Graffle diagrams (complete)
 - [ ] `Lecture02/` - Second lecture materials with LaTeX, Beamer PDFs, and graphical resources (pending)
 - [ ] `Lecture03/` - Third lecture materials (pending)
 - [ ] `Lecture04/` - Fourth lecture materials (pending)
