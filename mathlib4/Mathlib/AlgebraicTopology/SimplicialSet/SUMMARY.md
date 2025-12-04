@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/AlgebraicTopology/SimplicialSet
-generated: 2025-12-04T05:40:54Z
+generated: 2025-12-04T08:35:00Z
 git_sha: 453cce856d41bd2715d9055ecdc877015033095f
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 23
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-The `SimplicialSet/` directory contains the formalization of simplicial sets and their fundamental theory. Simplicial sets are Type-valued presheaves on the simplex category, providing a combinatorial approach to homotopy theory. The directory includes basic definitions (simplicial sets as functors, truncated simplicial sets, skeleton and coskeleton functors), geometric constructions (standard simplices, boundaries, horns, subcomplexes), structural theory (degenerate and non-degenerate simplices, composition structures, monoidal products), categorical constructions (nerve of a category, nerve adjunction to the homotopy category), path and homotopy theory (paths in simplicial sets, homotopy category construction, strict Segal condition), and specialized topics (Kan complexes, quasicategorical structures, anodyne extensions for model category theory).
+The `SimplicialSet/` directory provides a comprehensive formalization of simplicial sets and their role in combinatorial homotopy theory. Simplicial sets are Type-valued presheaves on the simplex category, offering a purely combinatorial approach to homotopy theory that parallels topological spaces. The directory develops the theory from foundational definitions through advanced model-categorical structures. It includes basic infrastructure (simplicial sets as functors, limits and colimits, truncation, skeleton and coskeleton adjunctions), geometric building blocks (standard simplices Δ[n], boundaries ∂Δ[n], horns Λ[n,i], and general subcomplexes), structural decomposition (unique factorization of simplices into non-degenerate cores plus degeneracies), categorical bridges (nerve functor from categories to simplicial sets, nerve adjunction to homotopy categories), internal structure (composition structures for edges, strict Segal condition characterizing nerve-like simplicial sets), homotopy theory (path spaces, homotopy category construction), monoidal structure (Cartesian products and monoidal closure), and model category foundations (Kan complexes as fibrant objects, anodyne extensions via pairing theory providing a complete combinatorial characterization of weak factorization systems). The `AnodyneExtensions/` subdirectory contains a particularly elegant theory based on Sean Moss's pairing approach, where strong anodyne extensions are characterized by partitions of nondegenerate simplices into matching type (I) and type (II) simplices, capturing the essential structure of transfinite horn attachment constructions.
 
 ## Key Files
 
