@@ -53,7 +53,7 @@ The `Calculus/` directory contains the formalization of differential and integra
 - [x] `InverseFunctionTheorem/` - Inverse function theorem (local invertibility from invertible derivative) (complete)
 - [x] `IteratedDeriv/` - Iterated derivatives (nth derivatives) (complete)
 - [x] `LineDeriv/` - Directional derivatives (derivatives along lines/vectors) (complete)
-- [ ] `LocalExtr/` - Local extrema and critical points (Fermat's theorem) (pending)
+- [x] `LocalExtr/` - Local extrema and critical points (Fermat's theorem) (complete)
 - [ ] `TangentCone/` - Tangent cones and normal cones for convex analysis and optimization (pending)
 
 ## Search Tags
