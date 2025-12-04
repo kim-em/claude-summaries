@@ -24,7 +24,7 @@ Lecture 21 materials for MATH1014 focusing on orthogonal projections onto subspa
 
 ## Subdirectories
 
-- [ ] `diagrams/` - Supporting diagrams for geometric visualization of projections (4 PDF files: ex1.pdf, ex2.pdf, ex3.pdf for worked examples, la2201.pdf for Best Approximation Theorem illustration) (pending)
+- [x] `diagrams/` - Supporting diagrams for geometric visualization of projections (4 PDF files: ex1.pdf, ex2.pdf, ex3.pdf for worked examples, la2201.pdf for Best Approximation Theorem illustration) (complete)
 
 ## Search Tags
 
