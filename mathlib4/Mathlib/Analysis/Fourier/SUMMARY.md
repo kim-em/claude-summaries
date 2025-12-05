@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Analysis/Fourier
-generated: 2025-12-05T00:00:00Z
+generated: 2025-12-05T13:15:00Z
 git_sha: 488d631b358e81211d82bcf1c4422dd1e2b08702
 git_branch: flexible-linter-simp-suggestions
-status: preliminary
+status: complete
 files_count: 10
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-The `Fourier/` directory contains the formalization of Fourier analysis, including Fourier transforms, Fourier series, and the Fourier inversion theorem. It covers both continuous Fourier transforms on finite-dimensional real vector spaces and discrete Fourier transforms on `ZMod N`. The directory includes fundamental results like the Riemann-Lebesgue lemma (Fourier transforms vanish at infinity), Poisson's summation formula, properties of derivatives of Fourier transforms, and convergence of Fourier series on the additive circle `ℝ / ℤ • T`.
+The `Fourier/` directory contains a comprehensive formalization of Fourier analysis across continuous, discrete, and finite settings. For continuous spaces, it develops Fourier transforms on finite-dimensional real vector spaces with respect to unitary additive characters and bilinear pairings, proving the Riemann-Lebesgue lemma (Fourier transforms vanish at infinity), the Fourier inversion theorem, Poisson's summation formula, and properties of derivatives of Fourier transforms. For periodic settings, it formalizes Fourier series on the additive circle `ℝ / ℤ • T` with Haar measure, proving density of Fourier monomials in L² spaces and uniform convergence results for continuous functions. For discrete settings, it covers discrete Fourier transforms on `ZMod N` with standard additive characters. The `FiniteAbelian/` subdirectory extends the theory to arbitrary finite abelian groups, establishing orthogonality of characters, Pontryagin duality (isomorphism between a finite abelian group and its double dual), and character-theoretic bases for function spaces.
 
 ## Key Files
 
@@ -31,7 +31,7 @@ The `Fourier/` directory contains the formalization of Fourier analysis, includi
 
 ## Subdirectories
 
-- [x] `FiniteAbelian/` - Fourier theory on finite abelian groups: orthogonality of characters and Pontryagin duality (complete)
+- [x] `FiniteAbelian/` - Fourier theory on finite abelian groups: orthogonality of characters, linear independence, Pontryagin duality, and character bases for function spaces (complete)
 
 ## Search Tags
 
