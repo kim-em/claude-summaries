@@ -48,7 +48,7 @@ Complete lecture materials from Joan Licata's Semester 1 2013/2015 offering of M
 - [x] `Lecture17/` - Lecture 19 on discrete dynamical systems (Lay §5.6): recursive equations, eigenvalue-based trajectory analysis, predator-prey models, equilibrium classification (attractors, repellors, saddle points, spirals) (complete)
 - [x] `Lecture18/` - Lecture 20 on inner products and orthogonality: dot product review, vector length/normalization, orthogonal complements, row/column space theorems (complete)
 - [x] `Lecture19/` - Lecture 21 on orthogonal sets, orthogonal/orthonormal bases, and orthogonal matrices (Lay §6.2) with theorems, proofs, and coordinate computation examples (complete)
-- [ ] `Lecture20/` - Twentieth lecture materials (pending)
+- [x] `Lecture20/` - Lecture 22 materials on orthogonal projections onto subspaces (Lay §6.3): Orthogonal Decomposition Theorem, Best Approximation Theorem, projection matrix formula UU^T (complete)
 - [ ] `Lecture21/` - Twenty-first lecture materials (pending)
 - [ ] `Lecture22-REDO!/` - Twenty-second lecture materials, marked for revision (pending)
 - [ ] `Lecture23Applications/` - Twenty-third lecture focused on applications of linear algebra (pending)
