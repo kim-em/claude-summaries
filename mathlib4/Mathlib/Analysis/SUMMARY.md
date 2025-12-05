@@ -45,7 +45,7 @@ The `Analysis/` directory contains the formalization of real and complex analysi
 - [x] `BoxIntegral/` - Box integrals (Henstock-Kurzweil integration theory) (complete)
 - [x] `CStarAlgebra/` - C*-algebras (Banach *-algebras with C* identity) and their analysis (complete)
 - [x] `Calculus/` - Differential and integral calculus (derivatives, integrals, fundamental theorem) (complete)
-- [ ] `Complex/` - Complex analysis (holomorphic functions, Cauchy's theorem, residues) (pending)
+- [~] `Complex/` - Complex analysis (holomorphic functions, Cauchy's theorem, residues) (preliminary)
 - [ ] `Convex/` - Convex analysis (convex functions, convex sets, Jensen's inequality) (pending)
 - [ ] `Distribution/` - Distribution theory (generalized functions, Schwartz distributions) (pending)
 - [ ] `Fourier/` - Fourier analysis (Fourier transforms, Fourier series) (pending)
