@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2015
-generated: 2025-12-04T00:00:00Z
+generated: 2025-12-05T16:10:00Z
 git_sha: 48a99ef1be36fc0c3cca2af4518f1aebb71ec697
 git_branch: master
-status: preliminary
+status: complete
 files_count: 2
 subdirs_count: 9
 ---
@@ -12,7 +12,7 @@ subdirs_count: 9
 
 ## Overview
 
-Records for 2015 academic year at ANU, including annual report documenting research achievements (AustMS Medal, Christopher Heyde Medal, subfactor classification results), teaching responsibilities (DECRA semester 1, MATH1014 semester 2), supervision of PhD student Cain Edie-Michell and several summer/winter research students, Level D promotion application materials with supporting documents, extensive postdoctoral fellowship hiring committee work for two positions, continuing faculty position selection committee participation, HDR Convenor role, and building committee service. Major research accomplishments include classification of subfactors with index at most 5¼, computing annular Khovanov homology, and extensive international collaboration and travel (Oberwolfach, IPAM, Banff, Beijing, Station Q).
+The 2015 academic year represents a career milestone year combining exceptional research recognition, successful promotion, intensive teaching across levels, and extensive service contributions. Research achievements were marked by two major national medals (AustMS Medal and Christopher Heyde Medal) recognizing contributions to subfactor theory and Khovanov homology, alongside classification of subfactors with index at most 5¼ and nine international research trips. Teaching ranged from a large first-year course (MATH1014, ~280 students) with sophisticated LaTeX/web infrastructure to advanced graduate topology (MATH4204, cellular homology through spectra). The successful Level D promotion application demonstrated exceptional performance with h-index of 9 (equal 6th among Go8 pure mathematicians) and strategic career development in teaching and supervision. Service contributions were extensive: HDR Convenor role with formal Statement of Expectations establishing 40% research/40% education/20% service balance, leadership of two major postdoctoral hiring committees processing 25+ exceptional candidates in representation theory and mathematical physics (including evaluation of compiled applications totaling 124MB), participation in continuing faculty position selection across ten external candidates, building committee work on MSI facilities, and ongoing MathOverflow moderation. PhD supervision of Cain Edie-Michell continued alongside mentorship of multiple summer research students including Hugh McCarthy (graded ASC work preserved).
 
 ## Key Files
 
