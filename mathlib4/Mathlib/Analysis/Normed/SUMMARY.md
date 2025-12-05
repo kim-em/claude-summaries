@@ -25,7 +25,7 @@ The `Normed/` directory contains the foundational algebraic structures for norme
 - [x] `Affine/` - Normed affine spaces (add torsors with norms, continuous affine maps, Mazur-Ulam theorem, asymptotic cones) (complete)
 - [x] `Algebra/` - Normed algebras (Banach algebras, spectrum theory, exponential maps, Gelfand-Mazur theorem, unitization) (complete)
 - [x] `Field/` - Normed fields and division rings (multiplicative norms, ultrametric fields, unit balls, absolute values, field completion) (complete)
-- [~] `Group/` - Normed (additive) groups and their basic properties (seminorms, bounded sets, completeness, constructions, homomorphisms) (preliminary)
+- [x] `Group/` - Normed (additive) groups and their basic properties (seminorms, bounded sets, completeness, constructions, homomorphisms, categorical infrastructure) (complete)
 - [ ] `Lp/` - Lp spaces and norms (product and pi types with Lp norms, WithLp construction, Lp equivalences) (pending)
 - [ ] `Module/` - Normed modules and spaces over normed fields (basic properties, dual spaces, finite-dimensional spaces, Hahn-Banach, multilinear maps, tensor products) (pending)
 - [ ] `Operator/` - Bounded linear operators and continuous linear maps (composition, completeness, compactness, Banach-Steinhaus theorem) (pending)

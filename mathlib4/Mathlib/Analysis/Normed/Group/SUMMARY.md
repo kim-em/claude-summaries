@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Analysis/Normed/Group
-generated: 2025-12-05T08:15:00Z
+generated: 2025-12-05T10:30:00Z
 git_sha: 488d631b358e81211d82bcf1c4422dd1e2b08702
 git_branch: flexible-linter-simp-suggestions
-status: preliminary
+status: complete
 files_count: 31
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-The `Group/` directory defines the core theory of normed (additive) groups and seminormed groups in mathlib4. It provides the fundamental typeclasses (`SeminormedAddGroup`, `NormedAddGroup`, `SeminormedAddCommGroup`, `NormedAddCommGroup`), basic properties, and key constructions. This includes the definition of norms as functions to reals, the axiomatization of norm compatibility with group operations, and infrastructure for bounded homomorphisms (`NormedAddGroupHom`). The directory also contains specialized topics like quotient norms, ultrametric norms, infinite sums in normed groups, and categorical structures (`SemiNormedGrp`).
+The `Group/` directory provides the complete foundational theory of normed (additive) groups and seminormed groups in mathlib4. It establishes the fundamental typeclasses (`SeminormedAddGroup`, `NormedAddGroup`, `SeminormedAddCommGroup`, `NormedAddCommGroup`) and their relationship to metric space structures where distance is given by `dist x y = ‖x - y‖`. The directory encompasses both the algebraic perspective (bounded homomorphisms `NormedAddGroupHom`, quotient norms, completeness criteria) and the categorical perspective (the `SemiNormedGrp` category with kernels, cokernels, and completion functors). Specialized topics include ultrametric/nonarchimedean norms, infinite series and summability, function spaces with uniform/normal convergence, and normed structures on specific mathematical objects (integers, rationals, additive circles, additive torsors).
 
 ## Key Files
 
@@ -52,7 +52,7 @@ The `Group/` directory defines the core theory of normed (additive) groups and s
 
 ## Subdirectories
 
-- [x] `SemiNormedGrp/` - Categorical theory: concrete category structure, kernels, cokernels, completion functors
+- [x] `SemiNormedGrp/` - Categorical infrastructure: the `SemiNormedGrp` and `SemiNormedGrp₁` (norm-nonincreasing) categories as concrete categories; kernels and cokernels with norm-preserving properties; completion as an additive endofunctor with universal property for extending morphisms to complete spaces
 
 ## Search Tags
 
