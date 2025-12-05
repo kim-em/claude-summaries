@@ -64,7 +64,7 @@ The `Complex/` directory contains the formalization of complex analysis, includi
 - [x] `Polynomial/` - Complex polynomials and their analytical properties (complete)
 - [x] `UnitDisc/` - Unit disc and related constructions (complete)
 - [x] `UpperHalfPlane/` - Upper half-plane model and its properties (complete)
-- [ ] `ValueDistribution/` - Value distribution theory for holomorphic functions (pending)
+- [x] `ValueDistribution/` - Nevanlinna value distribution theory (characteristic, counting, proximity functions; First Main Theorem) (complete)
 
 ## Search Tags
 
