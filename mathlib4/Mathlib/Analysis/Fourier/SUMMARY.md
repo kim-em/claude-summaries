@@ -31,7 +31,7 @@ The `Fourier/` directory contains the formalization of Fourier analysis, includi
 
 ## Subdirectories
 
-- [ ] `FiniteAbelian/` - Fourier theory on finite abelian groups (pending)
+- [x] `FiniteAbelian/` - Fourier theory on finite abelian groups: orthogonality of characters and Pontryagin duality (complete)
 
 ## Search Tags
 
