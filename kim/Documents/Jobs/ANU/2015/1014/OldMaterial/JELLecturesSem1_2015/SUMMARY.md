@@ -47,7 +47,7 @@ Complete lecture materials from Joan Licata's Semester 1 2013/2015 offering of M
 - [x] `Lecture16/` - Lecture 18 on complex eigenvalues and eigenvectors (Lay §5.5): computing complex roots, geometric interpretation as rotation-plus-scaling, similarity transformations, normal forms (complete)
 - [x] `Lecture17/` - Lecture 19 on discrete dynamical systems (Lay §5.6): recursive equations, eigenvalue-based trajectory analysis, predator-prey models, equilibrium classification (attractors, repellors, saddle points, spirals) (complete)
 - [x] `Lecture18/` - Lecture 20 on inner products and orthogonality: dot product review, vector length/normalization, orthogonal complements, row/column space theorems (complete)
-- [ ] `Lecture19/` - Nineteenth lecture materials (pending)
+- [x] `Lecture19/` - Lecture 21 on orthogonal sets, orthogonal/orthonormal bases, and orthogonal matrices (Lay §6.2) with theorems, proofs, and coordinate computation examples (complete)
 - [ ] `Lecture20/` - Twentieth lecture materials (pending)
 - [ ] `Lecture21/` - Twenty-first lecture materials (pending)
 - [ ] `Lecture22-REDO!/` - Twenty-second lecture materials, marked for revision (pending)
