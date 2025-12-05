@@ -30,7 +30,7 @@ Level D (Associate Professor) promotion application materials from 2015, includi
 
 ## Subdirectories
 
-- [~] `2014/` - Prior 2014 Level D promotion application materials (preliminary)
+- [x] `2014/` - Prior 2014 Level D promotion application materials
 - [ ] `supporting-documents/` - Supporting documentation including h-index comparisons (1996, 2008), MATH3325 course materials (2013-2014), course evaluations, Heyde Medal, MathOverflow moderator evidence, peer comparison document (pending)
 
 ## Search Tags
