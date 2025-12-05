@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Analysis/Complex
-generated: 2025-12-05T00:00:00Z
+generated: 2025-12-05T10:00:00Z
 git_sha: 488d631b358e81211d82bcf1c4422dd1e2b08702
 git_branch: flexible-linter-simp-suggestions
-status: preliminary
+status: complete
 files_count: 39
 subdirs_count: 5
 ---
@@ -12,7 +12,9 @@ subdirs_count: 5
 
 ## Overview
 
-The `Complex/` directory contains the formalization of complex analysis, including fundamental theorems about holomorphic functions, Cauchy's integral formulas, maximum modulus principles, and related results. It establishes the normed field structure on ℂ and develops the theory of complex differentiable functions with applications to analytic continuation, singularities, and conformal mappings. The directory includes classical results like Liouville's theorem, the open mapping theorem, Schwarz lemma, and the Phragmen-Lindelöf principle.
+The `Complex/` directory provides a comprehensive formalization of complex analysis, establishing ℂ as a normed field and developing the classical theory of holomorphic and meromorphic functions. The directory contains fundamental theorems of complex analysis including Cauchy's integral formulas, Liouville's theorem, the maximum modulus principle, the open mapping theorem, Schwarz lemma, and the Phragmen-Lindelöf principle. It also covers removable singularities, conformal mappings, Taylor series convergence, and various complex analytic constructions.
+
+Beyond general complex analysis, the directory includes specialized subdirectories for harmonic functions (satisfying Laplace's equation), complex polynomials (including the Fundamental Theorem of Algebra), the unit disc and upper half-plane as fundamental domains for geometric complex analysis, and Nevanlinna value distribution theory for measuring the complexity of meromorphic functions. Together, these components establish a foundation for further work in complex geometry, modular forms, and analytic number theory.
 
 ## Key Files
 
@@ -60,12 +62,12 @@ The `Complex/` directory contains the formalization of complex analysis, includi
 
 ## Subdirectories
 
-- [x] `Harmonic/` - Harmonic functions (functions satisfying Laplace's equation) (complete)
-- [x] `Polynomial/` - Complex polynomials and their analytical properties (complete)
-- [x] `UnitDisc/` - Unit disc and related constructions (complete)
-- [x] `UpperHalfPlane/` - Upper half-plane model and its properties (complete)
-- [x] `ValueDistribution/` - Nevanlinna value distribution theory (characteristic, counting, proximity functions; First Main Theorem) (complete)
+- [x] `Harmonic/` - Theory of harmonic functions satisfying Laplace's equation; proves harmonic functions are real-analytic (real parts of holomorphic functions) and satisfy the mean value property
+- [x] `Polynomial/` - Complex polynomials including Fundamental Theorem of Algebra (ℂ is algebraically closed), Gauss-Lucas theorem on derivative roots, and irreducibility criteria for unit trinomials
+- [x] `UnitDisc/` - Complex unit disc 𝔻 (Poincaré disc) as open unit ball in ℂ; algebraic structures, scalar actions by unit circle and closed ball, conjugation and projections
+- [x] `UpperHalfPlane/` - Upper half-plane ℍ = {z : Im(z) > 0} with hyperbolic/Poincaré metric, GL(2,ℝ) and SL(2,ℤ) actions by Möbius transformations, smooth manifold structure, functions bounded at infinity (modular forms)
+- [x] `ValueDistribution/` - Nevanlinna value distribution theory for meromorphic functions: characteristic function (height), counting function, proximity function, and First Main Theorem establishing invariance under function transformations
 
 ## Search Tags
 
-complex-analysis holomorphic analytic cauchy-integral cauchy-theorem liouville-theorem maximum-modulus open-mapping schwarz-lemma phragmen-lindelof removable-singularity conformal-mapping taylor-series power-series entire-functions meromorphic residue-calculus circle-integral hadamard jensen-formula primitive-function abel-limit trigonometric exponential fourier-character harmonic-functions upper-half-plane unit-disc
+complex-analysis holomorphic analytic cauchy-integral cauchy-theorem liouville-theorem maximum-modulus open-mapping schwarz-lemma phragmen-lindelof removable-singularity conformal-mapping taylor-series power-series entire-functions meromorphic residue-calculus circle-integral hadamard jensen-formula primitive-function abel-limit trigonometric exponential fourier-character harmonic-functions laplace-equation real-analytic mean-value-property fundamental-theorem-of-algebra algebraically-closed gauss-lucas-theorem polynomial-roots unit-disc poincare-disc upper-half-plane hyperbolic-geometry moebius-transformation modular-group GL2R SL2Z manifold-structure bounded-at-infinity modular-forms nevanlinna-theory value-distribution characteristic-function counting-function proximity-function first-main-theorem
