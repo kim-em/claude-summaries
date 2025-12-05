@@ -34,7 +34,7 @@ Complete lecture materials from Joan Licata's Semester 1 2013/2015 offering of M
 - [x] `Lecture03/` - Lectures 3-4 materials covering vector equations for lines and planes, cross product introduction, and distance formulas in R³ (complete)
 - [x] `Lecture04/` - Lecture 4 materials on geometric distances in R³: point-to-plane, point-to-line, and line-to-line distance formulas with physics/engineering applications (complete)
 - [x] `Lecture05/` - Lecture 5 introducing abstract vector spaces and subspaces: ten vector space axioms, examples (matrices, polynomials, functions), subspace definition with closure properties, span construction, and column spaces (complete)
-- [ ] `Lecture06/` - Sixth lecture materials (pending)
+- [x] `Lecture06/` - Lecture 6 on null spaces, column spaces, and linear transformations: generalizing matrix concepts to abstract vector spaces with kernel and range (complete)
 - [ ] `Lecture07/` - Seventh lecture materials (pending)
 - [ ] `Lecture08/` - Eighth lecture materials (pending)
 - [ ] `Lecture09*(redo)/` - Ninth lecture materials, marked as redo suggesting revision or correction (pending)
