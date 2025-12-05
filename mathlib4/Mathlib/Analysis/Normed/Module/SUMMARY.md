@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Analysis/Normed/Module
-generated: 2025-12-05T09:00:00Z
+generated: 2025-12-05T11:00:00Z
 git_sha: 488d631b358e81211d82bcf1c4422dd1e2b08702
 git_branch: flexible-linter-simp-suggestions
-status: preliminary
+status: complete
 files_count: 19
 subdirs_count: 5
 ---
@@ -12,7 +12,7 @@ subdirs_count: 5
 
 ## Overview
 
-The `Module/` directory provides the core theory of normed vector spaces over normed fields. It defines the fundamental `NormedSpace` typeclass and establishes essential properties including norm-scalar multiplication inequalities, dual spaces, finite-dimensional theory, and the Hahn-Banach theorem. This directory contains both foundational definitions (basic normed space structure, completions, dual spaces) and specialized theory (convexity, connectedness, multilinear maps, tensor products, weak topology). It serves as the bridge between algebraic module theory and topological/metric properties.
+The `Module/` directory provides comprehensive theory of normed vector spaces over normed fields, serving as the bridge between algebraic module theory and topological/metric structures. At its foundation, it defines the `NormedSpace` typeclass requiring `‖a • b‖ ≤ ‖a‖ * ‖b‖` and develops essential properties including completions, dual spaces (both strong operator norm and weak-* topologies), finite-dimensional theory, complemented subspaces, and the Hahn-Banach extension theorem. The directory's specialized subdirectories build sophisticated multilinear theory: continuous multilinear maps with operator norm and currying/uncurrying isometric equivalences, alternating maps forming the foundation for exterior algebra and differential forms, and pi-type tensor products with projective/injective seminorms establishing the universal property. Additional theory covers geometric aspects (convexity, path-connectedness, ray alignment), structural decompositions (L-projections and M-projections for Boolean algebra structure), approximation theory (Riesz's lemma for closed subspaces), and specialized results for balls/spheres (multiplicative actions, homeomorphisms with unit balls, radial/polar coordinates) and real-closed-like fields (normalization, operator norm bounds from sphere bounds, continuous extensions preserving norms). This comprehensive framework supports advanced functional analysis including Banach space theory, differential geometry, and operator algebras.
 
 ## Key Files
 
