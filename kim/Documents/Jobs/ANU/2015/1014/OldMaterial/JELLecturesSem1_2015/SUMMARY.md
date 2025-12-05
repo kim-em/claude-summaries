@@ -37,7 +37,7 @@ Complete lecture materials from Joan Licata's Semester 1 2013/2015 offering of M
 - [x] `Lecture06/` - Lecture 6 on null spaces, column spaces, and linear transformations: generalizing matrix concepts to abstract vector spaces with kernel and range (complete)
 - [x] `Lecture07/` - Lecture 7 on linear independence and bases: formal definitions, spanning set theorem, algorithms for finding bases of null spaces and column spaces, unique representation theorem, and coordinate systems (complete)
 - [x] `Lecture08/` - Lecture 8 on coordinate systems and change of basis: isomorphisms, change-of-coordinate matrices, two algorithmic approaches (direct and via standard basis) (complete)
-- [ ] `Lecture09*(redo)/` - Ninth lecture materials, marked as redo suggesting revision or correction (pending)
+- [x] `Lecture09*(redo)/` - Ninth lecture materials covering dimension theory and rank theorem, marked as redo suggesting revision or correction (complete)
 - [ ] `Lecture10/` - Tenth lecture materials (pending)
 - [ ] `Lecture11/` - Eleventh lecture materials (pending)
 - [ ] `Lecture12/` - Twelfth lecture materials (pending)
