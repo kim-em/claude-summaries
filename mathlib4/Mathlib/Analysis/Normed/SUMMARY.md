@@ -31,7 +31,7 @@ The `Normed/` directory contains the foundational algebraic structures for norme
 - [x] `Operator/` - Bounded linear operators and continuous linear maps (operator norm, linear isometries, Banach open mapping theorem, Banach-Steinhaus uniform boundedness principle, compact operators, extension theorems) (complete)
 - [x] `Order/` - Ordered normed structures (normed lattices, upper/lower sets, order homomorphisms) (complete)
 - [x] `Ring/` - Normed rings (seminormed rings, submultiplicative norms, integer casts, units, ultrametric rings) (complete)
-- [ ] `Unbundled/` - Unbundled seminorms and norms (ring seminorms, algebra norms, spectral norms, smoothing seminorms) (pending)
+- [x] `Unbundled/` - Unbundled seminorms and norms (ring seminorms, algebra norms, spectral norms, smoothing seminorms) (complete)
 
 ## Search Tags
 
