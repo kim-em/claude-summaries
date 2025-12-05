@@ -23,7 +23,7 @@ The `Alternating/` directory develops the theory of continuous alternating multi
 
 ## Subdirectories
 
-- [ ] `Uncurry/` - Uncurrying operations (inverse of currying, combining variables) (pending)
+- [x] `Uncurry/` - Uncurrying operations (`alternatizeUncurryFin` construction, round-trip with curry, second exterior derivative application) (complete)
 
 ## Search Tags
 
