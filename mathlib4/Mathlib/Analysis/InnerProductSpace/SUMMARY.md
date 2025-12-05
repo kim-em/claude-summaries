@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Analysis/InnerProductSpace
-generated: 2025-12-05T02:20:27Z
+generated: 2025-12-05T10:27:15Z
 git_sha: 488d631b358e81211d82bcf1c4422dd1e2b08702
 git_branch: flexible-linter-simp-suggestions
-status: preliminary
+status: complete
 files_count: 41
 subdirs_count: 2
 ---
@@ -12,7 +12,7 @@ subdirs_count: 2
 
 ## Overview
 
-This directory contains the formalization of inner product spaces and Hilbert spaces in Lean. It defines the fundamental structure of inner product spaces (vector spaces with inner products generalizing the dot product), proves core theorems like the Cauchy-Schwarz inequality and polarization identity, and develops the theory of orthogonality, projections, adjoints, and spectral theory for self-adjoint operators. The implementation handles both real and complex inner product spaces uniformly through the `RCLike` typeclass, with the convention that inner products are conjugate-linear in the first argument and linear in the second.
+This directory contains the comprehensive formalization of inner product spaces and Hilbert spaces in Lean. It defines the fundamental structure of inner product spaces (vector spaces with inner products generalizing the dot product), proves core theorems like the Cauchy-Schwarz inequality and polarization identity, and develops the complete theory of orthogonality, projections, adjoints, and spectral theory for self-adjoint operators. The implementation handles both real and complex inner product spaces uniformly through the `RCLike` typeclass, with the convention that inner products are conjugate-linear in the first argument and linear in the second. The directory includes specialized subdirectories for orthogonal projection theory (existence theorems, reflection isometries, finite-dimensional results including Cartan-Dieudonné theorem) and harmonic functions (connecting inner product spaces with complex analysis by proving that complex-analytic functions are harmonic).
 
 ## Key Files
 
@@ -62,8 +62,8 @@ This directory contains the formalization of inner product spaces and Hilbert sp
 
 ## Subdirectories
 
-- [x] `Harmonic/` - Harmonic functions on real finite-dimensional inner product spaces and complex-analytic functions
-- [x] `Projection/` - Orthogonal projection theory (projections onto closed subspaces, existence and uniqueness theorems)
+- [x] `Harmonic/` - Harmonic functions on real finite-dimensional inner product spaces; defines `HarmonicAt` and `HarmonicOnNhd` predicates for functions with vanishing Laplacian, proves that complex-analytic functions are harmonic (including real/imaginary parts, conjugates, and logarithms of norms)
+- [x] `Projection/` - Orthogonal projection theory; proves Hilbert projection theorem (existence/uniqueness of minimizers), constructs projection operators `K.orthogonalProjection` and `K.starProjection`, develops reflection isometries, proves `K ⊔ Kᗮ = ⊤` and `Kᗮᗮ = K` for complete subspaces, and includes finite-dimensional results (dimension formula, Cartan-Dieudonné theorem on reflection factorization, orthogonal family decompositions)
 
 ## Search Tags
 
