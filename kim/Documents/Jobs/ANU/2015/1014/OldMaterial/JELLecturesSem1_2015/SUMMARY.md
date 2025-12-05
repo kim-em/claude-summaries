@@ -44,7 +44,7 @@ Complete lecture materials from Joan Licata's Semester 1 2013/2015 offering of M
 - [x] `Lecture13/` - Lecture 15 materials on characteristic equations, eigenvalue computation, similarity transformations, and dynamical systems applications with Maple worksheets (complete)
 - [x] `Lecture14/` - Lecture 16 on matrix diagonalization: diagonalization theorem, eigenspace dimensions, and worked examples showing when matrices are/aren't diagonalizable (complete)
 - [x] `Lecture15/` - Lecture 17 on matrix representations of linear transformations relative to different bases (Lay §5.4), showing how choice of basis affects matrix representation and connects to diagonalization (complete)
-- [ ] `Lecture16/` - Sixteenth lecture materials (pending)
+- [x] `Lecture16/` - Lecture 18 on complex eigenvalues and eigenvectors (Lay §5.5): computing complex roots, geometric interpretation as rotation-plus-scaling, similarity transformations, normal forms (complete)
 - [ ] `Lecture17/` - Seventeenth lecture materials (pending)
 - [ ] `Lecture18/` - Eighteenth lecture materials (pending)
 - [ ] `Lecture19/` - Nineteenth lecture materials (pending)
