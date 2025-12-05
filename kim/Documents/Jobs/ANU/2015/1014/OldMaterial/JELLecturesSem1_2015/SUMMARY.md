@@ -45,7 +45,7 @@ Complete lecture materials from Joan Licata's Semester 1 2013/2015 offering of M
 - [x] `Lecture14/` - Lecture 16 on matrix diagonalization: diagonalization theorem, eigenspace dimensions, and worked examples showing when matrices are/aren't diagonalizable (complete)
 - [x] `Lecture15/` - Lecture 17 on matrix representations of linear transformations relative to different bases (Lay §5.4), showing how choice of basis affects matrix representation and connects to diagonalization (complete)
 - [x] `Lecture16/` - Lecture 18 on complex eigenvalues and eigenvectors (Lay §5.5): computing complex roots, geometric interpretation as rotation-plus-scaling, similarity transformations, normal forms (complete)
-- [ ] `Lecture17/` - Seventeenth lecture materials (pending)
+- [x] `Lecture17/` - Lecture 19 on discrete dynamical systems (Lay §5.6): recursive equations, eigenvalue-based trajectory analysis, predator-prey models, equilibrium classification (attractors, repellors, saddle points, spirals) (complete)
 - [ ] `Lecture18/` - Eighteenth lecture materials (pending)
 - [ ] `Lecture19/` - Nineteenth lecture materials (pending)
 - [ ] `Lecture20/` - Twentieth lecture materials (pending)
