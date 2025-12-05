@@ -24,7 +24,7 @@ Organized collection of reference letters for 14 candidates in the ANU postdocto
 - [x] `Chapman/` - Reference letters for Kyle Chapman - 3 letters emphasizing exceptional teaching, PhD on ergodic algorithms for thick knots, and creative work on subfactor planar algebras (complete)
 - [x] `Cui/` - Reference letters for Xingshan Cui (Shawn) - 2 exceptionally strong recommendations emphasizing fundamental work in (3+1)-TQFTs, gauging symmetries, and anyonic quantum computation (complete)
 - [x] `Ganev/` - Reference letters for Iordan Ganev - 5 exceptionally strong recommendations from distinguished mathematicians (Ben-Zvi, Jordan, Chen, Schedler, Kremnitzer) for PhD candidate specializing in quantum groups, hypertoric varieties, and quantum wonderful compactifications (complete)
-- [ ] `Grant/` - Reference letters for Grant (pending)
+- [x] `Grant/` - Reference letters for Jonathan Grant - 4 exceptionally strong recommendations from distinguished mathematicians (Lobb, Rasmussen, Peyerimhoff, Vaz) for PhD candidate specializing in categorified quantum groups, knot homology, and Alexander polynomial categorification (complete)
 - [ ] `Hilburn/` - Reference letters for Hilburn (pending)
 - [ ] `Hogancamp/` - Reference letters for Hogancamp (pending)
 - [ ] `Jones/` - Reference letters for Jones (pending)
