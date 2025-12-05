@@ -40,7 +40,7 @@ Complete lecture materials from Joan Licata's Semester 1 2013/2015 offering of M
 - [x] `Lecture09*(redo)/` - Ninth lecture materials covering dimension theory and rank theorem, marked as redo suggesting revision or correction (complete)
 - [x] `Lecture10/` - Lecture 11 materials on eigenvectors and eigenvalues (Lay §5.1) with revision of vector spaces, bases, and geometry, plus Maple worksheets demonstrating matrix iteration and convergence (complete)
 - [x] `Lecture11/` - Lecture 13 materials on Markov chains with duplicate source files (Lecture10.tex/Lecture11.tex), Beamer slides (LA10/LA11), and rat cage diagram (complete)
-- [ ] `Lecture12/` - Twelfth lecture materials (pending)
+- [x] `Lecture12/` - Lecture 14 materials on eigenvectors and eigenvalues: definitions, eigenspaces as null spaces, triangular matrix theorem, and linear independence of eigenvectors (complete)
 - [ ] `Lecture13/` - Thirteenth lecture materials (pending)
 - [ ] `Lecture14/` - Fourteenth lecture materials (pending)
 - [ ] `Lecture15/` - Fifteenth lecture materials (pending)
