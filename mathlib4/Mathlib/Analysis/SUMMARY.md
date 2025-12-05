@@ -49,7 +49,7 @@ The `Analysis/` directory contains the formalization of real and complex analysi
 - [x] `Convex/` - Convex analysis (convex functions, convex sets, Jensen's inequality) (complete)
 - [x] `Distribution/` - Distribution theory (generalized functions, Schwartz distributions) (complete)
 - [x] `Fourier/` - Fourier analysis (Fourier transforms, Fourier series, Poisson summation, Riemann-Lebesgue lemma, finite abelian group characters) (complete)
-- [ ] `FunctionalSpaces/` - Functional spaces and their properties (pending)
+- [x] `FunctionalSpaces/` - Gagliardo-Nirenberg-Sobolev inequality for bounding Lᵖ norms of compactly-supported C¹ functions by norms of their derivatives (complete)
 - [ ] `InnerProductSpace/` - Inner product spaces (Hilbert spaces, orthogonality, projections) (pending)
 - [ ] `LocallyConvex/` - Locally convex topological vector spaces (pending)
 - [ ] `Matrix/` - Matrix analysis (matrix norms, matrix functions, spectral theory) (pending)
