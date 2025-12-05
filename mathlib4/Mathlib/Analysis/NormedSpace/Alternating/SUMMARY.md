@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Analysis/NormedSpace/Alternating
-generated: 2025-12-05T07:30:00Z
+generated: 2025-12-05T07:40:00Z
 git_sha: 488d631b358e81211d82bcf1c4422dd1e2b08702
 git_branch: flexible-linter-simp-suggestions
-status: preliminary
+status: complete
 files_count: 2
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-The `Alternating/` directory contains deprecated import forwarding modules for alternating multilinear maps in normed spaces. All files were deprecated on 2025-11-21 and redirect to the reorganized `Mathlib.Analysis.Normed.Module.Alternating.*` hierarchy. The directory provides backward compatibility for code referencing the old `Mathlib.Analysis.NormedSpace.Alternating.*` paths, covering basic alternating map theory, curry operations, and uncurry operations specialized to Fin-indexed maps.
+The `Alternating/` directory is a deprecated import layer providing backward compatibility for alternating multilinear maps in normed spaces. All content was deprecated on 2025-11-21 during a module reorganization that moved alternating map functionality to `Mathlib.Analysis.Normed.Module.Alternating.*`. The directory contains two top-level import forwarders for basic alternating map theory and curry operations, plus a subdirectory for uncurry operations. The `Uncurry/` subdirectory specifically handles uncurry operations for Fin-indexed alternating maps, maintaining compatibility with code that referenced the old `Mathlib.Analysis.NormedSpace.Alternating.Uncurry.*` namespace.
 
 ## Key Files
 

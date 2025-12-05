@@ -40,7 +40,7 @@ The `NormedSpace/` directory is a deprecated import layer providing backward com
 
 ## Subdirectories
 
-- [~] `Alternating/` - Alternating multilinear maps in normed spaces (preliminary)
+- [x] `Alternating/` - Alternating multilinear maps in normed spaces (complete)
 - [ ] `HahnBanach/` - Hahn-Banach extension theorem for continuous linear functionals (pending)
 - [ ] `Multilinear/` - Multilinear maps between normed spaces (pending)
 - [ ] `OperatorNorm/` - Operator norms for continuous linear maps (pending)
