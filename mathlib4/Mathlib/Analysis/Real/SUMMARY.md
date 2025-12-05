@@ -25,7 +25,7 @@ The `Real/` directory contains analysis specific to the real numbers. This inclu
 
 ## Subdirectories
 
-- [ ] `Pi/` - Analysis of π: bounds, irrationality proofs (Cartwright's proof), classical formulas (Leibniz series, Wallis product, Chudnovsky algorithm) (pending)
+- [x] `Pi/` - Analysis of π: bounds, irrationality proofs (Cartwright's proof), classical formulas (Leibniz series, Wallis product, Chudnovsky algorithm) (complete)
 
 ## Search Tags
 
