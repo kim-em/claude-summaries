@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2015/LevelD/supporting-documents
-generated: 2025-12-05T08:47:23Z
+generated: 2025-12-05T09:05:00Z
 git_sha: 48a99ef1be36fc0c3cca2af4518f1aebb71ec697
 git_branch: master
-status: preliminary
+status: complete
 files_count: 9
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Supporting documentation for 2015 Level D promotion application including citation comparisons with Go8 mathematicians (h-index analysis from 1996 and 2008), Christopher Heyde Medal award announcement, MATH3325 course materials and evaluations from 2013-2014, evidence of MathOverflow moderator status, and compiled supporting documents package. The materials demonstrate Scott Morrison's exceptional research impact (h-index of 9 ranking 6th among Level D Go8 pure mathematicians, h-index of 8 since 2008 exceeding all Level D peers), teaching excellence (average course evaluations 4.1-4.2 for voluntary MATH3325 teaching), and service contributions (MathOverflow co-founder/moderator with 4,438 reputation).
+Comprehensive supporting documentation for 2015 Level D promotion application, demonstrating exceptional performance across research, teaching, and service. Research impact is evidenced through citation comparisons with Go8 mathematicians, showing h-index of 9 (equal 6th among all Level D Go8 pure mathematicians since 1996) and h-index of 8 since 2008 (exceeding all Level D peers and ranking equal 5th among all Go8 pure mathematicians), plus 2015 Christopher Heyde Medal in pure mathematics from the Australian Academy of Science. Teaching excellence is demonstrated through voluntary MATH3325 Analysis 3 Honours instruction during DECRA fellowship (2013-2014), with course evaluations showing strong student satisfaction (4.3-4.4/5 learning experience, 4.0-4.4/5 teaching quality) and year-over-year improvement. Service contributions are evidenced through MathOverflow co-founder/moderator status (4,438 reputation, appointed 2013). All materials are compiled into a unified supporting documents package for the promotion committee.
 
 ## Key Files
 
@@ -30,7 +30,7 @@ Supporting documentation for 2015 Level D promotion application including citati
 
 ## Subdirectories
 
-- [x] `course-evaluations/` - Detailed EvaSys evaluation reports for MATH3325 Analysis 3 Honours 2013-2014 with separate course and instructor assessments (complete)
+- [x] `course-evaluations/` - Detailed EvaSys evaluation reports for MATH3325 Analysis 3 Honours 2013-2014 with separate course and instructor assessments showing consistent strong performance (4.0-4.4/5 teaching quality) and year-over-year improvement (complete)
 
 ## Search Tags
 
