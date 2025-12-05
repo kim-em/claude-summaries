@@ -22,7 +22,7 @@ Hiring materials for postdoctoral research fellow position #492617, part of Amno
 
 ## Subdirectories
 
-- [ ] `Referee Reports/` - Referee report PDFs for approximately 10 postdoctoral candidates with multiple references each from leading mathematicians (pending)
+- [x] `Referee Reports/` - Referee report PDFs for approximately 10 postdoctoral candidates with multiple references each from leading mathematicians (complete)
 
 ## Search Tags
 
