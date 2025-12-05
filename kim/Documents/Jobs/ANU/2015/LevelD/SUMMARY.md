@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2015/LevelD
-generated: 2025-12-05T04:33:58Z
+generated: 2025-12-05T09:20:00Z
 git_sha: 48a99ef1be36fc0c3cca2af4518f1aebb71ec697
 git_branch: master
-status: preliminary
+status: complete
 files_count: 9
 subdirs_count: 2
 ---
@@ -12,7 +12,7 @@ subdirs_count: 2
 
 ## Overview
 
-Level D (Associate Professor) promotion application materials from 2015, including complete application package with proforma documents, one-page summary, comprehensive research/teaching/service statements (LaTeX source and PDFs), supporting documentation (h-index comparisons, course evaluations, Heyde Medal, MathOverflow evidence), interview notes, academic promotions policy guidance, and prior 2014 application materials. The application emphasizes Scott Morrison's exceptional research output (24 papers, h-index of 9, recent Christopher Heyde Medal), successful grant record (DECRA, Discovery, DARPA), extensive service (MathOverflow co-founder/moderator, HDR convenor, AustMS Council, arXiv advisory board), and teaching excellence (voluntary MATH3325 teaching during DECRA, MATH1014 coordination).
+Complete archive of Scott Morrison's successful 2015 Level D (Associate Professor) promotion application at ANU, following an unsuccessful 2014 attempt. The 2015 application demonstrates exceptional performance across all criteria: research impact evidenced by h-index of 9 (equal 6th among all Level D Go8 pure mathematicians since 1996, equal 5th since 2008) and 2015 Christopher Heyde Medal; teaching excellence through voluntary MATH3325 honours teaching during DECRA fellowship with strong course evaluations (4.3-4.4/5) and year-over-year improvement; and extensive service as MathOverflow co-founder/moderator (4,438 reputation, appointed 2013), HDR convenor, AustMS Council member, and arXiv advisory committee member. The application package includes official proforma documents, one-page summary, comprehensive research/teaching/service statements (LaTeX source and PDFs), meticulously compiled supporting documentation package (citation comparisons, course evaluations, medal announcement, MathOverflow evidence), interview notes, and academic promotions policy guidance. The prior 2014 application materials provide context for the evolution of the application strategy, showing the successful refinement of the case for early promotion based on 24 papers, extensive grant funding (DECRA, Discovery, DARPA), and international recognition.
 
 ## Key Files
 
@@ -30,8 +30,8 @@ Level D (Associate Professor) promotion application materials from 2015, includi
 
 ## Subdirectories
 
-- [x] `2014/` - Prior 2014 Level D promotion application materials
-- [x] `supporting-documents/` - Supporting documentation including h-index comparisons (1996, 2008), MATH3325 course materials (2013-2014), course evaluations, Heyde Medal, MathOverflow moderator evidence, peer comparison document (complete)
+- [x] `2014/` - Prior 2014 Level D promotion application materials: unsuccessful first attempt with complete 12-page package including proforma, comprehensive statements, CV, six international referee letters (Teichner/Max Planck, Etingof/MIT, Jones/Vanderbilt, Freedman/Microsoft Station Q, Kawahigashi/Tokyo, Ferrario/ANU), committee membership lists, and 2014 promotions round policy documentation
+- [x] `supporting-documents/` - Comprehensive supporting documentation demonstrating exceptional performance: citation comparisons showing h-index 9 (equal 6th among all Level D Go8 pure mathematicians since 1996) and h-index 8 since 2008 (equal 5th among all Go8 pure mathematicians), 2015 Christopher Heyde Medal announcement, MATH3325 course evaluations 2013-2014 with strong student satisfaction (4.3-4.4/5) and improvement trends, MathOverflow moderator evidence (4,438 reputation), compiled supporting documents package (755KB), and detailed EvaSys evaluation reports
 
 ## Search Tags
 
