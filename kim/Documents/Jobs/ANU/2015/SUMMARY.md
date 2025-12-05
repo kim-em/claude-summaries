@@ -23,7 +23,7 @@ Records for 2015 academic year at ANU, including annual report documenting resea
 
 ## Subdirectories
 
-- [~] `1014/` - MATH1014 teaching materials for semester 2 including extensive notes, worksheets, exams, grading records (final grades, attendance correlations), EAP materials, timetabling, jokes file, symlink to web teaching directory (preliminary)
+- [x] `1014/` - Complete teaching archive for MATH1014 (Mathematics and Applications 1) Semester 2 2015: Scott Morrison's comprehensive first-year linear algebra course with 25 professional lectures, 11 tutorial worksheets, complete examination materials, ~280 student grading records and attendance analysis, confidential EAP accommodations, timetabling logistics, building on Joan Licata's rich historical materials (2013-2015) with sophisticated LaTeX infrastructure and web deployment
 - [ ] `4204/` - MATH4204 course materials including lecture PDFs (27 lectures, full compiled notes ~2.4MB) (pending)
 - [ ] `Amnon's postdocs/` - Postdoctoral fellowship applications for position #492617 including compiled applications PDF (~82MB), referee reports for ~40 candidates (pending)
 - [ ] `Applications - Postdoctoral Fellow_Research Fellow/` - Postdoctoral fellowship applications for position #507048 including compiled applications PDF (~42MB), referee reports, shortlist PDF (~8.7MB) (pending)
