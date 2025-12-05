@@ -23,7 +23,7 @@ Fifth year of ANU faculty employment (2016) documenting promotion to Associate P
 
 ## Subdirectories
 
-- [ ] `Analysis3/` - MATH3325 Analysis 3 Semester 2 teaching materials (pending)
+- [~] `Analysis3/` - MATH3325 Analysis 3 Semester 2 teaching materials (preliminary)
 - [ ] `ASC/` - Australian Summer Course materials on Knot Theory co-taught with Zsuzsanna Dancso (pending)
 - [ ] `CategoryTheory/` - Special topics course on Category Theory Semester 1 materials (pending)
 - [ ] `IT-committee/` - IT committee work including website proposal (pending)
