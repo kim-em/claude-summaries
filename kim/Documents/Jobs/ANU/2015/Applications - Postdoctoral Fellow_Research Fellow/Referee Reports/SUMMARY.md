@@ -33,7 +33,7 @@ Organized collection of reference letters for 14 candidates in the ANU postdocto
 - [x] `Ros Camacho/` - Reference letters for Ana Ros Camacho - 6 exceptionally strong recommendations from distinguished mathematicians (Davydov, Runkel, Mulase, Buchweitz, Holtkamp, Manin) for PhD candidate specializing in matrix factorizations, Landau-Ginzburg/CFT correspondence, and orbifold equivalences (complete)
 - [x] `Samuelson/` - Reference letters for Peter Samuelson - 3 exceptionally strong recommendations from distinguished mathematicians (Frohman, Khovanov, Berest) for postdoc at Toronto specializing in skein algebras, DAHA, topological representation theory, and groundbreaking work connecting elliptic Hall algebras to HOMFLY skein algebras (complete)
 - [x] `Titsworth/` - Reference letters for Matthew Titsworth - 4 exceptionally strong recommendations from distinguished mathematicians and physicists (Penneys, Ardonne, Hagge, Wang) for PhD candidate specializing in fusion category classification, geometric invariant theory, and breakthrough pentagon solver with multiplicities (complete)
-- [ ] `White/` - Reference letters for White (pending)
+- [x] `White/` - Reference letters for Noah White - 6 exceptionally strong recommendations from distinguished mathematicians across institutions (Mathas at Sydney, Jordan/Gordon/Wemyss/Bailey at Edinburgh, Loseu at Northeastern) for PhD candidate specializing in Bethe algebras, cactus group actions, Calogero-Moser cells, quantum groups, and Bonnafé-Rouquier conjecture, with outstanding teaching record and leadership in organizing Edinburgh-Glasgow seminar (complete)
 
 ## Search Tags
 
