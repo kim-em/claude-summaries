@@ -54,7 +54,7 @@ Complete lecture materials from Joan Licata's Semester 1 2013/2015 offering of M
 - [x] `Lecture23Applications/` - Final lecture (Lecture 24) showcasing applications: Fourier analysis, topology/homology, Google PageRank, and personality test dimensionality with topology diagrams (complete)
 - [x] `LectureRevision/` - Comprehensive exam revision materials including worked solutions to 2013 Mid-Semester Exam problems, Beamer presentations, exam PDFs, and Maple worksheets (complete)
 - [x] `Revision/` - Comprehensive revision materials with 13 practice problems covering full course syllabus: change of basis, eigenvalues, diagonalization, dynamical systems, complex eigenvalues, orthogonality, Markov chains, linear transformations (complete)
-- [ ] `maple_cs Folder/` - Maple worksheet files (.mws) for computational case studies including network analysis, cryptography, splines, polynomial interpolation, and numerical methods (pending)
+- [x] `maple_cs Folder/` - Comprehensive collection of 28 Maple worksheets demonstrating linear algebra applications: network flow, cryptography (Hill cipher), economic modeling (Leontief), Fibonacci sequences, splines, error-correcting codes, and numerical methods (complete)
 
 ## Search Tags
 
