@@ -26,7 +26,7 @@ The `Normed/` directory contains the foundational algebraic structures for norme
 - [x] `Algebra/` - Normed algebras (Banach algebras, spectrum theory, exponential maps, Gelfand-Mazur theorem, unitization) (complete)
 - [x] `Field/` - Normed fields and division rings (multiplicative norms, ultrametric fields, unit balls, absolute values, field completion) (complete)
 - [x] `Group/` - Normed (additive) groups and their basic properties (seminorms, bounded sets, completeness, constructions, homomorphisms, categorical infrastructure) (complete)
-- [ ] `Lp/` - Lp spaces and norms (product and pi types with Lp norms, WithLp construction, Lp equivalences) (pending)
+- [x] `Lp/` - Lp spaces and norms (product and pi types with Lp norms, WithLp construction, Lp equivalences) (complete)
 - [ ] `Module/` - Normed modules and spaces over normed fields (basic properties, dual spaces, finite-dimensional spaces, Hahn-Banach, multilinear maps, tensor products) (pending)
 - [ ] `Operator/` - Bounded linear operators and continuous linear maps (composition, completeness, compactness, Banach-Steinhaus theorem) (pending)
 - [ ] `Order/` - Ordered normed structures (normed lattices, upper/lower sets, order homomorphisms) (pending)
