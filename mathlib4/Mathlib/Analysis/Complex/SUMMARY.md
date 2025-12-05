@@ -60,7 +60,7 @@ The `Complex/` directory contains the formalization of complex analysis, includi
 
 ## Subdirectories
 
-- [ ] `Harmonic/` - Harmonic functions (functions satisfying Laplace's equation) (pending)
+- [x] `Harmonic/` - Harmonic functions (functions satisfying Laplace's equation) (complete)
 - [ ] `Polynomial/` - Complex polynomials and their analytical properties (pending)
 - [ ] `UnitDisc/` - Unit disc and related constructions (pending)
 - [ ] `UpperHalfPlane/` - Upper half-plane model and its properties (pending)
