@@ -25,7 +25,7 @@ The `ContinuousFunctionalCalculus/` directory defines special functions (absolut
 
 - [x] `ExpLog/` - Exponential and logarithm functions via CFC (complete)
 - [x] `PosPart/` - Positive and negative parts of selfadjoint elements (complete)
-- [ ] `Rpow/` - Real powers and square root via CFC (pending)
+- [x] `Rpow/` - Real powers and square root via CFC (complete)
 
 ## Search Tags
 
