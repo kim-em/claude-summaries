@@ -47,7 +47,7 @@ The `Analysis/` directory contains the formalization of real and complex analysi
 - [x] `Calculus/` - Differential and integral calculus (derivatives, integrals, fundamental theorem) (complete)
 - [x] `Complex/` - Complex analysis (holomorphic functions, Cauchy's theorem, residues) (complete)
 - [x] `Convex/` - Convex analysis (convex functions, convex sets, Jensen's inequality) (complete)
-- [ ] `Distribution/` - Distribution theory (generalized functions, Schwartz distributions) (pending)
+- [x] `Distribution/` - Distribution theory (generalized functions, Schwartz distributions) (complete)
 - [ ] `Fourier/` - Fourier analysis (Fourier transforms, Fourier series) (pending)
 - [ ] `FunctionalSpaces/` - Functional spaces and their properties (pending)
 - [ ] `InnerProductSpace/` - Inner product spaces (Hilbert spaces, orthogonality, projections) (pending)
