@@ -46,7 +46,7 @@ The `Analysis/` directory contains the formalization of real and complex analysi
 - [x] `CStarAlgebra/` - C*-algebras (Banach *-algebras with C* identity) and their analysis (complete)
 - [x] `Calculus/` - Differential and integral calculus (derivatives, integrals, fundamental theorem) (complete)
 - [x] `Complex/` - Complex analysis (holomorphic functions, Cauchy's theorem, residues) (complete)
-- [~] `Convex/` - Convex analysis (convex functions, convex sets, Jensen's inequality) (preliminary)
+- [x] `Convex/` - Convex analysis (convex functions, convex sets, Jensen's inequality) (complete)
 - [ ] `Distribution/` - Distribution theory (generalized functions, Schwartz distributions) (pending)
 - [ ] `Fourier/` - Fourier analysis (Fourier transforms, Fourier series) (pending)
 - [ ] `FunctionalSpaces/` - Functional spaces and their properties (pending)

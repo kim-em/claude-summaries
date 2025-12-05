@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Analysis/Convex
-generated: 2025-12-05T00:00:00Z
+generated: 2025-12-05T09:30:00Z
 git_sha: 488d631b358e81211d82bcf1c4422dd1e2b08702
 git_branch: flexible-linter-simp-suggestions
-status: preliminary
+status: complete
 files_count: 50
 subdirs_count: 3
 ---
@@ -12,7 +12,9 @@ subdirs_count: 3
 
 ## Overview
 
-The `Convex/` directory contains convexity theory for normed and inner product spaces, extending the basic convexity results from `Geometry.Convex` with metric and topological structure. It covers convex sets and functions, strict/strong/uniform convexity, derivatives of convex functions, Jensen's inequality, the Minkowski functional (gauge), convex hulls, extreme points, the Krein-Milman theorem, and specialized topics like standard simplices, doubly stochastic matrices (Birkhoff's theorem), and visibility in convex sets.
+The `Convex/` directory contains the topological and metric theory of convexity for normed and inner product spaces, extending the purely algebraic/affine convexity results from `Mathlib.Geometry.Convex`. The core content includes fundamental definitions of convex sets and functions, derivatives and second derivative tests for convexity, Jensen's inequality, the Minkowski functional (gauge) as a seminorm, extreme points and the Krein-Milman theorem, Carathéodory's and Radon's theorems, Birkhoff's theorem on doubly stochastic matrices, and various specialized topics (strict/strong/uniform convexity, quasiconvexity, star-convexity, visibility, convex bodies).
+
+Three subdirectories provide specialized theory: `Cone/` develops the topological theory of convex cones with proper cones, dual cones, Farkas' lemma, and separation theorems (Hahn-Banach, M. Riesz extension); `SimplicialComplex/` provides the combinatorial structure of simplicial complexes as downward-closed affine independent vertex sets; and `SpecificFunctions/` contains elementary and derivative-based proofs of convexity/concavity for concrete functions (exp, log, powers, trigonometric functions).
 
 ## Key Files
 
