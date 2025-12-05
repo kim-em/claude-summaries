@@ -44,7 +44,7 @@ The `Module/` directory provides the core theory of normed vector spaces over no
 - [x] `Ball/` - Balls in normed spaces (pointwise operations, convexity properties, ball-specific results) (complete)
 - [x] `Multilinear/` - Continuous multilinear maps with operator norm theory; currying/uncurrying operations and linear isometric equivalences (complete)
 - [x] `PiTensorProduct/` - Pi-type tensor products with projective and injective seminorms; universal property as isometric linear equivalence (complete)
-- [ ] `RCLike/` - Real-closed-like fields (ℝ and ℂ); unified treatment of normed spaces over these fields (pending)
+- [x] `RCLike/` - Real-closed-like fields (ℝ and ℂ); unified treatment of normed spaces over these fields (complete)
 
 ## Search Tags
 
