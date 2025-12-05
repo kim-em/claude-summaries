@@ -72,7 +72,7 @@ The `Convex/` directory contains convexity theory for normed and inner product s
 
 ## Subdirectories
 
-- [ ] `Cone/` - Convex cones and their properties (pending)
+- [x] `Cone/` - Topological and analytic theory of convex cones; proper cones, dual cones, Farkas' lemma, Hahn-Banach separation (complete)
 - [ ] `SimplicialComplex/` - Simplicial complexes in convex geometry (pending)
 - [ ] `SpecificFunctions/` - Convexity properties of specific functions (pending)
 
