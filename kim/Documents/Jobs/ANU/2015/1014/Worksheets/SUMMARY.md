@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2015/1014/Worksheets
-generated: 2025-12-05T08:30:00Z
+generated: 2025-12-05T08:40:00Z
 git_sha: 48a99ef1be36fc0c3cca2af4518f1aebb71ec697
 git_branch: master
-status: preliminary
+status: complete
 files_count: 27
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Weekly tutorial worksheets for MATH1014 linear algebra component (Semester 2 2015). Contains 11 weekly problem sets covering weeks 2-4, 6, 8-14, plus a supplementary matrix workshop on eigenvalues and diagonalization. Each worksheet consists of LaTeX source and compiled PDF, with support for toggling solutions/hints via the header.tex infrastructure. Topics progress from geometric vector problems (distances, cross products) through matrix operations, linear systems, vector spaces, and eigenvalue theory to advanced applications including dynamical systems and diagonalization.
+Complete set of tutorial worksheets for MATH1014 linear algebra component (Semester 2 2015). Contains 11 weekly problem sets covering weeks 2-4, 6, 8-14, plus a supplementary matrix workshop on eigenvalues and diagonalization. Each worksheet consists of LaTeX source and compiled PDF, with support for toggling solutions/hints via the header.tex infrastructure. Topics progress from geometric vector problems (distances, cross products, illustrated by supporting diagrams) through matrix operations, linear systems, vector spaces, and eigenvalue theory to advanced applications including dynamical systems and diagonalization. The makefile provides automated PDF compilation and deployment to web directory for student access. Includes single supporting diagram for Week 02's point-to-line distance problem.
 
 ## Key Files
 

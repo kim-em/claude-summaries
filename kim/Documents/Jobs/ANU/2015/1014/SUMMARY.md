@@ -36,7 +36,7 @@ Complete teaching materials and administrative records for MATH1014 (Mathematics
 - [x] `Notes/` - Complete lecture materials comprising 25 lectures for MATH1014 linear algebra course, from vectors in ℝ³ through abstract vector spaces to eigenvalues, diagonalization, and applications (complete)
 - [x] `OldMaterial/` - Comprehensive archive of MATH1014 materials from Semester 1 2013-2015: Joan Licata's 23-lecture linear algebra course with Beamer presentations and 28 Maple worksheets, complete 2014-2015 exam collection with solutions, 10 weekly WebAssign quizzes, and tutorial worksheets covering full syllabus - rich pedagogical resource combining theory, computation, and applications (complete)
 - [x] `PastExams/` - Collection of past examination papers: 2014 final exam solutions for linear algebra covering eigenvalues, diagonalization, dynamical systems, and orthogonal projections (complete)
-- [~] `Worksheets/` - Weekly tutorial worksheets for MATH1014 linear algebra: 11 problem sets (weeks 2-4, 6, 8-14) plus matrix workshop on eigenvalues and diagonalization, with LaTeX source and PDFs (preliminary)
+- [x] `Worksheets/` - Complete set of tutorial worksheets for MATH1014 linear algebra: 11 problem sets (weeks 2-4, 6, 8-14) plus matrix workshop on eigenvalues and diagonalization, with LaTeX source and PDFs, supporting diagrams, and automated build/deployment (complete)
 - [ ] `timetabling/` - Timetabling documents including staff availability (62KB Word doc), students removed from tutorials list, course profile form (38KB) (pending)
 
 ## Search Tags
