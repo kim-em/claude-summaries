@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2015/Amnon's postdocs
-generated: 2025-12-05T10:15:00Z
+generated: 2025-12-05T11:00:00Z
 git_sha: 48a99ef1be36fc0c3cca2af4518f1aebb71ec697
 git_branch: master
-status: preliminary
+status: complete
 files_count: 1
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Hiring materials for postdoctoral research fellow position #492617, part of Amnon Neeman's research group recruitment. Contains compiled applications PDF (too large to read at ~82MB) and comprehensive referee reports subdirectory with evaluations for approximately 10 candidates including Jesse Burke, Tanmay Deshpande, Xianhui Fu, Adam Gal, Elena Gal, Ivan Ip, Bregje Pauwels, Evangelos Routis, Peter Samuelson, William Sanders, Olaf Schnuerer, and Alexander Soibelman, with multiple reference letters per candidate from prominent mathematicians in algebraic topology, representation theory, and related fields.
+Complete hiring materials for postdoctoral research fellow position #492617 in Amnon Neeman's research group at ANU. The folder contains compiled applications (~82MB PDF, too large to read) and 40 reference letters evaluating 10 candidates with diverse expertise across algebraic topology, representation theory, quantum groups, derived categories, and related areas. Reference letters come from prominent mathematicians at leading institutions (Yale, University of Chicago, UCLA, University of Toronto) including Eric Friedlander, Alexander Beilinson, Igor Frenkel, Paul Balmer, and Joel Kamnitzer. Candidates include Jesse Burke (commutative algebra, matrix factorizations), Tanmay Deshpande (character sheaves, Drinfeld's theory), Ivan Ip (quantum groups, C*-algebras), Bregje Pauwels (triangulated categories, modular representation theory), Peter Samuelson (character varieties, DAHA), and William Sanders (derived categories, semidualizing modules).
 
 ## Key Files
 
