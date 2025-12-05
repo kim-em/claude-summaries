@@ -57,7 +57,7 @@ The `Analysis/` directory contains the formalization of real and complex analysi
 - [x] `Normed/` - Normed spaces basics (complete)
 - [x] `NormedSpace/` - Deprecated import layer for backward compatibility; forwards to reorganized `Mathlib.Analysis.Normed.*` hierarchy (complete)
 - [x] `ODE/` - Ordinary differential equations (Grönwall's inequality, Picard-Lindelöf theorem for existence and uniqueness of solutions to initial value problems) (complete)
-- [ ] `Polynomial/` - Analysis on polynomials (roots, bounds, approximation) (pending)
+- [x] `Polynomial/` - Analysis on polynomials (asymptotic behavior, Cauchy root bounds, factorization, Mahler measure) (complete)
 - [ ] `RCLike/` - Abstraction over ℝ and ℂ (real and complex numbers treated uniformly) (pending)
 - [ ] `Real/` - Real analysis (properties specific to real numbers) (pending)
 - [ ] `SpecialFunctions/` - Special functions (exponential, logarithm, trigonometric, gamma, zeta, etc.) (pending)
