@@ -22,7 +22,7 @@ The `Normed/` directory contains the foundational algebraic structures for norme
 
 ## Subdirectories
 
-- [ ] `Affine/` - Normed affine spaces (add torsors with norms, continuous affine maps, Mazur-Ulam theorem, asymptotic cones) (pending)
+- [x] `Affine/` - Normed affine spaces (add torsors with norms, continuous affine maps, Mazur-Ulam theorem, asymptotic cones) (complete)
 - [ ] `Algebra/` - Normed algebras (Banach algebras, spectrum theory, exponential maps, Gelfand-Mazur theorem, unitization) (pending)
 - [ ] `Field/` - Normed fields and division rings (multiplicative norms, ultrametric fields, unit balls, absolute values) (pending)
 - [ ] `Group/` - Normed (additive) groups and their basic properties (seminorms, bounded sets, completeness, constructions, homomorphisms) (pending)
