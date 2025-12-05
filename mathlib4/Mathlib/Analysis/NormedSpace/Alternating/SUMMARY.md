@@ -23,7 +23,7 @@ The `Alternating/` directory contains deprecated import forwarding modules for a
 
 ## Subdirectories
 
-- [ ] `Uncurry/` - Uncurry operations for alternating maps (pending)
+- [x] `Uncurry/` - Uncurry operations for alternating maps (complete)
 
 ## Search Tags
 
