@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Analysis/Calculus
-generated: 2025-12-04T00:00:00Z
+generated: 2025-12-05T00:00:00Z
 git_sha: 453cce856d41bd2715d9055ecdc877015033095f
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 21
 subdirs_count: 13
 ---
@@ -12,7 +12,11 @@ subdirs_count: 13
 
 ## Overview
 
-The `Calculus/` directory contains the formalization of differential and integral calculus in normed spaces. It covers fundamental theorems (mean value theorem, implicit function theorem, inverse function theorem, Taylor's theorem), derivative computations (Fréchet derivatives, directional derivatives, iterated derivatives), smoothness classes (continuously differentiable functions), and important classical results (Darboux's theorem, L'Hôpital's rule, Rademacher's theorem, Lagrange multipliers). The directory includes both theoretical foundations (formal multilinear series for power series, differential slope functions) and practical tools (parametric integrals, uniform limits of derivatives, smooth series).
+The `Calculus/` directory contains the comprehensive formalization of differential and integral calculus in normed spaces, providing both the theoretical foundations and computational machinery for differentiation in Mathlib. The directory is organized around three main derivative notions: Fréchet derivatives (`FDeriv/`) for multivariable calculus in normed spaces, ordinary derivatives (`Deriv/`) for one-dimensional real and complex functions, and directional/line derivatives (`LineDeriv/`) for weaker differentiability along specific directions. Building on these foundations, the directory establishes smoothness classes (`ContDiff/`) using formal multilinear series to define C^n functions, iterated derivatives (`IteratedDeriv/`) with Faà di Bruno's formula for compositions, and specialized derivative structures (gradients in Hilbert spaces, differential forms, conformal maps).
+
+The directory proves the fundamental theorems of calculus: mean value theorem with applications to monotonicity and Lipschitz bounds, implicit function theorem for C^n smooth implicit functions, inverse function theorem extending to smooth inverses, and Taylor's theorem with multiple remainder forms. Classical results include Darboux's theorem (intermediate value property for derivatives), L'Hôpital's rule for indeterminate forms, Rademacher's theorem (Lipschitz functions are almost everywhere differentiable), Rolle's theorem with applications to polynomial root counting, and Lagrange multipliers for constrained optimization. The directory also provides important technical infrastructure: tangent cones and unique differentiability (`TangentCone/`) to ensure derivative uniqueness, bump functions (`BumpFunction/`) for smooth approximation and partitions of unity, and tools for parametric integrals, uniform convergence of derivatives, and smooth function series.
+
+Beyond the theoretical core, the directory includes practical computational tools: derivative formulas for all standard operations (composition via chain rule, products, quotients, powers), specialized results for affine spaces and torsors (`AddTorsor/`), vector fields with Lie brackets, conformal geometry (`Conformal/`), differential forms with exterior derivatives (`DifferentialForm/`), local extrema theory (`LocalExtr/`) with Fermat's theorem, and analysis of functions differentiable on open sets with continuous extensions to the closure. This makes the directory both a complete reference for theoretical calculus and a practical toolkit for differentiation in formalized mathematics.
 
 ## Key Files
 
