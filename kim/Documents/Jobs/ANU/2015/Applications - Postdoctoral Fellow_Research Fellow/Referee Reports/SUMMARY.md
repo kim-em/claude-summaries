@@ -25,7 +25,7 @@ Organized collection of reference letters for 14 candidates in the ANU postdocto
 - [x] `Cui/` - Reference letters for Xingshan Cui (Shawn) - 2 exceptionally strong recommendations emphasizing fundamental work in (3+1)-TQFTs, gauging symmetries, and anyonic quantum computation (complete)
 - [x] `Ganev/` - Reference letters for Iordan Ganev - 5 exceptionally strong recommendations from distinguished mathematicians (Ben-Zvi, Jordan, Chen, Schedler, Kremnitzer) for PhD candidate specializing in quantum groups, hypertoric varieties, and quantum wonderful compactifications (complete)
 - [x] `Grant/` - Reference letters for Jonathan Grant - 4 exceptionally strong recommendations from distinguished mathematicians (Lobb, Rasmussen, Peyerimhoff, Vaz) for PhD candidate specializing in categorified quantum groups, knot homology, and Alexander polynomial categorification (complete)
-- [ ] `Hilburn/` - Reference letters for Hilburn (pending)
+- [x] `Hilburn/` - Reference letters for Justin Hilburn - 6 exceptionally strong recommendations from distinguished mathematicians and physicists (Webster, Ben-Zvi, Price, Proudfoot, Nevins, Dimofte) for PhD candidate specializing in symplectic duality, breakthrough collaboration with physicists on 3D mirror symmetry, and unique ability to bridge mathematics and physics (complete)
 - [ ] `Hogancamp/` - Reference letters for Hogancamp (pending)
 - [ ] `Jones/` - Reference letters for Jones (pending)
 - [ ] `Matherne/` - Reference letters for Matherne (pending)
