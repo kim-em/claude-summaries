@@ -55,7 +55,7 @@ The `Analysis/` directory contains the formalization of real and complex analysi
 - [x] `Matrix/` - Matrix analysis (matrix norms, matrix functions, spectral theory) (complete)
 - [x] `Meromorphic/` - Meromorphic functions (functions holomorphic except at isolated poles) (complete)
 - [x] `Normed/` - Normed spaces basics (complete)
-- [~] `NormedSpace/` - Deprecated import layer for backward compatibility; forwards to reorganized `Mathlib.Analysis.Normed.*` hierarchy (preliminary)
+- [x] `NormedSpace/` - Deprecated import layer for backward compatibility; forwards to reorganized `Mathlib.Analysis.Normed.*` hierarchy (complete)
 - [ ] `ODE/` - Ordinary differential equations (existence, uniqueness, solutions) (pending)
 - [ ] `Polynomial/` - Analysis on polynomials (roots, bounds, approximation) (pending)
 - [ ] `RCLike/` - Abstraction over ℝ and ℂ (real and complex numbers treated uniformly) (pending)

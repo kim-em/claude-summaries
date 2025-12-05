@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Analysis/NormedSpace
-generated: 2025-12-05T00:00:00Z
+generated: 2025-12-05T08:00:00Z
 git_sha: 488d631b358e81211d82bcf1c4422dd1e2b08702
 git_branch: flexible-linter-simp-suggestions
-status: preliminary
+status: complete
 files_count: 19
 subdirs_count: 5
 ---
@@ -12,7 +12,7 @@ subdirs_count: 5
 
 ## Overview
 
-The `NormedSpace/` directory is a deprecated import layer providing backward compatibility for code that references the old `Mathlib.Analysis.NormedSpace.*` module paths. All files are deprecated modules (deprecated between September 2025 and November 2025) that forward to new locations in the reorganized `Mathlib.Analysis.Normed.*` hierarchy (covering `Normed.Module.*`, `Normed.Operator.*`, `Normed.Algebra.*`, `Normed.Ring.*`, and `Normed.Group.*`). The directory also contains subdirectories for more complex topics like alternating maps, operator norms, multilinear maps, the Hahn-Banach theorem, and pi tensor products.
+The `NormedSpace/` directory is a comprehensive deprecated import layer providing backward compatibility for code that references the old `Mathlib.Analysis.NormedSpace.*` module paths. All 19 top-level files are deprecated modules (deprecated between September and November 2025) that forward to new locations in the reorganized `Mathlib.Analysis.Normed.*` hierarchy (covering `Normed.Module.*`, `Normed.Operator.*`, `Normed.Algebra.*`, `Normed.Ring.*`, and `Normed.Group.*`). The directory encompasses a wide range of normed space theory including ball actions, conformal linear maps, module connectivity, dual numbers, extended normed spaces, RCLike abstractions, Riesz lemma, indicator functions, and M-structure. The five subdirectories provide deprecated imports for advanced topics: alternating multilinear maps with curry/uncurry operations (`Alternating/`), Hahn-Banach extension and separation theorems (`HahnBanach/`), multilinear maps with curry operations (`Multilinear/`), operator norms covering basic theory through completeness and multiplicative structure (`OperatorNorm/`), and pi tensor products with injective and projective seminorms (`PiTensorProduct/`). This directory serves as a transitional layer maintaining API stability during the major normed space reorganization, ensuring existing code continues to function while the library migrates to the new module hierarchy.
 
 ## Key Files
 
