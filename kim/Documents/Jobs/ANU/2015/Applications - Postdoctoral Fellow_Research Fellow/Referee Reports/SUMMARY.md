@@ -32,7 +32,7 @@ Organized collection of reference letters for 14 candidates in the ANU postdocto
 - [x] `Mazel-Gee/` - Reference letters for Aaron Mazel-Gee - 6 exceptionally strong recommendations from distinguished mathematicians (Blumberg, Barwick, Ayala, Olsson, Goerss, Teichner) for PhD candidate at UC Berkeley specializing in model ∞-categories, Goerss-Hopkins obstruction theory, derived algebraic geometry, and motivic homotopy theory, with outstanding teaching evaluations (complete)
 - [x] `Ros Camacho/` - Reference letters for Ana Ros Camacho - 6 exceptionally strong recommendations from distinguished mathematicians (Davydov, Runkel, Mulase, Buchweitz, Holtkamp, Manin) for PhD candidate specializing in matrix factorizations, Landau-Ginzburg/CFT correspondence, and orbifold equivalences (complete)
 - [x] `Samuelson/` - Reference letters for Peter Samuelson - 3 exceptionally strong recommendations from distinguished mathematicians (Frohman, Khovanov, Berest) for postdoc at Toronto specializing in skein algebras, DAHA, topological representation theory, and groundbreaking work connecting elliptic Hall algebras to HOMFLY skein algebras (complete)
-- [ ] `Titsworth/` - Reference letters for Titsworth (pending)
+- [x] `Titsworth/` - Reference letters for Matthew Titsworth - 4 exceptionally strong recommendations from distinguished mathematicians and physicists (Penneys, Ardonne, Hagge, Wang) for PhD candidate specializing in fusion category classification, geometric invariant theory, and breakthrough pentagon solver with multiplicities (complete)
 - [ ] `White/` - Reference letters for White (pending)
 
 ## Search Tags
