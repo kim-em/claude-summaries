@@ -52,7 +52,7 @@ The `Group/` directory defines the core theory of normed (additive) groups and s
 
 ## Subdirectories
 
-- [ ] `SemiNormedGrp/` - Categorical theory: concrete category structure, kernels, cokernels, completion functors (pending)
+- [x] `SemiNormedGrp/` - Categorical theory: concrete category structure, kernels, cokernels, completion functors
 
 ## Search Tags
 
