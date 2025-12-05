@@ -46,7 +46,7 @@ The `SpecialFunctions/` directory contains formalized theory for important mathe
 - [x] `ContinuousFunctionalCalculus/` - Continuous functional calculus for special functions (complete)
 - [x] `Elliptic/` - Elliptic functions and elliptic integrals (complete)
 - [x] `Gamma/` - Gamma function, beta function, and related special functions (complete)
-- [ ] `Gaussian/` - Gaussian integrals and Gaussian functions (pending)
+- [x] `Gaussian/` - Gaussian integrals and Gaussian functions (complete)
 - [ ] `Integrability/` - Integrability results for special functions (pending)
 - [ ] `Integrals/` - Evaluations of integrals involving special functions (pending)
 - [ ] `Log/` - Logarithm function and its properties (pending)
