@@ -40,7 +40,7 @@ The `Module/` directory provides the core theory of normed vector spaces over no
 
 ## Subdirectories
 
-- [~] `Alternating/` - Alternating multilinear maps (alternating tensor algebra, antisymmetric operations) (preliminary)
+- [x] `Alternating/` - Alternating multilinear maps (alternating tensor algebra, antisymmetric operations) (complete)
 - [ ] `Ball/` - Balls in normed spaces (pointwise operations, convexity properties, ball-specific results) (pending)
 - [ ] `Multilinear/` - Multilinear maps in normed spaces (continuous multilinear maps, boundedness, composition) (pending)
 - [ ] `PiTensorProduct/` - Pi-type tensor products (tensor product of family of spaces, universal properties) (pending)
