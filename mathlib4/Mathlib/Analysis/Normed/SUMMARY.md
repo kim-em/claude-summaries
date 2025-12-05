@@ -29,7 +29,7 @@ The `Normed/` directory contains the foundational algebraic structures for norme
 - [x] `Lp/` - Lp spaces and norms (product and pi types with Lp norms, WithLp construction, Lp equivalences) (complete)
 - [x] `Module/` - Normed modules and spaces over normed fields (basic properties, dual spaces, finite-dimensional spaces, Hahn-Banach, multilinear maps, tensor products) (complete)
 - [x] `Operator/` - Bounded linear operators and continuous linear maps (operator norm, linear isometries, Banach open mapping theorem, Banach-Steinhaus uniform boundedness principle, compact operators, extension theorems) (complete)
-- [~] `Order/` - Ordered normed structures (normed lattices, upper/lower sets, order homomorphisms) (preliminary)
+- [x] `Order/` - Ordered normed structures (normed lattices, upper/lower sets, order homomorphisms) (complete)
 - [ ] `Ring/` - Normed rings (seminormed rings, submultiplicative norms, integer casts, units, ultrametric rings) (pending)
 - [ ] `Unbundled/` - Unbundled seminorms and norms (ring seminorms, algebra norms, spectral norms, smoothing seminorms) (pending)
 

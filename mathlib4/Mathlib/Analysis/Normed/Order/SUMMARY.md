@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Analysis/Normed/Order
-generated: 2025-12-05T09:15:00Z
+generated: 2025-12-05T15:00:00Z
 git_sha: 488d631b358e81211d82bcf1c4422dd1e2b08702
 git_branch: flexible-linter-simp-suggestions
-status: preliminary
+status: complete
 files_count: 3
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-The `Order/` directory bridges normed structures with ordered structures in mathlib4. It defines classes for ordered normed spaces that avoid type class diamonds, introduces normed lattice ordered groups with solid norms (motivated by Banach lattice theory), and studies upper/lower/order-connected sets in normed groups. The directory provides continuity results for lattice operations under norms and specialized lemmas for ℝⁿ to support measurability proofs for order-connected sets.
+The `Order/` directory provides a comprehensive bridge between normed structures and ordered structures in mathlib4. At its core, it defines classes for ordered normed spaces that avoid type class diamonds, and introduces the theory of normed lattice ordered groups with solid norms—a framework motivated by Banach lattice theory where the norm respects the lattice order. The directory studies the topological properties of upper, lower, and order-connected sets in normed groups, proving continuity and closure results for lattice operations and providing specialized lemmas for ℝⁿ to support measurability proofs. Additionally, the `Hom/` subdirectory provides constructions that upgrade algebraic group structures to (semi)normed groups using group norm homomorphisms, including specialized support for nonarchimedean (ultrametric) normed groups that satisfy the stronger ultrametric triangle inequality.
 
 ## Key Files
 
