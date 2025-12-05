@@ -42,7 +42,7 @@ Complete lecture materials from Joan Licata's Semester 1 2013/2015 offering of M
 - [x] `Lecture11/` - Lecture 13 materials on Markov chains with duplicate source files (Lecture10.tex/Lecture11.tex), Beamer slides (LA10/LA11), and rat cage diagram (complete)
 - [x] `Lecture12/` - Lecture 14 materials on eigenvectors and eigenvalues: definitions, eigenspaces as null spaces, triangular matrix theorem, and linear independence of eigenvectors (complete)
 - [x] `Lecture13/` - Lecture 15 materials on characteristic equations, eigenvalue computation, similarity transformations, and dynamical systems applications with Maple worksheets (complete)
-- [ ] `Lecture14/` - Fourteenth lecture materials (pending)
+- [x] `Lecture14/` - Lecture 16 on matrix diagonalization: diagonalization theorem, eigenspace dimensions, and worked examples showing when matrices are/aren't diagonalizable (complete)
 - [ ] `Lecture15/` - Fifteenth lecture materials (pending)
 - [ ] `Lecture16/` - Sixteenth lecture materials (pending)
 - [ ] `Lecture17/` - Seventeenth lecture materials (pending)
