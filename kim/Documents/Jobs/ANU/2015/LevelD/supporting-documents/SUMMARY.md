@@ -30,7 +30,7 @@ Supporting documentation for 2015 Level D promotion application including citati
 
 ## Subdirectories
 
-- [ ] `course-evaluations/` - Additional course evaluation materials and data (pending)
+- [x] `course-evaluations/` - Detailed EvaSys evaluation reports for MATH3325 Analysis 3 Honours 2013-2014 with separate course and instructor assessments (complete)
 
 ## Search Tags
 
