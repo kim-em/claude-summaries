@@ -23,7 +23,7 @@ Postdoctoral fellowship hiring materials for ANU position #507048, a second post
 
 ## Subdirectories
 
-- [ ] `Referee Reports/` - Organized referee reports for 14 candidates (Appel, Chapman, Cui, Ganev, Grant, Hilburn, Hogancamp, Jones, Matherne, Mazel-Gee, Ros Camacho, Samuelson, Titsworth, White) in algebraic topology, quantum topology, and representation theory with 3-6 reference letters each from leading researchers (pending)
+- [~] `Referee Reports/` - Organized referee reports for 14 candidates (Appel, Chapman, Cui, Ganev, Grant, Hilburn, Hogancamp, Jones, Matherne, Mazel-Gee, Ros Camacho, Samuelson, Titsworth, White) in algebraic topology, quantum topology, and representation theory with 3-6 reference letters each from leading researchers (preliminary)
 
 ## Search Tags
 
