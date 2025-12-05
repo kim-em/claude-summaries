@@ -49,7 +49,7 @@ Complete lecture materials from Joan Licata's Semester 1 2013/2015 offering of M
 - [x] `Lecture18/` - Lecture 20 on inner products and orthogonality: dot product review, vector length/normalization, orthogonal complements, row/column space theorems (complete)
 - [x] `Lecture19/` - Lecture 21 on orthogonal sets, orthogonal/orthonormal bases, and orthogonal matrices (Lay §6.2) with theorems, proofs, and coordinate computation examples (complete)
 - [x] `Lecture20/` - Lecture 22 materials on orthogonal projections onto subspaces (Lay §6.3): Orthogonal Decomposition Theorem, Best Approximation Theorem, projection matrix formula UU^T (complete)
-- [ ] `Lecture21/` - Twenty-first lecture materials (pending)
+- [x] `Lecture21/` - Lecture 23 on Gram-Schmidt process and QR factorization (Lay §6.4) with worked examples and geometric visualizations (complete)
 - [ ] `Lecture22-REDO!/` - Twenty-second lecture materials, marked for revision (pending)
 - [ ] `Lecture23Applications/` - Twenty-third lecture focused on applications of linear algebra (pending)
 - [ ] `LectureRevision/` - Review and revision materials for exam preparation (pending)
