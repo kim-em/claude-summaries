@@ -43,7 +43,7 @@ Complete lecture materials from Joan Licata's Semester 1 2013/2015 offering of M
 - [x] `Lecture12/` - Lecture 14 materials on eigenvectors and eigenvalues: definitions, eigenspaces as null spaces, triangular matrix theorem, and linear independence of eigenvectors (complete)
 - [x] `Lecture13/` - Lecture 15 materials on characteristic equations, eigenvalue computation, similarity transformations, and dynamical systems applications with Maple worksheets (complete)
 - [x] `Lecture14/` - Lecture 16 on matrix diagonalization: diagonalization theorem, eigenspace dimensions, and worked examples showing when matrices are/aren't diagonalizable (complete)
-- [ ] `Lecture15/` - Fifteenth lecture materials (pending)
+- [x] `Lecture15/` - Lecture 17 on matrix representations of linear transformations relative to different bases (Lay §5.4), showing how choice of basis affects matrix representation and connects to diagonalization (complete)
 - [ ] `Lecture16/` - Sixteenth lecture materials (pending)
 - [ ] `Lecture17/` - Seventeenth lecture materials (pending)
 - [ ] `Lecture18/` - Eighteenth lecture materials (pending)
