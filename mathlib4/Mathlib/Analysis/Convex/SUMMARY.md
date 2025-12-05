@@ -74,7 +74,7 @@ The `Convex/` directory contains convexity theory for normed and inner product s
 
 - [x] `Cone/` - Topological and analytic theory of convex cones; proper cones, dual cones, Farkas' lemma, Hahn-Banach separation (complete)
 - [x] `SimplicialComplex/` - Simplicial complexes modeled as downward-closed affine independent vertex sets with controlled convex hull intersections (complete)
-- [ ] `SpecificFunctions/` - Convexity properties of specific functions (pending)
+- [x] `SpecificFunctions/` - Convexity/concavity of specific functions: exp, log, rpow, sin, cos, sqrt (complete)
 
 ## Search Tags
 
