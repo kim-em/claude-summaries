@@ -63,7 +63,7 @@ This directory contains the formalization of inner product spaces and Hilbert sp
 ## Subdirectories
 
 - [x] `Harmonic/` - Harmonic functions on real finite-dimensional inner product spaces and complex-analytic functions
-- [ ] `Projection/` - Orthogonal projection theory (projections onto closed subspaces, existence and uniqueness theorems) (pending)
+- [x] `Projection/` - Orthogonal projection theory (projections onto closed subspaces, existence and uniqueness theorems)
 
 ## Search Tags
 
