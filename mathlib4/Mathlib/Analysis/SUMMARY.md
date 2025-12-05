@@ -51,7 +51,7 @@ The `Analysis/` directory contains the formalization of real and complex analysi
 - [x] `Fourier/` - Fourier analysis (Fourier transforms, Fourier series, Poisson summation, Riemann-Lebesgue lemma, finite abelian group characters) (complete)
 - [x] `FunctionalSpaces/` - Gagliardo-Nirenberg-Sobolev inequality for bounding Lᵖ norms of compactly-supported C¹ functions by norms of their derivatives (complete)
 - [x] `InnerProductSpace/` - Inner product spaces (Hilbert spaces, orthogonality, projections) (complete)
-- [ ] `LocallyConvex/` - Locally convex topological vector spaces (pending)
+- [x] `LocallyConvex/` - Locally convex topological vector spaces (seminorms, absorbent/balanced/absolutely convex sets, von Neumann boundedness, weak topologies, separation theorems, barrelled and Montel spaces) (complete)
 - [ ] `Matrix/` - Matrix analysis (matrix norms, matrix functions, spectral theory) (pending)
 - [ ] `Meromorphic/` - Meromorphic functions (functions holomorphic except at isolated poles) (pending)
 - [ ] `Normed/` - Normed spaces basics (pending)
