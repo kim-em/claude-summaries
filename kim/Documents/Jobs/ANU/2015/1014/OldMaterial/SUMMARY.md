@@ -22,7 +22,7 @@ No files directly in this directory - all content is organized in subdirectories
 
 - [x] `Exams/` - Complete collection of 2014-2015 mid-semester and final exam materials with solutions, study guides, and LaTeX source files (complete)
 - [x] `JELLecturesSem1_2015/` - Complete lecture materials from Joan Licata's Semester 1 2013/2015 offering, organized as Lecture01-Lecture23Applications plus case studies and Maple worksheets (complete)
-- [ ] `WebAssignQuizzes/` - Ten PDF quiz files from WebAssign online homework system for Semester 1 2015 (pending)
+- [x] `WebAssignQuizzes/` - Ten weekly online quiz PDFs covering vectors, numerical integration, matrices, coordinate systems, series convergence, and power series (complete)
 - [ ] `Worksheets/` - Tutorial worksheets from previous offerings with solutions, including matrix workshops and transformation summaries (pending)
 
 ## Search Tags
