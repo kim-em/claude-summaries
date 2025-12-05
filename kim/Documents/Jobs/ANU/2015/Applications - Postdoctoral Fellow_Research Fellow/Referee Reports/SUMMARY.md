@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2015/Applications - Postdoctoral Fellow_Research Fellow/Referee Reports
-generated: 2025-12-05T07:30:00Z
+generated: 2025-12-05T07:35:00Z
 git_sha: 48a99ef1be36fc0c3cca2af4518f1aebb71ec697
 git_branch: master
-status: preliminary
+status: complete
 files_count: 0
 subdirs_count: 14
 ---
@@ -12,7 +12,7 @@ subdirs_count: 14
 
 ## Overview
 
-Organized collection of reference letters for 14 candidates in the ANU postdoctoral fellowship search (position #507048). Each candidate has a dedicated subdirectory containing 3-8 reference letters from established researchers in their field. The candidates span research areas including algebraic topology, quantum topology, representation theory, and related mathematical fields. This directory structure facilitates systematic evaluation and comparison of candidate qualifications during the hiring process.
+Comprehensive collection of reference letters for 14 exceptional candidates in the ANU postdoctoral fellowship search (position #507048). The candidate pool represents outstanding early-career mathematicians working at the intersection of representation theory, topology, quantum algebra, and mathematical physics. Each candidate received 3-8 letters from distinguished mathematicians including Fields medalists, leading category theorists, and pioneers in quantum topology. Common themes across recommendations include exceptional research productivity, breakthrough results in their respective fields, strong interdisciplinary work (particularly mathematics-physics connections), and outstanding teaching records. The collection spans diverse but interconnected areas: categorified representation theory and knot homology (Hogancamp, Grant, Samuelson), tensor categories and subfactors (Jones, Cui, Titsworth), geometric representation theory (Ganev, Matherne, Hilburn), derived algebraic geometry and homotopy theory (Mazel-Gee), and mathematical physics connections (Hilburn, Ros Camacho, Appel). This directory structure facilitates systematic evaluation of a remarkably strong applicant pool during the hiring process.
 
 ## Key Files
 
