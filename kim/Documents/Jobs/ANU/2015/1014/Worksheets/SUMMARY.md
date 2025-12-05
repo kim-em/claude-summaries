@@ -35,7 +35,7 @@ Weekly tutorial worksheets for MATH1014 linear algebra component (Semester 2 201
 
 ## Subdirectories
 
-- [ ] `diagrams/` - Supporting diagrams and figures for worksheets (pending)
+- [x] `diagrams/` - Supporting diagrams and figures for worksheets
 
 ## Search Tags
 
