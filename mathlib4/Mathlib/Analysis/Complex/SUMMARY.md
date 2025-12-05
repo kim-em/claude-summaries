@@ -62,7 +62,7 @@ The `Complex/` directory contains the formalization of complex analysis, includi
 
 - [x] `Harmonic/` - Harmonic functions (functions satisfying Laplace's equation) (complete)
 - [x] `Polynomial/` - Complex polynomials and their analytical properties (complete)
-- [ ] `UnitDisc/` - Unit disc and related constructions (pending)
+- [x] `UnitDisc/` - Unit disc and related constructions (complete)
 - [ ] `UpperHalfPlane/` - Upper half-plane model and its properties (pending)
 - [ ] `ValueDistribution/` - Value distribution theory for holomorphic functions (pending)
 
