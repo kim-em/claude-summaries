@@ -59,7 +59,7 @@ The `Analysis/` directory contains the formalization of real and complex analysi
 - [x] `ODE/` - Ordinary differential equations (Grönwall's inequality, Picard-Lindelöf theorem for existence and uniqueness of solutions to initial value problems) (complete)
 - [x] `Polynomial/` - Analysis on polynomials (asymptotic behavior, Cauchy root bounds, factorization, Mahler measure) (complete)
 - [x] `RCLike/` - Abstraction over ℝ and ℂ (real and complex numbers treated uniformly) (complete)
-- [~] `Real/` - Real analysis (properties specific to real numbers) (preliminary)
+- [x] `Real/` - Real analysis (properties specific to real numbers) (complete)
 - [ ] `SpecialFunctions/` - Special functions (exponential, logarithm, trigonometric, gamma, zeta, etc.) (pending)
 - [ ] `SpecificLimits/` - Specific limit computations and convergence results (includes arithmetic-geometric mean, Fibonacci limits, floor power limits, normed space limits) (pending)
 - [ ] `VonNeumannAlgebra/` - Von Neumann algebras (weakly closed *-subalgebras of bounded operators) (pending)
