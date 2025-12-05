@@ -34,7 +34,7 @@ Complete teaching materials and administrative records for MATH1014 (Mathematics
 - [x] `EAP/` - Confidential student accommodation documents: Education Access Plans for disability accommodations and Elite Athlete plans (complete)
 - [x] `Exams/` - Examination papers and related assessment materials (complete)
 - [x] `Notes/` - Complete lecture materials comprising 25 lectures for MATH1014 linear algebra course, from vectors in ℝ³ through abstract vector spaces to eigenvalues, diagonalization, and applications (complete)
-- [~] `OldMaterial/` - Archived or legacy teaching materials from previous offerings (preliminary)
+- [x] `OldMaterial/` - Comprehensive archive of MATH1014 materials from Semester 1 2013-2015: Joan Licata's 23-lecture linear algebra course with Beamer presentations and 28 Maple worksheets, complete 2014-2015 exam collection with solutions, 10 weekly WebAssign quizzes, and tutorial worksheets covering full syllabus - rich pedagogical resource combining theory, computation, and applications (complete)
 - [ ] `PastExams/` - Past examination papers for student practice (pending)
 - [ ] `Worksheets/` - Problem sets and tutorial worksheets (pending)
 - [ ] `timetabling/` - Timetabling documents including staff availability (62KB Word doc), students removed from tutorials list, course profile form (38KB) (pending)
