@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Analysis/Normed
-generated: 2025-12-05T08:00:00Z
+generated: 2025-12-05T15:30:00Z
 git_sha: 488d631b358e81211d82bcf1c4422dd1e2b08702
 git_branch: flexible-linter-simp-suggestions
-status: preliminary
+status: complete
 files_count: 1
 subdirs_count: 10
 ---
@@ -12,7 +12,7 @@ subdirs_count: 10
 
 ## Overview
 
-The `Normed/` directory contains the foundational algebraic structures for normed spaces in mathlib4. It provides the basic definitions and theory for normed groups, rings, fields, modules, and their various algebraic constructions. This directory serves as the core infrastructure for functional analysis, defining classes like `SeminormedAddGroup`, `NormedRing`, `NormedField`, and `NormedSpace`, along with bounded scalar multiplication (`IsBoundedSMul`) and norm multiplicativity properties. It includes specialized subdirectories for normed algebras, operators (bounded linear maps), Lp spaces, affine spaces, and unbundled seminorms.
+The `Normed/` directory establishes the complete foundational hierarchy for normed spaces in mathlib4, providing the essential infrastructure for all of functional analysis. It builds from the ground up: starting with normed groups (where distance is given by `dist x y = ‖x - y‖`), then normed rings (with submultiplicative norm `‖x * y‖ ≤ ‖x‖ * ‖y‖`), normed fields (with multiplicative norm `‖x * y‖ = ‖x‖ * ‖y‖`), and finally normed modules/spaces (requiring bounded scalar multiplication `‖a • b‖ ≤ ‖a‖ * ‖b‖`). The directory encompasses both the algebraic perspective (bounded homomorphisms, quotient norms, completeness) and the categorical perspective (`SemiNormedGrp` category with functorial completions). Major theoretical achievements include the Mazur-Ulam theorem, Gelfand-Mazur theorem, Gelfand's spectral radius formula, Hahn-Banach extension theorem, Banach-Alaoglu theorem, Riesz's lemma, Banach open mapping theorem, and Banach-Steinhaus uniform boundedness principle. The directory also provides comprehensive treatment of specialized topics: ultrametric/nonarchimedean norms, L^p spaces with Hölder's inequality, affine geometry (homotheties, barycentric coordinates, simplices), Banach algebras with spectrum theory and exponential maps, bounded linear operators with compact operator theory, ordered normed structures with solid norms, and unbundled seminorms for nonarchimedean analysis. This unified framework supports advanced applications including Banach space theory, operator algebras, differential geometry, and non-Archimedean analysis.
 
 ## Key Files
 
