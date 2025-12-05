@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2015/1014/OldMaterial/JELLecturesSem1_2015/Lecture03
-generated: 2025-12-05T00:00:00Z
+generated: 2025-12-05T10:30:00Z
 git_sha: 48a99ef1be36fc0c3cca2af4518f1aebb71ec697
 git_branch: master
-status: preliminary
+status: complete
 files_count: 24
 subdirs_count: 0
 ---
