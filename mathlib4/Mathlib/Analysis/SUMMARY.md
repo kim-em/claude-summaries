@@ -52,7 +52,7 @@ The `Analysis/` directory contains the formalization of real and complex analysi
 - [x] `FunctionalSpaces/` - Gagliardo-Nirenberg-Sobolev inequality for bounding Lᵖ norms of compactly-supported C¹ functions by norms of their derivatives (complete)
 - [x] `InnerProductSpace/` - Inner product spaces (Hilbert spaces, orthogonality, projections) (complete)
 - [x] `LocallyConvex/` - Locally convex topological vector spaces (seminorms, absorbent/balanced/absolutely convex sets, von Neumann boundedness, weak topologies, separation theorems, barrelled and Montel spaces) (complete)
-- [ ] `Matrix/` - Matrix analysis (matrix norms, matrix functions, spectral theory) (pending)
+- [x] `Matrix/` - Matrix analysis (matrix norms, matrix functions, spectral theory) (complete)
 - [ ] `Meromorphic/` - Meromorphic functions (functions holomorphic except at isolated poles) (pending)
 - [ ] `Normed/` - Normed spaces basics (pending)
 - [ ] `NormedSpace/` - Normed vector spaces and their topology (pending)
