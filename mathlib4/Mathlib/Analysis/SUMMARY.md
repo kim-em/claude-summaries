@@ -54,7 +54,7 @@ The `Analysis/` directory contains the formalization of real and complex analysi
 - [x] `LocallyConvex/` - Locally convex topological vector spaces (seminorms, absorbent/balanced/absolutely convex sets, von Neumann boundedness, weak topologies, separation theorems, barrelled and Montel spaces) (complete)
 - [x] `Matrix/` - Matrix analysis (matrix norms, matrix functions, spectral theory) (complete)
 - [x] `Meromorphic/` - Meromorphic functions (functions holomorphic except at isolated poles) (complete)
-- [ ] `Normed/` - Normed spaces basics (pending)
+- [~] `Normed/` - Normed spaces basics (preliminary)
 - [ ] `NormedSpace/` - Normed vector spaces and their topology (pending)
 - [ ] `ODE/` - Ordinary differential equations (existence, uniqueness, solutions) (pending)
 - [ ] `Polynomial/` - Analysis on polynomials (roots, bounds, approximation) (pending)
