@@ -22,7 +22,7 @@ Organized collection of reference letters for 14 candidates in the ANU postdocto
 
 - [x] `Appel/` - Reference letters for Andrea Appel - 6 strong recommendations from distinguished mathematicians (Lauda, Okounkov, Friedlander, Etingof, Toledano Laredo) for work on monodromy theorems and quasi-Coxeter categories (complete)
 - [x] `Chapman/` - Reference letters for Kyle Chapman - 3 letters emphasizing exceptional teaching, PhD on ergodic algorithms for thick knots, and creative work on subfactor planar algebras (complete)
-- [ ] `Cui/` - Reference letters for Cui (pending)
+- [x] `Cui/` - Reference letters for Xingshan Cui (Shawn) - 2 exceptionally strong recommendations emphasizing fundamental work in (3+1)-TQFTs, gauging symmetries, and anyonic quantum computation (complete)
 - [ ] `Ganev/` - Reference letters for Ganev (pending)
 - [ ] `Grant/` - Reference letters for Grant (pending)
 - [ ] `Hilburn/` - Reference letters for Hilburn (pending)
