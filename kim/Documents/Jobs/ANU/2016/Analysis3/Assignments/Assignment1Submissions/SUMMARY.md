@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/Analysis3/Assignments/Assignment1Submissions
-generated: 2025-12-07T07:15:00Z
+generated: 2025-12-07T08:30:00Z
 git_sha: 48a99ef1be36fc0c3cca2af4518f1aebb71ec697
 git_branch: master
-status: preliminary
+status: complete
 files_count: 18
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Student submissions for MATH3325 Analysis 3 Assignment 1 (due August 12, 2016). Contains 18 PDF submissions from students working on problems about bounded linear transformations on Hilbert spaces, strong convergence, compact operators, self-adjoint operators, and integral operators. Submissions range from 136KB to 6.1MB and include both typeset (LaTeX) solutions and handwritten work. A separate `graded/` subdirectory contains 5 graded submissions with instructor feedback and marks.
+Complete collection of student submissions for MATH3325 Analysis 3 Assignment 1 (due August 12, 2016). Contains 18 ungraded PDF submissions from students working on problems about bounded linear transformations on Hilbert spaces, strong convergence, compact operators, self-adjoint operators, and integral operators. Submissions range from 136KB to 6.1MB and include both typeset (LaTeX) solutions and handwritten work. The `graded/` subdirectory contains 5 graded submissions with detailed instructor feedback - scores ranging from 33/80 (41%) to 64/80 (80%), demonstrating the grading criteria focused on mathematical rigor, proof technique, and clarity of explanation. The graded work includes extensive red-pen annotations highlighting common student errors in applying Fubini's theorem, Cauchy-Schwarz inequality, and logical gaps in completeness arguments.
 
 ## Key Files
 

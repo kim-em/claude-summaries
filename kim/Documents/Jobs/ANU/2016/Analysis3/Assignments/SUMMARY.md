@@ -32,7 +32,7 @@ Four assignments for MATH3325 Analysis 3 (2016), each worth 100 marks (80 for pr
 
 ## Subdirectories
 
-- [~] `Assignment1Submissions/` - Student submissions for Assignment 1 (18 PDFs from various students plus graded folder) (preliminary)
+- [x] `Assignment1Submissions/` - Student submissions for Assignment 1 (18 PDFs from various students plus graded folder with instructor feedback) (complete)
 - [ ] `Assignment2Submissions/` - Student submissions for Assignment 2 (pending)
 - [ ] `Assignment3Submissions/` - Student submissions for Assignment 3 (pending)
 - [ ] `Assignment4Submissions/` - Student submissions for Assignment 4 (pending)
