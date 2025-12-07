@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/CategoryTheory/Functor
-generated: 2025-12-07T16:30:00Z
+generated: 2025-12-07T20:45:00Z
 git_sha: 8806fb490620c3ccc60e504c32aefda32944948b
 git_branch: flexible-linter-simp-suggestions
-status: preliminary
+status: complete
 files_count: 15
 subdirs_count: 3
 ---
@@ -12,7 +12,9 @@ subdirs_count: 3
 
 ## Overview
 
-The `Functor/` directory contains the core theory of functors between categories, including their basic properties, typeclasses for special functors (fully faithful, flat, conservative), and various constructions (constant functors, currying, hom functors). This module provides the foundational structure `Functor C D` representing functors from category `C` to category `D` with the notation `C ⥤ D`, along with the identity functor `𝟭`, composition `⋙`, and the category structure on functor categories. It includes preservation and reflection properties (monomorphisms, epimorphisms, isomorphisms), flatness characterizations, and utility functors for working with product categories and higher-order functors (bifunctors, trifunctors).
+The `Functor/` directory provides comprehensive formalization of functor theory in category theory, encompassing both foundational definitions and advanced categorical constructions. The module establishes the core `Functor C D` structure (notation `C ⥤ D`) with identity `𝟭` and composition `⋙`, defines the category structure on functor categories where natural transformations serve as morphisms, and develops typeclasses for special functors (fully faithful, flat, conservative) alongside preservation and reflection properties for monomorphisms, epimorphisms, and isomorphisms.
+
+Beyond basic functor theory, the directory includes sophisticated constructions for working with product categories (constant functors, currying for bifunctors and trifunctors, hom functors) and formalizes three major advanced topics via subdirectories: (1) Kan extensions as universal solutions to functor extension problems, with pointwise characterizations via (co)limits and dense functor theory; (2) derived functors via localization theory, establishing left and right derived functors as Kan extensions and proving the derived adjunction theorem; and (3) reflection of isomorphisms with connections to balanced categories. This infrastructure supports homological algebra, algebraic topology, and other areas requiring categorical machinery.
 
 ## Key Files
 
@@ -36,10 +38,10 @@ The `Functor/` directory contains the core theory of functors between categories
 
 ## Subdirectories
 
-- [x] `Derived/` - Derived functors as Kan extensions along localization functors (left/right derived, pointwise, adjunctions)
-- [x] `KanExtension/` - Kan extensions (left and right adjoints along functors) (complete)
-- [x] `ReflectsIso/` - Reflection of isomorphisms by functors (complete)
+- [x] `Derived/` - Derived functors via localization and Kan extensions: left derived functors as right Kan extensions, right derived functors as left Kan extensions, pointwise constructions, and derived adjunction theorem showing adjoint functors induce adjoint derived functors
+- [x] `KanExtension/` - Kan extensions as universal extensions of functors: left/right Kan extensions with universal properties, pointwise characterizations via (co)limits, Kan extension functors with adjunctions to precomposition, dense functors, and preservation of Kan extensions
+- [x] `ReflectsIso/` - Reflection of isomorphisms by functors: `ReflectsIsomorphisms` typeclass establishing that if `F.map f` is iso then `f` is iso, with instances for fully faithful functors and connections to balanced categories via reflection of epis/monos
 
 ## Search Tags
 
-functors category-theory fully-faithful flat-functors preservation reflection epimorphisms monomorphisms constant-functor currying hom-functor natural-transformations functor-category bifunctors trifunctors
+functors category-theory fully-faithful flat-functors preservation reflection epimorphisms monomorphisms constant-functor currying hom-functor natural-transformations functor-category bifunctors trifunctors kan-extensions left-kan-extension right-kan-extension pointwise-kan-extension derived-functors left-derived right-derived localization adjunctions dense-functors reflects-isomorphisms balanced-categories
