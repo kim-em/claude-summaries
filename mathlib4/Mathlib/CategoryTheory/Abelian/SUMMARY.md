@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/CategoryTheory/Abelian
-generated: 2025-12-07T08:45:00Z
+generated: 2025-12-07T16:00:00Z
 git_sha: 8806fb490620c3ccc60e504c32aefda32944948b
 git_branch: flexible-linter-simp-suggestions
-status: preliminary
+status: complete
 files_count: 19
 subdirs_count: 6
 ---
@@ -12,7 +12,7 @@ subdirs_count: 6
 
 ## Overview
 
-The `Abelian/` directory provides a comprehensive formalization of abelian categories and their properties in mathlib4. An abelian category is a preadditive category with finite products, kernels and cokernels, where every monomorphism and epimorphism is normal. This directory includes the basic definition and fundamental theorems (mono + epi = iso, factorization through images/coimages), exactness properties and diagram-chasing techniques using pseudoelements, derived functors (left and right derived), special classes of objects (injective/projective), Grothendieck axioms and categories, the Freyd-Mitchell embedding theorem showing every small abelian category embeds into modules over a ring, and transfer theorems for constructing abelian structures.
+The `Abelian/` directory provides a comprehensive formalization of abelian category theory, one of the foundational frameworks for homological algebra and algebraic geometry in mathlib4. An abelian category is a preadditive category with finite products, kernels and cokernels, where every monomorphism and epimorphism is normal. The directory develops the complete theoretical apparatus in layers: foundational definitions and theorems (mono + epi = iso, coimage-image comparison), exactness characterizations and diagram-chasing via pseudoelements, classical diagram lemmas (four, five, snake) for exact sequences, dimension theory and resolutions for injective and projective objects, derived functors and Ext groups for computing homological invariants, Grothendieck axioms (AB4/AB5) characterizing exactness of colimits, the full theory of Grothendieck abelian categories including existence of enough injectives via the small object argument, Gabriel-Popescu and Freyd-Mitchell embedding theorems demonstrating that abstract abelian categories can be faithfully represented as module categories, Serre subcategories and quotient structures, and transfer mechanisms for inheriting abelian structure. Together, these components provide the categorical infrastructure for derived categories, sheaf cohomology, and modern homological methods throughout mathlib.
 
 ## Key Files
 

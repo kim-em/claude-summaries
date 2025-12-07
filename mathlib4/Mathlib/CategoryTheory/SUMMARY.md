@@ -71,7 +71,7 @@ The `CategoryTheory/` directory contains the comprehensive formalization of cate
 
 ## Subdirectories
 
-- [~] `Abelian/` - Abelian categories with kernels, cokernels, and exact sequences (preliminary)
+- [x] `Abelian/` - Abelian categories with kernels, cokernels, and exact sequences (complete)
 - [ ] `Action/` - Group actions and representations as functors (pending)
 - [ ] `Adjunction/` - Adjoint functors with unit and counit (pending)
 - [ ] `Bicategory/` - Bicategories with 2-morphisms and coherence (pending)
