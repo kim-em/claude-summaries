@@ -39,7 +39,7 @@ The `Bicategory/` directory contains the formalization of bicategory theory in m
 - [x] `Functor/` - Pseudofunctors and related structures between bicategories (complete)
 - [x] `FunctorBicategory/` - Bicategory of oplax functors with oplax natural transformations and modifications (complete)
 - [x] `Kan/` - Kan extensions in bicategories (complete)
-- [ ] `Modification/` - Modifications between pseudonatural transformations (pending)
+- [x] `Modification/` - Modifications between natural transformations of oplax/pseudofunctors (complete)
 - [ ] `Monad/` - Monads in bicategories (pending)
 - [ ] `NaturalTransformation/` - Natural transformations for pseudofunctors (pending)
 - [ ] `Strict/` - Strict bicategories and related structures (pending)
