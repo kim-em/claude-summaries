@@ -76,7 +76,7 @@ The `CategoryTheory/` directory contains the comprehensive formalization of cate
 - [x] `Adjunction/` - Adjoint functors with unit and counit (complete)
 - [x] `Bicategory/` - Bicategories with 2-morphisms and coherence (complete)
 - [x] `Category/` - Basic category instances and constructions (complete)
-- [ ] `Center/` - Center of monoidal categories (pending)
+- [x] `Center/` - Center of categories as endomorphisms of identity functor (complete)
 - [ ] `ChosenFiniteProducts/` - Chosen finite products infrastructure (pending)
 - [ ] `Closed/` - Closed categories with internal homs (pending)
 - [ ] `Comma/` - Comma categories and slice categories (pending)
