@@ -80,7 +80,7 @@ The `CategoryTheory/` directory contains the comprehensive formalization of cate
 - [x] `ChosenFiniteProducts/` - Deprecated redirects to Monoidal.Cartesian.* modules (complete)
 - [x] `Closed/` - Deprecated redirects to Monoidal.Closed modules (complete)
 - [x] `Comma/` - Comma categories and slice categories (complete)
-- [ ] `ComposableArrows/` - Composable sequences of arrows (pending)
+- [x] `ComposableArrows/` - Composable sequences of arrows (complete)
 - [ ] `ConcreteCategory/` - Concrete categories with underlying sets/types (pending)
 - [ ] `CopyDiscardCategory/` - Categories with copy and discard operations (pending)
 - [ ] `Dialectica/` - Dialectica categories (pending)
