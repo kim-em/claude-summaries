@@ -38,7 +38,7 @@ Student submissions for MATH3325 Analysis 3 Assignment 1 (due August 12, 2016). 
 
 ## Subdirectories
 
-- [ ] `graded/` - Contains 5 graded submissions with instructor feedback (David Quarel 10.8MB, Haui-jie Yao 3.7MB, Jianing Zhao 3.6MB, John Hartman 9.6MB, Michael Joseph 2.6MB) - includes handwritten solutions with red-pen markings, scores, and comments (pending)
+- [x] `graded/` - Contains 5 graded submissions with instructor feedback (David Quarel 10.8MB, Haui-jie Yao 3.7MB, Jianing Zhao 3.6MB, John Hartman 9.6MB, Michael Joseph 2.6MB) - includes handwritten solutions with red-pen markings, scores, and comments (complete)
 
 ## Search Tags
 
