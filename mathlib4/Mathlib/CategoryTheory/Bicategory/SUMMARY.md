@@ -36,7 +36,7 @@ The `Bicategory/` directory contains the formalization of bicategory theory in m
 ## Subdirectories
 
 - [x] `Adjunction/` - Adjunctions in bicategories (complete)
-- [ ] `Functor/` - Pseudofunctors and related structures between bicategories (pending)
+- [~] `Functor/` - Pseudofunctors and related structures between bicategories (preliminary)
 - [ ] `FunctorBicategory/` - Bicategory of functors (pending)
 - [ ] `Kan/` - Kan extensions in bicategories (pending)
 - [ ] `Modification/` - Modifications between pseudonatural transformations (pending)
