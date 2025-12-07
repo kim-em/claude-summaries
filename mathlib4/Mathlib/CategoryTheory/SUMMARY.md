@@ -79,7 +79,7 @@ The `CategoryTheory/` directory contains the comprehensive formalization of cate
 - [x] `Center/` - Center of categories as endomorphisms of identity functor (complete)
 - [x] `ChosenFiniteProducts/` - Deprecated redirects to Monoidal.Cartesian.* modules (complete)
 - [x] `Closed/` - Deprecated redirects to Monoidal.Closed modules (complete)
-- [ ] `Comma/` - Comma categories and slice categories (pending)
+- [~] `Comma/` - Comma categories and slice categories (preliminary)
 - [ ] `ComposableArrows/` - Composable sequences of arrows (pending)
 - [ ] `ConcreteCategory/` - Concrete categories with underlying sets/types (pending)
 - [ ] `CopyDiscardCategory/` - Categories with copy and discard operations (pending)
