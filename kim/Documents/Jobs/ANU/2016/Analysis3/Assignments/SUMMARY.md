@@ -33,7 +33,7 @@ Four assignments for MATH3325 Analysis 3 (2016), each worth 100 marks (80 for pr
 ## Subdirectories
 
 - [x] `Assignment1Submissions/` - Student submissions for Assignment 1 (18 PDFs from various students plus graded folder with instructor feedback) (complete)
-- [ ] `Assignment2Submissions/` - Student submissions for Assignment 2 (pending)
+- [~] `Assignment2Submissions/` - Student submissions for Assignment 2 (12 PDFs from various students plus graded folder with instructor feedback) (preliminary)
 - [ ] `Assignment3Submissions/` - Student submissions for Assignment 3 (pending)
 - [ ] `Assignment4Submissions/` - Student submissions for Assignment 4 (pending)
 - [ ] `unreleased-solutions/` - Unreleased and alternate solutions including solutions to old problems for Assignments 1 and 4, plus LaTeX sources for some sample solutions (pending)
