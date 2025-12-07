@@ -31,7 +31,7 @@ Student submissions for MATH3325 Analysis 3 Assignment 3 (2016), covering measur
 
 ## Subdirectories
 
-- [ ] `graded/` - Annotated student submissions with instructor feedback (19 PDFs including scores like 77/80, 95/100 and handwritten comments on mathematical rigor, proof techniques, and completeness) (pending)
+- [x] `graded/` - Annotated student submissions with instructor feedback (19 PDFs with scores ranging from 43/80 to 95/100, detailed handwritten comments on mathematical rigor, proof techniques, and completeness)
 
 ## Search Tags
 
