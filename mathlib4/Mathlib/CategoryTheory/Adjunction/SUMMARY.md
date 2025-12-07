@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/CategoryTheory/Adjunction
-generated: 2025-12-07T09:15:00Z
+generated: 2025-12-07T19:00:00Z
 git_sha: 8806fb490620c3ccc60e504c32aefda32944948b
 git_branch: flexible-linter-simp-suggestions
-status: preliminary
+status: complete
 files_count: 18
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-The `Adjunction/` directory contains the comprehensive formalization of adjoint functors in category theory, one of the most fundamental concepts connecting different categories. An adjunction `F ⊣ G` between functors `F : C ⥤ D` and `G : D ⥤ C` consists of a unit and counit natural transformation satisfying triangle identities. This directory provides multiple constructors for building adjunctions, characterizations of fully faithful adjoints, preservation theorems for limits and colimits, the adjoint functor theorems (both general and special), mate correspondence for 2-cells, reflective functors, adjoint lifting theorems, and various specialized constructions including whiskering, restrictions, triples, and uniqueness results.
+The `Adjunction/` directory contains the comprehensive formalization of adjoint functors in category theory, one of the most fundamental concepts connecting different categories. An adjunction `F ⊣ G` between functors `F : C ⥤ D` and `G : D ⥤ C` consists of a unit and counit natural transformation satisfying triangle identities. This directory provides multiple constructors for building adjunctions, characterizations of fully faithful adjoints, preservation theorems for limits and colimits, the adjoint functor theorems (both general and special), mate correspondence for 2-cells, reflective functors, and various specialized constructions including whiskering, restrictions, triples, and uniqueness results. The `Lifting/` subdirectory provides advanced techniques for constructing adjunctions through commutative squares via the adjoint triangle theorem and adjoint lifting theorem, which allow lifting adjoints from composite functors to their components when certain monadicity or comonadicity conditions are satisfied.
 
 ## Key Files
 
