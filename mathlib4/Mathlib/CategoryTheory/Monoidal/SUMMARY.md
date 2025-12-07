@@ -59,7 +59,7 @@ The `Monoidal/` directory contains the comprehensive formalization of monoidal c
 - [x] `Closed/` - Closed monoidal categories with internal hom functors, Cartesian closed categories, exponentials, enrichment, and functor category constructions
 - [x] `DayConvolution/` - Braided/symmetric monoidal structure, internal hom functors for monoidal closed categories, and DayFunctor type synonym
 - [x] `ExternalProduct/` - External tensor products for diagrams in monoidal categories with Kan extension preservation
-- [ ] `Free/` - Free monoidal categories (pending)
+- [x] `Free/` - Free monoidal categories and monoidal coherence theorem
 - [ ] `Functor/` - Additional monoidal functor properties (pending)
 - [ ] `Internal/` - Internal structures in monoidal categories (pending)
 - [ ] `Limits/` - Limits and colimits in monoidal categories (pending)
