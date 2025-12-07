@@ -65,7 +65,7 @@ The `Monoidal/` directory contains the comprehensive formalization of monoidal c
 - [x] `Limits/` - Limits and colimits in monoidal categories with lax monoidal limit functor and tensor preservation instances
 - [x] `OfChosenFiniteProducts/` - Deprecated module redirects to Cartesian monoidal categories (complete)
 - [x] `Opposite/` - Equivalence between Mon C and Mon C^Mop via mop/unmop functors (complete)
-- [ ] `Rigid/` - Rigid monoidal categories with duals (pending)
+- [x] `Rigid/` - Rigid monoidal categories with duals (complete)
 - [ ] `Types/` - Monoidal structure on Type category (pending)
 
 ## Search Tags
