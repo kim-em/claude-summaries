@@ -35,7 +35,7 @@ Four assignments for MATH3325 Analysis 3 (2016), each worth 100 marks (80 for pr
 - [x] `Assignment1Submissions/` - Student submissions for Assignment 1 (18 PDFs from various students plus graded folder with instructor feedback) (complete)
 - [x] `Assignment2Submissions/` - Student submissions for Assignment 2 (12 ungraded PDFs plus graded folder with 20 annotated PDFs showing instructor feedback and scores) (complete)
 - [x] `Assignment3Submissions/` - Student submissions for Assignment 3 (10 ungraded PDFs plus graded folder with 19 annotated PDFs showing instructor feedback and scores ranging from 43/80 to 95/100; detailed feedback on mathematical rigor, proof techniques, and notation)
-- [~] `Assignment4Submissions/` - Student submissions for Assignment 4 (11 ungraded PDFs plus graded folder with 17 annotated PDFs showing instructor feedback and scores)
+- [x] `Assignment4Submissions/` - Student submissions for Assignment 4 (11 ungraded PDFs plus graded folder with 17 annotated PDFs showing instructor feedback and scores)
 - [ ] `unreleased-solutions/` - Unreleased and alternate solutions including solutions to old problems for Assignments 1 and 4, plus LaTeX sources for some sample solutions (pending)
 
 ## Search Tags
