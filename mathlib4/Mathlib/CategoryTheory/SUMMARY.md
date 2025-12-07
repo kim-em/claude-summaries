@@ -105,7 +105,7 @@ The `CategoryTheory/` directory contains the comprehensive formalization of cate
 - [x] `Limits/` - Limits and colimits (products, pullbacks, equalizers, etc.) (complete)
 - [x] `Linear/` - Linear categories (enriched over modules) (complete)
 - [x] `Localization/` - Localization of categories with respect to morphism properties (complete)
-- [ ] `LocallyCartesianClosed/` - Locally cartesian closed categories (pending)
+- [x] `LocallyCartesianClosed/` - Locally cartesian closed categories (complete)
 - [ ] `MarkovCategory/` - Markov categories for probability (pending)
 - [ ] `Monad/` - Monads and algebras (pending)
 - [ ] `Monoidal/` - Monoidal categories and tensor products (pending)
