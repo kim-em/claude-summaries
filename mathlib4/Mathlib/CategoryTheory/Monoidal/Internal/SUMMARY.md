@@ -24,7 +24,7 @@ The `Internal/` directory contains equivalences between internal algebraic objec
 
 ## Subdirectories
 
-- [ ] `Types/` - Equivalences between internal algebraic objects in Type and bundled concrete categories (pending)
+- [x] `Types/` - Equivalences between internal algebraic objects in Type and bundled concrete categories (complete)
 
 ## Search Tags
 
