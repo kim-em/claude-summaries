@@ -34,7 +34,7 @@ The `Pullback/` directory provides an extended theory of pullbacks (and dually, 
 
 ## Subdirectories
 
-- [ ] `Categorical/` - Categorical (2-categorical) pullbacks of functors with natural isomorphisms (pending)
+- [x] `Categorical/` - Categorical (2-categorical) pullbacks of functors with natural isomorphisms (complete)
 
 ## Search Tags
 
