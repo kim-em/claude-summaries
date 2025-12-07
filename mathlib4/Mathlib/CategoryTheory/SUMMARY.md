@@ -111,7 +111,7 @@ The `CategoryTheory/` directory contains the comprehensive formalization of cate
 - [x] `Monoidal/` - Comprehensive monoidal category theory: tensor products, internal algebraic objects (monoid/comonoid/bimonoid/Hopf), braided/symmetric structures, closed monoidal categories, Cartesian monoidal categories, rigid categories with duals, Day convolution, free monoidal categories and coherence theorem, actions, limits, and transport mechanisms
 - [x] `MorphismProperty/` - Properties of morphisms (stable, multiplicative, etc.) (complete)
 - [x] `ObjectProperty/` - Properties of objects in categories (complete)
-- [ ] `PathCategory/` - Path category from a quiver (pending)
+- [x] `PathCategory/` - Path category from a quiver (complete)
 - [ ] `Pi/` - Product categories (pending)
 - [ ] `Preadditive/` - Preadditive categories with additive hom-groups (pending)
 - [ ] `Presentable/` - Presentable and accessible categories (pending)
