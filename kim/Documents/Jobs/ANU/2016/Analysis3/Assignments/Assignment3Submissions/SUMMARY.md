@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/Analysis3/Assignments/Assignment3Submissions
-generated: 2025-12-07T10:15:23Z
+generated: 2025-12-07T10:23:45Z
 git_sha: 48a99ef1be36fc0c3cca2af4518f1aebb71ec697
 git_branch: master
-status: preliminary
+status: complete
 files_count: 10
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Student submissions for MATH3325 Analysis 3 Assignment 3 (2016), covering measure theory topics including distribution functions, pushforward measures, Fatou's Lemma, and convergence in measure. Contains 10 ungraded PDF submissions and a graded folder with 19 annotated PDFs showing detailed instructor feedback with handwritten comments, checkmarks, and numerical scores (e.g., 77/80, 95/100). The graded folder includes submissions from students who appear in the ungraded set plus additional students who may have submitted late or through different channels.
+Student submissions for MATH3325 Analysis 3 Assignment 3 (2016), covering advanced measure theory topics including distribution functions, pushforward measures, Fatou's Lemma variants, and convergence in measure. Contains 10 ungraded PDF submissions in the root folder (ranging from 144KB to 5.9MB) alongside a comprehensive graded folder with 19 annotated PDFs. The graded submissions demonstrate substantial variation in student performance, with scores ranging from 43/80 (54%) to 95/100, and feature detailed instructor feedback addressing mathematical rigor, proof techniques, notation conventions, and theorem application. Feedback highlights common issues such as insufficient justification for Fubini-Tonelli application, improper use of notation (apostrophes in math, starting sentences with symbols), incomplete proofs, and conceptual gaps in understanding disjoint sets and measure-theoretic convergence. The folder structure suggests a grading workflow where submissions were collected, then moved to a graded subfolder with annotations.
 
 ## Key Files
 
