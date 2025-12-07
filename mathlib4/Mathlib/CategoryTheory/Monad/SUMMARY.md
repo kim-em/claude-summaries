@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/CategoryTheory/Monad
-generated: 2025-12-07T08:00:00Z
+generated: 2025-12-07T09:15:00Z
 git_sha: 8806fb490620c3ccc60e504c32aefda32944948b
 git_branch: flexible-linter-simp-suggestions
-status: preliminary
+status: complete
 files_count: 12
 subdirs_count: 0
 ---
