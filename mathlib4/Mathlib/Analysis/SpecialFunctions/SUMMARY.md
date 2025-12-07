@@ -50,7 +50,7 @@ The `SpecialFunctions/` directory contains formalized theory for important mathe
 - [x] `Integrability/` - Integrability results for special functions (complete)
 - [x] `Integrals/` - Evaluations of integrals involving special functions (complete)
 - [x] `Log/` - Logarithm function and its properties (complete)
-- [ ] `Pow/` - Power functions (x^y for real/complex x,y) and their properties (pending)
+- [x] `Pow/` - Power functions (x^y for real/complex x,y) and their properties (complete)
 - [ ] `Trigonometric/` - Trigonometric and hyperbolic functions (sin, cos, tan, sinh, cosh, tanh, etc.) (pending)
 
 ## Search Tags
