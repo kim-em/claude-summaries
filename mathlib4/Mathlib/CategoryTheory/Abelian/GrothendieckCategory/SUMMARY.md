@@ -27,7 +27,7 @@ The `GrothendieckCategory/` directory formalizes Grothendieck abelian categories
 
 ## Subdirectories
 
-- [ ] `ModuleEmbedding/` - Module embedding theorems (Gabriel-Popescu) (pending)
+- [x] `ModuleEmbedding/` - Module embedding theorems (Gabriel-Popescu) (complete)
 
 ## Search Tags
 
