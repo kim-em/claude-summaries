@@ -87,7 +87,7 @@ The `CategoryTheory/` directory contains the comprehensive formalization of cate
 - [x] `Discrete/` - Discrete categories from types (complete)
 - [x] `Distributive/` - Distributive categories with left/right tensor products preserving coproducts (complete)
 - [x] `EffectiveEpi/` - Effective epimorphisms and descent (complete)
-- [ ] `Endofunctor/` - Endofunctors and fixed points (pending)
+- [x] `Endofunctor/` - Endofunctors and fixed points (complete)
 - [ ] `Enriched/` - Enriched categories over monoidal categories (pending)
 - [ ] `Equivalence/` - Additional equivalence constructions and properties (pending)
 - [ ] `FiberedCategory/` - Fibered categories and Grothendieck fibrations (pending)
