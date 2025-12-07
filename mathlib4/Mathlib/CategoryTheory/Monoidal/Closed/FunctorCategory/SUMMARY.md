@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/CategoryTheory/Monoidal/Closed/FunctorCategory
-generated: 2025-12-07T23:45:00Z
+generated: 2025-12-07T23:57:30Z
 git_sha: 8806fb490620c3ccc60e504c32aefda32944948b
 git_branch: flexible-linter-simp-suggestions
-status: preliminary
+status: complete
 files_count: 3
 subdirs_count: 0
 ---

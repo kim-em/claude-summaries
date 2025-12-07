@@ -30,7 +30,7 @@ The `Closed/` directory implements the theory of closed monoidal categories—ca
 
 ## Subdirectories
 
-- [~] `FunctorCategory/` - Additional constructions for closed structures on functor categories (preliminary)
+- [x] `FunctorCategory/` - Additional constructions for closed structures on functor categories
 
 ## Search Tags
 
