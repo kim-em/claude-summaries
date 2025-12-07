@@ -3,7 +3,7 @@ source_path: /Users/kim/Documents/Jobs/ANU/2016/Analysis3/Essays/FinalEssays
 generated: 2025-12-07T12:00:00Z
 git_sha: 48a99ef1be36fc0c3cca2af4518f1aebb71ec697
 git_branch: master
-status: preliminary
+status: complete
 files_count: 19
 subdirs_count: 0
 ---
