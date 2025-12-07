@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/CategoryTheory/Closed
-generated: 2025-12-07T10:45:00Z
+generated: 2025-12-07T19:50:00Z
 git_sha: 8806fb490620c3ccc60e504c32aefda32944948b
 git_branch: flexible-linter-simp-suggestions
-status: preliminary
+status: complete
 files_count: 9
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-The `Closed/` directory contains deprecated redirect modules that forward to the new location at `Mathlib.CategoryTheory.Monoidal.Closed`. All files in this directory are deprecated as of 2025-11-28 and simply re-export the corresponding modules from the monoidal subcategory structure. This directory exists for backward compatibility, allowing existing code to continue importing from the old location while the library transitions to the new organizational structure where closed categories are properly categorized under monoidal categories.
+The `Closed/` directory is a deprecated compatibility layer that redirects to the new organizational structure at `Mathlib.CategoryTheory.Monoidal.Closed`. All nine top-level files were deprecated on 2025-11-28 and forward imports to the restructured location where closed category theory is properly categorized under monoidal categories. The directory covers the full spectrum of closed category structures: basic monoidal closed categories, cartesian closed categories, enrichment structures, functors between closed categories, closed structures on functor categories (including completeness and groupoid cases), the closed structure on the Type category, closed ideals, and closed categories with zero objects. This backward compatibility layer ensures that existing code can continue using the old import paths while the library transitions to its new organizational structure.
 
 ## Key Files
 
@@ -29,8 +29,8 @@ The `Closed/` directory contains deprecated redirect modules that forward to the
 
 ## Subdirectories
 
-- [x] `FunctorCategory/` - Deprecated redirects for closed structure on functor categories (complete)
+- [x] `FunctorCategory/` - Deprecated redirects for closed structure on functor categories, including basic definitions, completeness properties, and groupoid cases (complete)
 
 ## Search Tags
 
-deprecated-modules backward-compatibility closed-categories monoidal-closed-categories cartesian-closed redirects module-reorganization
+deprecated-modules backward-compatibility closed-categories monoidal-closed-categories cartesian-closed redirects module-reorganization functor-categories enrichment
