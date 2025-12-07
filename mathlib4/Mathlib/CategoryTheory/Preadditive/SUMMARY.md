@@ -38,7 +38,7 @@ The `Preadditive/` directory contains the formalization of preadditive categorie
 
 ## Subdirectories
 
-- [ ] `Injective/` - Injective objects in preadditive categories (pending)
+- [x] `Injective/` - Injective objects in preadditive categories (complete)
 - [ ] `Projective/` - Projective objects in preadditive categories (pending)
 - [ ] `Yoneda/` - Yoneda-related constructions for preadditive categories (pending)
 
