@@ -11,6 +11,15 @@ This file tracks files that couldn't be processed with standard tools and need s
   - Compiled postdoctoral fellowship applications for position #492617
   - Would require PDF splitting or external processing tool
 
+## Large PDFs (exceeding 100-page limit)
+
+- `Documents/Jobs/ANU/2016/Analysis3/Essays/cheater/Analysis Essay/FurtherReference/Claudia_Prévôt,_Michael_Röckner_A Concise Course_on_Stochastic_Partial_Differential_Equations.pdf` (1.1MB, 148 pages) in [FurtherReference/SUMMARY.md](Documents/Jobs/ANU/2016/Analysis3/Essays/cheater/Analysis%20Essay/FurtherReference/SUMMARY.md)
+  - Graduate textbook on stochastic partial differential equations
+- `Documents/Jobs/ANU/2016/Analysis3/Essays/cheater/Analysis Essay/FurtherReference/Prato_G.D.,_Zabczyk_J._Stochastic_Equations_in_Infinite_Dimensions.pdf` (2.5MB, 514 pages) in [FurtherReference/SUMMARY.md](Documents/Jobs/ANU/2016/Analysis3/Essays/cheater/Analysis%20Essay/FurtherReference/SUMMARY.md)
+  - Comprehensive reference on stochastic equations in infinite-dimensional spaces
+- `Documents/Jobs/ANU/2016/Analysis3/Essays/cheater/Analysis Essay/FurtherReference/Rene_L._Schilling_Lothar_Partzsch_Bjorn_BrownianMotion_AnIntroduction_to_StochasticProcesses.pdf` (12.4MB, 396 pages) in [FurtherReference/SUMMARY.md](Documents/Jobs/ANU/2016/Analysis3/Essays/cheater/Analysis%20Essay/FurtherReference/SUMMARY.md)
+  - Introduction to stochastic processes and Brownian motion theory
+
 ## Excel Spreadsheets (need extraction tools)
 
 - `Documents/Jobs/ANU/2013/Analysis3/Andrew's materials/organizational/Attendance.xls` (29KB) in [organizational/SUMMARY.md](Documents/Jobs/ANU/2013/Analysis3/Andrew's%20materials/organizational/SUMMARY.md)
