@@ -27,7 +27,7 @@ The `Enriched/` directory contains the formalization of enriched category theory
 ## Subdirectories
 
 - [x] `Limits/` - Conical limits in enriched categories (complete)
-- [ ] `Ordinary/` - Enriched ordinary categories with compatibility between enriched and ordinary structure (pending)
+- [x] `Ordinary/` - Enriched ordinary categories with compatibility between enriched and ordinary structure (complete)
 
 ## Search Tags
 
