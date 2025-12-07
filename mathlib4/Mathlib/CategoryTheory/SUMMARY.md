@@ -108,7 +108,7 @@ The `CategoryTheory/` directory contains the comprehensive formalization of cate
 - [x] `LocallyCartesianClosed/` - Locally cartesian closed categories (complete)
 - [x] `MarkovCategory/` - Markov categories for probability (complete)
 - [x] `Monad/` - Monads and algebras (complete)
-- [~] `Monoidal/` - Monoidal categories and tensor products (preliminary)
+- [x] `Monoidal/` - Comprehensive monoidal category theory: tensor products, internal algebraic objects (monoid/comonoid/bimonoid/Hopf), braided/symmetric structures, closed monoidal categories, Cartesian monoidal categories, rigid categories with duals, Day convolution, free monoidal categories and coherence theorem, actions, limits, and transport mechanisms
 - [ ] `MorphismProperty/` - Properties of morphisms (stable, multiplicative, etc.) (pending)
 - [ ] `ObjectProperty/` - Properties of objects in categories (pending)
 - [ ] `PathCategory/` - Path category from a quiver (pending)

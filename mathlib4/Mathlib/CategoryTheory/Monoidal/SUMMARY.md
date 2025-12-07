@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/CategoryTheory/Monoidal
-generated: 2025-12-07T09:15:00Z
+generated: 2025-12-08T00:10:00Z
 git_sha: 8806fb490620c3ccc60e504c32aefda32944948b
 git_branch: flexible-linter-simp-suggestions
-status: preliminary
+status: complete
 files_count: 89
 subdirs_count: 14
 ---
@@ -12,7 +12,11 @@ subdirs_count: 14
 
 ## Overview
 
-The `Monoidal/` directory contains the comprehensive formalization of monoidal category theory in mathlib4. It implements monoidal categories (categories equipped with tensor products, associators, and unitors), monoidal functors and natural transformations, internal algebraic structures (monoid, comonoid, bimonoid, and Hopf objects), braided and symmetric monoidal structures, closed monoidal categories, and specialized constructions including Day convolution, the Drinfeld center, and rigid monoidal categories. This framework provides the categorical foundation for tensor categories, representation theory, quantum algebra, and other areas requiring monoidal structure.
+The `Monoidal/` directory contains the comprehensive formalization of monoidal category theory in mathlib4, providing both foundational infrastructure and sophisticated specialized constructions. The framework begins with core definitions (monoidal categories with tensor products, associators, and unitors; monoidal functors preserving structure; monoidal natural transformations), then develops internal algebraic objects (monoid, comonoid, bimonoid, Hopf, and group objects with their commutative variants and module structures), enriched structures (braided and symmetric monoidal categories with hexagon identities and Yang-Baxter equations), and crucial variants (closed monoidal categories with internal hom functors and curry/uncurry operations, Cartesian monoidal categories from products, rigid categories with duals and exact pairings).
+
+The directory demonstrates deep categorical principles through powerful equivalences and constructions. Internal algebraic objects in functor categories correspond precisely to functors into categories of such objects (`Mon (C ⥤ D) ≌ C ⥤ Mon D`), specializing to show monoid objects in modules are algebras and internal objects in `Type` recover classical bundled structures. Actions of monoidal categories generalize group actions and connect to monoidal functors to endofunctor categories. Day convolution provides monoidal structure on functor categories via left Kan extensions, lifting braided/symmetric/closed structures when available. Free monoidal categories prove coherence (all structural diagrams commute). The framework extends to limits (lax monoidal limit functor), opposites (monoid equivalences via mop/unmop), external products for diagrams, and transport mechanisms for moving structure along equivalences.
+
+This comprehensive machinery serves as the categorical foundation for tensor categories, representation theory, quantum algebra, homological algebra, and any mathematical area requiring monoidal structure, demonstrating mathlib4's sophisticated treatment of higher categorical abstractions.
 
 ## Key Files
 
