@@ -60,7 +60,7 @@ The `Monoidal/` directory contains the comprehensive formalization of monoidal c
 - [x] `DayConvolution/` - Braided/symmetric monoidal structure, internal hom functors for monoidal closed categories, and DayFunctor type synonym
 - [x] `ExternalProduct/` - External tensor products for diagrams in monoidal categories with Kan extension preservation
 - [x] `Free/` - Free monoidal categories and monoidal coherence theorem
-- [ ] `Functor/` - Additional monoidal functor properties (pending)
+- [x] `Functor/` - Bridge between applicative functors and lax monoidal functors on types
 - [ ] `Internal/` - Internal structures in monoidal categories (pending)
 - [ ] `Limits/` - Limits and colimits in monoidal categories (pending)
 - [ ] `OfChosenFiniteProducts/` - Monoidal structure from explicitly chosen products (pending)
