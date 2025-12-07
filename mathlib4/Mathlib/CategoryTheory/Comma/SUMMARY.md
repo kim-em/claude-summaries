@@ -26,7 +26,7 @@ The `Comma/` directory implements comma categories and their specializations. A 
 
 ## Subdirectories
 
-- [~] `Over/` - Over and under categories (slice and coslice categories) (preliminary)
+- [x] `Over/` - Over and under categories (slice and coslice categories) (complete)
 - [ ] `Presheaf/` - Comma categories related to presheaves (pending)
 - [ ] `StructuredArrow/` - Structured arrow categories and costructured arrow categories (pending)
 
