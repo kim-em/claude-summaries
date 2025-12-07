@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/CategoryTheory/Bicategory/Functor
-generated: 2025-12-07T10:30:00Z
+generated: 2025-12-07T21:45:00Z
 git_sha: 8806fb490620c3ccc60e504c32aefda32944948b
 git_branch: flexible-linter-simp-suggestions
-status: preliminary
+status: complete
 files_count: 9
 subdirs_count: 0
 ---
@@ -12,7 +12,7 @@ subdirs_count: 0
 
 ## Overview
 
-The `Functor/` directory contains the formalization of various notions of functors between bicategories in mathlib4. It implements a hierarchy of functor types, starting from the most flexible prelax functors (which only preserve 2-morphisms functorially) up to strict pseudofunctors (which preserve composition and identities strictly). The directory includes prelax, lax, oplax, and pseudofunctors, as well as specialized variants like strictly unitary functors and strict pseudofunctors, along with constructors for building functors from locally discrete bicategories and to the bicategory of categories (Cat).
+The `Functor/` directory formalizes the hierarchy of functors between bicategories. Unlike ordinary category theory where functors strictly preserve composition and identities, bicategorical functors must account for the weak coherence structure of bicategories. This directory implements the full spectrum from prelax functors (minimal structure, preserving only 2-morphism composition) through lax and oplax functors (with coherent natural transformations `mapId` and `mapComp`) to pseudofunctors (where these natural transformations are invertible) and finally strict pseudofunctors (where composition and identities are preserved on the nose). The files establish the foundational infrastructure for working with bicategorical functors, including specialized constructors for locally discrete bicategories and the bicategory Cat of categories.
 
 ## Key Files
 
