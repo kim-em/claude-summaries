@@ -33,7 +33,7 @@ Student submissions for MATH6212/MATH3325 Analysis 3 Assignment 2 (due September
 
 ## Subdirectories
 
-- [ ] `graded/` - Graded student submissions with instructor annotations, feedback, and scores (20 PDFs including submissions by student names and university IDs) (pending)
+- [x] `graded/` - Graded student submissions with instructor annotations, feedback, and scores (20 PDFs including submissions by student names and university IDs) (complete)
 
 ## Search Tags
 
