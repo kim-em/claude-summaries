@@ -23,7 +23,7 @@ Complete reference materials package provided to the hired freelancer for the fu
 
 ## Subdirectories
 
-- [ ] `Analysis_Essays_Example_PreviousYears/` - Four example essays from previous MATH3325 students (231KB-373KB PDFs) with instructor annotations: Example1 (good detail but should be more rigorous), Example2 (good style but not complete enough), Example3 (detailed but not rigorous enough), Example4 (almost complete but could be more rigorous) (pending)
+- [x] `Analysis_Essays_Example_PreviousYears/` - Four example essays from previous MATH3325 students (231KB-373KB PDFs) with instructor annotations: Example1 (good detail but should be more rigorous), Example2 (good style but not complete enough), Example3 (detailed but not rigorous enough), Example4 (almost complete but could be more rigorous) (complete)
 - [ ] `FurtherReference/` - Three advanced reference books on stochastic processes: Prévôt & Röckner's "A Concise Course on Stochastic Partial Differential Equations" (1.1MB), Da Prato & Zabczyk's "Stochastic Equations in Infinite Dimensions" (2.5MB), and Schilling, Partzsch & Brown's "Brownian Motion: An Introduction to Stochastic Processes" (12.4MB) (pending)
 - [ ] `FurtherReference 2/` - Duplicate copy of the same three reference books as FurtherReference folder (pending)
 - [ ] `Prescribed_Textbooks_used_in_the_course/` - Two prescribed textbooks by Stein & Shakarchi: "Functional Analysis" (12.1MB) and "Real Analysis" (2.7MB) (pending)
