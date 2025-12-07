@@ -102,7 +102,7 @@ The `CategoryTheory/` directory contains the comprehensive formalization of cate
 - [x] `Idempotents/` - Idempotent completion and Karoubi envelope (complete)
 - [x] `Join/` - Join of categories (complete)
 - [x] `LiftingProperties/` - Lifting properties and weak factorization systems (complete)
-- [~] `Limits/` - Limits and colimits (products, pullbacks, equalizers, etc.) (preliminary)
+- [x] `Limits/` - Limits and colimits (products, pullbacks, equalizers, etc.) (complete)
 - [ ] `Linear/` - Linear categories (enriched over modules) (pending)
 - [ ] `Localization/` - Localization of categories (pending)
 - [ ] `LocallyCartesianClosed/` - Locally cartesian closed categories (pending)

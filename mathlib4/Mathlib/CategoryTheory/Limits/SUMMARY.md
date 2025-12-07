@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/CategoryTheory/Limits
-generated: 2025-12-07T09:00:00Z
+generated: 2025-12-07T22:00:00Z
 git_sha: 8806fb490620c3ccc60e504c32aefda32944948b
 git_branch: flexible-linter-simp-suggestions
-status: preliminary
+status: complete
 files_count: 41
 subdirs_count: 8
 ---
@@ -12,7 +12,7 @@ subdirs_count: 8
 
 ## Overview
 
-The `Limits/` directory provides the comprehensive formalization of limits and colimits in category theory, building from the foundational definitions of cones and cocones through the full theory of existence, preservation, reflection, and creation of limits. It implements the core theory (`Cones`, `IsLimit`, `HasLimits`), categorical properties of limit-preserving functors (`Preserves`, `Creates`), special limit constructions and shapes (`Shapes/` for products, pullbacks, equalizers, etc.), limits in specific categories (`Types`, `FunctorCategory`, `ConcreteCategory`), and advanced topics (final functors, van Kampen colimits, filtered colimits, presheaf representations). This infrastructure is essential for all of mathlib's categorical constructions, providing the foundation for adjunctions, completeness properties, sheaf theory, and higher categorical structures.
+The `Limits/` directory provides the comprehensive formalization of limits and colimits in category theory, serving as the central infrastructure for universal constructions throughout mathlib. The directory is organized into three major layers: (1) **Core abstract theory** establishing the fundamental definitions and properties of limits via cones/cocones, universal properties (`IsLimit`), existence typeclasses (`HasLimits`), and functoriality, along with duality theory relating limits and colimits through opposite categories; (2) **Concrete shapes and constructions** providing specialized implementations for all standard diagram shapes (products, pullbacks, equalizers, kernels, biproducts, wide pullbacks, terminal objects, etc.) with convenient notation and APIs, theorems showing how complex limits can be built from simpler primitives (e.g., all limits from products and equalizers), and explicit constructions in the category of types serving as fundamental examples; (3) **Functorial properties and advanced theory** characterizing how functors interact with limits through preservation, reflection, and creation (`Preserves/`), computing limits in structured categories (functor categories compute limits pointwise via `FunctorCategory/`, concrete categories via `ConcreteCategory/`), and specialized topics including final/initial functors enabling limit computation along functors, filtered colimits and their interaction with finite limits, ind-objects and ind-completion (`Indization/`), van Kampen colimits for descent theory, and the density theorem showing presheaves as colimits of representables. Together with its eight subdirectories (`Shapes/` for specific limit shapes, `Types/` for explicit type-theoretic constructions, `Preserves/` for functorial properties, `FunctorCategory/` for pointwise limits, `Constructions/` for building complex limits from primitives, `ConcreteCategory/` for set-theoretic characterizations, `Final/` for final functor theory, and `Indization/` for ind-objects), this directory provides the complete infrastructure needed for categorical reasoning throughout mathlib, forming the foundation for adjunctions, completeness properties, sheaf theory, abelian categories, and higher categorical structures.
 
 ## Key Files
 
@@ -69,14 +69,14 @@ The `Limits/` directory provides the comprehensive formalization of limits and c
 
 ## Subdirectories
 
-- [x] `ConcreteCategory/` - Limits in concrete categories with forgetful functors (complete)
-- [x] `Constructions/` - Limit constructions and transformations (complete)
-- [x] `Final/` - Additional theory of final functors (complete)
-- [x] `FunctorCategory/` - Limits in functor categories (pointwise limits) (complete)
-- [x] `Indization/` - Ind-objects and ind-completion (complete)
-- [x] `Preserves/` - Limit preservation, reflection, and creation by functors (complete)
-- [x] `Shapes/` - Specific limit shapes: products, pullbacks, equalizers, terminal objects, etc. (complete)
-- [x] `Types/` - Limits and colimits in Type category (complete)
+- [x] `ConcreteCategory/` - Set-theoretic characterizations of limits in concrete categories: limit extensionality (elements determined by projections), colimit element existence (elements from diagram components), filtered colimit equality via zigzags, and preservation of algebraic properties like zero-smul-divisor-freeness in module categories
+- [x] `Constructions/` - Building complex limits from primitive ones: constructing all limits from products and equalizers, finite limits from binary products and equalizers, pullbacks from products, filtered/cofiltered limit constructions, limits in over categories, epimorphism/monomorphism preservation, and special cases with zero objects
+- [x] `Final/` - Specialized theory of final and initial functors: characterization of connected categories via constant functors, parallel pair initiality conditions, and bijections on sections/colimit types induced by initial/final functors to Type
+- [x] `FunctorCategory/` - Pointwise limits in functor categories: evaluation functors jointly reflect/preserve limits, `combineCones` stitches pointwise cones, characterization of preservation via pointwise evaluation, epimorphisms/monomorphisms determined componentwise, and instances for filtered/finite limits
+- [x] `Indization/` - Complete theory of ind-objects and ind-completion: ind-objects as filtered colimits of representables, recognition theorems via costructured arrow categories, closure under filtered colimits and finite limits, construction of `Ind C` category with canonical functors, and fundamental theorems on limit/colimit existence (Kashiwara-Schapira)
+- [x] `Preserves/` - Comprehensive theory of limit/colimit preservation by functors: core typeclasses (`PreservesLimit`, `PreservesColimit`, `PreservesLimitsOfShape`), `preservesLimitIso` for preserved limits, preservation by opposite/bifunctor/Yoneda/Grothendieck constructions, finite limit preservation (left exact functors), filtered colimit preservation (flat functors), shape-specific preservation equivalences, and limit creation theory
+- [x] `Shapes/` - All standard limit shapes with dedicated APIs: terminal/initial objects, products/coproducts (binary and indexed), equalizers/coequalizers, pullbacks/pushouts with pasting lemmas, kernels/cokernels, biproducts with ⊞ notation, images and factorization systems, regular/strong epimorphisms and monomorphisms, zero objects/morphisms, wide pullbacks, multiequalizers, split equalizers, finite limits, transfinite compositions in preorders, and duality via opposite categories
+- [x] `Types/` - Explicit constructions in category of types: limits as sections (dependent functions), colimits as quotients of sigma types, products as pi types, coproducts as sigma types, pullbacks as subtypes of products, pushouts as quotients, equalizers as subtypes, filtered colimits with equality characterization via existence of common extension, and Yoneda correspondences between cones/cocones and hom-functor limits
 
 ## Search Tags
 
