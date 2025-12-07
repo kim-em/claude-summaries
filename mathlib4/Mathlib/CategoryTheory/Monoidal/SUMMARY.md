@@ -56,7 +56,7 @@ The `Monoidal/` directory contains the comprehensive formalization of monoidal c
 - [x] `Action/` - Actions of monoidal categories on arbitrary categories with coherence axioms
 - [x] `Braided/` - Braided and symmetric monoidal categories
 - [x] `Cartesian/` - Cartesian monoidal categories from products (complete)
-- [ ] `Closed/` - Closed monoidal categories with internal hom (pending)
+- [~] `Closed/` - Closed monoidal categories with internal hom (preliminary)
 - [ ] `DayConvolution/` - Additional Day convolution constructions (pending)
 - [ ] `ExternalProduct/` - External product functors and constructions (pending)
 - [ ] `Free/` - Free monoidal categories (pending)
