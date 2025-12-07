@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/CategoryTheory/Abelian/GrothendieckCategory
-generated: 2025-12-07T08:50:00Z
+generated: 2025-12-07T10:30:00Z
 git_sha: 8806fb490620c3ccc60e504c32aefda32944948b
 git_branch: flexible-linter-simp-suggestions
-status: preliminary
+status: complete
 files_count: 6
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-The `GrothendieckCategory/` directory formalizes Grothendieck abelian categories and their key properties. A Grothendieck category is an abelian category that is locally small, has exact filtered colimits (AB5), and has a separator. This directory establishes the basic definition, proves invariance under categorical equivalences, demonstrates that Grothendieck categories have all limits and colimits, proves that monomorphisms are stable under transfinite composition, studies presentability properties via cardinal-filtered colimits of the coyoneda functor, and proves Grothendieck's fundamental theorem that every Grothendieck abelian category has enough injectives using the small object argument.
+The `GrothendieckCategory/` directory provides a complete formalization of Grothendieck abelian categories and their fundamental theorems. A Grothendieck category is an abelian category that is locally small, has exact filtered colimits (AB5), and has a separator. The directory establishes the core definition and proves invariance under categorical equivalences, demonstrates that Grothendieck categories have all limits and colimits and are well-powered, proves that monomorphisms are stable under transfinite composition, studies presentability properties via cardinal-filtered colimits of the coyoneda functor, and proves Grothendieck's fundamental theorem that every Grothendieck abelian category has enough injectives using the small object argument. The crowning achievement is the `ModuleEmbedding/` subdirectory, which proves the Gabriel-Popescu theorem showing that every Grothendieck abelian category embeds fully faithfully into a module category, along with dual embedding results for opposite categories. Together, these results demonstrate that Grothendieck categories, despite their abstract categorical definition, can be faithfully represented as concrete categories of modules.
 
 ## Key Files
 
