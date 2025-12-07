@@ -29,7 +29,7 @@ The `Closed/` directory contains deprecated redirect modules that forward to the
 
 ## Subdirectories
 
-- [ ] `FunctorCategory/` - Deprecated redirects for closed structure on functor categories (pending)
+- [x] `FunctorCategory/` - Deprecated redirects for closed structure on functor categories (complete)
 
 ## Search Tags
 
