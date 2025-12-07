@@ -23,7 +23,7 @@ Essay assignment materials for MATH3325 Analysis 3 (Semester 2, 2016). Contains 
 
 ## Subdirectories
 
-- [ ] `EssayDrafts/` - Draft submissions from 15 students (Adam Nie, Albert Dong, Angus Gruen, David Quarel, Elliot Herrington, Greg Sukochev, Hanxuan Ye, Ivo Vekemans, James Bailie, John Hartman, Li Feng, Lingyu Zhang, Nge Kie Seng, Sam Quinn, Yanbai Zhang) with instructor comments, totaling 29MB of annotated PDFs (pending)
+- [x] `EssayDrafts/` - Draft submissions from 15 students (Adam Nie, Albert Dong, Angus Gruen, David Quarel, Elliot Herrington, Greg Sukochev, Hanxuan Ye, Ivo Vekemans, James Bailie, John Hartman, Li Feng, Lingyu Zhang, Nge Kie Seng, Sam Quinn, Yanbai Zhang) with instructor comments, totaling 29MB of annotated PDFs (complete)
 - [ ] `EssayExamples/` - 4 example essays from previous years to guide students (pending)
 - [ ] `FinalEssays/` - Final essay submissions from 19 students including one large 8MB submission from Michael Chappuis (the plagiarism case), totaling 12MB of PDFs (pending)
 - [ ] `cheater/` - Complete plagiarism case documentation for student Michael Chappuis, including Freelancer.com job posting evidence, bank transaction records, hired essay drafts, formal academic misconduct allegation letter with 11 attachments, student transcript, CV, chat transcripts, and comparison with essays submitted for other courses (MATH3349, MATH3015) (pending)
