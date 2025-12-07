@@ -77,7 +77,7 @@ The `CategoryTheory/` directory contains the comprehensive formalization of cate
 - [x] `Bicategory/` - Bicategories with 2-morphisms and coherence (complete)
 - [x] `Category/` - Basic category instances and constructions (complete)
 - [x] `Center/` - Center of categories as endomorphisms of identity functor (complete)
-- [ ] `ChosenFiniteProducts/` - Chosen finite products infrastructure (pending)
+- [x] `ChosenFiniteProducts/` - Deprecated redirects to Monoidal.Cartesian.* modules (complete)
 - [ ] `Closed/` - Closed categories with internal homs (pending)
 - [ ] `Comma/` - Comma categories and slice categories (pending)
 - [ ] `ComposableArrows/` - Composable sequences of arrows (pending)
