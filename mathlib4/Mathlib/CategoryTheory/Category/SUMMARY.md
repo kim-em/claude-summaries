@@ -38,7 +38,7 @@ The `Category/` directory contains fundamental category instances and constructi
 
 ## Subdirectories
 
-- [ ] `Cat/` - Additional constructions and properties for the category of categories (pending)
+- [x] `Cat/` - Advanced properties for `Cat`: limits, colimits, Cartesian closed structure, adjunctions, opposite categories (complete)
 
 ## Search Tags
 
