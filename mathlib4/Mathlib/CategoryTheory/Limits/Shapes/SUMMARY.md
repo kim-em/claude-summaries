@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/CategoryTheory/Limits/Shapes
-generated: 2025-12-07T12:00:00Z
+generated: 2025-12-07T10:19:37Z
 git_sha: 8806fb490620c3ccc60e504c32aefda32944948b
 git_branch: flexible-linter-simp-suggestions
-status: preliminary
+status: complete
 files_count: 38
 subdirs_count: 4
 ---
@@ -12,7 +12,9 @@ subdirs_count: 4
 
 ## Overview
 
-The `Shapes/` directory provides the formalization of specific limit and colimit shapes in category theory, implementing the concrete instances of universal constructions that appear throughout mathematics. It includes basic shapes (terminal/initial objects, binary/indexed products and coproducts), equalizers and coequalizers (including kernels and cokernels in categories with zero morphisms), pullbacks and pushouts (including wide variants), biproducts (simultaneous products and coproducts), images and factorization systems (mono factorizations, regular/strong epi/mono), and special properties (finite limits, countable limits, reflexive pairs, strict initial objects, zero objects/morphisms). Each shape is implemented as a specialized case of the general limit/colimit machinery, with convenient abbreviations and lemmas for working with the universal properties specific to that shape.
+The `Shapes/` directory provides the comprehensive formalization of specific limit and colimit shapes in category theory, implementing the concrete instances of universal constructions that appear throughout mathematics. At its core, it defines the fundamental shapes that every working mathematician encounters: terminal and initial objects, products and coproducts (both binary and indexed), equalizers and coequalizers, pullbacks and pushouts, and biproducts (objects that are simultaneously products and coproducts). Beyond these basics, the directory extends to specialized constructions including images and factorization systems (mono factorizations, regular/strong epi/mono), categories with zero morphisms and zero objects, wide pullbacks/equalizers for arbitrary indexing, multiequalizers for parallel families of morphisms, split equalizers with explicit splitting data, and completeness properties (finite limits, countable limits).
+
+Each shape is implemented as a specialized case of the general limit/colimit machinery from the parent directory, with convenient notation (⊞ for biproducts, ⨁ for indexed biproducts), dedicated typeclasses (HasTerminal, HasProducts, HasPullbacks, etc.), and extensive APIs for working with universal properties specific to that shape. The subdirectories extend this foundation with: normal monomorphisms and the construction of equalizers from kernels (NormalMono/), duality between all limit shapes via opposite categories enabling systematic result transfer (Opposites/), limits in preordered types and the crucial theory of transfinite compositions for constructions by transfinite induction (Preorder/), and an extensive treatment of pullbacks encompassing pasting lemmas, commutative square formulations, and 2-categorical generalization via categorical pullbacks of functors (Pullback/). Together, this directory serves as the definitive reference for concrete universal constructions in category theory, bridging abstract limit theory with the specific shapes used throughout algebra, topology, and algebraic geometry.
 
 ## Key Files
 
@@ -59,11 +61,11 @@ The `Shapes/` directory provides the formalization of specific limit and colimit
 
 ## Subdirectories
 
-- [x] `NormalMono/` - Normal monomorphisms and related theory (complete)
-- [x] `Opposites/` - Duality between limit shapes via opposite categories (complete)
-- [x] `Preorder/` - Limits in preorders as meets/joins, transfinite compositions (complete)
-- [x] `Pullback/` - Extended theory of pullbacks including pasting lemmas, monoicity, commutative squares, and 2-categorical perspectives (complete)
+- [x] `NormalMono/` - Normal monomorphisms (kernels of other morphisms) and construction of equalizers from kernels and finite products in normal mono categories
+- [x] `Opposites/` - Duality between limit shapes via opposite categories: products↔coproducts, equalizers↔coequalizers, pullbacks↔pushouts, kernels↔cokernels, with full API for op/unop conversions
+- [x] `Preorder/` - Limits in preorders as meets/joins, transfinite compositions indexed by well-ordered types, well-order-continuous functors, and HasIterationOfShape for transfinite induction
+- [x] `Pullback/` - Extended pullback theory: pasting lemmas, commutative square formulation (IsPullback/IsPushout), stability under monomorphisms, and 2-categorical generalization via categorical pullbacks of functors
 
 ## Search Tags
 
-limit-shapes colimit-shapes terminal-objects initial-objects products coproducts binary-products equalizers coequalizers kernels cokernels pullbacks pushouts biproducts finite-limits wide-pullbacks images regular-mono strong-epi zero-objects zero-morphisms mono-factorization multiequalizer reflexive-pairs split-equalizers diagonal
+limit-shapes colimit-shapes terminal-objects initial-objects products coproducts binary-products equalizers coequalizers kernels cokernels pullbacks pushouts biproducts finite-limits wide-pullbacks images regular-mono strong-epi zero-objects zero-morphisms mono-factorization multiequalizer reflexive-pairs split-equalizers diagonal normal-monomorphism opposite-categories duality transfinite-composition well-order-continuous pasting-lemma commutative-square categorical-pullback 2-categorical
