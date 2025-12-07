@@ -94,7 +94,7 @@ The `CategoryTheory/` directory contains the comprehensive formalization of cate
 - [x] `Filtered/` - Filtered categories and directed colimits (complete)
 - [x] `FinCategory/` - Finite categories with finitely many objects and morphisms, including equivalences to concrete Fin-indexed representations (complete)
 - [x] `Functor/` - Functors and functor properties (fully faithful, conservative, etc.) (complete)
-- [~] `Galois/` - Galois categories and fundamental groups (preliminary)
+- [x] `Galois/` - Galois categories and fundamental groups (complete)
 - [ ] `Generator/` - Generators and separators in categories (pending)
 - [ ] `GradedObject/` - Additional graded object constructions (pending)
 - [ ] `Groupoid/` - Additional groupoid constructions (pending)
