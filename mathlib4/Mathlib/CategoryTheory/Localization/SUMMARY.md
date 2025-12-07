@@ -48,7 +48,7 @@ The `Localization/` directory formalizes the localization of categories with res
 
 ## Subdirectories
 
-- [ ] `CalculusOfFractions/` - Additional calculus of fractions constructions (pending)
+- [x] `CalculusOfFractions/` - Additional calculus of fractions constructions (complete)
 - [ ] `DerivabilityStructure/` - Derivability structures for localization (Kahn-Maltsiniotis framework) (pending)
 - [ ] `Monoidal/` - Localization of monoidal categories (pending)
 
