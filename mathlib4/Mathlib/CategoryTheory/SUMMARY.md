@@ -85,7 +85,7 @@ The `CategoryTheory/` directory contains the comprehensive formalization of cate
 - [x] `CopyDiscardCategory/` - Categories with copy and discard operations (complete)
 - [x] `Dialectica/` - Dialectica categories (complete)
 - [x] `Discrete/` - Discrete categories from types (complete)
-- [ ] `Distributive/` - Distributive categories (pending)
+- [x] `Distributive/` - Distributive categories with left/right tensor products preserving coproducts (complete)
 - [ ] `EffectiveEpi/` - Effective epimorphisms and descent (pending)
 - [ ] `Endofunctor/` - Endofunctors and fixed points (pending)
 - [ ] `Enriched/` - Enriched categories over monoidal categories (pending)
