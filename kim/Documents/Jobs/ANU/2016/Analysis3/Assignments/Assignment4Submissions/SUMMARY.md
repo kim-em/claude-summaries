@@ -32,7 +32,7 @@ Student submissions for Assignment 4 of MATH3325 Analysis 3 (2016), covering sel
 
 ## Subdirectories
 
-- [ ] `graded/` - Graded submissions with instructor feedback (17 annotated PDFs, sizes ranging from ~900KB to 7MB) (pending)
+- [x] `graded/` - Graded submissions with instructor feedback (17 annotated PDFs, sizes ranging from ~900KB to 7MB) (complete)
 
 ## Search Tags
 
