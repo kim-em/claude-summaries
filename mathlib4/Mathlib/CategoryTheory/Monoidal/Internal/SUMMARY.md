@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/CategoryTheory/Monoidal/Internal
-generated: 2025-12-07T10:30:00Z
+generated: 2025-12-07T11:10:00Z
 git_sha: 8806fb490620c3ccc60e504c32aefda32944948b
 git_branch: flexible-linter-simp-suggestions
-status: preliminary
+status: complete
 files_count: 3
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-The `Internal/` directory contains equivalences between internal algebraic objects in monoidal categories and their corresponding bundled categorical constructions. It demonstrates that monoid objects, comonoid objects, and commutative monoid objects in functor categories `C ⥤ D` are equivalent to functors into the categories of such objects in `D`. Additionally, it shows that monoid objects in `ModuleCat R` correspond to R-algebras, and establishes limits for categories of monoid objects.
+The `Internal/` directory establishes the deep connection between internal algebraic objects defined categorically in monoidal categories and their corresponding bundled algebraic structures. At the core are equivalences showing that internal objects (monoids, comonoids, commutative monoids, groups) in functor categories `C ⥤ D` correspond precisely to functors into the categories of such objects in `D`. This principle specializes beautifully: monoid objects in `ModuleCat R` are equivalent to R-algebras, and internal algebraic objects in `Type` recover the classical bundled structures (`MonCat`, `GrpCat`, `CommMonCat`, `CommGrpCat`). The directory also demonstrates that limits of internal monoid objects can be constructed when the ambient category has limits, with preservation properties via lax monoidal functors.
 
 ## Key Files
 
@@ -24,7 +24,7 @@ The `Internal/` directory contains equivalences between internal algebraic objec
 
 ## Subdirectories
 
-- [x] `Types/` - Equivalences between internal algebraic objects in Type and bundled concrete categories (complete)
+- [x] `Types/` - Fundamental equivalences between internal algebraic objects in `Type u` (monoids, groups, and commutative variants) and their bundled categorical counterparts (`MonCat`, `GrpCat`, `CommMonCat`, `CommGrpCat`), demonstrating that categorical and classical algebraic perspectives coincide
 
 ## Search Tags
 
