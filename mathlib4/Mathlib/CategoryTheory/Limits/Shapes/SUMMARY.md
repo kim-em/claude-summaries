@@ -62,7 +62,7 @@ The `Shapes/` directory provides the formalization of specific limit and colimit
 - [x] `NormalMono/` - Normal monomorphisms and related theory (complete)
 - [x] `Opposites/` - Duality between limit shapes via opposite categories (complete)
 - [x] `Preorder/` - Limits in preorders as meets/joins, transfinite compositions (complete)
-- [ ] `Pullback/` - Extended theory of pullbacks including pasting lemmas, monoicity, and commutative squares (pending)
+- [~] `Pullback/` - Extended theory of pullbacks including pasting lemmas, monoicity, and commutative squares (preliminary)
 
 ## Search Tags
 
