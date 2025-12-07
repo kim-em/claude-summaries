@@ -3,7 +3,7 @@ source_path: /Users/kim/projects/lean/mathlib4/Mathlib/CategoryTheory/Preadditiv
 generated: 2025-12-07T13:15:00Z
 git_sha: 8806fb490620c3ccc60e504c32aefda32944948b
 git_branch: flexible-linter-simp-suggestions
-status: preliminary
+status: complete
 files_count: 5
 subdirs_count: 0
 ---

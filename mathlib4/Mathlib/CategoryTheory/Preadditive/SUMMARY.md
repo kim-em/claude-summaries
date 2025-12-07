@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/CategoryTheory/Preadditive
-generated: 2025-12-07T11:29:20Z
+generated: 2025-12-07T23:30:00Z
 git_sha: 8806fb490620c3ccc60e504c32aefda32944948b
 git_branch: flexible-linter-simp-suggestions
-status: preliminary
+status: complete
 files_count: 17
 subdirs_count: 3
 ---
@@ -12,7 +12,11 @@ subdirs_count: 3
 
 ## Overview
 
-The `Preadditive/` directory contains the formalization of preadditive categories in mathlib4, which are categories where morphism sets form abelian groups and composition is bilinear. This includes the core definition of preadditive categories, additive functors (functors preserving the additive structure), biproducts in preadditive categories, Schur's lemma for simple objects, matrix categories, and constructions showing how preadditive structure transfers across various categorical constructions (opposite categories, functor categories, induced categories, algebras over monads). The directory also handles injective and projective objects in preadditive categories and Yoneda-related structures.
+The `Preadditive/` directory contains the comprehensive formalization of preadditive categories in mathlib4, which are categories where morphism sets form abelian groups and composition is bilinear. This foundational structure bridges classical category theory with homological algebra by providing the additive framework necessary for defining kernels, cokernels, exact sequences, and related constructions.
+
+The directory is organized into three main layers: (1) **Core theory** including the definition of preadditive categories, additive functors, biproducts, Schur's lemma, matrix categories, and exactness properties; (2) **Special objects** covering injective objects (characterized by extension properties and lifting properties, with enough injectives and injective resolutions), projective objects (characterized by factorization properties and lifting properties, with enough projectives and projective resolutions), providing the infrastructure for derived functors and homological dimension theory; and (3) **Yoneda theory** specializing the Yoneda embedding to the preadditive setting with values in AddCommGrpCat and ModuleCat, characterizing injective and projective objects via epimorphism preservation.
+
+Additional features include transfer of preadditive structure across categorical constructions (opposite categories, functor categories, algebras over additive monads/endofunctors, ind-objects), hom-orthogonal families with block diagonal decomposition, and the equivalence between additive categories and their commutative group objects.
 
 ## Key Files
 
@@ -38,9 +42,9 @@ The `Preadditive/` directory contains the formalization of preadditive categorie
 
 ## Subdirectories
 
-- [x] `Injective/` - Injective objects in preadditive categories (complete)
-- [x] `Projective/` - Projective objects in preadditive categories (complete)
-- [x] `Yoneda/` - Yoneda-related constructions for preadditive categories (complete)
+- [x] `Injective/` - Injective objects with extension properties, lifting property characterizations, enough injectives, functor preservation, and injective resolutions as cochain complexes for homological algebra
+- [x] `Projective/` - Projective objects with factorization properties, internal projectivity in monoidal closed categories, lifting property characterizations, enough projectives, functor preservation, and projective resolutions as chain complexes
+- [x] `Yoneda/` - Preadditive Yoneda and coyoneda embeddings lifting to AddCommGrpCat and ModuleCat with End-module structure; fully faithful additive functors preserving limits and characterizing injective/projective objects via epimorphism preservation
 
 ## Search Tags
 
