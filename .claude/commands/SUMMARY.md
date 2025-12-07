@@ -1,7 +1,7 @@
 ---
 source_path: /Users/kim/.claude/commands
-generated: 2025-12-01T13:05:00Z
-git_sha: b75fd51d2702e678b15ef7ce28cf6993a31edb62
+generated: 2025-12-07T19:52:00Z
+git_sha: 20e6afa48c1d819500c6288f237c3e6d3ff64b29
 git_branch: master
 status: complete
 files_count: 3

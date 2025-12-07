@@ -1,18 +1,18 @@
 ---
 source_path: /Users/kim/.claude/skills
-generated: 2025-12-05T08:15:00Z
-git_sha: 0bf6eafaf937840c8768c7c5c7cb40a66bbee861
+generated: 2025-12-07T19:55:00Z
+git_sha: 20e6afa48c1d819500c6288f237c3e6d3ff64b29
 git_branch: master
 status: complete
 files_count: 0
-subdirs_count: 17
+subdirs_count: 20
 ---
 
 # skills
 
 ## Overview
 
-A comprehensive collection of 17 custom Claude Code skills that significantly extend Claude's capabilities across five major domains: Lean4/Mathlib development, GitHub integration, session management, communication platforms, and personal productivity. Each skill combines a SKILL.md definition (with activation triggers and tool permissions) with specialized helper scripts, providing both declarative knowledge and executable automation.
+A comprehensive collection of 20 custom Claude Code skills that significantly extend Claude's capabilities across six major domains: Lean4/Mathlib development, GitHub integration, session management, communication platforms, personal productivity, and meta-skills for workflow evolution. Each skill combines a SKILL.md definition (with activation triggers and tool permissions) with specialized helper scripts, providing both declarative knowledge and executable automation.
 
 The skills demonstrate sophisticated design patterns: expect-based TUI automation (claude-usage), two-phase workflow documentation (lean4-bootstrap), API response optimization (github-api-large-responses), style codification from corpus analysis (kim-writing-style), and systematic reduction methodologies (lean-mwe). The collection includes both simple single-file skills (mathlib-build, folder-summary) and complex multi-script systems (zulip with 10 files, new-claude-sessions with 9 files), showing the skill framework's flexibility from quick configuration flags to full automation stacks.
 
@@ -22,13 +22,14 @@ This directory contains no files at the top level; all content is organized into
 
 ## Subdirectories
 
-### Lean4 & Mathlib Development (6 skills)
+### Lean4 & Mathlib Development (7 skills)
 - [x] `lean4-setup/` - Critical post-clone setup configuring elan toolchains for stage0/stage1 bootstrap (1 file)
 - [x] `lean4-bootstrap/` - Two-PR workflow for changes requiring update-stage0 (environment extensions, .olean format) (1 file)
 - [x] `mathlib-build/` - Quiet mode build flags (`-q --log-level=info`) to suppress per-file progress in large projects (1 file)
 - [x] `lean-mwe/` - Systematic 500-line error minimization methodology: guard-first discipline, proof irrelevance exploitation, progressive sorry-ification, attribute removal strategies, structure simplification, universe polymorphism replacement, with test cases and validated examples (3 files)
 - [x] `merge-conflict-helper/` - 9-step workflow for auto-resolving PR merge conflicts (imports, versions, sequential additions) (1 file)
 - [x] `folder-summary/` - References claude-summary tooling for two-phase directory indexing (1 file)
+- [x] `aristotle/` - Automated theorem proving service integration: submits Lean files with sorry placeholders to Harmonic's Aristotle prover (targets Lean v4.24.0/Mathlib v4.24.0), monitors proof progress via Python API, handles counterexample detection, and incorporates completed proofs back into source files (1 file)
 
 ### GitHub Integration (3 skills)
 - [x] `github-activity/` - Fetch notifications/mentions via API with intelligent defaults (since last Friday) (3 files)
@@ -43,14 +44,18 @@ This directory contains no files at the top level; all content is organized into
 - [x] `zulip/` - Read-only Zulip access with HTML stripping and 80-90% token reduction via custom formatter (10 files)
 - [x] `whatsapp/` - Send-only WhatsApp messaging via Baileys library with QR authentication (8 files)
 
-### Personal Productivity (3 skills)
+### Personal Productivity (4 skills)
 - [x] `todo/` - Manage ~/metacortex/TODO.md with emoji status and linked notes (1 file)
 - [x] `log/` - Daily activity logs in ~/metacortex/logs/ (YYYY-MM/DD.md format) (1 file)
 - [x] `kim-writing-style/` - Writing style guide derived from 3,000+ Zulip messages (1 file)
+- [x] `synchronizing-home-git-repo/` - Workflow for resolving git conflicts in home directory repo: handles submodule conflicts (checks for unpushed work), deleted submodules, untracked files blocking merge, and ensures submodules are on main branch (not detached HEAD) after sync (1 file)
 
 ### Web Automation (1 skill)
 - [x] `browser-automation/` - Playwright MCP fallback for JavaScript-heavy sites with Chrome profile reuse (3 files)
 
+### Meta-Skills (1 skill)
+- [x] `acquiring-skills/` - Documentation and workflow for creating new Claude Code skills: YAML frontmatter format (name, description triggers, allowed-tools), markdown content structure (overview, principles, workflow, examples), and git workflow for committing skills to ~/.claude (1 file)
+
 ## Search Tags
 
-skills claude-code automation lean4 mathlib github zulip whatsapp session-management todo-list activity-logs browser-automation mwe minimal-working-example bootstrapping merge-conflicts iterm2 cursor writing-style pr-monitoring playwright puppeteer mcp web-scraping javascript spa chrome-profile authentication headless quota subscription limits reset pacing expect tui parsing json bash folder-summary summarization indexing catalog directory-tree two-phase preliminary final notifications mentions review-requests api jq filtering pagination elan toolchain stage0 stage1 update-stage0 environment-extensions olean-format compiler build-flags verbosity lake quiet diagnostics errors warnings technical-communication pr-descriptions documentation announcements hedging collaborative-language progressive-disclosure guard_msgs tactic-failures kernel-errors grind compiler-panics reduction backtracking git-merge conflict-analysis auto-resolution import-conflicts version-conflicts build-verification spawning parallel-workflows applescript ssh-remote machine-aware git-clone mathlib-cache window-automation task-management metacortex notes linked-notes emoji-status git-sync planning-sessions priorities due-dates baileys qr-code nodejs esm unofficial send-message phone-number chat messaging leanprover lean-fro api-client search stream topic html-formatter credentials token-reduction forum-scraping network-interception auto-wait locator-api
+skills claude-code automation lean4 mathlib github zulip whatsapp session-management todo-list activity-logs browser-automation mwe minimal-working-example bootstrapping merge-conflicts iterm2 cursor writing-style pr-monitoring playwright puppeteer mcp web-scraping javascript spa chrome-profile authentication headless quota subscription limits reset pacing expect tui parsing json bash folder-summary summarization indexing catalog directory-tree two-phase preliminary final notifications mentions review-requests api jq filtering pagination elan toolchain stage0 stage1 update-stage0 environment-extensions olean-format compiler build-flags verbosity lake quiet diagnostics errors warnings technical-communication pr-descriptions documentation announcements hedging collaborative-language progressive-disclosure guard_msgs tactic-failures kernel-errors grind compiler-panics reduction backtracking git-merge conflict-analysis auto-resolution import-conflicts version-conflicts build-verification spawning parallel-workflows applescript ssh-remote machine-aware git-clone mathlib-cache window-automation task-management metacortex notes linked-notes emoji-status git-sync planning-sessions priorities due-dates baileys qr-code nodejs esm unofficial send-message phone-number chat messaging leanprover lean-fro api-client search stream topic html-formatter credentials token-reduction forum-scraping network-interception auto-wait locator-api aristotle automated-theorem-proving harmonic sorry counterexample autoformalize pipx python-api proof-generation home-directory dotfiles submodules git-pull git-submodule detached-head unpushed-commits conflict-resolution backup preservation skill-creation yaml-frontmatter markdown-documentation trigger-conditions workflow-documentation meta-programming

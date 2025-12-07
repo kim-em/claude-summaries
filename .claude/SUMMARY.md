@@ -1,7 +1,7 @@
 ---
 source_path: /Users/kim/.claude
-generated: 2025-12-05T08:15:00Z
-git_sha: 0bf6eafaf937840c8768c7c5c7cb40a66bbee861
+generated: 2025-12-07T19:56:00Z
+git_sha: 20e6afa48c1d819500c6288f237c3e6d3ff64b29
 git_branch: master
 status: complete
 files_count: 8
@@ -30,7 +30,7 @@ Claude Code user configuration directory, synchronized across machines via git. 
 
 ### Configuration & Extensions (4 directories)
 - [x] `commands/` - Custom slash commands (reflect.md, coffee.md, update-log.md)
-- [x] `skills/` - 17 custom skills with SKILL.md definitions and helper scripts
+- [x] `skills/` - 20 custom skills with SKILL.md definitions and helper scripts (new: aristotle for automated theorem proving, synchronizing-home-git-repo for home directory conflict resolution, acquiring-skills for skill creation workflow)
 - [x] `plugins/` - Plugin configuration (currently empty repositories config)
 - [x] `projects/` - Per-project session history and context (86 project directories, 5800+ total session files)
 

@@ -1,7 +1,7 @@
 ---
 source_path: /Users/kim/.claude/skills/zulip
-generated: 2025-12-01T13:20:00Z
-git_sha: b75fd51d2702e678b15ef7ce28cf6993a31edb62
+generated: 2025-12-07T19:54:00Z
+git_sha: 20e6afa48c1d819500c6288f237c3e6d3ff64b29
 git_branch: master
 status: complete
 files_count: 10
@@ -24,6 +24,7 @@ A Claude Code skill providing read-only access to Zulip chat messages from leanp
 | my-search | Python script to search only the authenticated user's own messages, with same interface as search (term, count, site). Uses sender filter to restrict results |
 | stream-topic | Python script to retrieve messages from a specific stream+topic combination. Takes stream name, topic name, optional count and site. Essential for focused discussions |
 | my-messages | Bash script using curl to fetch the authenticated user's recent messages. Demonstrates direct API usage pattern with credential extraction via jq |
+| my-messages-since | Bash script to get sent messages since a specific date (YYYY-MM-DD format). Filters for stream messages only (skips DMs) and outputs unique stream/topic combinations for identifying active discussions |
 | stream-summary | Script to get recent messages from an entire stream (all topics). Takes stream name, optional count and site |
 | test | End-to-end test script validating the Zulip integration functionality, likely testing credential loading, API calls, and formatter output |
 | .gitignore | Excludes credentials.json from version control to prevent accidental credential exposure |
