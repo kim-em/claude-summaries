@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/CategoryTheory/Limits/Constructions
-generated: 2025-12-07T09:30:00Z
+generated: 2025-12-07T10:30:00Z
 git_sha: 8806fb490620c3ccc60e504c32aefda32944948b
 git_branch: flexible-linter-simp-suggestions
-status: preliminary
+status: complete
 files_count: 10
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-The `Constructions/` directory provides foundational results on constructing limits and colimits from simpler primitive limits. It shows how complex limit constructions can be built from basic building blocks: products can be constructed from pullbacks and terminal objects, equalizers from pullbacks and products, pullbacks from products and equalizers, and finite products from binary products. The directory also includes constructions for filtered/cofiltered colimits, relationships between epimorphisms/monomorphisms and limits, eventually constant functors, and special cases involving zero objects. These construction theorems are essential for establishing completeness and cocompleteness of categories by reducing the requirements to verifying a small set of primitive limits exist.
+The `Constructions/` directory provides foundational results on constructing limits and colimits from simpler primitive limits. It shows how complex limit constructions can be built from basic building blocks: products can be constructed from pullbacks and terminal objects, equalizers from pullbacks and products, pullbacks from products and equalizers, and finite products from binary products. The directory also includes constructions for filtered/cofiltered colimits, relationships between epimorphisms/monomorphisms and limits, eventually constant functors, and special cases involving zero objects. These construction theorems are essential for establishing completeness and cocompleteness of categories by reducing the requirements to verifying a small set of primitive limits exist. The `Over/` subdirectory extends these results to over categories (slice categories), showing how limits in `Over B` can be constructed from corresponding limits in the base category, with products corresponding to wide pullbacks and connected limits being created and preserved by the forgetful functor.
 
 ## Key Files
 
