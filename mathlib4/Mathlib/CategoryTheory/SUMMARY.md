@@ -100,7 +100,7 @@ The `CategoryTheory/` directory contains the comprehensive formalization of cate
 - [x] `Groupoid/` - Additional groupoid constructions (complete)
 - [x] `GuitartExact/` - Guitart exact squares (complete)
 - [x] `Idempotents/` - Idempotent completion and Karoubi envelope (complete)
-- [ ] `Join/` - Join of categories (pending)
+- [x] `Join/` - Join of categories (complete)
 - [ ] `LiftingProperties/` - Lifting properties and weak factorization systems (pending)
 - [ ] `Limits/` - Limits and colimits (products, pullbacks, equalizers, etc.) (pending)
 - [ ] `Linear/` - Linear categories (enriched over modules) (pending)
