@@ -33,7 +33,7 @@ The `Preserves/` directory provides the comprehensive theory of limit and colimi
 
 ## Subdirectories
 
-- [ ] `Creates/` - Functors that create limits (can lift limit cones from target to source) (pending)
+- [x] `Creates/` - Functors that create limits: classes for finite (co)limits, products, coproducts, with composition and transfer properties (complete)
 - [ ] `Shapes/` - Preservation of specific limit shapes: products, pullbacks, equalizers, kernels, terminal objects, etc. (pending)
 
 ## Search Tags
