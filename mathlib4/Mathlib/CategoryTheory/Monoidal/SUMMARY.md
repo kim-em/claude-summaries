@@ -63,7 +63,7 @@ The `Monoidal/` directory contains the comprehensive formalization of monoidal c
 - [x] `Functor/` - Bridge between applicative functors and lax monoidal functors on types
 - [x] `Internal/` - Equivalences between internal algebraic objects in monoidal categories and bundled categorical constructions, including functor category equivalences, module-algebra correspondence, and Type specializations (complete)
 - [x] `Limits/` - Limits and colimits in monoidal categories with lax monoidal limit functor and tensor preservation instances
-- [ ] `OfChosenFiniteProducts/` - Monoidal structure from explicitly chosen products (pending)
+- [x] `OfChosenFiniteProducts/` - Deprecated module redirects to Cartesian monoidal categories (complete)
 - [ ] `Opposite/` - Additional opposite category constructions (pending)
 - [ ] `Rigid/` - Rigid monoidal categories with duals (pending)
 - [ ] `Types/` - Monoidal structure on Type category (pending)
