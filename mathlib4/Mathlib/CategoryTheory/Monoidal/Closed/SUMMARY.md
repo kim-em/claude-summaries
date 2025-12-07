@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/CategoryTheory/Monoidal/Closed
-generated: 2025-12-07T09:30:00Z
+generated: 2025-12-08T00:05:00Z
 git_sha: 8806fb490620c3ccc60e504c32aefda32944948b
 git_branch: flexible-linter-simp-suggestions
-status: preliminary
+status: complete
 files_count: 9
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-The `Closed/` directory implements the theory of closed monoidal categories—categories where each object `X` has an "internal hom" functor `X ⟹ -` that is right adjoint to tensoring with `X`. This generalizes the notion of function spaces/exponentials to arbitrary monoidal categories. The directory provides both the general framework for monoidal closed categories and specializations to Cartesian closed categories (where the tensor is the product), including curry/uncurry operations, exponential comparison for functors, and enrichment structures.
+The `Closed/` directory implements the theory of closed monoidal categories—categories where each object `X` has an "internal hom" functor `X ⟹ -` that is right adjoint to tensoring with `X`. This generalizes the notion of function spaces/exponentials to arbitrary monoidal categories. The directory provides both the general framework for monoidal closed categories and specializations to Cartesian closed categories (where the tensor is the product), including curry/uncurry operations, exponential comparison for functors, and enrichment structures. The directory also establishes that monoidal closed structure lifts to functor categories through multiple pathways: enriched hom constructions, pointwise structures from groupoids, and abstract lifting via comonadicity for complete codomains.
 
 ## Key Files
 
@@ -30,7 +30,7 @@ The `Closed/` directory implements the theory of closed monoidal categories—ca
 
 ## Subdirectories
 
-- [x] `FunctorCategory/` - Additional constructions for closed structures on functor categories
+- [x] `FunctorCategory/` - Constructions showing functor categories inherit monoidal closed structure: enriched hom construction for any source category (when limits exist), pointwise structure from groupoids, and abstract lifting via comonadicity for functors into complete monoidal closed categories
 
 ## Search Tags
 
