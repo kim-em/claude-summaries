@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Analysis/SpecialFunctions
-generated: 2025-12-05T00:00:00Z
-git_sha: 488d631b358e81211d82bcf1c4422dd1e2b08702
+generated: 2025-12-07T17:50:00Z
+git_sha: 8806fb490620c3ccc60e504c32aefda32944948b
 git_branch: flexible-linter-simp-suggestions
-status: preliminary
+status: complete
 files_count: 21
 subdirs_count: 10
 ---
@@ -12,7 +12,11 @@ subdirs_count: 10
 
 ## Overview
 
-The `SpecialFunctions/` directory contains formalized theory for important mathematical special functions, including exponential, logarithmic, trigonometric, power, gamma, hypergeometric, and various other classical functions. It provides core definitions, analytical properties (continuity, differentiability, analyticity), asymptotic behavior, integrability results, and specific evaluations. The directory covers fundamental functions like exp/log/sqrt, inverse hyperbolic functions (arsinh), smooth approximation tools (Bernstein polynomials, sigmoid, smooth transitions), coordinate transformations (polar coordinates), combinatorial functions (binomial coefficients, Pochhammer, Stirling's formula), and information-theoretic functions (binary/q-ary entropy). Special attention is given to properties needed for analysis: derivatives, limits, bounds, growth comparisons, and improper integrals.
+The `SpecialFunctions/` directory provides comprehensive formalization of classical mathematical special functions spanning exponential, logarithmic, trigonometric, power, gamma, elliptic, and hypergeometric families. This central repository for special function theory covers both definitions and deep analytical properties including continuity, differentiability, analyticity, asymptotic behavior, integrability, integral representations, series expansions, and functional equations.
+
+The directory is organized into thematic subdirectories: `Complex/` handles complex-valued functions (complex logarithm, arctangent, argument function, unit circle parameterizations); `Log/` provides real and extended logarithms with extensive calculus results; `Pow/` formalizes power functions across number systems (ℂ, ℝ, ℝ≥0, ℝ≥0∞); `Trigonometric/` covers standard and inverse trigonometric functions with product formulas (Euler, Mittag-Leffler) and polynomial characterizations (Chebyshev); `Gamma/` establishes the Gamma and Beta functions with Bohr-Mollerup uniqueness theorem and Deligne's archimedean factors; `Gaussian/` evaluates the Gaussian integral and derives Jacobi's theta transformation via Poisson summation; `Elliptic/` constructs the Weierstrass ℘-function on period lattices; `ContinuousFunctionalCalculus/` extends special functions to C*-algebras and operator theory; `Integrability/` provides interval and circle integrability results; and `Integrals/` collects explicit evaluations including dilogarithm values and reduction formulas.
+
+Root-level files complement these subdirectories with fundamental functions and specialized tools: exponential derivatives in Banach algebras (Exp.lean, ExpDeriv.lean, Exponential.lean), smooth sqrt away from zero (Sqrt.lean), inverse hyperbolic functions (Arsinh.lean), approximation theory (Bernstein.lean, Weierstrass theorem), sigmoid and smooth transitions for analysis (Sigmoid.lean, SmoothTransition.lean), combinatorial asymptotics (Stirling.lean, Choose.lean, Pochhammer.lean), geometric transformations (PolarCoord.lean), information theory (BinaryEntropy.lean), integrability bounds (JapaneseBracket.lean), growth comparisons (CompareExp.lean), improper integral evaluations (ImproperIntegrals.lean), hypergeometric series (OrdinaryHypergeometric.lean), and Gaussian-related integrals (MulExpNegMulSq.lean, MulExpNegMulSqIntegral.lean). Together, these provide a complete toolkit for analytical work with special functions, supporting applications throughout analysis, probability, number theory, and mathematical physics.
 
 ## Key Files
 
