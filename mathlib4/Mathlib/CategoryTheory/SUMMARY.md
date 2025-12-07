@@ -96,7 +96,7 @@ The `CategoryTheory/` directory contains the comprehensive formalization of cate
 - [x] `Functor/` - Functors and functor properties (fully faithful, conservative, etc.) (complete)
 - [x] `Galois/` - Galois categories and fundamental groups (complete)
 - [x] `Generator/` - Generators and separators in categories (complete)
-- [ ] `GradedObject/` - Additional graded object constructions (pending)
+- [x] `GradedObject/` - Additional graded object constructions (complete)
 - [ ] `Groupoid/` - Additional groupoid constructions (pending)
 - [ ] `GuitartExact/` - Guitart exact squares (pending)
 - [ ] `Idempotents/` - Idempotent completion and Karoubi envelope (pending)
