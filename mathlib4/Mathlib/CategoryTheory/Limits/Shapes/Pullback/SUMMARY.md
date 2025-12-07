@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/CategoryTheory/Limits/Shapes/Pullback
-generated: 2025-12-07T15:30:00Z
+generated: 2025-12-07T16:15:00Z
 git_sha: 8806fb490620c3ccc60e504c32aefda32944948b
 git_branch: flexible-linter-simp-suggestions
-status: preliminary
+status: complete
 files_count: 13
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-The `Pullback/` directory provides an extended theory of pullbacks (and dually, pushouts) in category theory, building on the basic pullback/pushout API defined in the parent `Shapes/` directory. It includes core definitions (cospan/span diagrams, pullback cones, HasPullback typeclass), properties of pullbacks (pasting lemmas, associativity, interactions with monomorphisms/isomorphisms), commutative square formulations (IsPullback/IsPushout predicates), special cases (equalizers as pullbacks), and categorical/2-categorical perspectives (categorical pullbacks in the (2,1)-categorical sense with functors and natural transformations). This directory serves as the comprehensive reference for working with pullback diagrams beyond the basic universal property.
+The `Pullback/` directory provides the comprehensive theory of pullbacks and pushouts in category theory, extending far beyond the basic universal property to encompass both 1-categorical and 2-categorical perspectives. The directory spans from foundational definitions (cospan/span diagrams, pullback cones, HasPullback typeclass) through structural properties (pasting lemmas, associativity, stability under monomorphisms and isomorphisms), commutative square formulations (IsPullback/IsPushout predicates with extensive API), special cases (equalizers as pullbacks), and culminates in the 2-categorical generalization via categorical pullbacks of functors with natural isomorphisms. The Categorical/ subdirectory establishes the 2-functorial structure with categorical cospan transformations, bicategorical operations (whiskering, composition), and coherence isomorphisms. Together, this directory serves as the definitive reference for pullback theory across both ordinary and higher category theory contexts.
 
 ## Key Files
 
