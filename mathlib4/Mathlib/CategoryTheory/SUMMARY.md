@@ -89,7 +89,7 @@ The `CategoryTheory/` directory contains the comprehensive formalization of cate
 - [x] `EffectiveEpi/` - Effective epimorphisms and descent (complete)
 - [x] `Endofunctor/` - Endofunctors and fixed points (complete)
 - [x] `Enriched/` - Enriched categories over monoidal categories with conical limits and compatibility with ordinary category structure (complete)
-- [ ] `Equivalence/` - Additional equivalence constructions and properties (pending)
+- [x] `Equivalence/` - Functoriality of equivalence operations including symmetry equivalence and inverse functor (complete)
 - [ ] `FiberedCategory/` - Fibered categories and Grothendieck fibrations (pending)
 - [ ] `Filtered/` - Filtered categories and directed colimits (pending)
 - [ ] `FinCategory/` - Finite categories (pending)
