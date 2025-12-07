@@ -42,7 +42,7 @@ The `Bicategory/` directory contains the formalization of bicategory theory in m
 - [x] `Modification/` - Modifications between natural transformations of oplax/pseudofunctors (complete)
 - [x] `Monad/` - Comonads in bicategories as comonoid objects in endomorphism categories (complete)
 - [x] `NaturalTransformation/` - Natural transformations for pseudofunctors (complete)
-- [ ] `Strict/` - Strict bicategories and related structures (pending)
+- [x] `Strict/` - Strict bicategories and related structures (complete)
 
 ## Search Tags
 
