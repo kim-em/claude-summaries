@@ -66,7 +66,7 @@ The `Monoidal/` directory contains the comprehensive formalization of monoidal c
 - [x] `OfChosenFiniteProducts/` - Deprecated module redirects to Cartesian monoidal categories (complete)
 - [x] `Opposite/` - Equivalence between Mon C and Mon C^Mop via mop/unmop functors (complete)
 - [x] `Rigid/` - Rigid monoidal categories with duals (complete)
-- [ ] `Types/` - Monoidal structure on Type category (pending)
+- [x] `Types/` - Monoidal structure on Type category with tensor as product type and coyoneda lax monoidal functor
 
 ## Search Tags
 
