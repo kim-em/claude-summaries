@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/CategoryTheory/Bicategory
-generated: 2025-12-07T09:15:00Z
+generated: 2025-12-07T09:30:00Z
 git_sha: 8806fb490620c3ccc60e504c32aefda32944948b
 git_branch: flexible-linter-simp-suggestions
-status: preliminary
+status: complete
 files_count: 14
 subdirs_count: 8
 ---
@@ -12,7 +12,13 @@ subdirs_count: 8
 
 ## Overview
 
-The `Bicategory/` directory contains the formalization of bicategory theory in mathlib4. Bicategories are a weakened form of 2-categories where composition of 1-morphisms is associative only up to coherent isomorphism (associators), with specified unitors for identity morphisms. The directory implements the core bicategory typeclass with whiskering operations, free bicategories over quivers, the coherence theorem, various bicategorical constructions (opposites, products, Grothendieck construction), and structures for working with pseudofunctors, modifications, natural transformations, adjunctions, and Kan extensions.
+The `Bicategory/` directory provides a comprehensive formalization of bicategory theory in mathlib4. Bicategories are a fundamental weakening of 2-categories where composition of 1-morphisms is associative and unital only up to coherent isomorphisms rather than strict equalities. This directory implements the complete infrastructure for bicategorical reasoning, from the core definitions through advanced constructions and universal properties.
+
+The directory includes the basic bicategory typeclass with 1-morphisms, 2-morphisms, left/right whiskering operations, associators, and unitors satisfying pentagon and triangle coherence axioms. It provides fundamental constructions including free bicategories over quivers (with a coherence theorem proving local thinness), locally discrete bicategories, opposite bicategories, product bicategories, and structures induced from Cat-enriched categories and monoidal categories.
+
+The functor theory comprises a full hierarchy from prelax functors (minimal structure) through lax/oplax functors (with coherent natural transformations for identity and composition) to pseudofunctors (where these are isomorphisms) and strict pseudofunctors. Natural transformations are provided in three flavors (lax, oplax, strong) with modifications as 2-morphisms between them. The `FunctorBicategory/` subdirectory realizes oplax functors as a bicategory with transformations as 1-morphisms and modifications as 2-morphisms.
+
+Advanced structures include adjunctions in bicategories with the mate correspondence (establishing bijections between 2-cells via conjugate equivalences), a bicategory of adjunctions where 1-morphisms are adjoint pairs, Kan extensions with universal properties characterized as initial objects in extension categories, and the fundamental theorem that adjunctions are precisely Kan extensions of the identity. Comonads are formalized as comonoid objects in endomorphism categories and shown equivalent to oplax functors from the trivial bicategory. The directory also provides specialized infrastructure for strict bicategories where coherence isomorphisms reduce to equalities, allowing ordinary categorical reasoning.
 
 ## Key Files
 
@@ -35,14 +41,14 @@ The `Bicategory/` directory contains the formalization of bicategory theory in m
 
 ## Subdirectories
 
-- [x] `Adjunction/` - Adjunctions in bicategories (complete)
-- [x] `Functor/` - Pseudofunctors and related structures between bicategories (complete)
-- [x] `FunctorBicategory/` - Bicategory of oplax functors with oplax natural transformations and modifications (complete)
-- [x] `Kan/` - Kan extensions in bicategories (complete)
-- [x] `Modification/` - Modifications between natural transformations of oplax/pseudofunctors (complete)
-- [x] `Monad/` - Comonads in bicategories as comonoid objects in endomorphism categories (complete)
-- [x] `NaturalTransformation/` - Natural transformations for pseudofunctors (complete)
-- [x] `Strict/` - Strict bicategories and related structures (complete)
+- [x] `Adjunction/` - Adjunctions in bicategories with unit, counit, mate correspondence, and bicategory of adjunctions
+- [x] `Functor/` - Hierarchy of functors from prelax through lax/oplax to pseudofunctors and strict pseudofunctors
+- [x] `FunctorBicategory/` - Bicategory structure on oplax functors with natural transformations and modifications
+- [x] `Kan/` - Kan extensions and lifts with universal properties and relationship to adjunctions
+- [x] `Modification/` - Modifications as 2-morphisms between natural transformations of functors
+- [x] `Monad/` - Comonads in bicategories as comonoid objects, equivalence with oplax functors from trivial bicategory
+- [x] `NaturalTransformation/` - Lax, oplax, and strong transformations for lax/oplax functors and pseudofunctors
+- [x] `Strict/` - Strict bicategories with equality-based coherence and specialized functor API
 
 ## Search Tags
 
