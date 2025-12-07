@@ -53,7 +53,7 @@ The `Monoidal/` directory contains the comprehensive formalization of monoidal c
 
 ## Subdirectories
 
-- [~] `Action/` - Group actions and monoidal functors (preliminary)
+- [x] `Action/` - Actions of monoidal categories on arbitrary categories with coherence axioms
 - [ ] `Braided/` - Braided and symmetric monoidal categories (pending)
 - [ ] `Cartesian/` - Cartesian monoidal categories from products (pending)
 - [ ] `Closed/` - Closed monoidal categories with internal hom (pending)
