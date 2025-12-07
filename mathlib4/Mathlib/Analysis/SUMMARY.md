@@ -61,7 +61,7 @@ The `Analysis/` directory contains the formalization of real and complex analysi
 - [x] `RCLike/` - Abstraction over ℝ and ℂ (real and complex numbers treated uniformly) (complete)
 - [x] `Real/` - Real analysis (properties specific to real numbers) (complete)
 - [x] `SpecialFunctions/` - Special functions (exponential, logarithm, trigonometric, gamma, zeta, etc.) (complete)
-- [ ] `SpecificLimits/` - Specific limit computations and convergence results (includes arithmetic-geometric mean, Fibonacci limits, floor power limits, normed space limits) (pending)
+- [x] `SpecificLimits/` - Specific limit computations and convergence results (includes arithmetic-geometric mean, Fibonacci limits, floor power limits, normed space limits) (complete)
 - [ ] `VonNeumannAlgebra/` - Von Neumann algebras (weakly closed *-subalgebras of bounded operators) (pending)
 
 ## Search Tags
