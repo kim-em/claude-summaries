@@ -82,7 +82,7 @@ The `CategoryTheory/` directory contains the comprehensive formalization of cate
 - [x] `Comma/` - Comma categories and slice categories (complete)
 - [x] `ComposableArrows/` - Composable sequences of arrows (complete)
 - [x] `ConcreteCategory/` - Concrete categories with underlying sets/types (complete)
-- [ ] `CopyDiscardCategory/` - Categories with copy and discard operations (pending)
+- [x] `CopyDiscardCategory/` - Categories with copy and discard operations (complete)
 - [ ] `Dialectica/` - Dialectica categories (pending)
 - [ ] `Discrete/` - Discrete categories from types (pending)
 - [ ] `Distributive/` - Distributive categories (pending)
