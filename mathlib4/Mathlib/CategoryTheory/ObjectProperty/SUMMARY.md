@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/CategoryTheory/ObjectProperty
-generated: 2025-12-07T10:15:00Z
+generated: 2025-12-07T10:45:00Z
 git_sha: 8806fb490620c3ccc60e504c32aefda32944948b
 git_branch: flexible-linter-simp-suggestions
-status: preliminary
+status: complete
 files_count: 23
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-The `ObjectProperty/` directory provides a comprehensive framework for working with properties of objects in categories, treating them as predicates `C → Prop` equipped with rich structure. It defines the `ObjectProperty C` type as an abbreviation for `C → Prop`, establishes that properties form a complete lattice, and develops theory for closure operations (under isomorphisms, limits, colimits), smallness conditions, and interactions with functors. This infrastructure enables formal reasoning about subcategories defined by properties (e.g., "objects that are limits of small objects" or "objects closed under finite colimits"), with applications to accessible categories, presentability, and Grothendieck's axioms in abelian categories.
+The `ObjectProperty/` directory provides a comprehensive framework for working with properties of objects in categories, treating them as predicates `C → Prop` equipped with rich structure. It defines the `ObjectProperty C` type as an abbreviation for `C → Prop`, establishes that properties form a complete lattice, and develops theory for closure operations (under isomorphisms, limits, colimits), smallness conditions, and interactions with functors. This infrastructure enables formal reasoning about subcategories defined by properties (e.g., "objects that are limits of small objects" or "objects closed under finite colimits"), with applications to accessible categories, presentability, and Grothendieck's axioms in abelian categories. The framework extends naturally to functor categories, where limit-preservation can be treated as an object property with corresponding closure results.
 
 ## Key Files
 
@@ -44,7 +44,7 @@ The `ObjectProperty/` directory provides a comprehensive framework for working w
 
 ## Subdirectories
 
-- [x] `FunctorCategory/` - Properties of functors viewed as objects in functor categories (complete)
+- [x] `FunctorCategory/` - Limit-preservation properties as object properties in functor categories with closure under colimits when exactness conditions hold (complete)
 
 ## Search Tags
 
