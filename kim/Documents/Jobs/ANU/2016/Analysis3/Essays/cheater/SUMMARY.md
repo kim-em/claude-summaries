@@ -29,7 +29,7 @@ Complete documentation of an academic misconduct case involving student Michael 
 
 ## Subdirectories
 
-- [ ] `Analysis Essay/` - Reference materials provided to the hired freelancer including sample essays from previous years, further reference materials (2 folders), prescribed textbooks, reference articles and books listed in essay description, and LaTeX template (pending)
+- [~] `Analysis Essay/` - Reference materials provided to the hired freelancer including sample essays from previous years, further reference materials (2 folders), prescribed textbooks, reference articles and books listed in essay description, and LaTeX template (preliminary)
 - [ ] `case/` - Formal allegation documentation including the main allegation letter from Profs Barnsley, Morrison, and Portal with 11 attachments (A-K) documenting evidence across all three courses, complete letter PDF (15.5MB), student CV, transcript, Freelancer.com reputation screenshot, and subfolder with complete instructions posted on Freelancer.com (pending)
 - [ ] `submitted essay drafts/` - Two annotated draft submissions from Michael Chappuis with instructor comments (1.65MB and 1.19MB PDFs) plus notes documenting the October 26 in-person meeting where the student was unable to explain basic concepts like B(H) notation, Riesz lemma, or Hilbert theorem (pending)
 
