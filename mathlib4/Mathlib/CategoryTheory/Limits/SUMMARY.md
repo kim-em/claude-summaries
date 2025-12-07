@@ -69,7 +69,7 @@ The `Limits/` directory provides the comprehensive formalization of limits and c
 
 ## Subdirectories
 
-- [ ] `ConcreteCategory/` - Limits in concrete categories with forgetful functors (pending)
+- [x] `ConcreteCategory/` - Limits in concrete categories with forgetful functors (complete)
 - [ ] `Constructions/` - Limit constructions and transformations (pending)
 - [ ] `Final/` - Additional theory of final functors (pending)
 - [ ] `FunctorCategory/` - Limits in functor categories (pointwise limits) (pending)
