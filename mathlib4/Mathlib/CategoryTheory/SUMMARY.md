@@ -113,7 +113,7 @@ The `CategoryTheory/` directory contains the comprehensive formalization of cate
 - [x] `ObjectProperty/` - Properties of objects in categories (complete)
 - [x] `PathCategory/` - Path category from a quiver (complete)
 - [x] `Pi/` - Pointwise category structure on indexed families of objects (complete)
-- [ ] `Preadditive/` - Preadditive categories with additive hom-groups (pending)
+- [~] `Preadditive/` - Preadditive categories with additive hom-groups (preliminary)
 - [ ] `Presentable/` - Presentable and accessible categories (pending)
 - [ ] `Products/` - Product category constructions (pending)
 - [ ] `Quotient/` - Quotient categories (pending)
