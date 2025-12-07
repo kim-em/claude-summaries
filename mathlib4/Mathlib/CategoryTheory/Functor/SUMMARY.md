@@ -37,7 +37,7 @@ The `Functor/` directory contains the core theory of functors between categories
 ## Subdirectories
 
 - [x] `Derived/` - Derived functors as Kan extensions along localization functors (left/right derived, pointwise, adjunctions)
-- [ ] `KanExtension/` - Kan extensions (left and right adjoints along functors) (pending)
+- [x] `KanExtension/` - Kan extensions (left and right adjoints along functors) (complete)
 - [ ] `ReflectsIso/` - Reflection of isomorphisms by functors (pending)
 
 ## Search Tags
