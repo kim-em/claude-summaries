@@ -45,7 +45,7 @@ The `Abelian/` directory provides a comprehensive formalization of abelian categ
 - [x] `GrothendieckCategory/` - Grothendieck abelian categories with colimits, generators, and enough injectives (complete)
 - [x] `Injective/` - Injective objects, injective resolutions, and enough injectives (complete)
 - [x] `Projective/` - Projective objects, projective resolutions, and enough projectives (complete)
-- [ ] `SerreClass/` - Serre subcategories and quotient categories (pending)
+- [x] `SerreClass/` - Serre subcategories and quotient categories (complete)
 
 ## Search Tags
 
