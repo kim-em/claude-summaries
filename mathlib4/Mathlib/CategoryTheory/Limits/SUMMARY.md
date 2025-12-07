@@ -76,7 +76,7 @@ The `Limits/` directory provides the comprehensive formalization of limits and c
 - [x] `Indization/` - Ind-objects and ind-completion (complete)
 - [x] `Preserves/` - Limit preservation, reflection, and creation by functors (complete)
 - [x] `Shapes/` - Specific limit shapes: products, pullbacks, equalizers, terminal objects, etc. (complete)
-- [ ] `Types/` - Limits and colimits in Type category (pending)
+- [x] `Types/` - Limits and colimits in Type category (complete)
 
 ## Search Tags
 
