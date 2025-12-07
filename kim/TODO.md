@@ -31,3 +31,4 @@ This file tracks files that couldn't be processed with standard tools and need s
 
 - `Documents/Jobs/ANU/2013/Analysis3/Analysis2/` - Claude error: Prompt is too long  (skipped 2025-12-03T04:03:44Z)
 - `Documents/Jobs/ANU/2016/Analysis3/ProblemSets/` - Claude error: ./go: line 107: claude: command not found  (skipped 2025-12-05T05:31:19Z)
+- `Documents/Jobs/ANU/2016/Analysis3/Essays/cheater/Analysis/` - Claude error: Prompt is too long  (skipped 2025-12-07T08:17:00Z)
