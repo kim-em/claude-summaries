@@ -44,7 +44,7 @@ The `ObjectProperty/` directory provides a comprehensive framework for working w
 
 ## Subdirectories
 
-- [ ] `FunctorCategory/` - Properties of functors viewed as objects in functor categories (pending)
+- [x] `FunctorCategory/` - Properties of functors viewed as objects in functor categories (complete)
 
 ## Search Tags
 
