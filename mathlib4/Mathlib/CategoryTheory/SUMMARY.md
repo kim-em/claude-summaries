@@ -104,7 +104,7 @@ The `CategoryTheory/` directory contains the comprehensive formalization of cate
 - [x] `LiftingProperties/` - Lifting properties and weak factorization systems (complete)
 - [x] `Limits/` - Limits and colimits (products, pullbacks, equalizers, etc.) (complete)
 - [x] `Linear/` - Linear categories (enriched over modules) (complete)
-- [~] `Localization/` - Localization of categories with respect to morphism properties (preliminary)
+- [x] `Localization/` - Localization of categories with respect to morphism properties (complete)
 - [ ] `LocallyCartesianClosed/` - Locally cartesian closed categories (pending)
 - [ ] `MarkovCategory/` - Markov categories for probability (pending)
 - [ ] `Monad/` - Monads and algebras (pending)

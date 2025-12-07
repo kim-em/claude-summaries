@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/CategoryTheory/Localization
-generated: 2025-12-07T08:45:00Z
+generated: 2025-12-07T21:45:00Z
 git_sha: 8806fb490620c3ccc60e504c32aefda32944948b
 git_branch: flexible-linter-simp-suggestions
-status: preliminary
+status: complete
 files_count: 27
 subdirs_count: 3
 ---
@@ -12,7 +12,7 @@ subdirs_count: 3
 
 ## Overview
 
-The `Localization/` directory formalizes the localization of categories with respect to morphism properties, a fundamental construction in category theory that formally inverts a specified class of morphisms. It provides the universal construction `W.Localization` obtained by taking quotients of path categories (following Gabriel-Zisman), the predicate `L.IsLocalization W` characterizing when a functor identifies its target with the localized category, calculus of fractions for computing morphisms in localized categories, and specialized localization functors such as Bousfield localization. This machinery is essential for homotopy theory, derived categories, and any context where one needs to "invert" certain morphisms to create new categories.
+The `Localization/` directory formalizes the localization of categories with respect to morphism properties, a fundamental construction in category theory that formally inverts a specified class of morphisms. It provides the universal construction `W.Localization` obtained by taking quotients of path categories (following Gabriel-Zisman), the predicate `L.IsLocalization W` characterizing when a functor identifies its target with the localized category, and extensive machinery for computing and working with morphisms in localized categories. The directory covers three major themes: (1) **computational tools** including calculus of fractions (left/right fractions with shared denominators) essential for establishing that localization preserves algebraic structures like preadditive and monoidal categories, (2) **derivability structures** formalizing the Kahn-Maltsiniotis framework for systematically constructing derived functors without pointwise verification, providing the theoretical foundation for derived categories, and (3) **preservation results** showing how localization interacts with various categorical structures (adjunctions, products, linear/preadditive/monoidal/triangulated structures, equivalences). This comprehensive framework is essential for homotopy theory, derived categories, algebraic geometry, and any context where one needs to "invert" certain morphisms to create new categories with desired universal properties.
 
 ## Key Files
 
@@ -48,9 +48,9 @@ The `Localization/` directory formalizes the localization of categories with res
 
 ## Subdirectories
 
-- [x] `CalculusOfFractions/` - Additional calculus of fractions constructions (complete)
-- [x] `DerivabilityStructure/` - Derivability structures for localization (Kahn-Maltsiniotis framework) (complete)
-- [x] `Monoidal/` - Localization of monoidal categories (complete)
+- [x] `CalculusOfFractions/` - Specialized calculus of fractions constructions with bundled shared-denominator fractions (`LeftFraction₂`, `LeftFraction₃`) enabling preadditive structure on localized categories, essential surjectivity results for composable arrows, and calculus deduced from adjunctions
+- [x] `DerivabilityStructure/` - Kahn-Maltsiniotis framework for derivability structures providing systematic conditions for constructing derived functors via right/left resolutions and Guitart exactness, with connection to pointwise derived functors
+- [x] `Monoidal/` - Monoidal structure on localized categories when morphism property is monoidal (multiplicative + stable under whiskering), extends to braided/symmetric cases, includes universal property for monoidal functors lifting along localizations
 
 ## Search Tags
 
