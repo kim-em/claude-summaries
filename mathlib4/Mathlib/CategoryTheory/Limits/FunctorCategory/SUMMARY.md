@@ -25,7 +25,7 @@ The `FunctorCategory/` directory establishes that limits and colimits in functor
 
 ## Subdirectories
 
-- [ ] `Shapes/` - Specific limit shapes in functor categories (pending)
+- [x] `Shapes/` - Specific limit shapes in functor categories (complete)
 
 ## Search Tags
 
