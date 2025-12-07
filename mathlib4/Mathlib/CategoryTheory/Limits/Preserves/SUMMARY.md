@@ -34,7 +34,7 @@ The `Preserves/` directory provides the comprehensive theory of limit and colimi
 ## Subdirectories
 
 - [x] `Creates/` - Functors that create limits: classes for finite (co)limits, products, coproducts, with composition and transfer properties (complete)
-- [ ] `Shapes/` - Preservation of specific limit shapes: products, pullbacks, equalizers, kernels, terminal objects, etc. (pending)
+- [x] `Shapes/` - Preservation of specific limit shapes: products, pullbacks, equalizers, kernels, terminal objects, biproducts, and their duals (complete)
 
 ## Search Tags
 
