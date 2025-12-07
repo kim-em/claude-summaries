@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/CategoryTheory/Limits/Constructions/Over
-generated: 2025-12-07T09:45:00Z
+generated: 2025-12-07T10:15:00Z
 git_sha: 8806fb490620c3ccc60e504c32aefda32944948b
 git_branch: flexible-linter-simp-suggestions
-status: preliminary
+status: complete
 files_count: 3
 subdirs_count: 0
 ---
