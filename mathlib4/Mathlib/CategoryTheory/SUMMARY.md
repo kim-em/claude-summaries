@@ -98,7 +98,7 @@ The `CategoryTheory/` directory contains the comprehensive formalization of cate
 - [x] `Generator/` - Generators and separators in categories (complete)
 - [x] `GradedObject/` - Additional graded object constructions (complete)
 - [x] `Groupoid/` - Additional groupoid constructions (complete)
-- [ ] `GuitartExact/` - Guitart exact squares (pending)
+- [x] `GuitartExact/` - Guitart exact squares (complete)
 - [ ] `Idempotents/` - Idempotent completion and Karoubi envelope (pending)
 - [ ] `Join/` - Join of categories (pending)
 - [ ] `LiftingProperties/` - Lifting properties and weak factorization systems (pending)
