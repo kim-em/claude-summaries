@@ -1,7 +1,7 @@
 ---
 source_path: /Users/kim/.claude/projects/-Users-kim-projects-claude-summary
-generated: 2025-12-02T00:00:00Z
-git_sha: ebe831cc1718246ffc866d2d1603aea2fc46574a
+generated: 2025-12-07T20:15:00Z
+git_sha: cebfbc124ad636335256159ee28dd0fe48d30e73
 git_branch: master
 status: complete
 files_count: 1049

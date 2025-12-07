@@ -1,7 +1,7 @@
 ---
 source_path: /Users/kim/.claude/projects/-Users-kim-Downloads-tshirt
-generated: 2025-12-01T22:35:00Z
-git_sha: 4f53174636526976b8659a0144810c1273d4d8b7
+generated: 2025-12-07T20:15:00Z
+git_sha: cebfbc124ad636335256159ee28dd0fe48d30e73
 git_branch: master
 status: complete
 files_count: 9
