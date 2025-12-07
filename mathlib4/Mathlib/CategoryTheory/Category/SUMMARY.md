@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/CategoryTheory/Category
-generated: 2025-12-07T12:00:00Z
+generated: 2025-12-07T12:30:00Z
 git_sha: 8806fb490620c3ccc60e504c32aefda32944948b
 git_branch: flexible-linter-simp-suggestions
-status: preliminary
+status: complete
 files_count: 18
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-The `Category/` directory contains fundamental category instances and constructions that demonstrate how various mathematical structures can be viewed as categories. This includes the basic definition of categories themselves, several concrete category instances (categories of categories, groupoids, quivers, pointed types, preorders, relations), and important categorical constructions (Kleisli categories, ULift universe adjustments, factorization categories). These files establish the foundational examples and patterns that the rest of the category theory library builds upon.
+The `Category/` directory contains the fundamental definition of categories and a rich collection of concrete category instances demonstrating how mathematical structures can be viewed categorically. At its core are `Basic.lean` (defining the `Category` typeclass) and `Init.lean` (tactic infrastructure). The directory showcases diverse category instances: higher-order categories (`Cat`, `Grpd`), categorical structures built from combinatorial data (`Quiv`, `ReflQuiv`), pointed and multi-pointed types (`Pointed`, `Bipointed`, `TwoP`), order-theoretic categories (`Preorder`, `GaloisConnection`), relational structures (`RelCat`, `PartialFun`), and specialized constructions (`Kleisli`, `Factorisation`, `Pairwise`, `ULift`). The `Cat/` subdirectory establishes that the category of categories itself has rich structure: limits, colimits, Cartesian closure, and various adjunctions, demonstrating category theory's self-applicability.
 
 ## Key Files
 
