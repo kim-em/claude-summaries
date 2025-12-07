@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/CategoryTheory/Limits/FunctorCategory
-generated: 2025-12-07T09:30:00Z
+generated: 2025-12-07T21:00:00Z
 git_sha: 8806fb490620c3ccc60e504c32aefda32944948b
 git_branch: flexible-linter-simp-suggestions
-status: preliminary
+status: complete
 files_count: 4
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-The `FunctorCategory/` directory establishes that limits and colimits in functor categories `K ⥤ C` are computed pointwise when the target category `C` has the corresponding limits. The core `Basic.lean` proves that evaluation functors jointly reflect and preserve limits, constructs limits by stitching together pointwise limit cones, and shows that a functor `F : D ⥤ K ⥤ C` preserves limits if and only if it does so at each evaluation point. Additional files provide specialized instances for epimorphisms/monomorphisms in functor categories, filtered colimits, and finite limits, with import dependencies carefully managed to avoid circular references.
+The `FunctorCategory/` directory establishes the fundamental theory that limits and colimits in functor categories `K ⥤ C` are computed pointwise when the target category `C` has the corresponding limits. The core `Basic.lean` proves that evaluation functors jointly reflect and preserve limits, constructs limits by stitching together pointwise limit cones via `combineCones`, and characterizes limit preservation for functors into functor categories through pointwise preservation at each evaluation. Specialized files provide instances for epimorphisms/monomorphisms (characterized pointwise via components), filtered colimits and cofiltered limits, and finite limits/colimits. The `Shapes/` subdirectory demonstrates how this general pointwise theory instantiates for classical categorical constructions (products, pullbacks, kernels), providing explicit isomorphisms showing that evaluating a limit of functors yields the limit of evaluated functors.
 
 ## Key Files
 
