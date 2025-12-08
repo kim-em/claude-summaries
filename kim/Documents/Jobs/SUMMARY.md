@@ -20,19 +20,19 @@ No files are stored directly in the Jobs root directory (only subdirectories).
 
 ## Subdirectories
 
-- [~] `ANU/` - ANU faculty employment records organized by year (2012-2019), HDR supervision, PhD students, honours students, and arrival documentation (5062 files) (preliminary)
-- [ ] `ASD/` - Australian Security Declaration countries list documenting international travel history 1982-2014 for visa/security purposes (1 file) (pending)
-- [ ] `Applications/` - Grant and fellowship applications organized by year (2008-2019) including ARC Discovery Projects, Future Fellowship, and assessment materials (1079 files) (pending)
-- [ ] `AustMS/` - Australian Mathematical Society council materials and annotated Special Committee reports (12 files) (pending)
-- [ ] `Berkeley/` - UC Berkeley PhD and teaching records including GSI assignments Fall 2001-Fall 2006, teaching evaluations, graduation documents, medical insurance, and Outstanding GSI Award 2004 (117 files) (pending)
-- [ ] `CurrentGrants/` - Active grant tracking with forecast spreadsheets for DP14/DP16/DP20, financial expenditure reports, and symbolic links to grant applications (3 files) (pending)
-- [ ] `FRO/` - Lean Focused Research Organization employment materials organized by year (2023 directory with 38 files) (pending)
-- [ ] `Harmonic/` - Harmonic/Concordance Inc contractor agreement and invoices 1-5 (Oct-Nov 2023) for Lean consulting at $400/hr, plus Slack channel archive (12 files) (pending)
-- [ ] `Lean/` - Lean-related employment background check documents from Microsoft (2 files) (pending)
-- [ ] `MSR/` - Microsoft Research consultant materials organized by year (2021-2023) including contracts, timesheets, and administrative documents (31 files) (pending)
-- [ ] `Miller/` - Miller Institute postdoctoral fellowship materials including appointment letter, union election forms, Focus newsletter, timesheets, exit documents, and seminar materials (85 files) (pending)
-- [ ] `Project Q/` - Temporary employment paperwork including background checks, CPT forms, tax forms (W-8BEN, W-9), relocation details, WorkforceLogic agreement, and workers' compensation information (16 files) (pending)
-- [ ] `Sydney/` - University of Sydney system passwords (1 file) (pending)
+- [~] `ANU/` - ANU faculty employment records organized by year (2012-2019), HDR supervision, PhD students, honours students, and arrival documentation (5062 files)
+- [ ] `ASD/` - Australian Security Declaration countries list documenting international travel history 1982-2014 for visa/security purposes (1 file)
+- [ ] `Applications/` - Grant and fellowship applications organized by year (2008-2019) including ARC Discovery Projects, Future Fellowship, and assessment materials (1079 files)
+- [ ] `AustMS/` - Australian Mathematical Society council materials and annotated Special Committee reports (12 files)
+- [ ] `Berkeley/` - UC Berkeley PhD and teaching records including GSI assignments Fall 2001-Fall 2006, teaching evaluations, graduation documents, medical insurance, and Outstanding GSI Award 2004 (117 files)
+- [ ] `CurrentGrants/` - Active grant tracking with forecast spreadsheets for DP14/DP16/DP20, financial expenditure reports, and symbolic links to grant applications (3 files)
+- [ ] `FRO/` - Lean Focused Research Organization employment materials organized by year (2023 directory with 38 files)
+- [ ] `Harmonic/` - Harmonic/Concordance Inc contractor agreement and invoices 1-5 (Oct-Nov 2023) for Lean consulting at $400/hr, plus Slack channel archive (12 files)
+- [ ] `Lean/` - Lean-related employment background check documents from Microsoft (2 files)
+- [ ] `MSR/` - Microsoft Research consultant materials organized by year (2021-2023) including contracts, timesheets, and administrative documents (31 files)
+- [ ] `Miller/` - Miller Institute postdoctoral fellowship materials including appointment letter, union election forms, Focus newsletter, timesheets, exit documents, and seminar materials (85 files)
+- [ ] `Project Q/` - Temporary employment paperwork including background checks, CPT forms, tax forms (W-8BEN, W-9), relocation details, WorkforceLogic agreement, and workers' compensation information (16 files)
+- [ ] `Sydney/` - University of Sydney system passwords (1 file)
 
 ## Search Tags
 

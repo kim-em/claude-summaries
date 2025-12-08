@@ -24,7 +24,7 @@ Mid-semester examination review lecture for MATH1014, containing worked solution
 
 ## Subdirectories
 
-- [x] `diagrams/` - Maple computational worksheets and Markov chains theory slides demonstrating transition matrix calculations and steady-state convergence (complete)
+- [x] `diagrams/` - Maple computational worksheets and Markov chains theory slides demonstrating transition matrix calculations and steady-state convergence
 
 ## Search Tags
 

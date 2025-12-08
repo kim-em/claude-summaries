@@ -23,9 +23,9 @@ Fish shell (Friendly Interactive SHell) configuration directory containing minim
 
 ## Subdirectories
 
-- [x] `completions/` - Directory for custom tab-completion definitions (currently empty) (complete)
-- [x] `conf.d/` - Configuration snippets directory for modular config files (currently empty) (complete)
-- [x] `functions/` - Custom fish functions directory (currently empty) (complete)
+- [x] `completions/` - Directory for custom tab-completion definitions (currently empty)
+- [x] `conf.d/` - Configuration snippets directory for modular config files (currently empty)
+- [x] `functions/` - Custom fish functions directory (currently empty)
 
 ## Search Tags
 

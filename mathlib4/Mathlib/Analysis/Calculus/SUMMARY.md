@@ -46,19 +46,19 @@ Beyond the theoretical core, the directory includes practical computational tool
 
 ## Subdirectories
 
-- [x] `AddTorsor/` - Calculus on affine spaces and torsors (complete)
-- [x] `BumpFunction/` - Smooth bump functions (smooth functions with compact support) (complete)
-- [x] `Conformal/` - Conformal maps (angle-preserving differentiable maps) (complete)
-- [x] `ContDiff/` - Continuously differentiable functions (C^n smoothness classes) (complete)
-- [x] `Deriv/` - One-dimensional derivatives (real and complex derivatives) (complete)
-- [x] `DifferentialForm/` - Differential forms on normed spaces and exterior derivatives (complete)
-- [x] `FDeriv/` - Fréchet derivatives (multivariable derivatives in normed spaces) (complete)
-- [x] `Gradient/` - Gradient of functions (vector of partial derivatives in inner product spaces) (complete)
-- [x] `InverseFunctionTheorem/` - Inverse function theorem (local invertibility from invertible derivative) (complete)
-- [x] `IteratedDeriv/` - Iterated derivatives (nth derivatives) (complete)
-- [x] `LineDeriv/` - Directional derivatives (derivatives along lines/vectors) (complete)
-- [x] `LocalExtr/` - Local extrema and critical points (Fermat's theorem) (complete)
-- [x] `TangentCone/` - Tangent cones and normal cones for convex analysis and optimization (complete)
+- [x] `AddTorsor/` - Calculus on affine spaces and torsors
+- [x] `BumpFunction/` - Smooth bump functions (smooth functions with compact support)
+- [x] `Conformal/` - Conformal maps (angle-preserving differentiable maps)
+- [x] `ContDiff/` - Continuously differentiable functions (C^n smoothness classes)
+- [x] `Deriv/` - One-dimensional derivatives (real and complex derivatives)
+- [x] `DifferentialForm/` - Differential forms on normed spaces and exterior derivatives
+- [x] `FDeriv/` - Fréchet derivatives (multivariable derivatives in normed spaces)
+- [x] `Gradient/` - Gradient of functions (vector of partial derivatives in inner product spaces)
+- [x] `InverseFunctionTheorem/` - Inverse function theorem (local invertibility from invertible derivative)
+- [x] `IteratedDeriv/` - Iterated derivatives (nth derivatives)
+- [x] `LineDeriv/` - Directional derivatives (derivatives along lines/vectors)
+- [x] `LocalExtr/` - Local extrema and critical points (Fermat's theorem)
+- [x] `TangentCone/` - Tangent cones and normal cones for convex analysis and optimization
 
 ## Search Tags
 

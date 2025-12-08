@@ -44,59 +44,59 @@ The `Data/` directory contains fundamental data structures, numeric types, and t
 
 ## Subdirectories
 
-- [x] `Analysis/` - Computational realization of filters and topological spaces (experimental infrastructure for computing with analysis concepts) (complete)
-- [x] `Array/` - Arrays and array operations (complete)
-- [x] `Bool/` - Boolean type properties and operations (complete)
-- [ ] `Complex/` - Complex numbers ℂ (pending)
-- [ ] `Countable/` - Countable types and countability properties (pending)
-- [ ] `DFinsupp/` - Dependent functions with finite support (pending)
-- [ ] `DList/` - Difference lists (efficient list concatenation) (pending)
-- [ ] `ENNReal/` - Extended non-negative reals [0, ∞] (pending)
-- [ ] `ENat/` - Extended natural numbers ℕ ∪ {∞} (pending)
-- [ ] `EReal/` - Extended reals [-∞, ∞] (pending)
-- [ ] `FP/` - Floating-point numbers (pending)
-- [ ] `Fin/` - Finite types `Fin n` (natural numbers less than n) (pending)
-- [ ] `FinEnum/` - Finitely enumerable types (pending)
-- [ ] `Finite/` - Finite types and finiteness properties (pending)
-- [ ] `Finset/` - Finite sets (sets with decidable membership and finite cardinality) (pending)
-- [ ] `Finsupp/` - Functions with finite support (pending)
-- [ ] `Fintype/` - Types with finitely many elements (pending)
-- [ ] `FunLike/` - Type class for function-like structures (pending)
-- [ ] `Int/` - Integers ℤ (pending)
-- [ ] `List/` - Lists (inductive sequences) (pending)
-- [ ] `Matrix/` - Matrices and matrix operations (pending)
-- [ ] `Multiset/` - Multisets (sets with multiplicities, quotients of lists) (pending)
-- [ ] `NNRat/` - Non-negative rationals ℚ≥0 (pending)
-- [ ] `NNReal/` - Non-negative reals ℝ≥0 (pending)
-- [ ] `Nat/` - Natural numbers ℕ (pending)
-- [ ] `Num/` - Binary representation of natural numbers (pending)
-- [ ] `Option/` - Option type (values that may be none) (pending)
-- [ ] `Ordering/` - Ordering relation (LT, EQ, GT) (pending)
-- [ ] `Ordmap/` - Ordered maps (binary search trees) (pending)
-- [ ] `PFunctor/` - Polynomial functors (pending)
-- [ ] `PNat/` - Positive natural numbers ℕ+ (pending)
-- [ ] `PSigma/` - Dependent pairs (Sigma types) with universe flexibility (pending)
-- [ ] `Pi/` - Dependent function types (Π-types) (pending)
-- [ ] `Prod/` - Product types (pairs) (pending)
-- [ ] `QPF/` - Quotients of polynomial functors (pending)
-- [ ] `Rat/` - Rational numbers ℚ (pending)
-- [ ] `Real/` - Real numbers ℝ (pending)
-- [ ] `Rel/` - Relations and relation operations (pending)
-- [ ] `Seq/` - Sequences (infinite lists) (pending)
-- [ ] `Set/` - Sets and set operations (pending)
-- [ ] `SetLike/` - Type class for set-like structures (pending)
-- [ ] `Setoid/` - Setoids (types with equivalence relations) (pending)
-- [ ] `Sigma/` - Dependent pairs (Sigma types) (pending)
-- [ ] `Sign/` - Sign type (positive, zero, negative) (pending)
-- [ ] `Stream/` - Streams (infinite sequences) (pending)
-- [ ] `String/` - Strings and string operations (pending)
-- [ ] `Sum/` - Sum types (disjoint unions) (pending)
-- [ ] `Sym/` - Symmetric powers (pending)
-- [ ] `Tree/` - Tree data structures (pending)
-- [ ] `Vector/` - Vectors (lists with statically-known length) (pending)
-- [ ] `W/` - W-types (well-founded trees) (pending)
-- [ ] `WSeq/` - Weak sequences (potentially infinite computations) (pending)
-- [ ] `ZMod/` - Integers modulo n (ℤ/nℤ) (pending)
+- [x] `Analysis/` - Computational realization of filters and topological spaces (experimental infrastructure for computing with analysis concepts)
+- [x] `Array/` - Arrays and array operations
+- [x] `Bool/` - Boolean type properties and operations
+- [ ] `Complex/` - Complex numbers ℂ
+- [ ] `Countable/` - Countable types and countability properties
+- [ ] `DFinsupp/` - Dependent functions with finite support
+- [ ] `DList/` - Difference lists (efficient list concatenation)
+- [ ] `ENNReal/` - Extended non-negative reals [0, ∞]
+- [ ] `ENat/` - Extended natural numbers ℕ ∪ {∞}
+- [ ] `EReal/` - Extended reals [-∞, ∞]
+- [ ] `FP/` - Floating-point numbers
+- [ ] `Fin/` - Finite types `Fin n` (natural numbers less than n)
+- [ ] `FinEnum/` - Finitely enumerable types
+- [ ] `Finite/` - Finite types and finiteness properties
+- [ ] `Finset/` - Finite sets (sets with decidable membership and finite cardinality)
+- [ ] `Finsupp/` - Functions with finite support
+- [ ] `Fintype/` - Types with finitely many elements
+- [ ] `FunLike/` - Type class for function-like structures
+- [ ] `Int/` - Integers ℤ
+- [ ] `List/` - Lists (inductive sequences)
+- [ ] `Matrix/` - Matrices and matrix operations
+- [ ] `Multiset/` - Multisets (sets with multiplicities, quotients of lists)
+- [ ] `NNRat/` - Non-negative rationals ℚ≥0
+- [ ] `NNReal/` - Non-negative reals ℝ≥0
+- [ ] `Nat/` - Natural numbers ℕ
+- [ ] `Num/` - Binary representation of natural numbers
+- [ ] `Option/` - Option type (values that may be none)
+- [ ] `Ordering/` - Ordering relation (LT, EQ, GT)
+- [ ] `Ordmap/` - Ordered maps (binary search trees)
+- [ ] `PFunctor/` - Polynomial functors
+- [ ] `PNat/` - Positive natural numbers ℕ+
+- [ ] `PSigma/` - Dependent pairs (Sigma types) with universe flexibility
+- [ ] `Pi/` - Dependent function types (Π-types)
+- [ ] `Prod/` - Product types (pairs)
+- [ ] `QPF/` - Quotients of polynomial functors
+- [ ] `Rat/` - Rational numbers ℚ
+- [ ] `Real/` - Real numbers ℝ
+- [ ] `Rel/` - Relations and relation operations
+- [ ] `Seq/` - Sequences (infinite lists)
+- [ ] `Set/` - Sets and set operations
+- [ ] `SetLike/` - Type class for set-like structures
+- [ ] `Setoid/` - Setoids (types with equivalence relations)
+- [ ] `Sigma/` - Dependent pairs (Sigma types)
+- [ ] `Sign/` - Sign type (positive, zero, negative)
+- [ ] `Stream/` - Streams (infinite sequences)
+- [ ] `String/` - Strings and string operations
+- [ ] `Sum/` - Sum types (disjoint unions)
+- [ ] `Sym/` - Symmetric powers
+- [ ] `Tree/` - Tree data structures
+- [ ] `Vector/` - Vectors (lists with statically-known length)
+- [ ] `W/` - W-types (well-founded trees)
+- [ ] `WSeq/` - Weak sequences (potentially infinite computations)
+- [ ] `ZMod/` - Integers modulo n (ℤ/nℤ)
 
 ## Search Tags
 

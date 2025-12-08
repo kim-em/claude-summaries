@@ -22,16 +22,16 @@ The `Normed/` directory establishes the complete foundational hierarchy for norm
 
 ## Subdirectories
 
-- [x] `Affine/` - Normed affine spaces (add torsors with norms, continuous affine maps, Mazur-Ulam theorem, asymptotic cones) (complete)
-- [x] `Algebra/` - Normed algebras (Banach algebras, spectrum theory, exponential maps, Gelfand-Mazur theorem, unitization) (complete)
-- [x] `Field/` - Normed fields and division rings (multiplicative norms, ultrametric fields, unit balls, absolute values, field completion) (complete)
-- [x] `Group/` - Normed (additive) groups and their basic properties (seminorms, bounded sets, completeness, constructions, homomorphisms, categorical infrastructure) (complete)
-- [x] `Lp/` - Lp spaces and norms (product and pi types with Lp norms, WithLp construction, Lp equivalences) (complete)
-- [x] `Module/` - Normed modules and spaces over normed fields (basic properties, dual spaces, finite-dimensional spaces, Hahn-Banach, multilinear maps, tensor products) (complete)
-- [x] `Operator/` - Bounded linear operators and continuous linear maps (operator norm, linear isometries, Banach open mapping theorem, Banach-Steinhaus uniform boundedness principle, compact operators, extension theorems) (complete)
-- [x] `Order/` - Ordered normed structures (normed lattices, upper/lower sets, order homomorphisms) (complete)
-- [x] `Ring/` - Normed rings (seminormed rings, submultiplicative norms, integer casts, units, ultrametric rings) (complete)
-- [x] `Unbundled/` - Unbundled seminorms and norms (ring seminorms, algebra norms, spectral norms, smoothing seminorms) (complete)
+- [x] `Affine/` - Normed affine spaces (add torsors with norms, continuous affine maps, Mazur-Ulam theorem, asymptotic cones)
+- [x] `Algebra/` - Normed algebras (Banach algebras, spectrum theory, exponential maps, Gelfand-Mazur theorem, unitization)
+- [x] `Field/` - Normed fields and division rings (multiplicative norms, ultrametric fields, unit balls, absolute values, field completion)
+- [x] `Group/` - Normed (additive) groups and their basic properties (seminorms, bounded sets, completeness, constructions, homomorphisms, categorical infrastructure)
+- [x] `Lp/` - Lp spaces and norms (product and pi types with Lp norms, WithLp construction, Lp equivalences)
+- [x] `Module/` - Normed modules and spaces over normed fields (basic properties, dual spaces, finite-dimensional spaces, Hahn-Banach, multilinear maps, tensor products)
+- [x] `Operator/` - Bounded linear operators and continuous linear maps (operator norm, linear isometries, Banach open mapping theorem, Banach-Steinhaus uniform boundedness principle, compact operators, extension theorems)
+- [x] `Order/` - Ordered normed structures (normed lattices, upper/lower sets, order homomorphisms)
+- [x] `Ring/` - Normed rings (seminormed rings, submultiplicative norms, integer casts, units, ultrametric rings)
+- [x] `Unbundled/` - Unbundled seminorms and norms (ring seminorms, algebra norms, spectral norms, smoothing seminorms)
 
 ## Search Tags
 

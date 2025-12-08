@@ -22,7 +22,7 @@ The `Pointwise/` directory implements pointwise group actions on sets and finset
 
 ## Subdirectories
 
-- [x] `Set/` - Pointwise actions on sets (complete)
+- [x] `Set/` - Pointwise actions on sets
 
 ## Search Tags
 

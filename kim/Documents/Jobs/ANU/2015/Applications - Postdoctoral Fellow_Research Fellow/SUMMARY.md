@@ -23,7 +23,7 @@ Postdoctoral fellowship hiring materials for ANU position #507048, a second post
 
 ## Subdirectories
 
-- [x] `Referee Reports/` - Comprehensive reference letters for 14 exceptional candidates spanning categorified representation theory, tensor categories, geometric representation theory, and mathematical physics, with 3-8 letters each from distinguished mathematicians including Fields medalists and pioneers in quantum topology (complete)
+- [x] `Referee Reports/` - Comprehensive reference letters for 14 exceptional candidates spanning categorified representation theory, tensor categories, geometric representation theory, and mathematical physics, with 3-8 letters each from distinguished mathematicians including Fields medalists and pioneers in quantum topology
 
 ## Search Tags
 

@@ -47,7 +47,7 @@ SSH configuration directory managing authentication and access to a diverse ecos
 
 ## Subdirectories
 
-- [x] `code_gitpod.d/` - Gitpod-managed SSH configuration for automatic VS Code integration with cloud workspaces via custom proxy (complete)
+- [x] `code_gitpod.d/` - Gitpod-managed SSH configuration for automatic VS Code integration with cloud workspaces via custom proxy
 
 ## Search Tags
 

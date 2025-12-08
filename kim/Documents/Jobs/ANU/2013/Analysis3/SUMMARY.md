@@ -38,13 +38,13 @@ Notably includes Andrew Mathas's complete 2012 teaching materials as reference (
 
 ## Subdirectories
 
-- [x] `LectureNotes/` - Numbered lecture notes (0-13) covering functional calculus, Hilbert spaces, compact operators, Fourier transforms, measure theory, integration theory, Radon-Nikodym derivatives, spectral theory, Banach spaces, and Fredholm theory (TeX sources and PDFs) (complete)
-- [x] `Assignments/` - Complete assessment archive with problem sheets, sample solutions, and 50+ student submissions across four assignments, essay component with draft feedback, and final exam (complete)
-- [x] `ProblemSets/` - Four problem sets with LaTeX sources, compiled PDFs, and detailed hints/solutions covering Hilbert spaces, Lp spaces, Fourier transforms, and Banach spaces (complete)
-- [x] `books/` - Reference library including Stein & Shakarchi volumes 1-4, Conway, Halmos, Helmberg, Pedersen texts (PDF/DJVU format) (complete)
-- [x] `evaluations/` - SELT evaluation reports for course (MATH3325) and instructor (Scott Morrison) (complete)
-- [x] `report/` - Course report and exemplar student assessments demonstrating the range of achievement levels (Pass through High Distinction) for calibrating grading standards (complete)
-- [x] `Andrew's materials/` - Complete 2012 teaching materials from Andrew Mathas including 10 lecture note chapters, 5 tutorial problem sets, 4 graded assignments, final exam, and course administration materials (complete)
+- [x] `LectureNotes/` - Numbered lecture notes (0-13) covering functional calculus, Hilbert spaces, compact operators, Fourier transforms, measure theory, integration theory, Radon-Nikodym derivatives, spectral theory, Banach spaces, and Fredholm theory (TeX sources and PDFs)
+- [x] `Assignments/` - Complete assessment archive with problem sheets, sample solutions, and 50+ student submissions across four assignments, essay component with draft feedback, and final exam
+- [x] `ProblemSets/` - Four problem sets with LaTeX sources, compiled PDFs, and detailed hints/solutions covering Hilbert spaces, Lp spaces, Fourier transforms, and Banach spaces
+- [x] `books/` - Reference library including Stein & Shakarchi volumes 1-4, Conway, Halmos, Helmberg, Pedersen texts (PDF/DJVU format)
+- [x] `evaluations/` - SELT evaluation reports for course (MATH3325) and instructor (Scott Morrison)
+- [x] `report/` - Course report and exemplar student assessments demonstrating the range of achievement levels (Pass through High Distinction) for calibrating grading standards
+- [x] `Andrew's materials/` - Complete 2012 teaching materials from Andrew Mathas including 10 lecture note chapters, 5 tutorial problem sets, 4 graded assignments, final exam, and course administration materials
 - [?] `Analysis2/` - Reference materials from prerequisite Analysis 2 course (skipped)
 
 ## Search Tags

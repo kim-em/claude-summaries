@@ -74,9 +74,9 @@ Three subdirectories provide specialized theory: `Cone/` develops the topologica
 
 ## Subdirectories
 
-- [x] `Cone/` - Topological and analytic theory of convex cones; proper cones, dual cones, Farkas' lemma, Hahn-Banach separation (complete)
-- [x] `SimplicialComplex/` - Simplicial complexes modeled as downward-closed affine independent vertex sets with controlled convex hull intersections (complete)
-- [x] `SpecificFunctions/` - Convexity/concavity of specific functions: exp, log, rpow, sin, cos, sqrt (complete)
+- [x] `Cone/` - Topological and analytic theory of convex cones; proper cones, dual cones, Farkas' lemma, Hahn-Banach separation
+- [x] `SimplicialComplex/` - Simplicial complexes modeled as downward-closed affine independent vertex sets with controlled convex hull intersections
+- [x] `SpecificFunctions/` - Convexity/concavity of specific functions: exp, log, rpow, sin, cos, sqrt
 
 ## Search Tags
 

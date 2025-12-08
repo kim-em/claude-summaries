@@ -71,63 +71,63 @@ The `CategoryTheory/` directory is the comprehensive formalization of category t
 
 ## Subdirectories
 
-- [x] `Abelian/` - Abelian categories with kernels, cokernels, and exact sequences (complete)
-- [x] `Action/` - Group actions and representations as functors (complete)
-- [x] `Adjunction/` - Adjoint functors with unit and counit (complete)
-- [x] `Bicategory/` - Bicategories with 2-morphisms and coherence (complete)
-- [x] `Category/` - Basic category instances and constructions (complete)
-- [x] `Center/` - Center of categories as endomorphisms of identity functor (complete)
-- [x] `ChosenFiniteProducts/` - Deprecated redirects to Monoidal.Cartesian.* modules (complete)
-- [x] `Closed/` - Deprecated redirects to Monoidal.Closed modules (complete)
-- [x] `Comma/` - Comma categories and slice categories (complete)
-- [x] `ComposableArrows/` - Composable sequences of arrows (complete)
-- [x] `ConcreteCategory/` - Concrete categories with underlying sets/types (complete)
-- [x] `CopyDiscardCategory/` - Categories with copy and discard operations (complete)
-- [x] `Dialectica/` - Dialectica categories (complete)
-- [x] `Discrete/` - Discrete categories from types (complete)
-- [x] `Distributive/` - Distributive categories with left/right tensor products preserving coproducts (complete)
-- [x] `EffectiveEpi/` - Effective epimorphisms and descent (complete)
-- [x] `Endofunctor/` - Endofunctors and fixed points (complete)
-- [x] `Enriched/` - Enriched categories over monoidal categories with conical limits and compatibility with ordinary category structure (complete)
-- [x] `Equivalence/` - Functoriality of equivalence operations including symmetry equivalence and inverse functor (complete)
-- [x] `FiberedCategory/` - Fibered categories and Grothendieck fibrations (complete)
-- [x] `Filtered/` - Filtered categories and directed colimits (complete)
-- [x] `FinCategory/` - Finite categories with finitely many objects and morphisms, including equivalences to concrete Fin-indexed representations (complete)
-- [x] `Functor/` - Functors and functor properties (fully faithful, conservative, etc.) (complete)
-- [x] `Galois/` - Galois categories and fundamental groups (complete)
-- [x] `Generator/` - Generators and separators in categories (complete)
-- [x] `GradedObject/` - Additional graded object constructions (complete)
-- [x] `Groupoid/` - Additional groupoid constructions (complete)
-- [x] `GuitartExact/` - Guitart exact squares (complete)
-- [x] `Idempotents/` - Idempotent completion and Karoubi envelope (complete)
-- [x] `Join/` - Join of categories (complete)
-- [x] `LiftingProperties/` - Lifting properties and weak factorization systems (complete)
-- [x] `Limits/` - Limits and colimits (products, pullbacks, equalizers, etc.) (complete)
-- [x] `Linear/` - Linear categories (enriched over modules) (complete)
-- [x] `Localization/` - Localization of categories with respect to morphism properties (complete)
-- [x] `LocallyCartesianClosed/` - Locally cartesian closed categories (complete)
-- [x] `MarkovCategory/` - Markov categories for probability (complete)
-- [x] `Monad/` - Monads and algebras (complete)
+- [x] `Abelian/` - Abelian categories with kernels, cokernels, and exact sequences
+- [x] `Action/` - Group actions and representations as functors
+- [x] `Adjunction/` - Adjoint functors with unit and counit
+- [x] `Bicategory/` - Bicategories with 2-morphisms and coherence
+- [x] `Category/` - Basic category instances and constructions
+- [x] `Center/` - Center of categories as endomorphisms of identity functor
+- [x] `ChosenFiniteProducts/` - Deprecated redirects to Monoidal.Cartesian.* modules
+- [x] `Closed/` - Deprecated redirects to Monoidal.Closed modules
+- [x] `Comma/` - Comma categories and slice categories
+- [x] `ComposableArrows/` - Composable sequences of arrows
+- [x] `ConcreteCategory/` - Concrete categories with underlying sets/types
+- [x] `CopyDiscardCategory/` - Categories with copy and discard operations
+- [x] `Dialectica/` - Dialectica categories
+- [x] `Discrete/` - Discrete categories from types
+- [x] `Distributive/` - Distributive categories with left/right tensor products preserving coproducts
+- [x] `EffectiveEpi/` - Effective epimorphisms and descent
+- [x] `Endofunctor/` - Endofunctors and fixed points
+- [x] `Enriched/` - Enriched categories over monoidal categories with conical limits and compatibility with ordinary category structure
+- [x] `Equivalence/` - Functoriality of equivalence operations including symmetry equivalence and inverse functor
+- [x] `FiberedCategory/` - Fibered categories and Grothendieck fibrations
+- [x] `Filtered/` - Filtered categories and directed colimits
+- [x] `FinCategory/` - Finite categories with finitely many objects and morphisms, including equivalences to concrete Fin-indexed representations
+- [x] `Functor/` - Functors and functor properties (fully faithful, conservative, etc.)
+- [x] `Galois/` - Galois categories and fundamental groups
+- [x] `Generator/` - Generators and separators in categories
+- [x] `GradedObject/` - Additional graded object constructions
+- [x] `Groupoid/` - Additional groupoid constructions
+- [x] `GuitartExact/` - Guitart exact squares
+- [x] `Idempotents/` - Idempotent completion and Karoubi envelope
+- [x] `Join/` - Join of categories
+- [x] `LiftingProperties/` - Lifting properties and weak factorization systems
+- [x] `Limits/` - Limits and colimits (products, pullbacks, equalizers, etc.)
+- [x] `Linear/` - Linear categories (enriched over modules)
+- [x] `Localization/` - Localization of categories with respect to morphism properties
+- [x] `LocallyCartesianClosed/` - Locally cartesian closed categories
+- [x] `MarkovCategory/` - Markov categories for probability
+- [x] `Monad/` - Monads and algebras
 - [x] `Monoidal/` - Comprehensive monoidal category theory: tensor products, internal algebraic objects (monoid/comonoid/bimonoid/Hopf), braided/symmetric structures, closed monoidal categories, Cartesian monoidal categories, rigid categories with duals, Day convolution, free monoidal categories and coherence theorem, actions, limits, and transport mechanisms
-- [x] `MorphismProperty/` - Properties of morphisms (stable, multiplicative, etc.) (complete)
-- [x] `ObjectProperty/` - Properties of objects in categories (complete)
-- [x] `PathCategory/` - Path category from a quiver (complete)
-- [x] `Pi/` - Pointwise category structure on indexed families of objects (complete)
-- [x] `Preadditive/` - Preadditive categories with additive hom-groups, injective/projective objects with resolutions, and specialized Yoneda embeddings (complete)
-- [x] `Presentable/` - Presentable and accessible categories with κ-presentable objects, κ-accessible functors, locally presentable categories, cardinal-filtered categories, and orthogonal-reflection construction for reflective subcategories (complete)
-- [x] `Products/` - Cartesian product categories with projection/section functors, swap equivalence, evaluation functors, associator and unitor coherence isomorphisms (complete)
-- [x] `Quotient/` - Quotient categories with preadditive and linear structure preservation (complete)
-- [x] `Shift/` - Shift functors and graded structures (complete)
-- [x] `Sigma/` - Coproduct (sigma) categories (complete)
-- [x] `Sites/` - Grothendieck topologies and sheaves (complete)
-- [x] `SmallObject/` - Small object argument for factorization systems with transfinite iteration machinery (complete)
-- [x] `Subobject/` - Subobject lattices (complete)
-- [x] `Subpresheaf/` - Subpresheaves and sieves (complete)
-- [x] `Sums/` - Coproduct constructions (complete)
-- [x] `Topos/` - Topoi (elementary and Grothendieck) (complete)
-- [x] `Triangulated/` - Triangulated categories with distinguished triangles, octahedron axiom, homological functors, opposite category structures, and t-structures with truncation functors (complete)
-- [x] `Types/` - Category of types with function morphisms, correspondence between categorical and type-theoretic concepts (monos=injections, epis=surjections, isos=equivs), sections functor, universe lifting, and monomorphism stability properties (complete)
-- [x] `WithTerminal/` - Freely adjoining terminal and initial objects to categories with universal properties, comma category equivalences, cone/cocone relations, and finiteness results (complete)
+- [x] `MorphismProperty/` - Properties of morphisms (stable, multiplicative, etc.)
+- [x] `ObjectProperty/` - Properties of objects in categories
+- [x] `PathCategory/` - Path category from a quiver
+- [x] `Pi/` - Pointwise category structure on indexed families of objects
+- [x] `Preadditive/` - Preadditive categories with additive hom-groups, injective/projective objects with resolutions, and specialized Yoneda embeddings
+- [x] `Presentable/` - Presentable and accessible categories with κ-presentable objects, κ-accessible functors, locally presentable categories, cardinal-filtered categories, and orthogonal-reflection construction for reflective subcategories
+- [x] `Products/` - Cartesian product categories with projection/section functors, swap equivalence, evaluation functors, associator and unitor coherence isomorphisms
+- [x] `Quotient/` - Quotient categories with preadditive and linear structure preservation
+- [x] `Shift/` - Shift functors and graded structures
+- [x] `Sigma/` - Coproduct (sigma) categories
+- [x] `Sites/` - Grothendieck topologies and sheaves
+- [x] `SmallObject/` - Small object argument for factorization systems with transfinite iteration machinery
+- [x] `Subobject/` - Subobject lattices
+- [x] `Subpresheaf/` - Subpresheaves and sieves
+- [x] `Sums/` - Coproduct constructions
+- [x] `Topos/` - Topoi (elementary and Grothendieck)
+- [x] `Triangulated/` - Triangulated categories with distinguished triangles, octahedron axiom, homological functors, opposite category structures, and t-structures with truncation functors
+- [x] `Types/` - Category of types with function morphisms, correspondence between categorical and type-theoretic concepts (monos=injections, epis=surjections, isos=equivs), sections functor, universe lifting, and monomorphism stability properties
+- [x] `WithTerminal/` - Freely adjoining terminal and initial objects to categories with universal properties, comma category equivalences, cone/cocone relations, and finiteness results
 
 ## Search Tags
 

@@ -59,17 +59,17 @@ This comprehensive machinery serves as the categorical foundation for tensor cat
 
 - [x] `Action/` - Actions of monoidal categories on arbitrary categories with coherence axioms
 - [x] `Braided/` - Braided and symmetric monoidal categories
-- [x] `Cartesian/` - Cartesian monoidal categories from products (complete)
+- [x] `Cartesian/` - Cartesian monoidal categories from products
 - [x] `Closed/` - Closed monoidal categories with internal hom functors, Cartesian closed categories, exponentials, enrichment, and functor category constructions
 - [x] `DayConvolution/` - Braided/symmetric monoidal structure, internal hom functors for monoidal closed categories, and DayFunctor type synonym
 - [x] `ExternalProduct/` - External tensor products for diagrams in monoidal categories with Kan extension preservation
 - [x] `Free/` - Free monoidal categories and monoidal coherence theorem
 - [x] `Functor/` - Bridge between applicative functors and lax monoidal functors on types
-- [x] `Internal/` - Equivalences between internal algebraic objects in monoidal categories and bundled categorical constructions, including functor category equivalences, module-algebra correspondence, and Type specializations (complete)
+- [x] `Internal/` - Equivalences between internal algebraic objects in monoidal categories and bundled categorical constructions, including functor category equivalences, module-algebra correspondence, and Type specializations
 - [x] `Limits/` - Limits and colimits in monoidal categories with lax monoidal limit functor and tensor preservation instances
-- [x] `OfChosenFiniteProducts/` - Deprecated module redirects to Cartesian monoidal categories (complete)
-- [x] `Opposite/` - Equivalence between Mon C and Mon C^Mop via mop/unmop functors (complete)
-- [x] `Rigid/` - Rigid monoidal categories with duals (complete)
+- [x] `OfChosenFiniteProducts/` - Deprecated module redirects to Cartesian monoidal categories
+- [x] `Opposite/` - Equivalence between Mon C and Mon C^Mop via mop/unmop functors
+- [x] `Rigid/` - Rigid monoidal categories with duals
 - [x] `Types/` - Monoidal structure on Type category with tensor as product type and coyoneda lax monoidal functor
 
 ## Search Tags

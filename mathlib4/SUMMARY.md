@@ -33,16 +33,16 @@ Mathlib4 is the main mathematical library for the Lean 4 theorem prover, maintai
 
 ## Subdirectories
 
-- [~] `Mathlib/` - Core mathematical library containing formalized mathematics (preliminary)
-- [ ] `Archive/` - Historical and archived mathematical content (pending)
-- [ ] `Counterexamples/` - Collection of mathematical counterexamples (pending)
-- [ ] `MathlibTest/` - Test suite for verifying library functionality (pending)
-- [ ] `Cache/` - Cache management utilities for downloading precompiled .olean files (pending)
-- [ ] `LongestPole/` - Tools for analyzing build time longest poles and unused imports (pending)
-- [ ] `DownstreamTest/` - Tests for downstream package compatibility (pending)
-- [ ] `docs/` - Additional documentation in the form of module docstrings (pending)
-- [ ] `scripts/` - Utility scripts for linting, code generation, and project maintenance (pending)
-- [ ] `widget/` - ProofWidgets integration and UI components (pending)
+- [~] `Mathlib/` - Core mathematical library containing formalized mathematics
+- [ ] `Archive/` - Historical and archived mathematical content
+- [ ] `Counterexamples/` - Collection of mathematical counterexamples
+- [ ] `MathlibTest/` - Test suite for verifying library functionality
+- [ ] `Cache/` - Cache management utilities for downloading precompiled .olean files
+- [ ] `LongestPole/` - Tools for analyzing build time longest poles and unused imports
+- [ ] `DownstreamTest/` - Tests for downstream package compatibility
+- [ ] `docs/` - Additional documentation in the form of module docstrings
+- [ ] `scripts/` - Utility scripts for linting, code generation, and project maintenance
+- [ ] `widget/` - ProofWidgets integration and UI components
 
 ## Search Tags
 

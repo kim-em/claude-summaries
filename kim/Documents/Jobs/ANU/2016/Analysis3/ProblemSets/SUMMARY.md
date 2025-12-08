@@ -33,7 +33,7 @@ Four problem sets for MATH3325 Analysis 3 (2016), covering Hilbert space theory 
 
 ## Subdirectories
 
-- [x] `PastProblemSets/` - Archive of 5 problem sets from previous course offerings (2010 and 2012), covering measure theory, functional analysis, and weak topology (complete)
+- [x] `PastProblemSets/` - Archive of 5 problem sets from previous course offerings (2010 and 2012), covering measure theory, functional analysis, and weak topology
 
 ## Search Tags
 

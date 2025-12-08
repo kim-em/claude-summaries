@@ -25,8 +25,8 @@ The `BoxIntegral/` directory provides a comprehensive formalization of box integ
 
 ## Subdirectories
 
-- [x] `Box/` - Rectangular box data structure and operations (complete)
-- [x] `Partition/` - Partitions and tagged partitions of boxes (complete)
+- [x] `Box/` - Rectangular box data structure and operations
+- [x] `Partition/` - Partitions and tagged partitions of boxes
 
 ## Search Tags
 

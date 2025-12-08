@@ -26,8 +26,8 @@ The `Enriched/` directory contains the formalization of enriched category theory
 
 ## Subdirectories
 
-- [x] `Limits/` - Conical limits in enriched categories—limits existing in the underlying ordinary category and preserved by enriched hom-functors, with type classes for products, pullbacks, and terminal objects (complete)
-- [x] `Ordinary/` - Bridge between enriched and ordinary categories via `EnrichedOrdinaryCategory` typeclass establishing bijection between ordinary morphisms and monoidal unit morphisms into enriched hom-objects, with enriched coyoneda construction (complete)
+- [x] `Limits/` - Conical limits in enriched categories—limits existing in the underlying ordinary category and preserved by enriched hom-functors, with type classes for products, pullbacks, and terminal objects
+- [x] `Ordinary/` - Bridge between enriched and ordinary categories via `EnrichedOrdinaryCategory` typeclass establishing bijection between ordinary morphisms and monoidal unit morphisms into enriched hom-objects, with enriched coyoneda construction
 
 ## Search Tags
 

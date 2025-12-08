@@ -38,7 +38,7 @@ The `Category/` directory contains the fundamental definition of categories and 
 
 ## Subdirectories
 
-- [x] `Cat/` - Advanced properties for `Cat`: limits, colimits, Cartesian closed structure, adjunctions, opposite categories (complete)
+- [x] `Cat/` - Advanced properties for `Cat`: limits, colimits, Cartesian closed structure, adjunctions, opposite categories
 
 ## Search Tags
 

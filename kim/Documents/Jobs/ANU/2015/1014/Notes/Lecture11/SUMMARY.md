@@ -24,7 +24,7 @@ Lecture 11 materials on eigenvectors and eigenvalues, introducing this fundament
 
 ## Subdirectories
 
-- [x] `diagrams/` - Single diagram (ex1401.pdf, 36KB) supporting lecture examples (complete)
+- [x] `diagrams/` - Single diagram (ex1401.pdf, 36KB) supporting lecture examples
 
 ## Search Tags
 

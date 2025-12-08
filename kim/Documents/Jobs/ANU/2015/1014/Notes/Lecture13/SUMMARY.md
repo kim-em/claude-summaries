@@ -24,7 +24,7 @@ Thirteenth lecture on eigenvalues and eigenvectors for MATH1014 Linear Algebra, 
 
 ## Subdirectories
 
-- [x] `diagrams/` - Maple worksheets and PDFs with eigenvalue/eigenvector computation examples (complete)
+- [x] `diagrams/` - Maple worksheets and PDFs with eigenvalue/eigenvector computation examples
 
 ## Search Tags
 

@@ -34,7 +34,7 @@ The `Pullback/` directory provides the comprehensive theory of pullbacks and pus
 
 ## Subdirectories
 
-- [x] `Categorical/` - Categorical (2-categorical) pullbacks of functors with natural isomorphisms (complete)
+- [x] `Categorical/` - Categorical (2-categorical) pullbacks of functors with natural isomorphisms
 
 ## Search Tags
 

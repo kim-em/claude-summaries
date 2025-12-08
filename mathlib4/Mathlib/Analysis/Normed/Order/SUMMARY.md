@@ -24,7 +24,7 @@ The `Order/` directory provides a comprehensive bridge between normed structures
 
 ## Subdirectories
 
-- [x] `Hom/` - Constructs (semi)normed groups from (semi)normed homomorphisms; upgrades Group to SeminormedGroup/NormedGroup using GroupSeminormClass/GroupNormClass when codomain is ℝ; includes nonarchimedean (ultrametric) normed group constructions (complete)
+- [x] `Hom/` - Constructs (semi)normed groups from (semi)normed homomorphisms; upgrades Group to SeminormedGroup/NormedGroup using GroupSeminormClass/GroupNormClass when codomain is ℝ; includes nonarchimedean (ultrametric) normed group constructions
 
 ## Search Tags
 

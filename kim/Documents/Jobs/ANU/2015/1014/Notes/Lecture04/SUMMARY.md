@@ -25,7 +25,7 @@ Fourth lecture on distances in ℝ³, developing formulas for computing geometri
 
 ## Subdirectories
 
-- [x] `diagrams/` - Supporting vector diagrams and illustrations in multiple formats: theoretical distance formula diagrams (point-to-plane, point-to-line, parallel lines, skew lines) as OmniGraffle/EPS/PNG files, plus worked example illustrations (skydiver forces, wagon pulling, torque, line intersections) as MS Word/PDF sources - 25 files total providing comprehensive visual aids for lecture concepts (complete)
+- [x] `diagrams/` - Supporting vector diagrams and illustrations in multiple formats: theoretical distance formula diagrams (point-to-plane, point-to-line, parallel lines, skew lines) as OmniGraffle/EPS/PNG files, plus worked example illustrations (skydiver forces, wagon pulling, torque, line intersections) as MS Word/PDF sources - 25 files total providing comprehensive visual aids for lecture concepts
 
 ## Search Tags
 

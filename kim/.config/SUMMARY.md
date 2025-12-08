@@ -22,10 +22,10 @@ XDG Base Directory compliant configuration directory containing tracked applicat
 
 ## Subdirectories
 
-- [x] `fish/` - Fish shell configuration with minimal setup relying on built-in defaults, Homebrew path configuration, and universal variables (complete)
-- [x] `gh/` - GitHub CLI configuration with HTTPS git protocol preference and command aliases (complete)
-- [x] `git/` - XDG-compliant global gitignore for machine-specific files (complete)
-- [x] `vscode/` - Shared keybindings for Claude Code integration across VSCode family editors (complete)
+- [x] `fish/` - Fish shell configuration with minimal setup relying on built-in defaults, Homebrew path configuration, and universal variables
+- [x] `gh/` - GitHub CLI configuration with HTTPS git protocol preference and command aliases
+- [x] `git/` - XDG-compliant global gitignore for machine-specific files
+- [x] `vscode/` - Shared keybindings for Claude Code integration across VSCode family editors
 
 ## Search Tags
 

@@ -24,7 +24,7 @@ California vehicle and administrative documentation from 2009-2012. This folder 
 
 ## Subdirectories
 
-- [x] `DMV/` - Department of Motor Vehicles records including a scanned learner's permit (instruction permit class C, issued 01-15-09, expires 01-15-10, permit #D7927570 for Scott Edward Morrison at Elmwood Beach address) (complete)
+- [x] `DMV/` - Department of Motor Vehicles records including a scanned learner's permit (instruction permit class C, issued 01-15-09, expires 01-15-10, permit #D7927570 for Scott Edward Morrison at Elmwood Beach address)
 
 ## Search Tags
 

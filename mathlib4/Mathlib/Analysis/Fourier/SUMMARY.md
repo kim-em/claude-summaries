@@ -31,7 +31,7 @@ The `Fourier/` directory contains a comprehensive formalization of Fourier analy
 
 ## Subdirectories
 
-- [x] `FiniteAbelian/` - Fourier theory on finite abelian groups: orthogonality of characters, linear independence, Pontryagin duality, and character bases for function spaces (complete)
+- [x] `FiniteAbelian/` - Fourier theory on finite abelian groups: orthogonality of characters, linear independence, Pontryagin duality, and character bases for function spaces
 
 ## Search Tags
 

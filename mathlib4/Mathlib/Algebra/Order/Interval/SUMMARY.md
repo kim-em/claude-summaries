@@ -23,8 +23,8 @@ The `Interval/` directory provides a comprehensive framework for interval arithm
 
 ## Subdirectories
 
-- [x] `Finset/` - Translation of finset intervals under addition and successor-predecessor relations in locally finite orders (complete)
-- [x] `Set/` - Group/monoid operations on set intervals, bijective translations, unit interval [0,1] algebraic instances, and successor-predecessor equivalences (complete)
+- [x] `Finset/` - Translation of finset intervals under addition and successor-predecessor relations in locally finite orders
+- [x] `Set/` - Group/monoid operations on set intervals, bijective translations, unit interval [0,1] algebraic instances, and successor-predecessor equivalences
 
 ## Search Tags
 

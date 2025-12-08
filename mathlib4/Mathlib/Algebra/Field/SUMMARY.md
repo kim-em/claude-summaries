@@ -36,8 +36,8 @@ The `Field/` directory represents the pinnacle of the mathlib4 algebraic hierarc
 
 ## Subdirectories
 
-- [x] `Action/` - Conjugation action theory for division rings with DistribMulAction instances making conjugation compatible with additive and multiplicative structures (complete)
-- [x] `Subfield/` - Bundled subfield type for division rings, implementing sub-division rings (skew fields) as subrings closed under inverses, with complete lattice structure, closure operations, map/comap along ring homomorphisms, and Galois insertion properties (complete)
+- [x] `Action/` - Conjugation action theory for division rings with DistribMulAction instances making conjugation compatible with additive and multiplicative structures
+- [x] `Subfield/` - Bundled subfield type for division rings, implementing sub-division rings (skew fields) as subrings closed under inverses, with complete lattice structure, closure operations, map/comap along ring homomorphisms, and Galois insertion properties
 
 ## Search Tags
 

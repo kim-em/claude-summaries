@@ -39,7 +39,7 @@ The `Adjunction/` directory contains the comprehensive formalization of adjoint 
 
 ## Subdirectories
 
-- [x] `Lifting/` - Adjoint triangle theorem and adjoint lifting theorem for constructing left adjoints from monadic functors and commutative squares (complete)
+- [x] `Lifting/` - Adjoint triangle theorem and adjoint lifting theorem for constructing left adjoints from monadic functors and commutative squares
 
 ## Search Tags
 

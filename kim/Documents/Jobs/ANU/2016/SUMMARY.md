@@ -23,17 +23,17 @@ Fifth year of ANU faculty employment (2016) documenting promotion to Associate P
 
 ## Subdirectories
 
-- [~] `Analysis3/` - MATH3325 Analysis 3 Semester 2 teaching materials (preliminary)
-- [ ] `ASC/` - Australian Summer Course materials on Knot Theory co-taught with Zsuzsanna Dancso (pending)
-- [ ] `CategoryTheory/` - Special topics course on Category Theory Semester 1 materials (pending)
-- [ ] `IT-committee/` - IT committee work including website proposal (pending)
-- [ ] `Lecturer, Senior Lecturer or Associate Professor in Mathematical Science (Female Only)/` - Faculty position selection committee for female-only continuing position (pending)
-- [ ] `MATH1014/` - First-year calculus course Semester 2 teaching materials co-taught with Griffith Ware (pending)
-- [ ] `PDR/` - Performance Development Review documents (pending)
-- [ ] `RepresentationTheory/` - Special topics course on Representation Theory Semester 1 materials (pending)
-- [ ] `continuing-positions/` - Faculty continuing position selection committee work for multiple candidates (pending)
-- [ ] `honours/` - Honours student supervision records including Benjamin Thompson, Tejas Iyer, Florrie Verity, Victor Wang (pending)
-- [ ] `postdoc/` - Postdoctoral hiring committee work including applications and selection (pending)
+- [~] `Analysis3/` - MATH3325 Analysis 3 Semester 2 teaching materials
+- [ ] `ASC/` - Australian Summer Course materials on Knot Theory co-taught with Zsuzsanna Dancso
+- [ ] `CategoryTheory/` - Special topics course on Category Theory Semester 1 materials
+- [ ] `IT-committee/` - IT committee work including website proposal
+- [ ] `Lecturer, Senior Lecturer or Associate Professor in Mathematical Science (Female Only)/` - Faculty position selection committee for female-only continuing position
+- [ ] `MATH1014/` - First-year calculus course Semester 2 teaching materials co-taught with Griffith Ware
+- [ ] `PDR/` - Performance Development Review documents
+- [ ] `RepresentationTheory/` - Special topics course on Representation Theory Semester 1 materials
+- [ ] `continuing-positions/` - Faculty continuing position selection committee work for multiple candidates
+- [ ] `honours/` - Honours student supervision records including Benjamin Thompson, Tejas Iyer, Florrie Verity, Victor Wang
+- [ ] `postdoc/` - Postdoctoral hiring committee work including applications and selection
 
 ## Search Tags
 

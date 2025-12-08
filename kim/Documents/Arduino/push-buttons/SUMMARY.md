@@ -20,7 +20,7 @@ No files directly in this directory - all content in sketch subdirectory.
 
 ## Subdirectories
 
-- [x] `sketch_feb11a/` - Arduino sketch with dual-button LED toggle logic using edge detection (complete)
+- [x] `sketch_feb11a/` - Arduino sketch with dual-button LED toggle logic using edge detection
 
 ## Search Tags
 

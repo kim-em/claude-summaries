@@ -31,15 +31,15 @@ MATH3325 Analysis 3 course taught in Semester 2, 2016, with 23 enrolled students
 
 ## Subdirectories
 
-- [ ] `LectureNotes/` - 14 lecture note PDFs and LaTeX sources covering functional calculus, Hilbert spaces, compact operators, calculus, Fourier transform, fundamental solutions, Dirichlet problem, measure theory, integration theory, function spaces, Radon-Nikodym derivatives, Stone-Weierstrass, spectral theory, and Banach spaces (pending)
-- [ ] `ProblemSets/` - 4 problem sets with hints and past problem sets archive (preliminary)
-- [x] `Assignments/` - 4 assignments with LaTeX sources, sample solutions PDFs, submission folders, and unreleased solutions (complete)
-- [~] `Essays/` - Essay topics, draft submissions, examples, final essays, and plagiarism case documentation (preliminary)
-- [ ] `Exams/` - Final exam with LaTeX source, solutions PDF, rejects/unused problems, graded exam scans, past exams archive, and MSI exam class file (pending)
-- [ ] `grades/` - Grade certification PDFs for MATH3325 and MATH6214 (both signed and unsigned versions), CSV grades, and Mathematica notebook (pending)
-- [ ] `books/` - Course textbooks and references including Stein & Shakarchi volumes 1-4, Bressan, Conway, Halmos, Helmberg, and Pedersen, plus solutions manual (pending)
-- [ ] `SELT/` - Student Evaluation of Learning and Teaching (SELT) request form (pending)
-- [ ] `summer/` - 7 PDF submissions from Kyle Broder completing coursework in summer session (4 assignments, final essay, final exam, dated Nov 2016 - Feb 2017) (pending)
+- [ ] `LectureNotes/` - 14 lecture note PDFs and LaTeX sources covering functional calculus, Hilbert spaces, compact operators, calculus, Fourier transform, fundamental solutions, Dirichlet problem, measure theory, integration theory, function spaces, Radon-Nikodym derivatives, Stone-Weierstrass, spectral theory, and Banach spaces
+- [ ] `ProblemSets/` - 4 problem sets with hints and past problem sets archive
+- [x] `Assignments/` - 4 assignments with LaTeX sources, sample solutions PDFs, submission folders, and unreleased solutions
+- [~] `Essays/` - Essay topics, draft submissions, examples, final essays, and plagiarism case documentation
+- [ ] `Exams/` - Final exam with LaTeX source, solutions PDF, rejects/unused problems, graded exam scans, past exams archive, and MSI exam class file
+- [ ] `grades/` - Grade certification PDFs for MATH3325 and MATH6214 (both signed and unsigned versions), CSV grades, and Mathematica notebook
+- [ ] `books/` - Course textbooks and references including Stein & Shakarchi volumes 1-4, Bressan, Conway, Halmos, Helmberg, and Pedersen, plus solutions manual
+- [ ] `SELT/` - Student Evaluation of Learning and Teaching (SELT) request form
+- [ ] `summer/` - 7 PDF submissions from Kyle Broder completing coursework in summer session (4 assignments, final essay, final exam, dated Nov 2016 - Feb 2017)
 
 ## Search Tags
 

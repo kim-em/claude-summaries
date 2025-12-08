@@ -53,13 +53,13 @@ Together, these components provide the complete foundation for modern algebraic 
 
 ## Subdirectories
 
-- [x] `Morphisms/` - Comprehensive theory of morphism properties (30 files including affine, closed immersions, étale, finite, flat, integral, proper, quasi-compact, separated, smooth, and universal properties) (complete)
-- [x] `EllipticCurve/` - Elliptic curves over fields and rings, including Weierstrass forms, group structure, Jacobian coordinates, normal forms, projective and affine models, division polynomials, and reduction theory (complete)
-- [x] `ProjectiveSpectrum/` - Projective spectrum Proj of graded rings, the projective analogue of Spec for graded commutative algebras (complete)
-- [x] `Cover/` - Theory of covers of schemes with respect to morphism properties, open covers, locally directed covers with transition maps, covers over a base, and functorial operations (complete)
-- [x] `Sites/` - Grothendieck sites and topologies on schemes (Zariski, étale, etc.) for sheaf theory and descent (complete)
-- [x] `IdealSheaf/` - Theory of ideal sheaves on schemes, including the IdealSheafData structure, closed subscheme construction via gluing, functorial operations (pullback/pushforward), and scheme-theoretic images (complete)
-- [x] `Modules/` - Theory of sheaves of modules over schemes, abelian category X.Modules, and the tilde construction M^~ from R-modules to sheaves with stalk isomorphisms (complete)
+- [x] `Morphisms/` - Comprehensive theory of morphism properties (30 files including affine, closed immersions, étale, finite, flat, integral, proper, quasi-compact, separated, smooth, and universal properties)
+- [x] `EllipticCurve/` - Elliptic curves over fields and rings, including Weierstrass forms, group structure, Jacobian coordinates, normal forms, projective and affine models, division polynomials, and reduction theory
+- [x] `ProjectiveSpectrum/` - Projective spectrum Proj of graded rings, the projective analogue of Spec for graded commutative algebras
+- [x] `Cover/` - Theory of covers of schemes with respect to morphism properties, open covers, locally directed covers with transition maps, covers over a base, and functorial operations
+- [x] `Sites/` - Grothendieck sites and topologies on schemes (Zariski, étale, etc.) for sheaf theory and descent
+- [x] `IdealSheaf/` - Theory of ideal sheaves on schemes, including the IdealSheafData structure, closed subscheme construction via gluing, functorial operations (pullback/pushforward), and scheme-theoretic images
+- [x] `Modules/` - Theory of sheaves of modules over schemes, abelian category X.Modules, and the tilde construction M^~ from R-modules to sheaves with stalk isomorphisms
 
 ## Search Tags
 

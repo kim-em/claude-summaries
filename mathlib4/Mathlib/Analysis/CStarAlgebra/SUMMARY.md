@@ -42,10 +42,10 @@ The theory covers both commutative and noncommutative C⋆-algebras, with partic
 
 ## Subdirectories
 
-- [x] `ContinuousFunctionalCalculus/` - Continuous functional calculus for C⋆-algebras (applying continuous functions to operators); includes basic theory, instances, integral formulation, isometric properties, order properties, restrictions, uniqueness, and separate unital/non-unital treatments (complete)
-- [x] `Module/` - Hilbert C⋆-modules with A-valued inner products; main class definition, Cauchy-Schwarz inequality, constructions (products, pi-types, C⋆-algebras as self-modules, inner product spaces), and WithCStarModule type synonym for norm management (complete)
-- [x] `SpecialFunctions/` - C⋆-algebraic facts about positive and negative parts of elements; spanning by nonnegative contractions and decomposition results (complete)
-- [x] `Unitary/` - Theory of unitary elements in C⋆-algebras; connectedness properties of unitary group and span of unitaries (complete)
+- [x] `ContinuousFunctionalCalculus/` - Continuous functional calculus for C⋆-algebras (applying continuous functions to operators); includes basic theory, instances, integral formulation, isometric properties, order properties, restrictions, uniqueness, and separate unital/non-unital treatments
+- [x] `Module/` - Hilbert C⋆-modules with A-valued inner products; main class definition, Cauchy-Schwarz inequality, constructions (products, pi-types, C⋆-algebras as self-modules, inner product spaces), and WithCStarModule type synonym for norm management
+- [x] `SpecialFunctions/` - C⋆-algebraic facts about positive and negative parts of elements; spanning by nonnegative contractions and decomposition results
+- [x] `Unitary/` - Theory of unitary elements in C⋆-algebras; connectedness properties of unitary group and span of unitaries
 
 ## Search Tags
 

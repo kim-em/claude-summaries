@@ -31,7 +31,7 @@ The `Constructions/` directory provides foundational results on constructing lim
 
 ## Subdirectories
 
-- [x] `Over/` - Limit constructions in over categories (slice categories) (complete)
+- [x] `Over/` - Limit constructions in over categories (slice categories)
 
 ## Search Tags
 

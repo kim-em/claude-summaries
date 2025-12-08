@@ -30,7 +30,7 @@ Comprehensive supporting documentation for 2015 Level D promotion application, d
 
 ## Subdirectories
 
-- [x] `course-evaluations/` - Detailed EvaSys evaluation reports for MATH3325 Analysis 3 Honours 2013-2014 with separate course and instructor assessments showing consistent strong performance (4.0-4.4/5 teaching quality) and year-over-year improvement (complete)
+- [x] `course-evaluations/` - Detailed EvaSys evaluation reports for MATH3325 Analysis 3 Honours 2013-2014 with separate course and instructor assessments showing consistent strong performance (4.0-4.4/5 teaching quality) and year-over-year improvement
 
 ## Search Tags
 

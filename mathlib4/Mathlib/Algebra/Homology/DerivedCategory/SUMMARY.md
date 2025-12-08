@@ -30,7 +30,7 @@ The `DerivedCategory/` directory implements the derived category of an abelian c
 
 ## Subdirectories
 
-- [x] `Ext/` - Ext groups in abelian categories: `Ext.{w} X Y n` as small shifted hom-types in derived category, composition of extensions, long exact sequences, computations via projective/injective resolutions (complete)
+- [x] `Ext/` - Ext groups in abelian categories: `Ext.{w} X Y n` as small shifted hom-types in derived category, composition of extensions, long exact sequences, computations via projective/injective resolutions
 
 ## Search Tags
 

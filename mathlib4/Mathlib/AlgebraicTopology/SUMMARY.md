@@ -28,16 +28,16 @@ The `AlgebraicTopology/` directory provides a comprehensive formalization of alg
 
 ## Subdirectories
 
-- [x] `DoldKan/` - The Dold-Kan correspondence between simplicial objects in abelian categories and chain complexes (complete)
-- [x] `FundamentalGroupoid/` - Fundamental groupoid construction and fundamental group theory (complete)
-- [x] `ModelCategory/` - Model category structures on simplicial sets and related categories (complete)
-- [x] `Quasicategory/` - Quasicategory (∞-category) theory via simplicial sets (complete)
-- [x] `RelativeCellComplex/` - Relative cell complexes and CW-complex theory (complete)
-- [x] `SimplexCategory/` - The simplex category Δ (finite non-empty linear orders and order-preserving maps) (complete)
-- [x] `SimplicialCategory/` - Simplicial categories (categories enriched over simplicial sets) (complete)
-- [x] `SimplicialObject/` - General theory of simplicial objects in arbitrary categories (complete)
-- [x] `SimplicialSet/` - Simplicial sets as presheaves on the simplex category (complete)
-- [x] `SingularHomology/` - Singular homology theory for topological spaces (complete)
+- [x] `DoldKan/` - The Dold-Kan correspondence between simplicial objects in abelian categories and chain complexes
+- [x] `FundamentalGroupoid/` - Fundamental groupoid construction and fundamental group theory
+- [x] `ModelCategory/` - Model category structures on simplicial sets and related categories
+- [x] `Quasicategory/` - Quasicategory (∞-category) theory via simplicial sets
+- [x] `RelativeCellComplex/` - Relative cell complexes and CW-complex theory
+- [x] `SimplexCategory/` - The simplex category Δ (finite non-empty linear orders and order-preserving maps)
+- [x] `SimplicialCategory/` - Simplicial categories (categories enriched over simplicial sets)
+- [x] `SimplicialObject/` - General theory of simplicial objects in arbitrary categories
+- [x] `SimplicialSet/` - Simplicial sets as presheaves on the simplex category
+- [x] `SingularHomology/` - Singular homology theory for topological spaces
 
 ## Search Tags
 

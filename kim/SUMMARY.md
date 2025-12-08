@@ -43,15 +43,15 @@ This is Kim Morrison's home directory, configured as a git repository to track d
 
 ## Subdirectories
 
-- [x] `.aws/` - AWS CLI configuration and credentials (complete)
-- [x] `.config/` - XDG configuration directory for various applications (complete)
-- [x] `.ec2/` - AWS EC2 credentials and SSL certificates (complete)
-- [x] `.gnupg/` - GnuPG configuration and keyrings (complete)
-- [x] `.ssh/` - SSH configuration, keys, and known_hosts (complete)
-- [~] `Documents/` - Personal documents including Lean TODOs, mathematical research notes, caving guides, and subdirectories for Arduino, CV, Housing, Jobs, Medical, Money, and Travel (preliminary)
-- [ ] `Sites/` - Web-related projects or sites (pending)
-- [ ] `bin/` - Custom scripts and executables (pending)
-- [ ] `projects/` - Software development projects (pending)
+- [x] `.aws/` - AWS CLI configuration and credentials
+- [x] `.config/` - XDG configuration directory for various applications
+- [x] `.ec2/` - AWS EC2 credentials and SSL certificates
+- [x] `.gnupg/` - GnuPG configuration and keyrings
+- [x] `.ssh/` - SSH configuration, keys, and known_hosts
+- [~] `Documents/` - Personal documents including Lean TODOs, mathematical research notes, caving guides, and subdirectories for Arduino, CV, Housing, Jobs, Medical, Money, and Travel
+- [ ] `Sites/` - Web-related projects or sites
+- [ ] `bin/` - Custom scripts and executables
+- [ ] `projects/` - Software development projects
 
 ## Submodules
 

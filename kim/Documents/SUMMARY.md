@@ -39,25 +39,25 @@ This is Kim Morrison's personal Documents folder containing a diverse mix of per
 
 ## Subdirectories
 
-- [ ] `Arduino/` - Arduino projects and sketches including push-button games, LED patterns, and robot car code (pending)
-- [ ] `CV/` - Curriculum vitae materials, academic certificates, business cards, and diagram assets (pending)
-- [ ] `Car/` - Vehicle-related documents including CA DMV paperwork, Subaru Outback records, insurance, and trailer information (pending)
-- [ ] `Housing/` - Housing documents spanning multiple addresses in Australia and US, including mortgages, rates, utilities, and rental applications (pending)
-- [ ] `Jobs/` - Job-related files including ANU teaching materials from 2012-2013 (Analysis 3 course with assignments, lecture notes, problem sets) (pending)
-- [ ] `Letters/` - Personal and professional correspondence (pending)
-- [ ] `Medical/` - Medical records and health-related documents (pending)
-- [ ] `Money/` - Financial documents and records (pending)
-- [ ] `OfficialDocuments/` - Official paperwork and documents (pending)
-- [ ] `Old/` - Archived or historical files (pending)
-- [ ] `Travel/` - Travel-related documents and planning materials (pending)
-- [ ] `bad_audio.cmproj/` - CapCut project directory for audio editing (pending)
-- [ ] `bibliography/` - Bibliography and reference materials (pending)
-- [ ] `exceptions/` - Large directory with 179 entries (purpose unclear from name alone) (pending)
-- [ ] `genealogy/` - Genealogical research and family history (pending)
-- [ ] `katlas-build/` - Build files or outputs related to Katlas project (pending)
-- [ ] `school/` - School-related materials (pending)
-- [ ] `to_file/` - Files to be filed or organized (pending)
-- [ ] `todolists/` - Collection of TODO lists (pending)
+- [ ] `Arduino/` - Arduino projects and sketches including push-button games, LED patterns, and robot car code
+- [ ] `CV/` - Curriculum vitae materials, academic certificates, business cards, and diagram assets
+- [ ] `Car/` - Vehicle-related documents including CA DMV paperwork, Subaru Outback records, insurance, and trailer information
+- [ ] `Housing/` - Housing documents spanning multiple addresses in Australia and US, including mortgages, rates, utilities, and rental applications
+- [ ] `Jobs/` - Job-related files including ANU teaching materials from 2012-2013 (Analysis 3 course with assignments, lecture notes, problem sets)
+- [ ] `Letters/` - Personal and professional correspondence
+- [ ] `Medical/` - Medical records and health-related documents
+- [ ] `Money/` - Financial documents and records
+- [ ] `OfficialDocuments/` - Official paperwork and documents
+- [ ] `Old/` - Archived or historical files
+- [ ] `Travel/` - Travel-related documents and planning materials
+- [ ] `bad_audio.cmproj/` - CapCut project directory for audio editing
+- [ ] `bibliography/` - Bibliography and reference materials
+- [ ] `exceptions/` - Large directory with 179 entries (purpose unclear from name alone)
+- [ ] `genealogy/` - Genealogical research and family history
+- [ ] `katlas-build/` - Build files or outputs related to Katlas project
+- [ ] `school/` - School-related materials
+- [ ] `to_file/` - Files to be filed or organized
+- [ ] `todolists/` - Collection of TODO lists
 
 ## Search Tags
 

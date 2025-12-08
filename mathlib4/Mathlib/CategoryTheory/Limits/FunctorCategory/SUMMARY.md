@@ -25,7 +25,7 @@ The `FunctorCategory/` directory establishes the fundamental theory that limits 
 
 ## Subdirectories
 
-- [x] `Shapes/` - Specific limit shapes in functor categories (complete)
+- [x] `Shapes/` - Specific limit shapes in functor categories
 
 ## Search Tags
 

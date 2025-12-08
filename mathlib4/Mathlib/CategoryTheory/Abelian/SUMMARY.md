@@ -40,12 +40,12 @@ The `Abelian/` directory provides a comprehensive formalization of abelian categ
 
 ## Subdirectories
 
-- [x] `DiagramLemmas/` - Classic diagram lemmas (four lemma, five lemma, snake lemma, etc.) (complete)
-- [x] `GrothendieckAxioms/` - AB3, AB4, AB5 axioms for Grothendieck abelian categories (complete)
-- [x] `GrothendieckCategory/` - Grothendieck abelian categories with colimits, generators, and enough injectives (complete)
-- [x] `Injective/` - Injective objects, injective resolutions, and enough injectives (complete)
-- [x] `Projective/` - Projective objects, projective resolutions, and enough projectives (complete)
-- [x] `SerreClass/` - Serre subcategories and quotient categories (complete)
+- [x] `DiagramLemmas/` - Classic diagram lemmas (four lemma, five lemma, snake lemma, etc.)
+- [x] `GrothendieckAxioms/` - AB3, AB4, AB5 axioms for Grothendieck abelian categories
+- [x] `GrothendieckCategory/` - Grothendieck abelian categories with colimits, generators, and enough injectives
+- [x] `Injective/` - Injective objects, injective resolutions, and enough injectives
+- [x] `Projective/` - Projective objects, projective resolutions, and enough projectives
+- [x] `SerreClass/` - Serre subcategories and quotient categories
 
 ## Search Tags
 

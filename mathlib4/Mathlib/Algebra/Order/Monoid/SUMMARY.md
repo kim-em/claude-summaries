@@ -35,8 +35,8 @@ The `Monoid/` directory provides comprehensive ordered monoid theory through bot
 
 ## Subdirectories
 
-- [x] `Canonical/` - Canonically ordered monoids where `a ≤ b ↔ ∃c, b = a * c` exactly, with unique units theorem and `Finset.sup` properties (complete)
-- [x] `Unbundled/` - Fine-grained monotonicity framework using `CovariantClass`/`ContravariantClass`, with power/min/max lemmas, `ExistsMulOfLE` weaker divisibility, and cancellation predicates (complete)
+- [x] `Canonical/` - Canonically ordered monoids where `a ≤ b ↔ ∃c, b = a * c` exactly, with unique units theorem and `Finset.sup` properties
+- [x] `Unbundled/` - Fine-grained monotonicity framework using `CovariantClass`/`ContravariantClass`, with power/min/max lemmas, `ExistsMulOfLE` weaker divisibility, and cancellation predicates
 
 ## Search Tags
 

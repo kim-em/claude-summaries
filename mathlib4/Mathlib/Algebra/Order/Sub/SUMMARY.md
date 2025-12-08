@@ -25,7 +25,7 @@ The `Sub/` directory provides a comprehensive theory of ordered subtraction, int
 
 ## Subdirectories
 
-- [x] `Unbundled/` - Extended theory for unbundled canonically ordered monoids and homomorphism preservation (complete)
+- [x] `Unbundled/` - Extended theory for unbundled canonically ordered monoids and homomorphism preservation
 
 ## Search Tags
 

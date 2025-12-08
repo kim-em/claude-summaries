@@ -24,7 +24,7 @@ Tenth lecture on applications of linear algebra to Markov chains (Lay §4.9), co
 
 ## Subdirectories
 
-- [x] `diagrams/` - Supporting diagrams: rat cage compartment diagram (la1303.pdf) showing three connected spaces with doors, and vases diagram (vases.png) showing side/top views of rectangular containers (complete)
+- [x] `diagrams/` - Supporting diagrams: rat cage compartment diagram (la1303.pdf) showing three connected spaces with doors, and vases diagram (vases.png) showing side/top views of rectangular containers
 
 ## Search Tags
 

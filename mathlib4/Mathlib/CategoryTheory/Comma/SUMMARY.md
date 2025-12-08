@@ -28,9 +28,9 @@ Three specialized subdirectories develop key instances: `StructuredArrow/` provi
 
 ## Subdirectories
 
-- [x] `StructuredArrow/` - Structured and costructured arrow categories with Grothendieck construction equivalences, finality results, and smallness instances (complete)
-- [x] `Over/` - Over and under categories with typeclass interfaces, pullback/pushout adjunctions, and star/costar functors connecting to binary products/coproducts (complete)
-- [x] `Presheaf/` - Equivalence `Over A ≌ (CostructuredArrow yoneda A)ᵒᵖ ⥤ Type v` relating over categories to presheaves, with relative Yoneda colimit preservation (complete)
+- [x] `StructuredArrow/` - Structured and costructured arrow categories with Grothendieck construction equivalences, finality results, and smallness instances
+- [x] `Over/` - Over and under categories with typeclass interfaces, pullback/pushout adjunctions, and star/costar functors connecting to binary products/coproducts
+- [x] `Presheaf/` - Equivalence `Over A ≌ (CostructuredArrow yoneda A)ᵒᵖ ⥤ Type v` relating over categories to presheaves, with relative Yoneda colimit preservation
 
 ## Search Tags
 

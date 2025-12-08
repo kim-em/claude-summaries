@@ -23,7 +23,7 @@ The `Alternating/` directory is a deprecated import layer providing backward com
 
 ## Subdirectories
 
-- [x] `Uncurry/` - Uncurry operations for alternating maps (complete)
+- [x] `Uncurry/` - Uncurry operations for alternating maps
 
 ## Search Tags
 

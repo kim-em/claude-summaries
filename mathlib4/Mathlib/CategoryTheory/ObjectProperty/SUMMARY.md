@@ -44,7 +44,7 @@ The `ObjectProperty/` directory provides a comprehensive framework for working w
 
 ## Subdirectories
 
-- [x] `FunctorCategory/` - Limit-preservation properties as object properties in functor categories with closure under colimits when exactness conditions hold (complete)
+- [x] `FunctorCategory/` - Limit-preservation properties as object properties in functor categories with closure under colimits when exactness conditions hold
 
 ## Search Tags
 

@@ -32,7 +32,7 @@ Core concepts include shadows (∂𝒜: sets with one element removed) and their
 
 ## Subdirectories
 
-- [x] `Compression/` - Compression operations on set families (complete)
+- [x] `Compression/` - Compression operations on set families
 
 ## Search Tags
 

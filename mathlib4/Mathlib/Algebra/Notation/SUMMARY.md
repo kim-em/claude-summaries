@@ -28,7 +28,7 @@ The `Notation/` directory contains definitions and minimal theory for basic alge
 
 ## Subdirectories
 
-- [x] `Pi/` - Pointwise algebraic notation and operations for dependent function types; defines `mulSingle`/`single` for single-index-supported functions (complete)
+- [x] `Pi/` - Pointwise algebraic notation and operations for dependent function types; defines `mulSingle`/`single` for single-index-supported functions
 
 ## Search Tags
 

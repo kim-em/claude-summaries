@@ -23,7 +23,7 @@ Complete documentation of the detailed instructions and supporting materials tha
 
 ## Subdirectories
 
-- [ ] `Dropbox attachments/` - Complete set of materials that were attached to the Freelancer.com job posting and shared via Dropbox with potential bidders (pending)
+- [ ] `Dropbox attachments/` - Complete set of materials that were attached to the Freelancer.com job posting and shared via Dropbox with potential bidders
 
 ## Search Tags
 

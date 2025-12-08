@@ -30,7 +30,7 @@ The `Action/` directory defines the theory of multiplicative actions by monoids 
 
 ## Subdirectories
 
-- [x] `Pointwise/` - Pointwise scalar actions on sets and finite sets: negation compatibility with scalar multiplication in ring modules (complete)
+- [x] `Pointwise/` - Pointwise scalar actions on sets and finite sets: negation compatibility with scalar multiplication in ring modules
 
 ## Search Tags
 

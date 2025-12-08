@@ -22,7 +22,7 @@ Complete hiring materials for postdoctoral research fellow position #492617 in A
 
 ## Subdirectories
 
-- [x] `Referee Reports/` - Referee report PDFs for approximately 10 postdoctoral candidates with multiple references each from leading mathematicians (complete)
+- [x] `Referee Reports/` - Referee report PDFs for approximately 10 postdoctoral candidates with multiple references each from leading mathematicians
 
 ## Search Tags
 

@@ -40,11 +40,11 @@ The `Module/` directory provides comprehensive theory of normed vector spaces ov
 
 ## Subdirectories
 
-- [x] `Alternating/` - Alternating multilinear maps (alternating tensor algebra, antisymmetric operations) (complete)
-- [x] `Ball/` - Balls in normed spaces (pointwise operations, convexity properties, ball-specific results) (complete)
-- [x] `Multilinear/` - Continuous multilinear maps with operator norm theory; currying/uncurrying operations and linear isometric equivalences (complete)
-- [x] `PiTensorProduct/` - Pi-type tensor products with projective and injective seminorms; universal property as isometric linear equivalence (complete)
-- [x] `RCLike/` - Real-closed-like fields (ℝ and ℂ); unified treatment of normed spaces over these fields (complete)
+- [x] `Alternating/` - Alternating multilinear maps (alternating tensor algebra, antisymmetric operations)
+- [x] `Ball/` - Balls in normed spaces (pointwise operations, convexity properties, ball-specific results)
+- [x] `Multilinear/` - Continuous multilinear maps with operator norm theory; currying/uncurrying operations and linear isometric equivalences
+- [x] `PiTensorProduct/` - Pi-type tensor products with projective and injective seminorms; universal property as isometric linear equivalence
+- [x] `RCLike/` - Real-closed-like fields (ℝ and ℂ); unified treatment of normed spaces over these fields
 
 ## Search Tags
 

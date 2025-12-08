@@ -46,16 +46,16 @@ Root-level files complement these subdirectories with fundamental functions and 
 
 ## Subdirectories
 
-- [x] `Complex/` - Complex-valued special functions (complete)
-- [x] `ContinuousFunctionalCalculus/` - Continuous functional calculus for special functions (complete)
-- [x] `Elliptic/` - Elliptic functions and elliptic integrals (complete)
-- [x] `Gamma/` - Gamma function, beta function, and related special functions (complete)
-- [x] `Gaussian/` - Gaussian integrals and Gaussian functions (complete)
-- [x] `Integrability/` - Integrability results for special functions (complete)
-- [x] `Integrals/` - Evaluations of integrals involving special functions (complete)
-- [x] `Log/` - Logarithm function and its properties (complete)
-- [x] `Pow/` - Power functions (x^y for real/complex x,y) and their properties (complete)
-- [x] `Trigonometric/` - Trigonometric and hyperbolic functions (sin, cos, tan, sinh, cosh, tanh, etc.) (complete)
+- [x] `Complex/` - Complex-valued special functions
+- [x] `ContinuousFunctionalCalculus/` - Continuous functional calculus for special functions
+- [x] `Elliptic/` - Elliptic functions and elliptic integrals
+- [x] `Gamma/` - Gamma function, beta function, and related special functions
+- [x] `Gaussian/` - Gaussian integrals and Gaussian functions
+- [x] `Integrability/` - Integrability results for special functions
+- [x] `Integrals/` - Evaluations of integrals involving special functions
+- [x] `Log/` - Logarithm function and its properties
+- [x] `Pow/` - Power functions (x^y for real/complex x,y) and their properties
+- [x] `Trigonometric/` - Trigonometric and hyperbolic functions (sin, cos, tan, sinh, cosh, tanh, etc.)
 
 ## Search Tags
 

@@ -22,7 +22,7 @@ The `Pointwise/` directory provides the complete theory of pointwise operations 
 
 ## Subdirectories
 
-- [x] `Set/` - Pointwise operations on infinite sets: zero multiplication/division collapsing behavior, cardinality preservation for nonzero scalar multiplication via Cardinal.mk_smul_set₀ and natCard_smul_set₀ (complete)
+- [x] `Set/` - Pointwise operations on infinite sets: zero multiplication/division collapsing behavior, cardinality preservation for nonzero scalar multiplication via Cardinal.mk_smul_set₀ and natCard_smul_set₀
 
 ## Search Tags
 

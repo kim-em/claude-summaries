@@ -32,7 +32,7 @@ The `Ring/` directory contains the categorical formulation of ring theory in Mat
 
 ## Subdirectories
 
-- [x] `Under/` - API for the comma category `Under R` (equivalent to category of commutative `R`-algebras) including algebra homomorphisms and categorical constructions (complete)
+- [x] `Under/` - API for the comma category `Under R` (equivalent to category of commutative `R`-algebras) including algebra homomorphisms and categorical constructions
 
 ## Search Tags
 

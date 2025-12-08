@@ -20,7 +20,7 @@ This directory contains no files directly; all materials are organized in the pr
 
 ## Subdirectories
 
-- [x] `LambertSt/` - Purchase documentation for 18 Lambert Street, Lyneham: combined contract of sale and building inspection report (32.3MB PDF, too large for direct reading) documenting their first home purchase (complete)
+- [x] `LambertSt/` - Purchase documentation for 18 Lambert Street, Lyneham: combined contract of sale and building inspection report (32.3MB PDF, too large for direct reading) documenting their first home purchase
 
 ## Search Tags
 

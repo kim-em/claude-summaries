@@ -31,7 +31,7 @@ Complete rental tenancy archive for Unit 22/7 Ijong Street, Braddon ACT 2612 (un
 
 ## Subdirectories
 
-- [x] `ACTAGLEW/` - ActewAGL electricity billing lifecycle for NMI 70011533149 (January 2013-October 2013): account setup confirmation, disconnection/reconnection notices as property changed hands, quarterly tax invoices showing consumption patterns (~14 kWh/day average, significantly below area averages), and post-tenancy billing into 2014 (complete)
+- [x] `ACTAGLEW/` - ActewAGL electricity billing lifecycle for NMI 70011533149 (January 2013-October 2013): account setup confirmation, disconnection/reconnection notices as property changed hands, quarterly tax invoices showing consumption patterns (~14 kWh/day average, significantly below area averages), and post-tenancy billing into 2014
 
 ## Search Tags
 

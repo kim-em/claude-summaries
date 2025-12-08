@@ -33,8 +33,8 @@ The theory extends to two major structural components: the `Rank/` subdirectory 
 
 ## Subdirectories
 
-- [x] `Minor/` - Matroid minors (deletion, contraction, restriction operations) (complete)
-- [x] `Rank/` - Rank functions: `ℕ∞`-valued (`eRank`, `eRk`), finite rank, cardinal-valued variants (complete)
+- [x] `Minor/` - Matroid minors (deletion, contraction, restriction operations)
+- [x] `Rank/` - Rank functions: `ℕ∞`-valued (`eRank`, `eRk`), finite rank, cardinal-valued variants
 
 ## Search Tags
 

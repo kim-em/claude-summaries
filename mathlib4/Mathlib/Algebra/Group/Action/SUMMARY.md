@@ -37,7 +37,7 @@ The `Action/` directory defines the foundational theory of group actions in math
 
 ## Subdirectories
 
-- [x] `Pointwise/` - Pointwise actions on sets and finsets (complete)
+- [x] `Pointwise/` - Pointwise actions on sets and finsets
 
 ## Search Tags
 

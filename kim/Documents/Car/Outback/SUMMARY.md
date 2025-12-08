@@ -42,7 +42,7 @@ Complete ownership documentation for a 2010 Subaru Outback 2.5i Premium AWD (reg
 
 ## Subdirectories
 
-- [x] `insurance/` - Comminsure comprehensive car insurance certificates and policy documentation for two consecutive periods (Dec 2012-Dec 2013 and Dec 2013-Dec 2014) with detailed coverage terms, driver declarations, and premium breakdowns (complete)
+- [x] `insurance/` - Comminsure comprehensive car insurance certificates and policy documentation for two consecutive periods (Dec 2012-Dec 2013 and Dec 2013-Dec 2014) with detailed coverage terms, driver declarations, and premium breakdowns
 
 ## Search Tags
 

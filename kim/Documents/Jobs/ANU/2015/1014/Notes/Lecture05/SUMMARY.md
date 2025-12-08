@@ -23,7 +23,7 @@ Fifth lecture introducing abstract vector spaces and subspaces in MATH1014. The 
 
 ## Subdirectories
 
-- [x] `diagrams/` - Mathematical diagrams and figures including 3D coordinate system illustrations (planes and quadrants), 2D linear transformations, and vector diagrams supporting geometric concepts in the lecture (complete)
+- [x] `diagrams/` - Mathematical diagrams and figures including 3D coordinate system illustrations (planes and quadrants), 2D linear transformations, and vector diagrams supporting geometric concepts in the lecture
 
 ## Search Tags
 

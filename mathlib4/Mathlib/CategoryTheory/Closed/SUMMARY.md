@@ -29,7 +29,7 @@ The `Closed/` directory is a deprecated compatibility layer that redirects to th
 
 ## Subdirectories
 
-- [x] `FunctorCategory/` - Deprecated redirects for closed structure on functor categories, including basic definitions, completeness properties, and groupoid cases (complete)
+- [x] `FunctorCategory/` - Deprecated redirects for closed structure on functor categories, including basic definitions, completeness properties, and groupoid cases
 
 ## Search Tags
 

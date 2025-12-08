@@ -33,8 +33,8 @@ The `Triangulated/` directory contains the formalization of triangulated and pre
 
 ## Subdirectories
 
-- [x] `Opposite/` - Opposite category structures for pretriangulated and triangulated categories with custom shift (shifting by n on Cᵒᵖ equals shifting by -n on C), anti-equivalence between (Triangle C)ᵒᵖ and Triangle Cᵒᵖ, and proof that F is triangulated iff F.op is triangulated (complete)
-- [x] `TStructure/` - t-structures on triangulated categories with truncation functors truncLT n and truncGE n, orthogonality conditions (morphisms X → Y are zero when X ≤ n₀ < n₁ ≤ Y), and distinguished triangles for truncations (complete)
+- [x] `Opposite/` - Opposite category structures for pretriangulated and triangulated categories with custom shift (shifting by n on Cᵒᵖ equals shifting by -n on C), anti-equivalence between (Triangle C)ᵒᵖ and Triangle Cᵒᵖ, and proof that F is triangulated iff F.op is triangulated
+- [x] `TStructure/` - t-structures on triangulated categories with truncation functors truncLT n and truncGE n, orthogonality conditions (morphisms X → Y are zero when X ≤ n₀ < n₁ ≤ Y), and distinguished triangles for truncations
 
 ## Search Tags
 

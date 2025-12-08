@@ -20,7 +20,7 @@ No files directly in this directory.
 
 ## Subdirectories
 
-- [x] `Three/` - Complete theory of 3-term arithmetic progressions: definitions (3AP-free/3GP-free sets, Roth numbers), decidability instances, monotonicity and preservation theorems under Freiman homomorphisms, product constructions, and Behrend's sphere construction proving the lower bound on Roth numbers (complete)
+- [x] `Three/` - Complete theory of 3-term arithmetic progressions: definitions (3AP-free/3GP-free sets, Roth numbers), decidability instances, monotonicity and preservation theorems under Freiman homomorphisms, product constructions, and Behrend's sphere construction proving the lower bound on Roth numbers
 
 ## Search Tags
 

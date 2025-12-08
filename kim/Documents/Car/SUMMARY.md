@@ -20,9 +20,9 @@ No files directly in this folder - all documents are organized into vehicle-spec
 
 ## Subdirectories
 
-- [x] `CA/` - California vehicle and administrative documentation (2009-2012) including 1999 Toyota Corolla repair and insurance denial, DMV learner's permit for Scott Edward Morrison, and FasTrak account closure upon relocation to Minnesota (complete)
-- [x] `Outback/` - 2010 Subaru Outback 2.5i Premium AWD (YHE86K) purchased from Pickles Auctions in 2012 for $24,600.50, with complete ownership documentation from original Telstra Fleet delivery (May 2010, 6,949 km) through final service (March 2019, 175,199 km), including 21 documents covering service records, ACT registration renewals, three speeding tickets, NRMA CTP insurance, airbag recall service, and two years of Comminsure comprehensive insurance policies (complete)
-- [x] `Trailer/` - Resort Goods 7×4 commercial duty single-axle trailer (VIN: 6T9T20R08J06RY003, registration T8031F) purchased from Resort Trailers Queanbeyan in 2018 for $2,680, with purchase invoice showing highside configuration and joint ACT registration with Katie Ruth Liesinger at Lyneham address (complete)
+- [x] `CA/` - California vehicle and administrative documentation (2009-2012) including 1999 Toyota Corolla repair and insurance denial, DMV learner's permit for Scott Edward Morrison, and FasTrak account closure upon relocation to Minnesota
+- [x] `Outback/` - 2010 Subaru Outback 2.5i Premium AWD (YHE86K) purchased from Pickles Auctions in 2012 for $24,600.50, with complete ownership documentation from original Telstra Fleet delivery (May 2010, 6,949 km) through final service (March 2019, 175,199 km), including 21 documents covering service records, ACT registration renewals, three speeding tickets, NRMA CTP insurance, airbag recall service, and two years of Comminsure comprehensive insurance policies
+- [x] `Trailer/` - Resort Goods 7×4 commercial duty single-axle trailer (VIN: 6T9T20R08J06RY003, registration T8031F) purchased from Resort Trailers Queanbeyan in 2018 for $2,680, with purchase invoice showing highside configuration and joint ACT registration with Katie Ruth Liesinger at Lyneham address
 
 ## Search Tags
 

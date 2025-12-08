@@ -24,7 +24,7 @@ Twentieth lecture on orthogonal and orthonormal sets in linear algebra (MATH1014
 
 ## Subdirectories
 
-- [x] `diagrams/` - Supporting geometric illustration for lecture content (complete)
+- [x] `diagrams/` - Supporting geometric illustration for lecture content
 
 ## Search Tags
 

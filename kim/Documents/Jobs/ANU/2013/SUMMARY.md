@@ -28,7 +28,7 @@ Community engagement included organizing a Maths Day competition with 10 challen
 
 ## Subdirectories
 
-- [x] `Analysis3/` - Complete teaching materials for MATH3325 (Analysis 3) course including lecture notes, assignments, problem sets, grade sheets, student evaluations, textbook receipts, references on operators and functional analysis, course website materials (complete)
+- [x] `Analysis3/` - Complete teaching materials for MATH3325 (Analysis 3) course including lecture notes, assignments, problem sets, grade sheets, student evaluations, textbook receipts, references on operators and functional analysis, course website materials
 
 ## Search Tags
 

@@ -29,8 +29,8 @@ The `GroupWithZero/` directory provides the comprehensive theory of ordered grou
 
 ## Subdirectories
 
-- [x] `Action/` - Group action with zero instances transferred to order type synonyms `αᵒᵈ` and `Lex α`, providing infrastructure for actions by and on ordered structures with zero via `SMulWithZero`, `DistribSMul`, `DistribMulAction`, and `MulActionWithZero` (complete)
-- [x] `Unbundled/` - Fine-grained unbundled typeclasses for multiplication monotonicity and covariance in ordered structures with zero: eight core classes (`PosMulMono`, `PosMulStrictMono`, `PosMulReflectLT/LE` and right-multiplication counterparts), order isomorphisms for multiplication by positive elements (`OrderIso.mulLeft₀`, `mulRight₀`), and comprehensive monotonicity lemmas (complete)
+- [x] `Action/` - Group action with zero instances transferred to order type synonyms `αᵒᵈ` and `Lex α`, providing infrastructure for actions by and on ordered structures with zero via `SMulWithZero`, `DistribSMul`, `DistribMulAction`, and `MulActionWithZero`
+- [x] `Unbundled/` - Fine-grained unbundled typeclasses for multiplication monotonicity and covariance in ordered structures with zero: eight core classes (`PosMulMono`, `PosMulStrictMono`, `PosMulReflectLT/LE` and right-multiplication counterparts), order isomorphisms for multiplication by positive elements (`OrderIso.mulLeft₀`, `mulRight₀`), and comprehensive monotonicity lemmas
 
 ## Search Tags
 

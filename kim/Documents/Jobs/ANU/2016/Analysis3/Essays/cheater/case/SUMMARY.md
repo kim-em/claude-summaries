@@ -41,7 +41,7 @@ Formal allegation package documenting academic misconduct charges against studen
 
 ## Subdirectories
 
-- [x] `Complete instructions posted at Freelancer.com/` - Complete set of instructions and materials posted on Freelancer.com job listing (complete)
+- [x] `Complete instructions posted at Freelancer.com/` - Complete set of instructions and materials posted on Freelancer.com job listing
 
 ## Search Tags
 

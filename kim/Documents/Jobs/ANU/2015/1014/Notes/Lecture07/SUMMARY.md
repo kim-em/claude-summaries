@@ -24,7 +24,7 @@ Seventh lecture on linear independence and bases for abstract vector spaces in M
 
 ## Subdirectories
 
-- [x] `diagrams/` - 3D geometric visualization of spanning sets and linear combinations, showing plane spanned by vectors with parallelogram grid pattern in ℝ³ (complete)
+- [x] `diagrams/` - 3D geometric visualization of spanning sets and linear combinations, showing plane spanned by vectors with parallelogram grid pattern in ℝ³
 
 ## Search Tags
 

@@ -27,7 +27,7 @@ The `GrothendieckCategory/` directory provides a complete formalization of Groth
 
 ## Subdirectories
 
-- [x] `ModuleEmbedding/` - Module embedding theorems (Gabriel-Popescu) (complete)
+- [x] `ModuleEmbedding/` - Module embedding theorems (Gabriel-Popescu)
 
 ## Search Tags
 

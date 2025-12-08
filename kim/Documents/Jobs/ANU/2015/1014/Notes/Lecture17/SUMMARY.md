@@ -26,7 +26,7 @@ Lecture 17 materials on complex eigenvalues and eigenvectors for MATH1014 Linear
 
 ## Subdirectories
 
-- [x] `diagrams/` - 8 PDF/PNG diagrams: transformation visualizations (trans2.pdf, action.png), angle illustrations (anglephi.png), trajectories (trajectory.pdf, traj.pdf, powers.pdf), complex number concepts (complex_no.pdf), and optical lens diagram (Lens.pdf) (complete)
+- [x] `diagrams/` - 8 PDF/PNG diagrams: transformation visualizations (trans2.pdf, action.png), angle illustrations (anglephi.png), trajectories (trajectory.pdf, traj.pdf, powers.pdf), complex number concepts (complex_no.pdf), and optical lens diagram (Lens.pdf)
 
 ## Search Tags
 

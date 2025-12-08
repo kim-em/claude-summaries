@@ -33,7 +33,7 @@ Complete submission and grading archive for MATH6212/MATH3325 Analysis 3 Assignm
 
 ## Subdirectories
 
-- [x] `graded/` - Graded student submissions with instructor annotations, feedback, and scores (20 PDFs including submissions by student names and university IDs) (complete)
+- [x] `graded/` - Graded student submissions with instructor annotations, feedback, and scores (20 PDFs including submissions by student names and university IDs)
 
 ## Search Tags
 

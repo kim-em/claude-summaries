@@ -42,7 +42,7 @@ The `Computability/` directory contains the formalization of computability theor
 
 ## Subdirectories
 
-- [x] `AkraBazzi/` - Akra-Bazzi theorem for analyzing divide-and-conquer recurrences: proves `T(n) ∈ Θ(n^p (1 + ∑_{u=0}^{n-1} g(u) / u^{p+1}))` for recurrences `T(n) = ∑ a_i T(r_i(n)) + g(n)` where `r_i(n) ≈ b_i n`; includes theory of polynomially-growing functions and sum transforms (complete)
+- [x] `AkraBazzi/` - Akra-Bazzi theorem for analyzing divide-and-conquer recurrences: proves `T(n) ∈ Θ(n^p (1 + ∑_{u=0}^{n-1} g(u) / u^{p+1}))` for recurrences `T(n) = ∑ a_i T(r_i(n)) + g(n)` where `r_i(n) ≈ b_i n`; includes theory of polynomially-growing functions and sum transforms
 
 ## Search Tags
 
