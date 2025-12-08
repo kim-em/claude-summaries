@@ -81,7 +81,7 @@ The `Sites/` directory provides the comprehensive formalization of Grothendieck 
 - [x] `Hypercover/` - Hypercoverings and higher descent (complete)
 - [x] `NonabelianCohomology/` - Nonabelian cohomology in degree 1 for presheaves of groups (complete)
 - [x] `Point/` - Points of sites (geometric morphisms from sets) (complete)
-- [ ] `SheafCohomology/` - Sheaf cohomology theory (pending)
+- [x] `SheafCohomology/` - Sheaf cohomology theory (complete)
 
 ## Search Tags
 
