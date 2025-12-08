@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/CategoryTheory/Sites
-generated: 2025-12-08T06:35:11Z
+generated: 2025-12-08T15:15:00Z
 git_sha: 8427e48fbc3922ef6f581162121a110b53390490
 git_branch: fix-deprecated-module-linter-public-import
-status: preliminary
+status: complete
 files_count: 54
 subdirs_count: 7
 ---
@@ -12,7 +12,7 @@ subdirs_count: 7
 
 ## Overview
 
-The `Sites/` directory provides the comprehensive formalization of Grothendieck topology and sheaf theory in mathlib4, implementing the categorical framework for gluing local data into global objects. It includes the foundational concepts (sieves, presieves, coverages), Grothendieck topologies and pretopologies, the sheaf condition in multiple equivalent forms (for types and general categories), sheafification as a left exact left adjoint, and various structural properties (cartesian closed sites, monoidal sites, coherent topologies). This machinery is fundamental for algebraic geometry, topos theory, and any area of mathematics requiring descent theory or locality principles.
+The `Sites/` directory provides the comprehensive formalization of Grothendieck topology and sheaf theory in mathlib4, implementing the categorical framework for gluing local data into global objects. It includes the foundational concepts (sieves, presieves, coverages), Grothendieck topologies and pretopologies, the sheaf condition in multiple equivalent forms (for types and general categories), sheafification as a left exact left adjoint, and various structural properties (cartesian closed sites, monoidal sites). The directory establishes the complete infrastructure for working with sites across multiple levels of sophistication: from basic covering families through hypercovers for higher descent, from coherent and regular topologies for concrete categories to general topos-theoretic constructions, from elementary sheaf conditions to dense subsites and comparison lemmas, from basic descent theory for prestacks to full sheaf cohomology. This machinery is fundamental for algebraic geometry, topos theory, stack theory, and any area of mathematics requiring descent theory or locality principles.
 
 ## Key Files
 
@@ -75,13 +75,13 @@ The `Sites/` directory provides the comprehensive formalization of Grothendieck 
 
 ## Subdirectories
 
-- [x] `Coherent/` - Coherent, regular, and extensive Grothendieck topologies with sheaf characterizations (complete)
-- [x] `DenseSubsite/` - Dense subsites and their properties (complete)
-- [x] `Descent/` - Descent theory and effective descent morphisms (complete)
-- [x] `Hypercover/` - Hypercoverings and higher descent (complete)
-- [x] `NonabelianCohomology/` - Nonabelian cohomology in degree 1 for presheaves of groups (complete)
-- [x] `Point/` - Points of sites (geometric morphisms from sets) (complete)
-- [x] `SheafCohomology/` - Sheaf cohomology theory (complete)
+- [x] `Coherent/` - Coherent, regular, and extensive Grothendieck topologies: precoherent/preregular/finitary-extensive classes with covering sieve characterizations, sheaf conditions via equalizer diagrams or finite product preservation, equivalences between sheaf categories under fully faithful functors, locally surjective/bijective properties, and relationships between the three topologies (extensive ⊔ regular generates coherent)
+- [x] `DenseSubsite/` - Dense subsites and comparison lemma: cover-dense locally fully faithful functors induce equivalences of sheaf categories, allowing sheaf theory on large sites to be studied via smaller, denser subsites; includes induced topologies and sheafification compatibility
+- [x] `Descent/` - Descent theory for pseudofunctors: descent data (objects over families with compatibility isomorphisms over pullbacks) and prestack condition (descent of morphisms, requiring presheaves of Hom sets are sheaves); foundational for stack theory
+- [x] `Hypercover/` - Hypercovers and higher descent: 0-hypercovers (covering families with explicit indexing), 1-hypercovers (with pairwise intersection data and multifork sheaf conditions), homotopy equivalences of refinements, sheaf characterizations via hypercover families, and precoverage presentations via hypercover predicates
+- [x] `NonabelianCohomology/` - Nonabelian cohomology in degree 1 for presheaves of groups: 1-cochains, 1-cocycles, cohomology relations, and quotient type H^1; extends beyond abelian Čech cohomology to non-abelian groups in low degrees
+- [x] `Point/` - Points of Grothendieck sites as geometric morphisms from sets: fiber functors with cofiltered categories of elements, exactness properties, preservation of limits/colimits, and inversion of locally bijective morphisms; follows SGA 4 IV 6.3 definition
+- [x] `SheafCohomology/` - Sheaf cohomology via derived functors: cohomology groups H^n as Ext-groups from constant ℤ-sheaf to abelian sheaves, and cohomology presheaves computing local cohomology at each object
 
 ## Search Tags
 
