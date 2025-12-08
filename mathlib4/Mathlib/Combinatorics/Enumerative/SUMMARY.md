@@ -30,7 +30,7 @@ The `Enumerative/` directory contains formalized enumerative combinatorics: the 
 
 ## Subdirectories
 
-- [ ] `Partition/` - Integer partitions (pending)
+- [x] `Partition/` - Integer partitions and generating functions (complete)
 
 ## Search Tags
 
