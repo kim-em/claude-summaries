@@ -79,7 +79,7 @@ The `Sites/` directory provides the comprehensive formalization of Grothendieck 
 - [x] `DenseSubsite/` - Dense subsites and their properties (complete)
 - [x] `Descent/` - Descent theory and effective descent morphisms (complete)
 - [x] `Hypercover/` - Hypercoverings and higher descent (complete)
-- [ ] `NonabelianCohomology/` - Nonabelian cohomology via torsors and gerbes (pending)
+- [x] `NonabelianCohomology/` - Nonabelian cohomology in degree 1 for presheaves of groups (complete)
 - [ ] `Point/` - Points of sites (geometric morphisms from sets) (pending)
 - [ ] `SheafCohomology/` - Sheaf cohomology theory (pending)
 
