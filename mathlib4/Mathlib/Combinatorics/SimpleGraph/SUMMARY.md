@@ -64,7 +64,7 @@ The `SimpleGraph/` directory contains formalization of simple graphs (undirected
 ## Subdirectories
 
 - [x] `Connectivity/` - Connectivity properties: connected components, paths, reachability, walk counting, bridges, cut vertices (complete)
-- [ ] `Ends/` - Graph ends (equivalence classes of infinite rays) and end spaces (pending)
+- [x] `Ends/` - Graph ends (equivalence classes of infinite rays) and end spaces (complete)
 - [ ] `Extremal/` - Extremal graph theory: Turán-type problems, Ramsey theory, forbidden subgraphs (pending)
 - [ ] `Regularity/` - Szemerédi's regularity lemma and applications (pending)
 - [ ] `Triangle/` - Triangle-related properties: triangle-free graphs, triangle counting, local clustering (pending)
