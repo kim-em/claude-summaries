@@ -30,7 +30,7 @@ Complete documentation of an academic misconduct case involving student Michael 
 ## Subdirectories
 
 - [x] `Analysis Essay/` - Complete reference package (40MB+ materials) provided to hired freelancer: assignment specification, LaTeX template, four annotated example essays calibrating rigor expectations, prescribed textbooks (Stein & Shakarchi), duplicate collections of advanced stochastic process references, and nine research articles on fractional Brownian motion including foundational Mandelbrot & Van Ness 1968 paper (complete)
-- [ ] `case/` - Formal allegation documentation including the main allegation letter from Profs Barnsley, Morrison, and Portal with 11 attachments (A-K) documenting evidence across all three courses, complete letter PDF (15.5MB), student CV, transcript, Freelancer.com reputation screenshot, and subfolder with complete instructions posted on Freelancer.com (pending)
+- [~] `case/` - Formal allegation documentation including the main allegation letter from Profs Barnsley, Morrison, and Portal with 11 attachments (A-K) documenting evidence across all three courses, complete letter PDF (15.5MB), student CV, transcript, Freelancer.com reputation screenshot, and subfolder with complete instructions posted on Freelancer.com (preliminary)
 - [ ] `submitted essay drafts/` - Two annotated draft submissions from Michael Chappuis with instructor comments (1.65MB and 1.19MB PDFs) plus notes documenting the October 26 in-person meeting where the student was unable to explain basic concepts like B(H) notation, Riesz lemma, or Hilbert theorem (pending)
 
 ## Search Tags
