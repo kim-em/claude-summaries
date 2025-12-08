@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/CategoryTheory/Triangulated
-generated: 2025-12-08T15:45:00Z
+generated: 2025-12-08T17:30:00Z
 git_sha: 8427e48fbc3922ef6f581162121a110b53390490
 git_branch: fix-deprecated-module-linter-public-import
-status: preliminary
+status: complete
 files_count: 14
 subdirs_count: 2
 ---
@@ -12,7 +12,7 @@ subdirs_count: 2
 
 ## Overview
 
-The `Triangulated/` directory contains the formalization of triangulated and pretriangulated categories, which are fundamental structures in homological algebra and derived category theory. It implements the core theory of triangles (sequences X → Y → Z → X⟦1⟧ with composition zero), pretriangulated categories (categories with shift functors and distinguished triangles satisfying rotation and completion axioms), triangulated categories (pretriangulated categories satisfying the octahedron axiom), triangulated functors (functors preserving distinguished triangles), homological functors (functors to abelian categories sending distinguished triangles to exact sequences), and t-structures (certain filtrations on triangulated categories). This framework is essential for working with derived categories, spectral sequences, and other advanced homological constructions in algebraic geometry and topology.
+The `Triangulated/` directory contains the formalization of triangulated and pretriangulated categories, which are fundamental structures in homological algebra and derived category theory. It implements the core theory of triangles (sequences X → Y → Z → X⟦1⟧ with composition zero), pretriangulated categories (categories with shift functors and distinguished triangles satisfying rotation and completion axioms), triangulated categories (pretriangulated categories satisfying the octahedron axiom), triangulated functors (functors preserving distinguished triangles), homological functors (functors to abelian categories sending distinguished triangles to exact sequences), and t-structures (certain filtrations on triangulated categories). The theory includes sophisticated constructions such as opposite category structures (where the opposite of a triangulated category inherits triangulated structure via a custom shift making shifting by n on Cᵒᵖ correspond to shifting by -n on C), and truncation functors arising from t-structures that decompose objects into "less than n" and "greater than or equal to n" parts via distinguished triangles. This framework is essential for working with derived categories, spectral sequences, and other advanced homological constructions in algebraic geometry and topology.
 
 ## Key Files
 
@@ -33,8 +33,8 @@ The `Triangulated/` directory contains the formalization of triangulated and pre
 
 ## Subdirectories
 
-- [x] `Opposite/` - Opposite category structures for pretriangulated and triangulated categories (complete)
-- [x] `TStructure/` - t-structures on triangulated categories with truncation functors (complete)
+- [x] `Opposite/` - Opposite category structures for pretriangulated and triangulated categories with custom shift (shifting by n on Cᵒᵖ equals shifting by -n on C), anti-equivalence between (Triangle C)ᵒᵖ and Triangle Cᵒᵖ, and proof that F is triangulated iff F.op is triangulated (complete)
+- [x] `TStructure/` - t-structures on triangulated categories with truncation functors truncLT n and truncGE n, orthogonality conditions (morphisms X → Y are zero when X ≤ n₀ < n₁ ≤ Y), and distinguished triangles for truncations (complete)
 
 ## Search Tags
 
