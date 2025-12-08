@@ -23,7 +23,7 @@ This folder contains supplementary materials for a Functional Analysis essay ass
 
 ## Subdirectories
 
-- [ ] `Analysis_Essays_Example_PreviousYears/` - Example essays from previous years with annotations about quality and areas for improvement (4 PDF examples)
+- [x] `Analysis_Essays_Example_PreviousYears/` - Example essays from previous years with annotations about quality and areas for improvement (4 PDF examples)
 - [ ] `FurtherReference/` - Additional reference textbooks on stochastic partial differential equations (Prévôt & Röckner, Prato & Zabczyk)
 - [ ] `FurtherReference 2/` - Duplicate of FurtherReference folder with same textbooks
 - [ ] `Prescribed_Textbooks_used_in_the_course/` - Required course textbook (Stein & Shakarchi's Real Analysis)
