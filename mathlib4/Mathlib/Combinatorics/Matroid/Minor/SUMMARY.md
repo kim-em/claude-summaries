@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Combinatorics/Matroid/Minor
-generated: 2025-12-08T19:36:00Z
+generated: 2025-12-08T20:15:32Z
 git_sha: 8427e48fbc3922ef6f581162121a110b53390490
 git_branch: fix-deprecated-module-linter-public-import
-status: preliminary
+status: complete
 files_count: 4
 subdirs_count: 0
 ---
