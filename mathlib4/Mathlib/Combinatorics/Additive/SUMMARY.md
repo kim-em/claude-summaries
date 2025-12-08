@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Combinatorics/Additive
-generated: 2025-12-08T15:42:00Z
+generated: 2025-12-08T20:30:00Z
 git_sha: 8427e48fbc3922ef6f581162121a110b53390490
 git_branch: fix-deprecated-module-linter-public-import
-status: preliminary
+status: complete
 files_count: 17
 subdirs_count: 2
 ---
@@ -12,7 +12,7 @@ subdirs_count: 2
 
 ## Overview
 
-The `Additive/` directory contains formalized results in additive combinatorics, focusing on sumset theory, density results, and structural theorems for sets with small doubling or tripling. Key results include the Cauchy-Davenport theorem, Plünnecke-Ruzsa inequality, Erdős-Ginzburg-Ziv theorem, and Roth's theorem on 3-term arithmetic progressions. The directory provides tools for studying approximate subgroups, Freiman homomorphisms, additive energy, dissociation, and corner-free sets.
+The `Additive/` directory contains a comprehensive formalization of additive combinatorics, combining sumset theory, density results, and structural theorems. The core provides foundational tools including Freiman homomorphisms, doubling/tripling constants, additive energy, approximate subgroups, and dissociation. Classical results include the Cauchy-Davenport theorem (lower bounds on sumset sizes), Plünnecke-Ruzsa inequality (relating doubling to higher powers), Erdős-Ginzburg-Ziv theorem (zero-sum problems in cyclic groups), and the Ruzsa triangle inequality. The specialized subdirectories provide a complete theory of 3-term arithmetic progressions (3AP-free sets, Roth numbers, Behrend's construction) and prove Roth's theorem via the corners theorem using Szemerédi's regularity lemma, demonstrating the deep connections between different areas of additive combinatorics.
 
 ## Key Files
 
@@ -36,8 +36,8 @@ The `Additive/` directory contains formalized results in additive combinatorics,
 
 ## Subdirectories
 
-- [x] `AP/` - Arithmetic progressions: complete theory of 3-term arithmetic progressions including 3AP-free sets, Roth numbers, preservation under Freiman homomorphisms, and Behrend's lower bound construction (complete)
-- [x] `Corner/` - Corners and corner-free sets: formalizes corners theorem and its connection to Roth's theorem using triangle removal via Szemerédi's regularity lemma (complete)
+- [x] `AP/` - Complete theory of 3-term arithmetic progressions: definitions (3AP-free/3GP-free sets, Roth numbers), decidability instances, monotonicity and preservation theorems under Freiman homomorphisms, product constructions, and Behrend's sphere construction proving the lower bound on Roth numbers
+- [x] `Corner/` - Corners theorem and its connection to Roth's theorem: defines corners and corner-free sets, proves corners theorem using triangle removal via Szemerédi's regularity lemma, derives Roth's theorem as a consequence with asymptotic density bounds
 
 ## Search Tags
 

@@ -28,7 +28,7 @@ The `Combinatorics/` directory contains formalized combinatorial mathematics inc
 
 ## Subdirectories
 
-- [~] `Additive/` - Additive combinatorics (preliminary)
+- [x] `Additive/` - Additive combinatorics: comprehensive formalization including sumset theory (Cauchy-Davenport, Plünnecke-Ruzsa), structural theorems (Freiman homomorphisms, approximate subgroups), 3-term arithmetic progressions (Roth numbers, Behrend's construction), and corners theorem connecting to Roth's theorem via Szemerédi's regularity
 - [ ] `Derangements/` - Derangements and permutations without fixed points (pending)
 - [ ] `Digraph/` - Directed graphs (pending)
 - [ ] `Enumerative/` - Enumerative combinatorics (pending)
