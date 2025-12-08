@@ -27,7 +27,7 @@ The `SmallObject/` directory implements Quillen's small object argument, a funda
 
 ## Subdirectories
 
-- [ ] `Iteration/` - Additional iteration machinery for transfinite constructions (pending)
+- [x] `Iteration/` - Detailed implementation machinery for transfinite iteration of successor structures (complete)
 
 ## Search Tags
 
