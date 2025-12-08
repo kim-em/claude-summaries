@@ -75,7 +75,7 @@ The `Sites/` directory provides the comprehensive formalization of Grothendieck 
 
 ## Subdirectories
 
-- [ ] `Coherent/` - Coherent topologies and coherent sheaves (pending)
+- [x] `Coherent/` - Coherent, regular, and extensive Grothendieck topologies with sheaf characterizations (complete)
 - [ ] `DenseSubsite/` - Dense subsites and their properties (pending)
 - [ ] `Descent/` - Descent theory and effective descent morphisms (pending)
 - [ ] `Hypercover/` - Hypercoverings and higher descent (pending)
