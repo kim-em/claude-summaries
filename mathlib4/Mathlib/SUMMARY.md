@@ -28,7 +28,7 @@ The `Mathlib/` directory is the core of the mathlib4 library, containing the com
 - [x] `AlgebraicTopology/` - Algebraic topology (simplicial sets, homology, fundamental groups) (complete)
 - [x] `Analysis/` - Real and complex analysis (calculus, measure theory, functional analysis) (complete)
 - [~] `CategoryTheory/` - Category theory framework (categories, functors, limits, adjunctions) (preliminary)
-- [~] `Combinatorics/` - Combinatorial mathematics (graph theory, enumeration, designs) (preliminary)
+- [x] `Combinatorics/` - Combinatorial mathematics: comprehensive formalization spanning Ramsey theory (Hales-Jewett, Hindman), complete graph theory hierarchies (simple graphs, digraphs, multigraphs, quivers), enumerative techniques (Bell/Catalan numbers, Stirling numbers, integer partitions), extremal methods (Kruskal-Katona, LYM/Sperner, Turán, Szemerédi regularity), additive combinatorics (sumset theory, Roth's theorem), matroid theory, and optimization (complete)
 - [ ] `Computability/` - Computability theory and recursion theory (pending)
 - [ ] `Condensed/` - Condensed mathematics (pending)
 - [ ] `Control/` - Control theory and system dynamics (pending)
