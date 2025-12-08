@@ -123,7 +123,7 @@ The `CategoryTheory/` directory contains the comprehensive formalization of cate
 - [x] `SmallObject/` - Small object argument for factorization systems with transfinite iteration machinery (complete)
 - [x] `Subobject/` - Subobject lattices (complete)
 - [x] `Subpresheaf/` - Subpresheaves and sieves (complete)
-- [ ] `Sums/` - Coproduct constructions (pending)
+- [x] `Sums/` - Coproduct constructions (complete)
 - [ ] `Topos/` - Topoi (elementary and Grothendieck) (pending)
 - [ ] `Triangulated/` - Triangulated categories (pending)
 - [ ] `Types/` - Category of types (pending)
