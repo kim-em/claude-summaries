@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Control
-generated: 2025-12-08T15:40:00Z
+generated: 2025-12-08T18:00:00Z
 git_sha: 8427e48fbc3922ef6f581162121a110b53390490
 git_branch: fix-deprecated-module-linter-public-import
-status: preliminary
+status: complete
 files_count: 13
 subdirs_count: 5
 ---
@@ -12,7 +12,7 @@ subdirs_count: 5
 
 ## Overview
 
-The `Control/` directory provides foundational abstractions for functional programming patterns in Lean 4, extending the theory of functors, applicatives, and monads. It defines typeclass infrastructure for functor composition, constant functors, bifunctors, lawful instances, and various monad transformers (StateT, ReaderT, ExceptT). The directory includes utilities for traversable data structures, folding operations, random value generation, fixed-point computations, and uliftable constructs for universe polymorphism.
+The `Control/` directory provides comprehensive abstractions for functional programming patterns in Lean 4, organized around the core concepts of functors, applicatives, monads, and their transformers. It contains 13 base files covering fundamental constructs (functor composition, bifunctors, constant functors), monad transformers with lawfulness proofs (StateT, ReaderT, ExceptT), traversable and bitraversable structures with complete instance hierarchy, specialized monads (continuation, writer), fixed-point operators, random generation infrastructure, and universe-lifting utilities. Five subdirectories extend this foundation with multivariate functor theory, equivalence-preserving functors, traversability for both single-parameter and bifunctors, and advanced monad utilities including normalization infrastructure and continuation-passing style support.
 
 ## Key Files
 
@@ -34,12 +34,12 @@ The `Control/` directory provides foundational abstractions for functional progr
 
 ## Subdirectories
 
-- [x] `Bitraversable/` - Bitraversable typeclass combining bifunctor with traversable structure (complete)
-- [x] `EquivFunctor/` - Equivalence functor instances and theory (complete)
-- [x] `Functor/` - Multivariate functor theory with predicate/relation lifting (complete)
-- [x] `Monad/` - Monad-specific utilities including continuations and writer monad (complete)
-- [x] `Traversable/` - Traversable typeclass with instances, equivalences, and lemmas (complete)
+- [x] `Bitraversable/` - Bitraversable typeclass for bifunctors supporting simultaneous traversal over both type parameters; includes lawful instances for Prod/Sum/Const/flip/bicompl/bicompr, partial traversal utilities (tfst/tsnd), and proof automation; enables applicative effects when mapping over data structures with two independently variable type parameters
+- [x] `EquivFunctor/` - EquivFunctor typeclass instances for endofunctors of Type's "core" that map equivalences to equivalences coherently; provides implementations for Unique/Perm/Finset/Fintype with functor law proofs, enabling the equiv_rw tactic to rewrite under these type constructors
+- [x] `Functor/` - Multivariate functor theory (MvFunctor) generalizing functors from types to type vectors (TypeVec n → Type); includes lawful instances, predicate/relation lifting (LiftP/LiftR) for type vectors, support sets for extracting values, and equivalence-based functor construction
+- [x] `Monad/` - Advanced monad constructs: continuation monad (ContT/Cont) with callCC for control flow, writer monad (WriterT/Writer) for accumulating appendable state, monadic normalization infrastructure (functor_norm/monad_norm attributes), and extensionality tools for transformer equality; includes monad transformer composition instances
+- [x] `Traversable/` - Complete traversable functor theory: core typeclass with traverse function, lawful instances (Option/List/Sum/Id) with identity/composition/naturality proofs, applicative transformations between functors, derived lemmas (map_traverse/traverse_map commutation), and equivalence transfer mechanism enabling reuse of instances via type isomorphisms
 
 ## Search Tags
 
-control-theory functors applicatives monads monad-transformers bifunctors traversable foldable lawful-instances functor-composition random-generation fixed-points state-monad reader-monad except-monad universe-lifting type-classes functional-programming
+control-theory functors applicatives monads monad-transformers bifunctors bitraversable traversable foldable lawful-instances functor-composition random-generation fixed-points state-monad reader-monad except-monad continuation-monad writer-monad universe-lifting type-classes functional-programming multivariate-functors equiv-functor predicate-lifting relation-lifting callcc continuation-passing-style natural-transformations applicative-transformations monadic-normalization functor-laws lawful-traversable lawful-bifunctor TypeVec MvFunctor compose-functors const-functor bifunctor-composition
