@@ -30,7 +30,7 @@ The `SetFamily/` directory provides theory for families of finite sets, includin
 
 ## Subdirectories
 
-- [ ] `Compression/` - Compression operations on set families (pending)
+- [x] `Compression/` - Compression operations on set families (complete)
 
 ## Search Tags
 
