@@ -33,7 +33,7 @@ The `Condensed/` directory implements condensed mathematics, a modern categorica
 
 ## Subdirectories
 
-- [ ] `Discrete/` - Discrete condensed objects (5 files: Basic, Characterization, Colimit, LocallyConstant, Module) (pending)
+- [x] `Discrete/` - Discrete condensed objects (5 files: Basic, Characterization, Colimit, LocallyConstant, Module) (complete)
 - [ ] `Light/` - Light condensed objects with cardinality constraints (14 files including AB axioms, monoidal structure, internal projectivity) (pending)
 
 ## Search Tags
