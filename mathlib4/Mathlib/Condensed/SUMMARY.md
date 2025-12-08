@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Condensed
-generated: 2025-12-08T15:38:00Z
+generated: 2025-12-08T20:05:00Z
 git_sha: 8427e48fbc3922ef6f581162121a110b53390490
 git_branch: fix-deprecated-module-linter-public-import
-status: preliminary
+status: complete
 files_count: 12
 subdirs_count: 2
 ---
@@ -12,7 +12,7 @@ subdirs_count: 2
 
 ## Overview
 
-The `Condensed/` directory implements condensed mathematics, a modern categorical framework introduced by Clausen-Scholze that unifies continuous and discrete mathematics through sheaves on compact Hausdorff spaces. The implementation defines condensed objects as sheaves on `CompHaus` with the coherent Grothendieck topology, establishes categorical equivalences with sheaves on `Stonean` and `Profinite` spaces, and provides explicit sheaf conditions via finite-product preservation and equalizer conditions. The directory includes specialized support for condensed sets, condensed modules (which form an abelian category satisfying Grothendieck's AB axioms), discrete and light condensed objects, and solid modules.
+The `Condensed/` directory implements condensed mathematics, a modern categorical framework introduced by Clausen-Scholze that unifies continuous and discrete mathematics through sheaves on compact Hausdorff spaces. The implementation defines condensed objects as sheaves on `CompHaus` with the coherent Grothendieck topology, establishes categorical equivalences with sheaves on `Stonean` and `Profinite` spaces, and provides explicit sheaf conditions via finite-product preservation and equalizer conditions. The directory includes specialized support for condensed sets, condensed modules (which form an abelian category satisfying Grothendieck's AB axioms), and solid modules. Two important specializations are developed in subdirectories: **discrete condensed objects** provide functorial relationships between ordinary categories and their condensed counterparts via adjunctions (discrete ⊣ underlying), with characterizations through locally constant functors and colimit preservation; **light condensed objects** offer a universe-efficient variant using sheaves on the essentially small category `LightProfinite` (countable Stone spaces), with full abelian structure, internal projectivity characterizations, monoidal/cartesian closed structures, and adjunctions with topological spaces.
 
 ## Key Files
 
@@ -33,8 +33,8 @@ The `Condensed/` directory implements condensed mathematics, a modern categorica
 
 ## Subdirectories
 
-- [x] `Discrete/` - Discrete condensed objects (5 files: Basic, Characterization, Colimit, LocallyConstant, Module) (complete)
-- [x] `Light/` - Light condensed objects as sheaves on essentially small `LightProfinite` category (14 files: abelian structure, internal projectivity, monoidal/cartesian closed structure, topological adjunction) (complete)
+- [x] `Discrete/` - Discrete condensed objects: functorial relationships between ordinary categories and condensed counterparts via adjunctions (discrete ⊣ underlying); characterizations through locally constant functors, colimit preservation, and 5-7 equivalent TFAE conditions; applies to condensed sets, modules, and light variants
+- [x] `Light/` - Light condensed objects as sheaves on essentially small `LightProfinite` (countable Stone spaces) without universe bumps; includes abelian category structure with AB4* axioms, internal projectivity via tensor products, monoidal/cartesian closed structures, epimorphism characterizations, explicit sheaf conditions, and fully faithful adjunction with sequential topological spaces
 
 ## Search Tags
 
