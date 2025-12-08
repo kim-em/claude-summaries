@@ -119,7 +119,7 @@ The `CategoryTheory/` directory contains the comprehensive formalization of cate
 - [x] `Quotient/` - Quotient categories with preadditive and linear structure preservation (complete)
 - [x] `Shift/` - Shift functors and graded structures (complete)
 - [x] `Sigma/` - Coproduct (sigma) categories (complete)
-- [ ] `Sites/` - Grothendieck topologies and sheaves (pending)
+- [~] `Sites/` - Grothendieck topologies and sheaves (preliminary)
 - [ ] `SmallObject/` - Small object argument for factorization systems (pending)
 - [ ] `Subobject/` - Subobject lattices (pending)
 - [ ] `Subpresheaf/` - Subpresheaves and sieves (pending)
