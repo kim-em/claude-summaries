@@ -32,7 +32,7 @@ The `Matroid/` directory contains a comprehensive formalization of matroid theor
 ## Subdirectories
 
 - [x] `Minor/` - Matroid minors (deletion, contraction, restriction operations) (complete)
-- [ ] `Rank/` - Rank functions: `ℕ∞`-valued (`eRank`, `eRk`), finite rank, cardinal-valued variants (pending)
+- [x] `Rank/` - Rank functions: `ℕ∞`-valued (`eRank`, `eRk`), finite rank, cardinal-valued variants (complete)
 
 ## Search Tags
 
