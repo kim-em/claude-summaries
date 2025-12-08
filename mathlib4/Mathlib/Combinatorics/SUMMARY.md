@@ -36,7 +36,7 @@ The `Combinatorics/` directory contains formalized combinatorial mathematics inc
 - [x] `Graph/` - Multigraphs with vertices and edges as embedded sets: defines `Graph α β` structure with incidence predicates (`IsLink`, `Inc`, `Adj`), loop classification, adjacency API, and extensionality principles; uses compact notation `V(G)` and `E(G)`
 - [x] `Hall/` - Hall's Marriage Theorem: formalized in two versions (finite index type using strong induction, generalized version using inverse limit compactness to remove finiteness constraint); states that indexed families of finite sets have systems of distinct representatives iff every k-union has ≥k elements
 - [x] `Matroid/` - Matroid theory: comprehensive formalization of combinatorial independence structures defined axiomatically via bases, with core API for independence, circuits, closure, loops, duality, maps, sums, and elementary constructions; uses B-matroid definition supporting infinite ground sets via `ℕ∞`-valued cardinality; includes rank functions (ℕ∞/finite/cardinal-valued) and minor operations (deletion, contraction, restriction) (complete)
-- [ ] `Optimization/` - Combinatorial optimization (pending)
+- [x] `Optimization/` - General-valued constraint satisfaction problems (VCSP): template-based framework for discrete optimization including cost functions, instances, solution evaluation, and fractional polymorphism theory with max-cut characterization
 - [ ] `Quiver/` - Quivers (directed multigraphs) and their paths (pending)
 - [ ] `SetFamily/` - Families of sets and their properties (pending)
 - [ ] `SimpleGraph/` - Simple graphs (undirected graphs without loops or multiple edges) (pending)
