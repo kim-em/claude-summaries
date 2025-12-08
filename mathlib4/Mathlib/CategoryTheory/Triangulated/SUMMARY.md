@@ -33,7 +33,7 @@ The `Triangulated/` directory contains the formalization of triangulated and pre
 
 ## Subdirectories
 
-- [ ] `Opposite/` - Opposite category structures for pretriangulated and triangulated categories (pending)
+- [x] `Opposite/` - Opposite category structures for pretriangulated and triangulated categories (complete)
 - [ ] `TStructure/` - t-structures on triangulated categories with truncation functors (pending)
 
 ## Search Tags
