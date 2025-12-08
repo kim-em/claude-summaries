@@ -39,7 +39,7 @@ The `Combinatorics/` directory contains formalized combinatorial mathematics inc
 - [x] `Optimization/` - General-valued constraint satisfaction problems (VCSP): template-based framework for discrete optimization including cost functions, instances, solution evaluation, and fractional polymorphism theory with max-cut characterization
 - [x] `Quiver/` - Quivers (directed multigraphs) with paths, connectivity, symmetrization, arborescences, and covering maps (complete)
 - [x] `SetFamily/` - Families of sets and their properties (complete)
-- [~] `SimpleGraph/` - Simple graphs (undirected graphs without loops or multiple edges) (preliminary)
+- [x] `SimpleGraph/` - Simple graphs (undirected graphs without loops or multiple edges) (complete)
 - [ ] `Young/` - Young tableaux and related combinatorial structures (pending)
 
 ## Search Tags

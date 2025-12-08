@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Combinatorics/SimpleGraph
-generated: 2025-12-08T21:00:00Z
+generated: 2025-12-09T04:00:00Z
 git_sha: 8427e48fbc3922ef6f581162121a110b53390490
 git_branch: fix-deprecated-module-linter-public-import
-status: preliminary
+status: complete
 files_count: 42
 subdirs_count: 6
 ---
@@ -12,7 +12,7 @@ subdirs_count: 6
 
 ## Overview
 
-The `SimpleGraph/` directory contains formalization of simple graphs (undirected graphs without loops or multiple edges) defined as irreflexive symmetric relations on a vertex type. The module provides comprehensive theory including fundamental structures (adjacency matrices, subgraphs, walks, paths), graph properties (connectivity, bipartiteness, colorability, matchings, cliques), graph operations (products, maps, complements), structural characterizations (Hamiltonian paths, Tutte's theorem), and specialized graph classes (strongly regular, circulant, complete multipartite). The adjacency relation is core: vertices adjacent when related, forming a complete atomic Boolean algebra under subgraph ordering.
+The `SimpleGraph/` directory contains comprehensive formalization of simple graphs (undirected graphs without loops or multiple edges) defined as irreflexive symmetric relations on a vertex type. The module spans the full spectrum of graph theory: foundational structures (adjacency matrices, subgraphs, walks, paths), connectivity properties with reachability and connected components as equivalence classes, graph characterization properties (bipartiteness, colorability with chromatic numbers, matchings via Tutte's theorem, cliques), graph operations (products, maps, complements), structural characterizations (Hamiltonian paths, strongly regular graphs), and landmark results including Szemerédi's regularity lemma and the Triangle Removal Lemma. The adjacency relation is fundamental, forming a complete atomic Boolean algebra under subgraph ordering. Specialized subdirectories provide deep theory on connectivity and reachability, graph ends capturing infinite directions, extremal graph theory with Turán's theorem, Szemerédi regularity for pseudorandom behavior, triangle-related lemmas, and comprehensive walk theory foundations.
 
 ## Key Files
 
