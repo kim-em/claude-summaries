@@ -45,7 +45,7 @@ The `Data/` directory contains fundamental data structures, numeric types, and t
 ## Subdirectories
 
 - [x] `Analysis/` - Computational realization of filters and topological spaces (experimental infrastructure for computing with analysis concepts) (complete)
-- [ ] `Array/` - Arrays and array operations (pending)
+- [x] `Array/` - Arrays and array operations (complete)
 - [ ] `Bool/` - Boolean type properties and operations (pending)
 - [ ] `Complex/` - Complex numbers ℂ (pending)
 - [ ] `Countable/` - Countable types and countability properties (pending)
