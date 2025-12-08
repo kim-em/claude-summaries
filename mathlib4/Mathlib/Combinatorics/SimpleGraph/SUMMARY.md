@@ -68,7 +68,7 @@ The `SimpleGraph/` directory contains formalization of simple graphs (undirected
 - [x] `Extremal/` - Extremal graph theory: Turán's theorem, extremal numbers, Turán density, forbidden subgraphs (complete)
 - [x] `Regularity/` - Szemerédi's regularity lemma and applications (complete)
 - [x] `Triangle/` - Triangle-related properties: triangle-free graphs, triangle counting, local clustering (complete)
-- [~] `Walks/` - Walk theory extensions: walk enumeration, walk products, walk-based properties (preliminary)
+- [x] `Walks/` - Walk theory extensions: basic walk structure, operations, traversal, graph mappings, subwalk relation (complete)
 
 ## Search Tags
 

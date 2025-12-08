@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Combinatorics/SimpleGraph/Walks
-generated: 2025-12-08T22:30:00Z
+generated: 2025-12-08T22:40:15Z
 git_sha: 8427e48fbc3922ef6f581162121a110b53390490
 git_branch: fix-deprecated-module-linter-public-import
-status: preliminary
+status: complete
 files_count: 5
 subdirs_count: 0
 ---
