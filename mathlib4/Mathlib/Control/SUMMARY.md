@@ -35,7 +35,7 @@ The `Control/` directory provides foundational abstractions for functional progr
 ## Subdirectories
 
 - [x] `Bitraversable/` - Bitraversable typeclass combining bifunctor with traversable structure (complete)
-- [ ] `EquivFunctor/` - Equivalence functor instances and theory (pending)
+- [x] `EquivFunctor/` - Equivalence functor instances and theory (complete)
 - [ ] `Functor/` - Additional functor utilities and multivariate functors (pending)
 - [ ] `Monad/` - Monad-specific utilities including continuations and writer monad (pending)
 - [ ] `Traversable/` - Traversable typeclass with instances, equivalences, and lemmas (pending)
