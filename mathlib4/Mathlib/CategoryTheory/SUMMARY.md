@@ -118,7 +118,7 @@ The `CategoryTheory/` directory contains the comprehensive formalization of cate
 - [x] `Products/` - Cartesian product categories with projection/section functors, swap equivalence, evaluation functors, associator and unitor coherence isomorphisms (complete)
 - [x] `Quotient/` - Quotient categories with preadditive and linear structure preservation (complete)
 - [x] `Shift/` - Shift functors and graded structures (complete)
-- [ ] `Sigma/` - Coproduct (sigma) categories (pending)
+- [x] `Sigma/` - Coproduct (sigma) categories (complete)
 - [ ] `Sites/` - Grothendieck topologies and sheaves (pending)
 - [ ] `SmallObject/` - Small object argument for factorization systems (pending)
 - [ ] `Subobject/` - Subobject lattices (pending)
