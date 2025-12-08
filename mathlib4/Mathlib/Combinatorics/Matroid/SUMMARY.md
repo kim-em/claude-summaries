@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Combinatorics/Matroid
-generated: 2025-12-08T07:43:53Z
+generated: 2025-12-08T20:42:00Z
 git_sha: 8427e48fbc3922ef6f581162121a110b53390490
 git_branch: fix-deprecated-module-linter-public-import
-status: preliminary
+status: complete
 files_count: 10
 subdirs_count: 2
 ---
@@ -13,6 +13,8 @@ subdirs_count: 2
 ## Overview
 
 The `Matroid/` directory contains a comprehensive formalization of matroid theory, a combinatorial abstraction of linear independence that unifies concepts from graph theory, discrete optimization, and algebraic geometry. Matroids are defined axiomatically in terms of bases (maximal independent sets), following the B-matroid definition that generalizes naturally to infinite ground sets. The implementation uses `ℕ∞`-valued cardinality to handle both finite and infinite matroids uniformly, with special API for finite cases via typeclasses. Core concepts include independence, bases, circuits (minimal dependent sets), closure (combinatorial span), loops (zero elements), coloops (bridges), duality, and rank functions satisfying submodularity.
+
+The theory extends to two major structural components: the `Rank/` subdirectory provides three variations of rank functions (`ℕ∞`-valued for uniform treatment, finite-rank predicates enabling integer arithmetic, and cardinal-valued for set-theoretic generality), with the `ℕ∞`-valued rank as the primary API proving fundamental submodularity axioms. The `Minor/` subdirectory implements deletion, contraction, and restriction operations that define the minor partial order on matroids, generalizing graph-theoretic edge operations to the abstract setting and establishing foundations for structural matroid theory.
 
 ## Key Files
 
@@ -36,4 +38,4 @@ The `Matroid/` directory contains a comprehensive formalization of matroid theor
 
 ## Search Tags
 
-matroid combinatorics linear-algebra independence basis circuit cocircuit closure flat spanning loop coloop nonloop duality rank submodularity finitary b-matroid infinite-matroid graph-theory discrete-optimization galois-insertion aesop-tactic
+matroid combinatorics linear-algebra independence basis circuit cocircuit closure flat spanning loop coloop nonloop duality rank submodularity finitary b-matroid infinite-matroid graph-theory discrete-optimization galois-insertion aesop-tactic matroid-minor deletion contraction restriction partial-order erank erk crank crk rank-function finite-rank cardinal-rank enat-valued equicardinality isrkfinite invariant-cardinal-rank zfc-independence fundamental-circuit dual-operation structural-combinatorics
