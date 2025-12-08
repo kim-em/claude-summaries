@@ -34,7 +34,7 @@ The `Combinatorics/` directory contains formalized combinatorial mathematics inc
 - [x] `Enumerative/` - Enumerative combinatorics: Bell numbers (counting set partitions with refinements), Catalan numbers (counting binary trees and Dyck paths with bijections), compositions (ordered partitions), double counting arguments, Dyck words (balanced brackets), incidence algebras with Möbius inversion, inclusion-exclusion principles, integer partitions with generating function theory (infinite product formulas), and Stirling numbers (permutation cycles and set partitions)
 - [x] `Extremal/` - Extremal combinatorics: Ruzsa-Szemerédi problem on maximum edges in locally linear graphs (each edge in exactly one triangle), with construction from 3AP-free sets yielding Ω(n² * exp(-4 * √(log n))) lower bound
 - [x] `Graph/` - Multigraphs with vertices and edges as embedded sets: defines `Graph α β` structure with incidence predicates (`IsLink`, `Inc`, `Adj`), loop classification, adjacency API, and extensionality principles; uses compact notation `V(G)` and `E(G)`
-- [ ] `Hall/` - Hall's marriage theorem and related results (pending)
+- [x] `Hall/` - Hall's Marriage Theorem: formalized in two versions (finite index type using strong induction, generalized version using inverse limit compactness to remove finiteness constraint); states that indexed families of finite sets have systems of distinct representatives iff every k-union has ≥k elements
 - [ ] `Matroid/` - Matroid theory (pending)
 - [ ] `Optimization/` - Combinatorial optimization (pending)
 - [ ] `Quiver/` - Quivers (directed multigraphs) and their paths (pending)
