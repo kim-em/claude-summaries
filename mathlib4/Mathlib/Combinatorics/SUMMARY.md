@@ -40,7 +40,7 @@ The `Combinatorics/` directory contains formalized combinatorial mathematics inc
 - [x] `Quiver/` - Quivers (directed multigraphs) with paths, connectivity, symmetrization, arborescences, and covering maps (complete)
 - [x] `SetFamily/` - Families of sets and their properties (complete)
 - [x] `SimpleGraph/` - Simple graphs (undirected graphs without loops or multiple edges) (complete)
-- [ ] `Young/` - Young tableaux and related combinatorial structures (pending)
+- [x] `Young/` - Young diagrams (finite lower sets in ℕ × ℕ with lattice structure, transpose, row/column API) and semistandard tableaux (fillings with weakly increasing rows, strictly increasing columns)
 
 ## Search Tags
 
