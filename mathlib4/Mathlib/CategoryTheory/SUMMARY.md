@@ -124,7 +124,7 @@ The `CategoryTheory/` directory contains the comprehensive formalization of cate
 - [x] `Subobject/` - Subobject lattices (complete)
 - [x] `Subpresheaf/` - Subpresheaves and sieves (complete)
 - [x] `Sums/` - Coproduct constructions (complete)
-- [ ] `Topos/` - Topoi (elementary and Grothendieck) (pending)
+- [x] `Topos/` - Topoi (elementary and Grothendieck) (complete)
 - [ ] `Triangulated/` - Triangulated categories (pending)
 - [ ] `Types/` - Category of types (pending)
 - [ ] `WithTerminal/` - Adding terminal objects to categories (pending)
