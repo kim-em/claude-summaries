@@ -36,7 +36,7 @@ The `Additive/` directory contains formalized results in additive combinatorics,
 
 ## Subdirectories
 
-- [ ] `AP/` - Arithmetic progressions (pending)
+- [~] `AP/` - Arithmetic progressions (preliminary)
 - [ ] `Corner/` - Corners and corner-free sets (pending)
 
 ## Search Tags
