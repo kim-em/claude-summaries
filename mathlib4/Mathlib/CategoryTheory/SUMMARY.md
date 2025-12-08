@@ -126,7 +126,7 @@ The `CategoryTheory/` directory contains the comprehensive formalization of cate
 - [x] `Sums/` - Coproduct constructions (complete)
 - [x] `Topos/` - Topoi (elementary and Grothendieck) (complete)
 - [x] `Triangulated/` - Triangulated categories with distinguished triangles, octahedron axiom, homological functors, opposite category structures, and t-structures with truncation functors (complete)
-- [ ] `Types/` - Category of types (pending)
+- [x] `Types/` - Category of types with function morphisms, correspondence between categorical and type-theoretic concepts (monos=injections, epis=surjections, isos=equivs), sections functor, universe lifting, and monomorphism stability properties (complete)
 - [ ] `WithTerminal/` - Adding terminal objects to categories (pending)
 
 ## Search Tags
