@@ -38,7 +38,7 @@ The `Combinatorics/` directory contains formalized combinatorial mathematics inc
 - [x] `Matroid/` - Matroid theory: comprehensive formalization of combinatorial independence structures defined axiomatically via bases, with core API for independence, circuits, closure, loops, duality, maps, sums, and elementary constructions; uses B-matroid definition supporting infinite ground sets via `ℕ∞`-valued cardinality; includes rank functions (ℕ∞/finite/cardinal-valued) and minor operations (deletion, contraction, restriction) (complete)
 - [x] `Optimization/` - General-valued constraint satisfaction problems (VCSP): template-based framework for discrete optimization including cost functions, instances, solution evaluation, and fractional polymorphism theory with max-cut characterization
 - [x] `Quiver/` - Quivers (directed multigraphs) with paths, connectivity, symmetrization, arborescences, and covering maps (complete)
-- [ ] `SetFamily/` - Families of sets and their properties (pending)
+- [~] `SetFamily/` - Families of sets and their properties (preliminary)
 - [ ] `SimpleGraph/` - Simple graphs (undirected graphs without loops or multiple edges) (pending)
 - [ ] `Young/` - Young tableaux and related combinatorial structures (pending)
 
