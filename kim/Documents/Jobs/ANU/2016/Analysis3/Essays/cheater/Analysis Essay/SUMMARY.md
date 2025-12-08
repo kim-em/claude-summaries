@@ -28,7 +28,7 @@ Complete reference materials package provided to the hired freelancer for the fu
 - [x] `FurtherReference 2/` - Duplicate copy of the same three reference books as FurtherReference folder (complete)
 - [x] `Prescribed_Textbooks_used_in_the_course/` - Two prescribed textbooks by Stein & Shakarchi: "Functional Analysis" (12.1MB) and "Real Analysis" (2.7MB) (complete)
 - [x] `Reference_Articles_Listed_in_Desprition_of_the_essay/` - Nine research articles on fractional Brownian motion including the foundational Mandelbrot & Van Ness 1968 paper "Fractional Brownian motions, fractional noises and applications" (529KB), Nualart's "Fractional Brownian motion: stochastic calculus and applications" (146KB), Decreusefond & Üstünel's "Stochastic Analysis of the Fractional Brownian Motion" (285KB), and papers on rough path construction, time fractional Brownian motion, PDE connections, and fractal dimensions (complete)
-- [ ] `Reference_Books_and_Notes_Listed_in_Desprition_of_the_essay/` - Five reference books and notes: Biagini et al.'s "Stochastic Calculus for Fractional Brownian Motion" (3.2MB), Falconer's "Fractal Geometry Mathematical" (2.2MB), Rogers & Williams' "Diffusions, Markov Processes" (23.6MB), Mörters & Peres' "Brownian Motion" (7.6MB), and course notes on "Brownian Motion Construction" (94KB) (pending)
+- [x] `Reference_Books_and_Notes_Listed_in_Desprition_of_the_essay/` - Five reference books and notes: Biagini et al.'s "Stochastic Calculus for Fractional Brownian Motion" (3.2MB), Falconer's "Fractal Geometry Mathematical" (2.2MB), Rogers & Williams' "Diffusions, Markov Processes" (23.6MB), Mörters & Peres' "Brownian Motion" (7.6MB), and course notes on "Brownian Motion Construction" (94KB) (complete)
 
 ## Search Tags
 

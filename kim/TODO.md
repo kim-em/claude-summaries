@@ -19,6 +19,14 @@ This file tracks files that couldn't be processed with standard tools and need s
   - Comprehensive reference on stochastic equations in infinite-dimensional spaces
 - `Documents/Jobs/ANU/2016/Analysis3/Essays/cheater/Analysis Essay/FurtherReference/Rene_L._Schilling_Lothar_Partzsch_Bjorn_BrownianMotion_AnIntroduction_to_StochasticProcesses.pdf` (12.4MB, 396 pages) in [FurtherReference/SUMMARY.md](Documents/Jobs/ANU/2016/Analysis3/Essays/cheater/Analysis%20Essay/FurtherReference/SUMMARY.md)
   - Introduction to stochastic processes and Brownian motion theory
+- `Documents/Jobs/ANU/2016/Analysis3/Essays/cheater/Analysis Essay/Reference_Books_and_Notes_Listed_in_Desprition_of_the_essay/Francesca_Biagini,_Yaozhong_Hu,_Bernt_Öksendal,_Stochastic_Calculus_In_Fractional_Brownion_Motion.pdf` (3.2MB, 327 pages) in [Reference_Books_and_Notes_Listed_in_Desprition_of_the_essay/SUMMARY.md](Documents/Jobs/ANU/2016/Analysis3/Essays/cheater/Analysis%20Essay/Reference_Books_and_Notes_Listed_in_Desprition_of_the_essay/SUMMARY.md)
+  - Textbook on stochastic calculus for fractional Brownian motion
+- `Documents/Jobs/ANU/2016/Analysis3/Essays/cheater/Analysis Essay/Reference_Books_and_Notes_Listed_in_Desprition_of_the_essay/Kenneth__Falconer_Fractal_Geometry_Mathematical.pdf` (2.2MB, 366 pages) in [Reference_Books_and_Notes_Listed_in_Desprition_of_the_essay/SUMMARY.md](Documents/Jobs/ANU/2016/Analysis3/Essays/cheater/Analysis%20Essay/Reference_Books_and_Notes_Listed_in_Desprition_of_the_essay/SUMMARY.md)
+  - Textbook on fractal geometry and mathematical foundations
+- `Documents/Jobs/ANU/2016/Analysis3/Essays/cheater/Analysis Essay/Reference_Books_and_Notes_Listed_in_Desprition_of_the_essay/L._C._G._Rogers,_David_Williams_Diffusions,_Mark.pdf` (23.6MB, 454 pages) in [Reference_Books_and_Notes_Listed_in_Desprition_of_the_essay/SUMMARY.md](Documents/Jobs/ANU/2016/Analysis3/Essays/cheater/Analysis%20Essay/Reference_Books_and_Notes_Listed_in_Desprition_of_the_essay/SUMMARY.md)
+  - Major reference on diffusions and Markov processes
+- `Documents/Jobs/ANU/2016/Analysis3/Essays/cheater/Analysis Essay/Reference_Books_and_Notes_Listed_in_Desprition_of_the_essay/Moraes, Peres_BrownianMotion.pdf` (7.6MB, 413 pages) in [Reference_Books_and_Notes_Listed_in_Desprition_of_the_essay/SUMMARY.md](Documents/Jobs/ANU/2016/Analysis3/Essays/cheater/Analysis%20Essay/Reference_Books_and_Notes_Listed_in_Desprition_of_the_essay/SUMMARY.md)
+  - Textbook on Brownian motion by Mörters and Peres
 
 ## Excel Spreadsheets (need extraction tools)
 
