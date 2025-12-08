@@ -121,7 +121,7 @@ The `CategoryTheory/` directory contains the comprehensive formalization of cate
 - [x] `Sigma/` - Coproduct (sigma) categories (complete)
 - [x] `Sites/` - Grothendieck topologies and sheaves (complete)
 - [x] `SmallObject/` - Small object argument for factorization systems with transfinite iteration machinery (complete)
-- [ ] `Subobject/` - Subobject lattices (pending)
+- [x] `Subobject/` - Subobject lattices (complete)
 - [ ] `Subpresheaf/` - Subpresheaves and sieves (pending)
 - [ ] `Sums/` - Coproduct constructions (pending)
 - [ ] `Topos/` - Topoi (elementary and Grothendieck) (pending)
