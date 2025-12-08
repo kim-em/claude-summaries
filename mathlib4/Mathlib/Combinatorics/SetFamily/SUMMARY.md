@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Combinatorics/SetFamily
-generated: 2025-12-08T15:45:00Z
+generated: 2025-12-08T19:15:00Z
 git_sha: 8427e48fbc3922ef6f581162121a110b53390490
 git_branch: fix-deprecated-module-linter-public-import
-status: preliminary
+status: complete
 files_count: 9
 subdirs_count: 1
 ---
@@ -12,7 +12,9 @@ subdirs_count: 1
 
 ## Overview
 
-The `SetFamily/` directory provides theory for families of finite sets, including fundamental extremal combinatorics results. It covers shadows (removing elements from sets), shattering (VC-dimension theory), intersecting families (pairwise non-disjoint collections), and major theorems like Kruskal-Katona (bounds on shadow sizes via colex initial segments), Lubell-Yamamoto-Meshalkin/Sperner (antichain size bounds), Harris-Kleitman (correlation of upper/lower sets), Ahlswede-Zhang (identity for truncated unions), and Erdős-Ko-Rado (maximum intersecting family size).
+The `SetFamily/` directory provides comprehensive theory for families of finite sets, with particular strength in extremal combinatorics—the study of how large or small a collection can be subject to constraints. The directory's architecture supports two main proof strategies: compression methods (via the Compression subdirectory's down-compression and UV-compression operations) and correlation/inequality methods (via Four Functions, Harris-Kleitman, and related results).
+
+Core concepts include shadows (∂𝒜: sets with one element removed) and their duals (∂⁺𝒜: sets with one element added), which measure the "boundary" of a family. Compressions are idempotent, cardinality-preserving operations that reduce shadow size, enabling proofs that initial segments of colex order minimize shadows. Major results formalized include Kruskal-Katona (minimum shadow size achieved by colex initial segments, with applications to Erdős-Ko-Rado on maximum intersecting families), LYM/Sperner (maximum antichain size is the middle binomial coefficient), Harris-Kleitman (correlation of increasing sets), Ahlswede-Zhang (identity sharpening LYM), and Four Functions theorem (generalizing FKG and other correlation inequalities). The directory also covers VC-dimension theory via the Shatter file, connecting to statistical learning theory.
 
 ## Key Files
 
