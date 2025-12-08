@@ -1,10 +1,10 @@
 ---
 source_path: /Users/kim/.claude/skills/claude-usage
-generated: 2025-12-01T19:30:00Z
-git_sha: 4f53174636526976b8659a0144810c1273d4d8b7
+generated: 2025-12-08T07:04:00Z
+git_sha: 8345a514d8c10f0ac9da977a555996abb463c434
 git_branch: master
 status: complete
-files_count: 6
+files_count: 8
 subdirs_count: 0
 ---
 
@@ -24,6 +24,8 @@ A Claude Code skill for quota-aware Claude automation, providing both query and 
 | claude_usage.py | Python module exposing get_usage(), available_model(), and while_quota_available() for programmatic quota-aware automation; can be imported or run as CLI |
 | claude-usage-ok | Legacy silent wrapper (exit 0 only if session+weekly excellent); deprecated in favor of claude-available-model for new scripts |
 | test | Comprehensive test suite validating JSON schema, field ranges (0-99% for time_elapsed, enforcing future reset times), timeout handling with gtimeout fallback, and end-to-end skill activation |
+| .gitignore | Git ignore file excluding the cache file from version control |
+| .claude-usage-cache | JSON cache file storing recent quota query results (session, weekly all-models, weekly Sonnet-only usage percentages and reset times) |
 
 ## Subdirectories
 

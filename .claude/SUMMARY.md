@@ -1,11 +1,11 @@
 ---
 source_path: /Users/kim/.claude
-generated: 2025-12-07T20:15:00Z
-git_sha: cebfbc124ad636335256159ee28dd0fe48d30e73
+generated: 2025-12-08T07:09:00Z
+git_sha: 8345a514d8c10f0ac9da977a555996abb463c434
 git_branch: master
 status: complete
 files_count: 8
-subdirs_count: 12
+subdirs_count: 13
 ---
 
 # .claude
@@ -32,9 +32,9 @@ Claude Code user configuration directory, synchronized across machines via git. 
 - [x] `commands/` - Custom slash commands (reflect.md, coffee.md, update-log.md)
 - [x] `skills/` - 20 custom skills with SKILL.md definitions and helper scripts (new: aristotle for automated theorem proving, synchronizing-home-git-repo for home directory conflict resolution, acquiring-skills for skill creation workflow)
 - [x] `plugins/` - Plugin configuration (currently empty repositories config)
-- [x] `projects/` - Per-project session history and context (86 project directories, 5800+ total session files)
+- [x] `projects/` - Per-project session history and context (61 project directories, 5800+ total session files)
 
-### Runtime & State (8 directories)
+### Runtime & State (9 directories)
 - [x] `debug/` - Debug logs and diagnostic data
 - [x] `file-history/` - File edit history and snapshots
 - [x] `ide/` - IDE integration lock files tracking active Claude Code sessions
@@ -42,6 +42,7 @@ Claude Code user configuration directory, synchronized across machines via git. 
 - [x] `session-env/` - Session environment state (389 empty session directories)
 - [x] `shell-snapshots/` - Shell environment snapshots (1066 zsh state captures from Nov-Dec 2025)
 - [x] `statsig/` - Statsig feature flag cache (50+ gates, 30+ experiments)
+- [x] `telemetry/` - Telemetry data and usage tracking
 - [x] `todos/` - Per-session todo list state (2939 JSON files, mostly empty arrays)
 
 ## Search Tags

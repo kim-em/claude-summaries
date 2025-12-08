@@ -1,11 +1,11 @@
 ---
 source_path: /Users/kim/.claude/projects
-generated: 2025-12-07T20:15:00Z
-git_sha: cebfbc124ad636335256159ee28dd0fe48d30e73
+generated: 2025-12-08T07:07:00Z
+git_sha: 8345a514d8c10f0ac9da977a555996abb463c434
 git_branch: master
 status: preliminary
 files_count: 0
-subdirs_count: 86
+subdirs_count: 61
 ---
 
 # projects
@@ -21,7 +21,7 @@ No files in the root directory - all content is in subdirectories.
 ## Subdirectories
 
 ### Local Mac Projects (10 directories)
-- [x] `-Users-kim/` - Home directory sessions (101 session files)
+- [x] `-Users-kim/` - Home directory sessions (122 session files)
 - [x] `-Users-kim--claude/` - `.claude` configuration directory sessions (99 files, meta-work)
 - [x] `-Users-kim--claude-skills-new-claude-sessions/` - Sessions for the new-claude-sessions skill (15 session files, 136KB)
 - [x] `-Users-kim-bin/` - Personal bin directory sessions (3 session files, 150KB)

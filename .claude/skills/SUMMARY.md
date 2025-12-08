@@ -1,7 +1,7 @@
 ---
 source_path: /Users/kim/.claude/skills
-generated: 2025-12-07T20:15:00Z
-git_sha: cebfbc124ad636335256159ee28dd0fe48d30e73
+generated: 2025-12-08T07:08:00Z
+git_sha: 8345a514d8c10f0ac9da977a555996abb463c434
 git_branch: master
 status: complete
 files_count: 0
@@ -38,7 +38,7 @@ This directory contains no files at the top level; all content is organized into
 
 ### Session & Workflow Management (2 skills)
 - [x] `new-claude-sessions/` - Spawn parallel Claude sessions (background, iTerm2, local/remote Cursor) with git cloning and machine-aware defaults (9 files)
-- [x] `claude-usage/` - Expect-based TUI automation to check subscription quotas with pacing indicators (6 files)
+- [x] `claude-usage/` - Expect-based TUI automation to check subscription quotas with pacing indicators, caching, and smart model selection (8 files)
 
 ### Communication Platforms (2 skills)
 - [x] `zulip/` - Read-only Zulip access with HTML stripping and 80-90% token reduction via custom formatter (10 files)
