@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Combinatorics/Enumerative
-generated: 2025-12-08T15:45:00Z
+generated: 2025-12-08T19:15:00Z
 git_sha: 8427e48fbc3922ef6f581162121a110b53390490
 git_branch: fix-deprecated-module-linter-public-import
-status: preliminary
+status: complete
 files_count: 9
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-The `Enumerative/` directory contains formalized enumerative combinatorics: the branch of mathematics concerned with counting objects with specific properties. Core topics include Bell numbers (counting set partitions), Catalan numbers (counting binary trees, Dyck paths, and balanced brackets), compositions (ordered partitions), double counting arguments for bipartite graphs, Dyck words (balanced parentheses sequences), incidence algebras (formalized multiplicative structures on posets with Möbius inversion), inclusion-exclusion principles, integer partitions, and Stirling numbers (counting permutations with k cycles and set partitions into k subsets). Many results establish bijections between combinatorial objects and prove their enumeration formulas.
+The `Enumerative/` directory contains formalized enumerative combinatorics: the branch of mathematics concerned with counting objects with specific properties. Core topics include Bell numbers (counting set partitions with various refinements), Catalan numbers (counting binary trees, Dyck paths, and balanced brackets with explicit formulas and bijections), compositions (ordered partitions contrasting with unordered integer partitions), double counting arguments for bipartite graphs, Dyck words (balanced parentheses sequences), incidence algebras (multiplicative structures on posets with Möbius inversion and Euler characteristic), inclusion-exclusion principles (alternating sum formulas for unions and intersections), and Stirling numbers (counting permutations with k cycles and set partitions into k subsets). The `Partition/` subdirectory provides a comprehensive theory of integer partitions including the fundamental `Partition n` structure as multisets, conversions between partitions and other structures (compositions, symmetric functions), special partition types (odd parts, distinct parts), and a complete generating function theory with infinite product formulas including `genFun f = ∏' i, (1 + ∑' j, f(i+1)(j+1) • X^((i+1)*(j+1)))` with convergence proofs.
 
 ## Key Files
 
