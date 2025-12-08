@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Computability
-generated: 2025-12-08T15:40:00Z
+generated: 2025-12-08T20:15:00Z
 git_sha: 8427e48fbc3922ef6f581162121a110b53390490
 git_branch: fix-deprecated-module-linter-public-import
-status: preliminary
+status: complete
 files_count: 22
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-The `Computability/` directory contains the formalization of computability theory and theoretical computer science foundations in mathlib4. It encompasses three major areas: (1) formal language theory including regular languages, automata (DFA, NFA, epsilon-NFA), regular expressions, context-free grammars, and the Myhill-Nerode theorem; (2) computability theory including primitive recursive functions, partial recursive functions, Turing machines (TM0, TM1, TM2, Post-Turing machines), encodings, the halting problem, Rice's theorem, Turing degrees, and many-one reductions; and (3) complexity theory including the Ackermann function (proven non-primitive-recursive but computable) and the Akra-Bazzi theorem for analyzing divide-and-conquer recurrences. The directory provides a complete hierarchy from basic language definitions through automata theory to universal computation models and undecidability results.
+The `Computability/` directory contains the formalization of computability theory and theoretical computer science foundations in mathlib4. It encompasses three major areas: (1) **formal language theory** including regular languages, automata (DFA, NFA, epsilon-NFA), regular expressions, context-free grammars, and the Myhill-Nerode theorem; (2) **computability theory** including primitive recursive functions, partial recursive functions, Turing machines (TM0, TM1, TM2, Post-Turing machines), encodings, the halting problem, Rice's theorem, Turing degrees, and many-one reductions; and (3) **complexity theory** including the Ackermann function (proven non-primitive-recursive but computable) and the Akra-Bazzi theorem for analyzing divide-and-conquer recurrences. The directory provides a complete progression from basic language definitions through automata theory to universal computation models and undecidability results. The AkraBazzi subdirectory contains a full formalization of the Akra-Bazzi theorem using a sum-based formulation, establishing asymptotic bounds for divide-and-conquer recurrences—a practical tool for algorithm analysis that complements the theoretical foundations in the parent directory.
 
 ## Key Files
 
