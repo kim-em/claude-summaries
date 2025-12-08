@@ -5,7 +5,7 @@ git_sha: 8345a514d8c10f0ac9da977a555996abb463c434
 git_branch: master
 status: preliminary
 files_count: 0
-subdirs_count: 61
+subdirs_count: 59
 ---
 
 # projects
@@ -20,7 +20,7 @@ No files in the root directory - all content is in subdirectories.
 
 ## Subdirectories
 
-### Local Mac Projects (10 directories)
+### Local Mac Projects (8 directories)
 - [x] `-Users-kim/` - Home directory sessions (122 session files)
 - [x] `-Users-kim--claude/` - `.claude` configuration directory sessions (99 files, meta-work)
 - [x] `-Users-kim--claude-skills-new-claude-sessions/` - Sessions for the new-claude-sessions skill (15 session files, 136KB)
@@ -28,8 +28,6 @@ No files in the root directory - all content is in subdirectories.
 - [x] `-Users-kim-Downloads-tshirt/` - T-shirt download project (image manipulation, Lean logo conversion)
 - [x] `-Users-kim-metacortex/` - Metacortex project (304 session files)
 - [x] `-Users-kim-projects-claude-factorio/` - Claude Factorio project (27 session files, 16MB, Factorio 2.0 mod development)
-- [x] `-Users-kim-projects-claude-summary/` - Claude summary project (1049 session files, intensive meta-work and ongoing summarization)
-- [x] `-Users-kim-projects-zulip-client/` - Zulip client project (4448 session files, extensive CLI development and heavy daily usage)
 
 ### Lean4 Core Projects (7 directories)
 - [x] `-Users-kim-projects-lean-lean4/` - Main lean4 repository (29 session files, 5.4MB, compiler/tactic work, grind bug fixes)
