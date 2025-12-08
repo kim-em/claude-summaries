@@ -28,7 +28,7 @@ The `Combinatorics/` directory contains formalized combinatorial mathematics inc
 
 ## Subdirectories
 
-- [ ] `Additive/` - Additive combinatorics (pending)
+- [~] `Additive/` - Additive combinatorics (preliminary)
 - [ ] `Derangements/` - Derangements and permutations without fixed points (pending)
 - [ ] `Digraph/` - Directed graphs (pending)
 - [ ] `Enumerative/` - Enumerative combinatorics (pending)
