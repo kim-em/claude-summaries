@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Combinatorics/Quiver
-generated: 2025-12-08T23:40:00Z
+generated: 2025-12-08T23:45:00Z
 git_sha: 8427e48fbc3922ef6f581162121a110b53390490
 git_branch: fix-deprecated-module-linter-public-import
-status: preliminary
+status: complete
 files_count: 13
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-The `Quiver/` directory contains a comprehensive formalization of quivers (directed multigraphs) in Lean. A quiver on type `V` assigns to every pair of vertices `a b : V` a type `a ⟶ b` of arrows between them. This is a very permissive notion of directed graph that allows multiple edges and serves as the foundation for category theory. The directory includes theory for paths, connectivity, symmetrization, subquivers, morphisms (prefunctors), arborescences (directed rooted trees), and covering maps.
+The `Quiver/` directory contains a comprehensive formalization of quivers (directed multigraphs) in Lean. A quiver on type `V` assigns to every pair of vertices `a b : V` a type `a ⟶ b` of arrows between them. This is a very permissive notion of directed graph that allows multiple edges and serves as the foundation for category theory. The directory includes theory for paths, connectivity, symmetrization, subquivers, morphisms (prefunctors), arborescences (directed rooted trees), and covering maps. The `Path/` subdirectory extends path theory with boundary-crossing decomposition lemmas (splitting paths at set boundaries), vertex operations (listing and reasoning about vertices along paths), and weight computations (multiplicative and additive measures along paths for ordered semirings).
 
 ## Key Files
 
