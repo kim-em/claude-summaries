@@ -1,0 +1,47 @@
+---
+source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Combinatorics
+generated: 2025-12-08T15:40:00Z
+git_sha: 8427e48fbc3922ef6f581162121a110b53390490
+git_branch: fix-deprecated-module-linter-public-import
+status: preliminary
+files_count: 7
+subdirs_count: 13
+---
+
+# Combinatorics
+
+## Overview
+
+The `Combinatorics/` directory contains formalized combinatorial mathematics including Ramsey theory, graph theory, enumeration, and optimization. Key results include the Hales-Jewett theorem, Hindman's theorem on finite sums, Alon's combinatorial Nullstellensatz, and various pigeonhole principles. The directory provides foundations for colexicographic ordering, configurations of points and lines, derangements, and specialized structures like matroids, quivers, set families, and simple graphs.
+
+## Key Files
+
+| File | Purpose |
+|------|---------|
+| Colex.lean | Colexicographic (colex) order on finite sets: a binary-like ordering that avoids large values, with properties like linearity, decidability, monotonicity preservation, and equivalence to geometric sums for ℕ; used in the Kruskal-Katona theorem |
+| Configuration.lean | Abstract configurations of points and lines with nondegeneracy conditions; proves that HasLines, HasPoints, and \|P\| = \|L\| are mutually implying properties (any two imply the third) |
+| HalesJewett.lean | Hales-Jewett theorem on combinatorial lines: any finite coloring of high-dimensional function space contains a monochromatic combinatorial line; includes multidimensional version for combinatorial subspaces and implies Van der Waerden's theorem |
+| Hindman.lean | Hindman's theorem on finite sums: for any finite coloring of a semigroup, there exists a sequence such that all finite sums (without repetition) are monochromatic; uses idempotent ultrafilters on Stone-Čech compactification |
+| Nullstellensatz.lean | Alon's combinatorial Nullstellensatz: gives combinatorial constraints for polynomial vanishing on Cartesian products of finite sets, with applications to zero-sum problems and combinatorial existence results |
+| Pigeonhole.lean | Collection of 20+ pigeonhole principle variants: basic principle (more pigeons than holes implies collision), variations with weight functions, strict/non-strict inequalities, and bounds on pigeons per hole |
+| Schnirelmann.lean | Schnirelmann density for sets of natural numbers: defined as inf_{n>0} \|A ∩ {1,...,n}\| / n, with bounds and calculations; foundational for additive combinatorics |
+
+## Subdirectories
+
+- [ ] `Additive/` - Additive combinatorics (pending)
+- [ ] `Derangements/` - Derangements and permutations without fixed points (pending)
+- [ ] `Digraph/` - Directed graphs (pending)
+- [ ] `Enumerative/` - Enumerative combinatorics (pending)
+- [ ] `Extremal/` - Extremal combinatorics (pending)
+- [ ] `Graph/` - General graph theory (pending)
+- [ ] `Hall/` - Hall's marriage theorem and related results (pending)
+- [ ] `Matroid/` - Matroid theory (pending)
+- [ ] `Optimization/` - Combinatorial optimization (pending)
+- [ ] `Quiver/` - Quivers (directed multigraphs) and their paths (pending)
+- [ ] `SetFamily/` - Families of sets and their properties (pending)
+- [ ] `SimpleGraph/` - Simple graphs (undirected graphs without loops or multiple edges) (pending)
+- [ ] `Young/` - Young tableaux and related combinatorial structures (pending)
+
+## Search Tags
+
+combinatorics ramsey-theory graph-theory enumeration colex colexicographic-order hales-jewett hindman ultrafilter nullstellensatz pigeonhole schnirelmann-density configuration matroid quiver set-family simple-graph young-tableau derangement extremal-combinatorics additive-combinatorics van-der-waerden
