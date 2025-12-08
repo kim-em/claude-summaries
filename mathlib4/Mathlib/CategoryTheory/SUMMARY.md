@@ -115,7 +115,7 @@ The `CategoryTheory/` directory contains the comprehensive formalization of cate
 - [x] `Pi/` - Pointwise category structure on indexed families of objects (complete)
 - [x] `Preadditive/` - Preadditive categories with additive hom-groups, injective/projective objects with resolutions, and specialized Yoneda embeddings (complete)
 - [ ] `Presentable/` - Presentable and accessible categories (pending)
-- [ ] `Products/` - Product category constructions (pending)
+- [x] `Products/` - Cartesian product categories with projection/section functors, swap equivalence, evaluation functors, associator and unitor coherence isomorphisms (complete)
 - [ ] `Quotient/` - Quotient categories (pending)
 - [ ] `Shift/` - Shift functors and graded structures (pending)
 - [ ] `Sigma/` - Coproduct (sigma) categories (pending)
