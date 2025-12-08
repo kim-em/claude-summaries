@@ -34,7 +34,7 @@ The `Quiver/` directory contains a comprehensive formalization of quivers (direc
 
 ## Subdirectories
 
-- [ ] `Path/` - Additional path theory: decomposition, vertices, and weight (pending)
+- [x] `Path/` - Additional path theory: decomposition, vertices, and weight (complete)
 
 ## Search Tags
 
