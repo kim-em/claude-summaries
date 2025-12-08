@@ -37,7 +37,7 @@ The `Additive/` directory contains formalized results in additive combinatorics,
 ## Subdirectories
 
 - [x] `AP/` - Arithmetic progressions: complete theory of 3-term arithmetic progressions including 3AP-free sets, Roth numbers, preservation under Freiman homomorphisms, and Behrend's lower bound construction (complete)
-- [ ] `Corner/` - Corners and corner-free sets (pending)
+- [x] `Corner/` - Corners and corner-free sets: formalizes corners theorem and its connection to Roth's theorem using triangle removal via Szemerédi's regularity lemma (complete)
 
 ## Search Tags
 
