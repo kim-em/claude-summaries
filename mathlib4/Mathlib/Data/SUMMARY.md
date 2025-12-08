@@ -48,7 +48,7 @@ The `Data/` directory contains fundamental data structures, numeric types, and t
 - [x] `Array/` - Arrays and array operations (complete)
 - [x] `Bool/` - Boolean type properties and operations (complete)
 - [?] `Complex/` - Complex numbers ℂ (pending)
-- [ ] `Countable/` - Countable types and countability properties (pending)
+- [?] `Countable/` - Countable types and countability properties (pending)
 - [ ] `DFinsupp/` - Dependent functions with finite support (pending)
 - [ ] `DList/` - Difference lists (efficient list concatenation) (pending)
 - [ ] `ENNReal/` - Extended non-negative reals [0, ∞] (pending)
