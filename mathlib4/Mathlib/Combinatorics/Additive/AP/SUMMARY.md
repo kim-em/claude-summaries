@@ -20,7 +20,7 @@ No files directly in this directory.
 
 ## Subdirectories
 
-- [ ] `Three/` - Results about 3-term arithmetic progressions (3AP-free sets, Roth numbers, Behrend's construction) (pending)
+- [x] `Three/` - Results about 3-term arithmetic progressions (3AP-free sets, Roth numbers, Behrend's construction) (complete)
 
 ## Search Tags
 
