@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/CategoryTheory/SmallObject
-generated: 2025-12-08T15:40:00Z
+generated: 2025-12-08T20:15:00Z
 git_sha: 8427e48fbc3922ef6f581162121a110b53390490
 git_branch: fix-deprecated-module-linter-public-import
-status: preliminary
+status: complete
 files_count: 6
 subdirs_count: 1
 ---
@@ -13,6 +13,8 @@ subdirs_count: 1
 ## Overview
 
 The `SmallObject/` directory implements Quillen's small object argument, a fundamental construction in category theory used to obtain functorial factorization systems. Given a class of morphisms `I : MorphismProperty C`, the small object argument (when it applies) factors any morphism `f : X ⟶ Y` as `ιObj I κ f ≫ πObj I κ f = f`, where the first morphism is a relative `I`-cell complex (a transfinite composition of pushouts of coproducts of morphisms in `I`) and the second has the right lifting property with respect to `I`. This construction proceeds by transfinite iteration indexed by a suitable regular cardinal `κ`, iterating a functor `Arrow C ⥤ Arrow C` that attaches `I`-cells at each step. The framework includes general machinery for transfinite constructions via well-ordered induction and proofs that the left lifting property is stable under transfinite composition.
+
+The `Iteration/` subdirectory provides the detailed implementation machinery for transfinite iteration of successor structures, which is essential for the small object argument's iterative construction. It handles the three cases of transfinite induction (bottom elements, successor elements, and limit elements) through a carefully designed functor-based approach that builds iterations as colimits along well-ordered types. This machinery ensures both uniqueness (via extensive well-founded induction) and existence (via transfinite induction constructing iterations at each stage) of the iteration process.
 
 ## Key Files
 
@@ -27,7 +29,7 @@ The `SmallObject/` directory implements Quillen's small object argument, a funda
 
 ## Subdirectories
 
-- [x] `Iteration/` - Detailed implementation machinery for transfinite iteration of successor structures (complete)
+- [x] `Iteration/` - Detailed implementation machinery for transfinite iteration of successor structures, handling bottom/successor/limit cases via functors along well-ordered types with uniqueness and existence proofs
 
 ## Search Tags
 
