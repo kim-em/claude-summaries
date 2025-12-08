@@ -32,7 +32,7 @@ The `Combinatorics/` directory contains formalized combinatorial mathematics inc
 - [x] `Derangements/` - Derangements (permutations without fixed points): defines derangements on types, proves recursive decomposition via Option types, establishes cardinality formulas, and shows D(n)/n! → 1/e
 - [x] `Digraph/` - Directed graphs: formalized as binary relations `V → V → Prop` with self-loops allowed; complete atomic Boolean algebra structure under subgraph ordering; conversion functions to simple graphs via orientation-forgetting maps
 - [x] `Enumerative/` - Enumerative combinatorics: Bell numbers (counting set partitions with refinements), Catalan numbers (counting binary trees and Dyck paths with bijections), compositions (ordered partitions), double counting arguments, Dyck words (balanced brackets), incidence algebras with Möbius inversion, inclusion-exclusion principles, integer partitions with generating function theory (infinite product formulas), and Stirling numbers (permutation cycles and set partitions)
-- [ ] `Extremal/` - Extremal combinatorics (pending)
+- [x] `Extremal/` - Extremal combinatorics: Ruzsa-Szemerédi problem on maximum edges in locally linear graphs (each edge in exactly one triangle), with construction from 3AP-free sets yielding Ω(n² * exp(-4 * √(log n))) lower bound
 - [ ] `Graph/` - General graph theory (pending)
 - [ ] `Hall/` - Hall's marriage theorem and related results (pending)
 - [ ] `Matroid/` - Matroid theory (pending)
