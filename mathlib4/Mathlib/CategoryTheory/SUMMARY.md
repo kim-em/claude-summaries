@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/CategoryTheory
-generated: 2025-12-07T08:30:00Z
+generated: 2025-12-08T00:00:00Z
 git_sha: 8806fb490620c3ccc60e504c32aefda32944948b
 git_branch: flexible-linter-simp-suggestions
-status: preliminary
+status: complete
 files_count: 57
 subdirs_count: 57
 ---
@@ -12,7 +12,7 @@ subdirs_count: 57
 
 ## Overview
 
-The `CategoryTheory/` directory contains the comprehensive formalization of category theory in mathlib4, providing the foundational infrastructure for categorical reasoning across mathematics. It implements the core categorical concepts (categories, functors, natural transformations, isomorphisms), fundamental constructions (opposites, products, limits, adjunctions, equivalences), specialized structures (abelian categories, monoidal categories, enriched categories, bicategories), and advanced topics (Yoneda lemma, Grothendieck construction, site theory, triangulated categories). This framework serves as the mathematical backbone for algebraic geometry, algebraic topology, homological algebra, and other areas of mathlib that benefit from categorical abstraction.
+The `CategoryTheory/` directory is the comprehensive formalization of category theory in mathlib4, spanning from foundational definitions through advanced specialized theories. At its core, it provides the basic language of categories (functors, natural transformations, isomorphisms, opposites) and fundamental universal constructions (limits/colimits, adjunctions, equivalences, Yoneda lemma). The implementation extends to enriched category theory (categories enriched over monoidal categories), monoidal structures (tensor products, braiding, rigidity, internal algebraic objects), and bicategories with higher-dimensional morphisms. Specialized categorical structures include abelian and preadditive categories (kernels, cokernels, exact sequences, injective/projective objects), triangulated categories (distinguished triangles, octahedron axiom, t-structures), presentable and accessible categories (κ-presentable objects, locally presentable categories), and Galois categories (fundamental groups). The directory also formalizes site theory and sheaves, topoi (both Grothendieck and elementary), fibered categories, localization of categories, lifting properties and weak factorization systems, and various special categories (groupoids, discrete/codiscrete, finite categories). This infrastructure serves as the mathematical backbone for algebraic geometry, algebraic topology, homological algebra, representation theory, and other areas throughout mathlib requiring categorical abstraction.
 
 ## Key Files
 
@@ -114,7 +114,7 @@ The `CategoryTheory/` directory contains the comprehensive formalization of cate
 - [x] `PathCategory/` - Path category from a quiver (complete)
 - [x] `Pi/` - Pointwise category structure on indexed families of objects (complete)
 - [x] `Preadditive/` - Preadditive categories with additive hom-groups, injective/projective objects with resolutions, and specialized Yoneda embeddings (complete)
-- [ ] `Presentable/` - Presentable and accessible categories (pending)
+- [x] `Presentable/` - Presentable and accessible categories with κ-presentable objects, κ-accessible functors, locally presentable categories, cardinal-filtered categories, and orthogonal-reflection construction for reflective subcategories (complete)
 - [x] `Products/` - Cartesian product categories with projection/section functors, swap equivalence, evaluation functors, associator and unitor coherence isomorphisms (complete)
 - [x] `Quotient/` - Quotient categories with preadditive and linear structure preservation (complete)
 - [x] `Shift/` - Shift functors and graded structures (complete)
