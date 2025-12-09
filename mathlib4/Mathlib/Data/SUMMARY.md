@@ -60,7 +60,7 @@ The `Data/` directory contains fundamental data structures, numeric types, and t
 - [x] `Finite/` - Finite types and finiteness properties
 - [x] `Finset/` - Finite sets (sets with decidable membership and finite cardinality)
 - [x] `Finsupp/` - Functions with finite support
-- [ ] `Fintype/` - Types with finitely many elements
+- [x] `Fintype/` - Types with finitely many elements
 - [ ] `FunLike/` - Type class for function-like structures
 - [ ] `Int/` - Integers ℤ
 - [ ] `List/` - Lists (inductive sequences)
