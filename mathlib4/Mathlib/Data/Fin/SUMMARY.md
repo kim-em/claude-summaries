@@ -31,7 +31,7 @@ The `Fin/` directory provides comprehensive theory for the finite type `Fin n`, 
 
 ## Subdirectories
 
-- [ ] `Tuple/` - Tuple operations and theory for `Fin n → α` (vectors with statically-known length)
+- [x] `Tuple/` - Tuple operations and theory for `Fin n → α` (vectors with statically-known length)
 
 ## Search Tags
 
