@@ -70,7 +70,7 @@ The `Finset/` directory implements finite sets in Lean, providing the core data 
 
 ## Subdirectories
 
-- [ ] `Lattice/` - Lattice-theoretic operations: supremum/infimum folding, Pi/Prod lattice structures, and union lemmas
+- [x] `Lattice/` - Lattice-theoretic operations: supremum/infimum folding, Pi/Prod lattice structures, and union lemmas
 
 ## Search Tags
 
