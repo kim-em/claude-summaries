@@ -26,7 +26,7 @@ Special topics course MATH4349 on Category Theory taught in Semester 1 2016 with
 
 - [x] `Angus/` - Student work by Angus Gruen including draft final report and problem writeups on category theory and tensor categories
 - [x] `Damon/` - Student work by Damon Binder
-- [ ] `Ivo/` - Student work by Ivo Lopez
+- [x] `Ivo/` - Student work by Ivo Vekemans
 - [ ] `Jaklyn/` - Student work by Jaklyn Crilly
 - [ ] `Michael/` - Student work by Michael O'Connor
 - [ ] `Rowan/` - Student work by Rowan Cockett
