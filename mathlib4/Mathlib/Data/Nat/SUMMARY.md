@@ -56,7 +56,7 @@ The `Nat/` directory contains the foundational theory of natural numbers (ℕ) i
 ## Subdirectories
 
 - [x] `Cast/` - Casting natural numbers to other numeric types
-- [ ] `Choose/` - Binomial coefficients (n choose k)
+- [x] `Choose/` - Binomial coefficients (n choose k)
 - [ ] `Digits/` - Digit representations in various bases
 - [ ] `Factorial/` - Factorial function and properties
 - [ ] `Factorization/` - Prime factorization as multisets and related theory
