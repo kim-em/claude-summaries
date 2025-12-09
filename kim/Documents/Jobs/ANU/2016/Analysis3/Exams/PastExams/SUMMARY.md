@@ -20,7 +20,7 @@ No files directly in this directory.
 
 ## Subdirectories
 
-- [ ] `2013/` - Final exam materials from 2013 (timed 3-hour exam with 6 questions, 100 points total)
+- [x] `2013/` - Final exam materials from 2013 (timed 3-hour exam with 6 questions, 100 points total)
 - [ ] `2014/` - Final exam materials from 2014 (timed 3-hour exam with 10 questions, 135 points total, plus "Possible exam problems" section)
 - [ ] `2015/` - Final exam materials from 2015 (48-hour take-home exam with 5 questions worth 20 marks each)
 
