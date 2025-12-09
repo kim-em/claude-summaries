@@ -34,7 +34,7 @@ MATH3325 Analysis 3 course taught in Semester 2, 2016, with 23 enrolled students
 - [ ] `LectureNotes/` - 14 lecture note PDFs and LaTeX sources covering functional calculus, Hilbert spaces, compact operators, calculus, Fourier transform, fundamental solutions, Dirichlet problem, measure theory, integration theory, function spaces, Radon-Nikodym derivatives, Stone-Weierstrass, spectral theory, and Banach spaces
 - [ ] `ProblemSets/` - 4 problem sets with hints and past problem sets archive
 - [x] `Assignments/` - 4 assignments with LaTeX sources, sample solutions PDFs, submission folders, and unreleased solutions
-- [~] `Essays/` - Essay topics, draft submissions, examples, final essays, and plagiarism case documentation
+- [x] `Essays/` - Essay topics, draft submissions, examples, final essays, and plagiarism case documentation
 - [ ] `Exams/` - Final exam with LaTeX source, solutions PDF, rejects/unused problems, graded exam scans, past exams archive, and MSI exam class file
 - [ ] `grades/` - Grade certification PDFs for MATH3325 and MATH6214 (both signed and unsigned versions), CSV grades, and Mathematica notebook
 - [ ] `books/` - Course textbooks and references including Stein & Shakarchi volumes 1-4, Bressan, Conway, Halmos, Helmberg, and Pedersen, plus solutions manual
