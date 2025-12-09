@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/Analysis3/Exams
-generated: 2025-12-09T08:15:00Z
+generated: 2025-12-09T10:45:00Z
 git_sha: 48a99ef1be36fc0c3cca2af4518f1aebb71ec697
 git_branch: master
-status: preliminary
+status: complete
 files_count: 7
 subdirs_count: 2
 ---
@@ -12,7 +12,7 @@ subdirs_count: 2
 
 ## Overview
 
-Final exam materials for MATH3325/MATH6214 (Advanced functional analysis, spectral theory, and applications) Semester 2, 2016. The folder contains the final exam with LaTeX source, comprehensive solutions PDF, rejected/unused problems with their own document, graded exam scans from approximately 19 students, past exams archive from 2013-2015, the MSI exam document class file, and ANU examination information gathering form. The exam covers advanced topics including spectrum of operators, self-adjoint and normal operators, Fourier multiplier operators, weak-* topology, and Banach space theory with questions totaling 50 points across 5 problems.
+Complete final exam archive for MATH3325/MATH6214 (Advanced functional analysis, spectral theory, and applications) Semester 2, 2016. The folder contains the 2016 final exam with LaTeX source and comprehensive solutions, rejected/unused problems document providing additional practice material, scanned graded exam scripts from 19 students with detailed marking annotations, and a complete historical archive of past exams from 2013-2015 showing the evolution from traditional timed formats to take-home exams. The 2016 final exam covers advanced topics including spectrum of operators, self-adjoint and normal operators, Fourier multiplier operators, weak-* topology, and Banach space theory with 5 questions totaling 50 points. Also includes the MSI exam LaTeX document class and ANU examination information gathering form.
 
 ## Key Files
 
