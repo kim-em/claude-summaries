@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/Analysis3/ProblemSets
-generated: 2025-12-05T07:15:00Z
+generated: 2025-12-09T07:30:00Z
 git_sha: 48a99ef1be36fc0c3cca2af4518f1aebb71ec697
 git_branch: master
-status: preliminary
+status: complete
 files_count: 12
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Four problem sets for MATH3325 Analysis 3 (2016), covering Hilbert space theory (closed subspaces, projections, bounded linear transformations, orthogonal projections, finite rank operators), Lp spaces and metric geometry (closest point problems in different Lp norms demonstrating non-uniqueness in non-Hilbert spaces), Fourier analysis (symmetry properties, Hermite functions as eigenfunctions, convolution approximations, central limit theorem), and Banach space theory (inequivalent norms, quotient spaces, dual space characterization). Each problem set includes both a student version PDF and a hints version PDF with handwritten solutions, plus LaTeX sources. Problem sets were discussed in tutorials on specific dates (July 25, August 1 & 8, August 21 & 29, October 19).
+Complete set of problem sets for MATH3325 Analysis 3 (2016), including four current-year problem sets and an archive of past problem sets from earlier course offerings. The 2016 problem sets progress through core functional analysis topics: Hilbert space theory (closed subspaces, projections, bounded linear transformations, finite rank operators), Lp spaces demonstrating unique Hilbert space properties (closest point problems showing non-uniqueness in non-Hilbert Banach spaces), Fourier analysis (symmetry properties, Hermite functions as eigenfunctions, convolution approximations, central limit theorem), and Banach space theory (inequivalent norms, quotient spaces, dual space characterization). Each problem set includes student version PDF, handwritten hints/solutions PDF, and LaTeX source. The archive subfolder preserves five problem sets from 2010 and 2012 offerings that covered topics not included in 2016 (measure theory, Radon-Nikodym theorem, weak topology), showing the evolution of the course's pedagogical focus.
 
 ## Key Files
 
