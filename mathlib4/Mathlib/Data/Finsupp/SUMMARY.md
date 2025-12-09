@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/lean4-2/downstream_releases/mathlib4/Mathlib/Data/Finsupp
-generated: 2025-12-09T06:30:00Z
+generated: 2025-12-09T09:00:00Z
 git_sha: 8630639169c28647dbae9f5b0132c77dcbfe2281
 git_branch: bump_to_v4.26.0-rc2
-status: preliminary
+status: complete
 files_count: 27
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-The `Finsupp/` directory implements finitely supported functions `α →₀ M`, which are functions from `α` to `M` (where `M` has a zero) that are zero everywhere except on a finite set. This fundamental data structure underlies polynomials, multivariate polynomials, monoid algebras, and linear combinations in mathlib4. The directory provides the core definition, basic operations (single, update, erase, mapRange, embDomain), algebraic structure instances, ordering relations (lexicographic, pointwise), conversions to/from related types (DFinsupp, AList, Multiset), and specialized constructions for computational algebra (monomial orders, weights, antidiagonals).
+The `Finsupp/` directory implements finitely supported functions `α →₀ M`, which are functions from `α` to `M` (where `M` has a zero) that are zero everywhere except on a finite set. This fundamental data structure underlies polynomials, multivariate polynomials, monoid algebras, and linear combinations in mathlib4. The directory provides the core definition, basic operations (single, update, erase, mapRange, embDomain), algebraic structure instances, ordering relations (lexicographic, pointwise), conversions to/from related types (DFinsupp, AList, Multiset), and specialized constructions for computational algebra (monomial orders, weights, antidiagonals). The `MonomialOrder/` subdirectory extends the basic lexicographic ordering framework with the degree-lexicographic (graded lexicographic) ordering, which is essential for Gröbner basis algorithms and compares monomials first by total degree and then lexicographically.
 
 ## Key Files
 
