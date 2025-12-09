@@ -48,7 +48,7 @@ The `Finsupp/` directory implements finitely supported functions `α →₀ M`, 
 
 ## Subdirectories
 
-- [ ] `MonomialOrder/` - Additional monomial order constructions (e.g., graded lexicographic order)
+- [x] `MonomialOrder/` - Additional monomial order constructions (e.g., graded lexicographic order)
 
 ## Search Tags
 
