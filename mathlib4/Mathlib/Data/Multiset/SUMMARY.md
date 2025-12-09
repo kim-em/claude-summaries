@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Data/Multiset
-generated: 2025-12-09T10:00:00Z
+generated: 2025-12-09T21:28:00Z
 git_sha: 52bf977aaf73eb6dcf02137c12d9ed22fd9687ef
 git_branch: fix/improve-init-import-error-message
-status: preliminary
+status: complete
 files_count: 29
 subdirs_count: 0
 ---
