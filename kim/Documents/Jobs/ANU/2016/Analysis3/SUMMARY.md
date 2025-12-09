@@ -37,7 +37,7 @@ MATH3325 Analysis 3 course taught in Semester 2, 2016, with 23 enrolled students
 - [x] `Essays/` - Essay topics, draft submissions, examples, final essays, and plagiarism case documentation
 - [x] `Exams/` - Final exam with LaTeX source, solutions PDF, rejects/unused problems, graded exam scans, past exams archive, and MSI exam class file
 - [x] `grades/` - Grade certification PDFs for MATH3325 and MATH6214 (both signed and unsigned versions), CSV grades, and Mathematica notebook
-- [ ] `books/` - Course textbooks and references including Stein & Shakarchi volumes 1-4, Bressan, Conway, Halmos, Helmberg, and Pedersen, plus solutions manual
+- [x] `books/` - Course textbooks and references including Stein & Shakarchi volumes 1-4, Bressan, Conway, Halmos, Helmberg, and Pedersen, plus solutions manual
 - [ ] `SELT/` - Student Evaluation of Learning and Teaching (SELT) request form
 - [ ] `summer/` - 7 PDF submissions from Kyle Broder completing coursework in summer session (4 assignments, final essay, final exam, dated Nov 2016 - Feb 2017)
 
