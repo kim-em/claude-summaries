@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/Analysis3
-generated: 2025-12-05T05:17:27Z
+generated: 2025-12-09T10:00:00Z
 git_sha: 48a99ef1be36fc0c3cca2af4518f1aebb71ec697
 git_branch: master
-status: preliminary
+status: complete
 files_count: 9
 subdirs_count: 9
 ---
@@ -12,7 +12,11 @@ subdirs_count: 9
 
 ## Overview
 
-MATH3325 Analysis 3 course taught in Semester 2, 2016, with 23 enrolled students. The course covers advanced real analysis topics including Hilbert spaces, compact operators, measure theory, integration theory, Radon-Nikodym derivatives, Stone-Weierstrass theorem, spectral theory, and Banach spaces, based on Stein & Shakarchi's Real Analysis (Vol. III) chapters 4-6 and selected material from Functional Analysis (Vol. IV). The folder contains complete course materials including 14 lecture note PDFs, 4 problem sets, 4 assignments with submissions, essay requirements and submissions (including plagiarism case), final exam with solutions, reference textbooks, grading records, SELT evaluation form, and summer session work for one student (Kyle Broder) who completed coursework outside the regular semester.
+Complete archive of MATH3325/MATH6214 Advanced Functional Analysis and Spectral Theory course from Semester 2, 2016 at ANU, taught to 23 students. The course provides comprehensive coverage of advanced real analysis topics including Hilbert space theory, compact operators, measure theory, integration theory, Radon-Nikodym derivatives, Stone-Weierstrass theorem, spectral theory, and Banach spaces, drawing primarily from Stein & Shakarchi's Real Analysis (Vol. III) chapters 4-6 and selected material from Functional Analysis (Vol. IV).
+
+The archive captures the complete pedagogical workflow across all course components: 14 sequential lecture note modules progressing from functional calculus motivation through Hilbert/Banach space theory; 4 problem sets with handwritten instructor solutions; 4 substantial assignments (80 marks mathematics + 20 marks exposition) with comprehensive grading workflow showing scores ranging 33-95/100 and detailed feedback on proof rigor, notation, and theorem application; essay component with 15 curated topics, draft feedback process for 15 students, final submissions from 19 students, and complete documentation of a systematic contract cheating case via Freelancer.com; final exam with solutions, rejected problems, and 19 graded scripts; grade certification for both undergraduate (MATH3325, 11 students) and postgraduate (MATH6214, 12 students) sections showing final distribution of 6 HD, 2 D, 6 CR, 3 P, 2 F, 2 DA, 2 NCN; and summer session completion materials for Kyle Broder who finished all coursework November 2016-February 2017.
+
+The materials reveal sophisticated pedagogical practices: peer-appropriate essay writing ("audience of MATH3325 peers"), extensive draft feedback with 2MB annotated PDFs, quality-calibrated exemplars from 2009-2013, systematic grading rubrics emphasizing mathematical rigor and exposition clarity, and preservation of alternative solutions and unused exam problems for future reference. The folder also documents significant challenges in academic integrity, with comprehensive evidentiary documentation of contract cheating including Freelancer.com job postings, reference packages, bank transactions, and formal misconduct allegations from three professors.
 
 ## Key Files
 
@@ -31,16 +35,16 @@ MATH3325 Analysis 3 course taught in Semester 2, 2016, with 23 enrolled students
 
 ## Subdirectories
 
-- [ ] `LectureNotes/` - 14 lecture note PDFs and LaTeX sources covering functional calculus, Hilbert spaces, compact operators, calculus, Fourier transform, fundamental solutions, Dirichlet problem, measure theory, integration theory, function spaces, Radon-Nikodym derivatives, Stone-Weierstrass, spectral theory, and Banach spaces
-- [x] `ProblemSets/` - 4 problem sets with hints and past problem sets archive
-- [x] `Assignments/` - 4 assignments with LaTeX sources, sample solutions PDFs, submission folders, and unreleased solutions
-- [x] `Essays/` - Essay topics, draft submissions, examples, final essays, and plagiarism case documentation
-- [x] `Exams/` - Final exam with LaTeX source, solutions PDF, rejects/unused problems, graded exam scans, past exams archive, and MSI exam class file
-- [x] `grades/` - Grade certification PDFs for MATH3325 and MATH6214 (both signed and unsigned versions), CSV grades, and Mathematica notebook
-- [x] `books/` - Course textbooks and references including Stein & Shakarchi volumes 1-4, Bressan, Conway, Halmos, Helmberg, and Pedersen, plus solutions manual
-- [x] `SELT/` - Student Evaluation of Learning and Teaching (SELT) request form
-- [x] `summer/` - 7 PDF submissions from Kyle Broder completing coursework in summer session (4 assignments, final essay, final exam, dated Nov 2016 - Feb 2017)
+- [x] `LectureNotes/` - 14 sequential chapters progressing from functional calculus motivation through Hilbert spaces, compact operators, calculus, Fourier transform, fundamental solutions, Dirichlet problem, measure theory, integration theory, function spaces, Radon-Nikodym derivatives, Stone-Weierstrass, spectral theory, to Banach spaces (29 files: LaTeX sources and compiled PDFs)
+- [x] `ProblemSets/` - 4 problem sets covering Hilbert space theory, Lp spaces, Fourier analysis, and Banach spaces, with handwritten solutions and archive of past problem sets from 2010/2012 showing course evolution
+- [x] `Assignments/` - 4 assignments (100 marks each: 80 mathematics + 20 exposition) covering bounded linear transformations, compact operators, Fourier analysis, PDEs, measure theory, spectral theory, and weak topology, with comprehensive grading workflow and submissions from ~18 students per assignment showing scores ranging 33-95/100
+- [x] `Essays/` - Essay component with 15 suggested topics, curated exemplars from 2009-2013, draft feedback for 15 students (29 files, 29MB annotated PDFs), final submissions from 19 students on functional analysis and stochastic processes, and complete contract cheating case documentation (Freelancer.com evidence, bank records, formal allegations)
+- [x] `Exams/` - Final exam with 5 questions (50 points total) covering spectrum of operators, self-adjoint/normal operators, Fourier multipliers, weak-* topology, and Banach spaces, plus comprehensive solutions, rejected problems for practice, 19 graded student scripts, and past exam archive from 2013-2015
+- [x] `grades/` - Official grade certification PDFs for MATH3325 (11 students) and MATH6214 (12 students) in both unsigned and digitally signed versions, CSV final grades, and Mathematica notebook with grade calculations
+- [x] `books/` - Complete reference collection including required text (Stein & Shakarchi Real Analysis Vol. III with solutions manual), all four volumes of Princeton Lectures in Analysis series, and supplementary texts by Bressan, Conway, Halmos, Helmberg, and Pedersen
+- [x] `SELT/` - Student Evaluation of Learning and Teaching request form for course and teaching evaluation questionnaires, submitted August 31, 2016
+- [x] `summer/` - Summer session coursework completion by Kyle Broder (u5828165): 4 assignments, final essay on Peter-Weyl theorem (19/20), and final exam, spanning November 2016 to February 2017, all with detailed instructor feedback
 
 ## Search Tags
 
-math3325 analysis3 anu 2016 semester2 real-analysis functional-analysis hilbert-spaces measure-theory integration spectral-theory compact-operators banach-spaces stone-weierstrass radon-nikodym fourier-transform dirichlet-problem stein-shakarchi latex course-materials lecture-notes assignments problem-sets essay exams grading selt 23-students kyle-broder summer-session plagiarism
+math3325 math6214 analysis3 anu 2016 semester2 scott-morrison real-analysis functional-analysis hilbert-spaces banach-spaces measure-theory integration-theory spectral-theory compact-operators stone-weierstrass radon-nikodym fourier-transform dirichlet-problem stein-shakarchi latex course-materials lecture-notes assignments problem-sets essays exams grading selt 23-students kyle-broder summer-session academic-misconduct contract-cheating freelancer-com plagiarism michael-chappuis pedagogy draft-feedback exemplars grading-workflow peter-weyl-theorem lp-spaces weak-topology self-adjoint-operators normal-operators fourier-multipliers riesz-representation fubini-tonelli closed-graph-theorem undergraduate postgraduate hd-d-cr-p-f grades-certification
