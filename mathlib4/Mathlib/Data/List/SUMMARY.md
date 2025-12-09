@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Data/List
-generated: 2025-12-09T18:35:00Z
+generated: 2025-12-09T21:15:00Z
 git_sha: 52bf977aaf73eb6dcf02137c12d9ed22fd9687ef
 git_branch: fix/improve-init-import-error-message
-status: preliminary
+status: complete
 files_count: 60
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-The `List/` directory contains comprehensive theory and operations for lists (inductive sequences) in Lean. It provides fundamental definitions, basic properties, structural predicates (chains, cycles, duplicates, no-duplicates), list transformations (sorting, permutations, rotations, deduplication), operations on list elements (insertion, removal, indexing, splitting, zipping), and specialized constructs like association lists and list comprehensions. This foundational collection theory supports both computational list operations and formal reasoning about sequences.
+The `List/` directory provides the foundational theory and operations for lists (inductive sequences) in Lean, serving as one of the core collection types in mathlib4. It contains comprehensive coverage of list operations including fundamental properties, structural predicates (chains, cycles, duplicates, no-duplicates), list transformations (sorting, permutations, rotations, deduplication), element operations (insertion, removal, indexing, splitting, zipping), and specialized constructs like association lists and TFAE (The Following Are Equivalent) predicates. The directory includes 60 files covering everything from basic definitions and monadic operations to advanced topics like lexicographic orderings, periodicity lemmas, and symmetric group operations. The `Perm/` subdirectory provides dedicated theory for permutation and sub-permutation relations, including advanced theorems about permutation equivalence, lattice operations, and count-based characterizations. This collection supports both efficient computational list operations and rigorous formal reasoning about sequences.
 
 ## Key Files
 
