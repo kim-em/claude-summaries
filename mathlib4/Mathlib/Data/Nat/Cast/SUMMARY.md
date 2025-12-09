@@ -30,7 +30,7 @@ The `Cast/` directory implements the canonical homomorphism from natural numbers
 
 ## Subdirectories
 
-- [ ] `Order/` - Order-theoretic properties of natural number casts
+- [x] `Order/` - Order-theoretic properties of natural number casts
 
 ## Search Tags
 
