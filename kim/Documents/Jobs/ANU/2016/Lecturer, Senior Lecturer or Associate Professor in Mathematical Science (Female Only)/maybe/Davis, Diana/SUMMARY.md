@@ -27,7 +27,7 @@ Application materials for Diana Davis, a candidate for the 2016 ANU mathematical
 
 ## Subdirectories
 
-- [ ] `papers/` - Research publications (2 papers on billiards and translation surfaces)
+- [x] `papers/` - Research publications (2 papers on billiards and translation surfaces)
 
 ## Search Tags
 
