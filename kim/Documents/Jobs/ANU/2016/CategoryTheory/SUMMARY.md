@@ -29,7 +29,7 @@ Special topics course MATH4349 on Category Theory taught in Semester 1 2016 with
 - [x] `Ivo/` - Student work by Ivo Vekemans
 - [x] `Jaklyn/` - Student work by Jaklyn Crilly
 - [x] `Michael/` - Student work by Michael O'Connor
-- [ ] `Rowan/` - Student work by Rowan Cockett
+- [~] `Rowan/` - Student work by Rowan Cockett
 
 ## Search Tags
 
