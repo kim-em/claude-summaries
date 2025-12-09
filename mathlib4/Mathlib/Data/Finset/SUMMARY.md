@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Data/Finset
-generated: 2025-12-09T10:35:00Z
+generated: 2025-12-09T12:15:00Z
 git_sha: 52bf977aaf73eb6dcf02137c12d9ed22fd9687ef
 git_branch: fix/improve-init-import-error-message
-status: preliminary
+status: complete
 files_count: 49
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-The `Finset/` directory implements finite sets in Lean, providing the core data structure for representing finite subsets with decidable membership and operations. A `Finset α` is implemented as a multiset (list up to permutation) with a proof of no duplicates, enabling both computational and mathematical reasoning. This directory contains fundamental operations (insert, erase, union, intersection), cardinality theory, image/map functions, folding operations, and specialized constructions like powersets, products, antidiagonals, and sorting. Finsets serve as the foundation for finite sums/products (big operators) and the `Fintype` type class.
+The `Finset/` directory implements finite sets in Lean, providing the core data structure for representing finite subsets with decidable membership and operations. A `Finset α` is implemented as a multiset (list up to permutation) with a proof of no duplicates, enabling both computational and mathematical reasoning. This directory contains fundamental operations (insert, erase, union, intersection), cardinality theory, image/map functions, folding operations, and specialized constructions like powersets, products, antidiagonals, and sorting. The directory also establishes `Finset α` as a distributive lattice, with the `Lattice/` subdirectory providing advanced folding operations that compute suprema and infima over finset elements—enabling big operators like finite supremum `s.sup f` and specialized lattice operations on product and Pi types. Finsets serve as the foundation for finite sums/products (big operators) and the `Fintype` type class throughout mathlib.
 
 ## Key Files
 
