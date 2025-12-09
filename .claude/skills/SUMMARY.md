@@ -1,7 +1,7 @@
 ---
 source_path: /Users/kim/.claude/skills
-generated: 2025-12-08T07:08:00Z
-git_sha: 8345a514d8c10f0ac9da977a555996abb463c434
+generated: 2025-12-09T10:25:00Z
+git_sha: d3c5486ba8cc6e05ec408002550fd039e067c322
 git_branch: master
 status: complete
 files_count: 0
@@ -42,7 +42,7 @@ This directory contains no files at the top level; all content is organized into
 
 ### Communication Platforms (2 skills)
 - [x] `zulip/` - Read-only Zulip access with HTML stripping and 80-90% token reduction via custom formatter (10 files)
-- [x] `whatsapp/` - Send-only WhatsApp messaging via Baileys library with QR authentication (8 files)
+- [x] `whatsapp/` - WhatsApp messaging via Baileys library: send/read messages, background logger with launchd automation storing to ~/projects/corpus, multiple read strategies (query stored, real-time monitor, history fetch), QR authentication (12 files)
 
 ### Personal Productivity (4 skills)
 - [x] `todo/` - Manage ~/metacortex/TODO.md with emoji status and linked notes (1 file)
@@ -58,4 +58,4 @@ This directory contains no files at the top level; all content is organized into
 
 ## Search Tags
 
-skills claude-code automation lean4 mathlib github zulip whatsapp session-management todo-list activity-logs browser-automation mwe minimal-working-example bootstrapping merge-conflicts iterm2 cursor writing-style pr-monitoring playwright puppeteer mcp web-scraping javascript spa chrome-profile authentication headless quota subscription limits reset pacing expect tui parsing json bash folder-summary summarization indexing catalog directory-tree two-phase preliminary final notifications mentions review-requests api jq filtering pagination elan toolchain stage0 stage1 update-stage0 environment-extensions olean-format compiler build-flags verbosity lake quiet diagnostics errors warnings technical-communication pr-descriptions documentation announcements hedging collaborative-language progressive-disclosure guard_msgs tactic-failures kernel-errors grind compiler-panics reduction backtracking git-merge conflict-analysis auto-resolution import-conflicts version-conflicts build-verification spawning parallel-workflows applescript ssh-remote machine-aware git-clone mathlib-cache window-automation task-management metacortex notes linked-notes emoji-status git-sync planning-sessions priorities due-dates baileys qr-code nodejs esm unofficial send-message phone-number chat messaging leanprover lean-fro api-client search stream topic html-formatter credentials token-reduction forum-scraping network-interception auto-wait locator-api aristotle automated-theorem-proving harmonic sorry counterexample autoformalize pipx python-api proof-generation home-directory dotfiles submodules git-pull git-submodule detached-head unpushed-commits conflict-resolution backup preservation skill-creation yaml-frontmatter markdown-documentation trigger-conditions workflow-documentation meta-programming
+skills claude-code automation lean4 mathlib github zulip whatsapp session-management todo-list activity-logs browser-automation mwe minimal-working-example bootstrapping merge-conflicts iterm2 cursor writing-style pr-monitoring playwright puppeteer mcp web-scraping javascript spa chrome-profile authentication headless quota subscription limits reset pacing expect tui parsing json bash folder-summary summarization indexing catalog directory-tree two-phase preliminary final notifications mentions review-requests api jq filtering pagination elan toolchain stage0 stage1 update-stage0 environment-extensions olean-format compiler build-flags verbosity lake quiet diagnostics errors warnings technical-communication pr-descriptions documentation announcements hedging collaborative-language progressive-disclosure guard_msgs tactic-failures kernel-errors grind compiler-panics reduction backtracking git-merge conflict-analysis auto-resolution import-conflicts version-conflicts build-verification spawning parallel-workflows applescript ssh-remote machine-aware git-clone mathlib-cache window-automation task-management metacortex notes linked-notes emoji-status git-sync planning-sessions priorities due-dates baileys qr-code nodejs esm unofficial send-message read-messages phone-number chat messaging logger background-service launchd corpus persistent-storage query real-time-monitoring history-fetch leanprover lean-fro api-client search stream topic html-formatter credentials token-reduction forum-scraping network-interception auto-wait locator-api aristotle automated-theorem-proving harmonic sorry counterexample autoformalize pipx python-api proof-generation home-directory dotfiles submodules git-pull git-submodule detached-head unpushed-commits conflict-resolution backup preservation skill-creation yaml-frontmatter markdown-documentation trigger-conditions workflow-documentation meta-programming

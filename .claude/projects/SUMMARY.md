@@ -1,7 +1,7 @@
 ---
 source_path: /Users/kim/.claude/projects
-generated: 2025-12-08T07:07:00Z
-git_sha: 8345a514d8c10f0ac9da977a555996abb463c434
+generated: 2025-12-09T10:37:00Z
+git_sha: d3c5486ba8cc6e05ec408002550fd039e067c322
 git_branch: master
 status: preliminary
 files_count: 0
@@ -22,11 +22,11 @@ No files in the root directory - all content is in subdirectories.
 
 ### Local Mac Projects (8 directories)
 - [x] `-Users-kim/` - Home directory sessions (122 session files)
-- [x] `-Users-kim--claude/` - `.claude` configuration directory sessions (99 files, meta-work)
+- [x] `-Users-kim--claude/` - `.claude` configuration directory sessions (108 files, meta-work)
 - [x] `-Users-kim--claude-skills-new-claude-sessions/` - Sessions for the new-claude-sessions skill (15 session files, 136KB)
 - [x] `-Users-kim-bin/` - Personal bin directory sessions (3 session files, 150KB)
 - [x] `-Users-kim-Downloads-tshirt/` - T-shirt download project (image manipulation, Lean logo conversion)
-- [x] `-Users-kim-metacortex/` - Metacortex project (304 session files)
+- [x] `-Users-kim-metacortex/` - Metacortex project (316 session files)
 - [x] `-Users-kim-projects-claude-factorio/` - Claude Factorio project (27 session files, 16MB, Factorio 2.0 mod development)
 
 ### Lean4 Core Projects (7 directories)
