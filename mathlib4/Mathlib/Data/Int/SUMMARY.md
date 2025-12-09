@@ -44,7 +44,7 @@ The `Int/` directory provides comprehensive theories and operations for integers
 
 ## Subdirectories
 
-- [ ] `Cast/` - Type casting operations for integers
+- [x] `Cast/` - Type casting operations for integers
 - [ ] `Fib/` - Fibonacci numbers on integers
 - [ ] `Order/` - Ordering and lattice properties of integers
 
