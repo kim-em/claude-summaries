@@ -50,7 +50,7 @@ The `Data/` directory contains fundamental data structures, numeric types, and t
 - [ ] `Complex/` - Complex numbers ℂ
 - [x] `Countable/` - Countable types and countability properties
 - [x] `DFinsupp/` - Dependent functions with finite support
-- [ ] `DList/` - Difference lists (efficient list concatenation)
+- [x] `DList/` - Difference lists (efficient list concatenation)
 - [ ] `ENNReal/` - Extended non-negative reals [0, ∞]
 - [ ] `ENat/` - Extended natural numbers ℕ ∪ {∞}
 - [ ] `EReal/` - Extended reals [-∞, ∞]
