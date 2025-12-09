@@ -53,7 +53,7 @@ The `Data/` directory contains fundamental data structures, numeric types, and t
 - [x] `DList/` - Difference lists (efficient list concatenation)
 - [x] `ENNReal/` - Extended non-negative reals [0, ∞]
 - [x] `ENat/` - Extended natural numbers ℕ ∪ {∞}
-- [ ] `EReal/` - Extended reals [-∞, ∞]
+- [x] `EReal/` - Extended reals [-∞, ∞]
 - [ ] `FP/` - Floating-point numbers
 - [ ] `Fin/` - Finite types `Fin n` (natural numbers less than n)
 - [ ] `FinEnum/` - Finitely enumerable types
