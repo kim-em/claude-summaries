@@ -20,7 +20,7 @@ Application materials for 18 candidates in the "maybe" category requiring furthe
 
 ## Subdirectories
 
-- [~] `Davis, Diana/` - Application with 5 reference letters and papers subdirectory
+- [x] `Davis, Diana/` - Application with 5 reference letters and papers subdirectory
 - [ ] `Holcomb, Diane/` - Application with 5 reference letters (no papers subdirectory)
 - [ ] `Knapp, Johanna/` - Application with 4 reference letters and papers subdirectory
 - [ ] `Li, Wei/` - Application with 4 reference letters (no papers subdirectory)

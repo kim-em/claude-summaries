@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/Lecturer, Senior Lecturer or Associate Professor in Mathematical Science (Female Only)/maybe/Davis, Diana
-generated: 2025-12-09T10:40:17Z
+generated: 2025-12-09T11:16:45Z
 git_sha: 48a99ef1be36fc0c3cca2af4518f1aebb71ec697
 git_branch: master
-status: preliminary
+status: complete
 files_count: 6
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Application materials for Diana Davis, a candidate for the 2016 ANU mathematical sciences faculty position (female-only). Davis was a Visiting Assistant Professor at Williams College with a Ph.D. from Brown University (2013) in low-dimensional geometry, polygonal billiards, and dynamical systems. Her research focuses on billiards in translation surfaces, tiling billiards, and geodesic flows on surfaces made from polygons. The folder includes her comprehensive application PDF, 5 reference letters, and a papers subdirectory with research publications.
+Application materials for Diana Davis, a candidate in the "maybe" category for the 2016 ANU mathematical sciences faculty position (female-only). Davis was a Visiting Assistant Professor at Williams College with a Ph.D. from Brown University (2013) under Rich Schwartz. Her research expertise centers on low-dimensional geometry, polygonal billiards, translation surfaces, and dynamical systems, with particular focus on cutting sequences for regular polygons and the Veech group. Her research portfolio includes two publications demonstrating both technical depth (31-page paper in Geometriae Dedicata extending Smillie-Ulcigrai results) and outreach capability (German-language exposition connecting to Mirzakhani's Fields Medal work). The application package includes comprehensive position materials, 5 reference letters from mathematicians including her Ph.D. advisor and current supervisor, and selected research publications.
 
 ## Key Files
 
