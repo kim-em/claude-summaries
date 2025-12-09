@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Data/Int
-generated: 2025-12-09T09:53:31Z
+generated: 2025-12-09T19:35:00Z
 git_sha: 52bf977aaf73eb6dcf02137c12d9ed22fd9687ef
 git_branch: fix/improve-init-import-error-message
-status: preliminary
+status: complete
 files_count: 23
 subdirs_count: 3
 ---
@@ -12,7 +12,7 @@ subdirs_count: 3
 
 ## Overview
 
-The `Int/` directory provides comprehensive theories and operations for integers (ℤ) in Mathlib. It includes foundational definitions and lemmas (Init.lean, Basic.lean), number-theoretic operations (GCD, modular arithmetic, divisibility), bitwise operations, logarithms, ordering properties, and specialized constructs like absolute values, intervals, and congruences. The directory serves as the core integer theory layer, extending Lean's built-in Int type with mathematical properties needed for algebra, number theory, and analysis.
+The `Int/` directory provides the comprehensive theory of integers (ℤ) in Mathlib, serving as the foundation for number-theoretic reasoning and the bridge between natural numbers and the broader algebraic hierarchy. The directory contains foundational operations and lemmas (Init, Basic), number-theoretic constructs (GCD with Bézout's lemma, modular arithmetic, divisibility, primes), bitwise operations, integer logarithms, ordering properties, and specialized structures like absolute values, intervals, and congruences. Three major subdirectories extend this foundation: `Cast/` provides the canonical homomorphism from ℤ to arbitrary rings and fields via type classes, enabling integer literals in any algebraic structure; `Fib/` extends Fibonacci numbers to negative indices with classical identities (Cassini, Catalan); and `Order/` establishes the linear order structure with multiplication sign characterizations and unit properties. Together, these components make ℤ a fully-featured mathematical object ready for use in algebra, analysis, and number theory.
 
 ## Key Files
 
