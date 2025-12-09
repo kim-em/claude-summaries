@@ -22,7 +22,7 @@ Australian Summer Course (ASC) on Knot Theory co-taught with Zsuzsanna Dancso in
 
 ## Subdirectories
 
-- [ ] `Adele-Jackson/` - Assessment documentation for student Adele Jackson including final marking templates with feedback from both Morrison and Dancso, showing final grade of 92% (weighted average of 88-94% on report, 88-91% on oral presentation, 97% on assignments)
+- [x] `Adele-Jackson/` - Assessment documentation for student Adele Jackson including final marking templates with feedback from both Morrison and Dancso, showing final grade of 92% (weighted average of 88-94% on report, 88-91% on oral presentation, 97% on assignments)
 
 ## Search Tags
 
