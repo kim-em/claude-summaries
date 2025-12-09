@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Data/Fin
-generated: 2025-12-09T10:37:00Z
+generated: 2025-12-09T20:16:00Z
 git_sha: 52bf977aaf73eb6dcf02137c12d9ed22fd9687ef
 git_branch: fix/improve-init-import-error-message
-status: preliminary
+status: complete
 files_count: 10
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-The `Fin/` directory provides comprehensive theory for the finite type `Fin n`, representing natural numbers strictly less than `n`. It includes basic operations and properties (coercions, casting, ordering), successor/predecessor operations (`succ`, `pred`, `succAbove`, `predAbove`), embeddings into natural numbers and larger `Fin` types, the reverse/reflection operation, parity properties, pigeonhole principles, vector/matrix notation (`![a, b, c]`), an inductive variant `Fin2`, flag/chain constructions, and specialized tuple operations in a subdirectory.
+The `Fin/` directory provides comprehensive theory for the finite type `Fin n`, representing natural numbers strictly less than `n`. It establishes the foundational API for bounded natural numbers including coercions, casting, ordering, successor/predecessor operations (`succ`, `pred`, `succAbove`, `predAbove`), embeddings into natural numbers and larger `Fin` types, the reverse/reflection operation, parity properties, and pigeonhole principles. The directory supports vector/matrix notation (`![a, b, c]`) for finite-indexed functions, provides an alternative inductive variant `Fin2` useful for different definitional equalities, and includes flag/chain constructions for order theory. The `Tuple/` subdirectory establishes `Fin n → α` as the canonical representation of statically-sized tuples (vectors), providing comprehensive operations including manipulation (cons/tail/snoc/init/insertNth/removeNth/append), currying/uncurrying for n-ary functions, embedding theory, finset products, antidiagonals, reflection support for computation, and sorting algorithms with bubble sort induction principles.
 
 ## Key Files
 

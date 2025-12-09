@@ -55,7 +55,7 @@ The `Data/` directory contains fundamental data structures, numeric types, and t
 - [x] `ENat/` - Extended natural numbers ℕ ∪ {∞}
 - [x] `EReal/` - Extended reals [-∞, ∞]
 - [x] `FP/` - Floating-point numbers
-- [~] `Fin/` - Finite types `Fin n` (natural numbers less than n)
+- [x] `Fin/` - Finite types `Fin n` (natural numbers less than n)
 - [ ] `FinEnum/` - Finitely enumerable types
 - [ ] `Finite/` - Finite types and finiteness properties
 - [ ] `Finset/` - Finite sets (sets with decidable membership and finite cardinality)
