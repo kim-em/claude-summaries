@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/Analysis3/Essays/cheater/case
-generated: 2025-12-08T07:30:00Z
+generated: 2025-12-09T00:00:00Z
 git_sha: 48a99ef1be36fc0c3cca2af4518f1aebb71ec697
 git_branch: master
-status: preliminary
+status: complete
 files_count: 20
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Formal allegation package documenting academic misconduct charges against student Michael Chappuis across three mathematics courses (MATH3325, MATH3015, MATH3349). Contains the official allegation letter dated November 22, 2016 from three professors (Barnsley, Morrison, Portal) with 11 labeled attachments (A-K) providing comprehensive evidence: Freelancer.com job posting screenshots, hired freelancer's essay, course-specific sample essays proving job poster had insider access, instructor statements matching Freelancer.com instructions to private in-person guidance, faculty notes from meetings where student could not explain basic course concepts (B(H) notation, Riesz lemma, Hilbert theorem), submitted essays across all three courses, and student academic records. Also includes the complete 136-page allegation letter PDF combining all materials, student CV showing claimed research positions at Oxford and Columbia, academic transcript, and Freelancer.com reputation screenshot.
+Comprehensive formal allegation package documenting academic misconduct charges against student Michael Chappuis (ID 5831072) across three mathematics courses (MATH3325 Functional Analysis, MATH3015 Mathematics of Finance, MATH3349 Reading Course). The package presents a systematic case built on multiple lines of converging evidence: the original Freelancer.com job posting offering $90-110 USD for a 10-12 page functional analysis essay with 48-hour deadline, the complete set of materials provided to bidding freelancers (including insider course materials like previous years' example essays with quality annotations, prescribed textbooks, reference materials, and LaTeX template), the freelancer-delivered essay, pattern-matching between Freelancer.com instructions and personalized in-person instructor guidance, three submitted essays demonstrating sophistication beyond the student's demonstrated understanding, and detailed faculty documentation of the student's inability to explain fundamental concepts from their own submissions. The formal allegation letter from Profs Barnsley, Morrison, and Portal (November 22, 2016) synthesizes this evidence with 11 labeled attachments, supplemented by student academic records, CV claiming positions at Oxford-Man Institute and Columbia, and Freelancer.com account activity. The subfolder documents the complete instructions and materials posted to Freelancer.com, revealing the extensive insider access required to compile such course-specific guidance and example materials.
 
 ## Key Files
 
