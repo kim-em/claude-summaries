@@ -29,7 +29,7 @@ Final exam materials for MATH3325/MATH6214 (Advanced functional analysis, spectr
 ## Subdirectories
 
 - [x] `GradedExams/` - Scanned graded final exams from 19 students identified by ANU ID numbers (u4314821-u6128159), plus duplicate copy of solutions PDF
-- [ ] `PastExams/` - Archive of past Analysis 3 final exams from 2013, 2014, and 2015 with solutions and rejected problems
+- [~] `PastExams/` - Archive of past Analysis 3 final exams from 2013, 2014, and 2015 with solutions and rejected problems
 
 ## Search Tags
 
