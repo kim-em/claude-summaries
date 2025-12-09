@@ -67,7 +67,7 @@ The `Data/` directory contains fundamental data structures, numeric types, and t
 - [x] `Matrix/` - Matrices and matrix operations
 - [x] `Multiset/` - Multisets (sets with multiplicities, quotients of lists)
 - [x] `NNRat/` - Non-negative rationals ℚ≥0
-- [ ] `NNReal/` - Non-negative reals ℝ≥0
+- [x] `NNReal/` - Non-negative reals ℝ≥0
 - [ ] `Nat/` - Natural numbers ℕ
 - [ ] `Num/` - Binary representation of natural numbers
 - [ ] `Option/` - Option type (values that may be none)
