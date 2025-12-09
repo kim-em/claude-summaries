@@ -64,7 +64,7 @@ The `Data/` directory contains fundamental data structures, numeric types, and t
 - [x] `FunLike/` - Type class for function-like structures
 - [x] `Int/` - Integers ℤ
 - [x] `List/` - Lists (inductive sequences)
-- [ ] `Matrix/` - Matrices and matrix operations
+- [x] `Matrix/` - Matrices and matrix operations
 - [ ] `Multiset/` - Multisets (sets with multiplicities, quotients of lists)
 - [ ] `NNRat/` - Non-negative rationals ℚ≥0
 - [ ] `NNReal/` - Non-negative reals ℝ≥0
