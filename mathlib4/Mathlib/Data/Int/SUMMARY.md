@@ -46,7 +46,7 @@ The `Int/` directory provides comprehensive theories and operations for integers
 
 - [x] `Cast/` - Type casting operations for integers
 - [x] `Fib/` - Fibonacci numbers on integers
-- [ ] `Order/` - Ordering and lattice properties of integers
+- [x] `Order/` - Ordering and lattice properties of integers
 
 ## Search Tags
 
