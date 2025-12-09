@@ -81,7 +81,7 @@ The `List/` directory contains comprehensive theory and operations for lists (in
 
 ## Subdirectories
 
-- [ ] `Perm/` - Permutation relation theory and lattice structure
+- [x] `Perm/` - Permutation relation theory and lattice structure
 
 ## Search Tags
 
