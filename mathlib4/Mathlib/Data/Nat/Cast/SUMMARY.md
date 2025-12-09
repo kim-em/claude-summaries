@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Data/Nat/Cast
-generated: 2025-12-09T10:42:38Z
+generated: 2025-12-09T11:47:00Z
 git_sha: 52bf977aaf73eb6dcf02137c12d9ed22fd9687ef
 git_branch: fix/improve-init-import-error-message
-status: preliminary
+status: complete
 files_count: 9
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-The `Cast/` directory implements the canonical homomorphism from natural numbers (ℕ) to arbitrary algebraic structures with addition and one. It defines the fundamental type classes `NatCast` and `AddMonoidWithOne` that enable numeric literals (like `37 : R`) to work in any ring or monoid. The directory provides both unary and binary casting algorithms, proves that `Nat.cast` is a ring homomorphism, and establishes properties about casting in various contexts including fields, products, order duals, and specialized situations like commutativity and nonzero elements.
+The `Cast/` directory implements the canonical homomorphism from natural numbers (ℕ) to arbitrary algebraic structures with addition and one. It defines the fundamental type classes `NatCast` and `AddMonoidWithOne` that enable numeric literals (like `37 : R`) to work in any ring or monoid. The directory provides both unary and binary casting algorithms, proves that `Nat.cast` is a ring homomorphism, and establishes comprehensive properties about casting in various algebraic and order-theoretic contexts. Beyond basic homomorphism properties, the directory develops casting for fields (with division), products, order duals, and proves specialized lemmas for commutativity and nonzero elements. The `Order/` subdirectory extends this foundation with monotonicity results, showing that `Nat.cast` is strictly monotone under `CharZero` and providing detailed inequalities for ordered semirings and fields, including division bounds and reciprocal comparisons.
 
 ## Key Files
 
@@ -30,7 +30,7 @@ The `Cast/` directory implements the canonical homomorphism from natural numbers
 
 ## Subdirectories
 
-- [x] `Order/` - Order-theoretic properties of natural number casts
+- [x] `Order/` - Order-theoretic properties: monotonicity, strict monotonicity under CharZero, inequalities for ordered semirings/fields, division bounds, reciprocal comparisons
 
 ## Search Tags
 
