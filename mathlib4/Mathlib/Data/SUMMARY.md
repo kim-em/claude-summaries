@@ -76,7 +76,7 @@ The `Data/` directory contains fundamental data structures, numeric types, and t
 - [~] `PFunctor/` - Polynomial functors
 - [x] `PNat/` - Positive natural numbers ℕ+
 - [x] `PSigma/` - Dependent pairs (Sigma types) with universe flexibility
-- [ ] `Pi/` - Dependent function types (Π-types)
+- [x] `Pi/` - Dependent function types (Π-types)
 - [ ] `Prod/` - Product types (pairs)
 - [ ] `QPF/` - Quotients of polynomial functors
 - [ ] `Rat/` - Rational numbers ℚ
