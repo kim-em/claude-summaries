@@ -28,7 +28,7 @@ No files in the root directory - all content is in subdirectories.
 - [x] `-Users-kim-Downloads-tshirt/` - T-shirt download project (image manipulation, Lean logo conversion)
 - [x] `-Users-kim-metacortex/` - Metacortex project (319 session files)
 - [x] `-Users-kim-projects-claude-factorio/` - Claude Factorio project (Factorio 2.0 mod development)
-- [ ] `-Users-kim-projects-claude-summarize/` - Claude summarize project
+- [x] `-Users-kim-projects-claude-summarize/` - Claude summarize project
 - [ ] `-Users-kim-projects-lean/` - Root lean projects directory
 - [ ] `-Users-kim-projects-rogaine/` - Rogaine project
 - [ ] `-Users-kim-projects-vlc-audio/` - VLC audio project
