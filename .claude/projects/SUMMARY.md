@@ -57,7 +57,7 @@ No files in the root directory - all content is in subdirectories.
 - [x] `-Users-kim-projects-lean-FLT/` - Fermat's Last Theorem formalization
 - [x] `-Users-kim-projects-lean-FeitThompson/` - Feit-Thompson theorem formalization
 - [x] `-Users-kim-projects-lean-FeitThompson-lean-Gorenstein/` - Gorenstein part of Feit-Thompson
-- [ ] `-Users-kim-projects-lean-ProofWidgets4/` - ProofWidgets4 library
+- [x] `-Users-kim-projects-lean-ProofWidgets4/` - ProofWidgets4 library
 - [ ] `-Users-kim-projects-lean-batteries/` - Batteries library
 - [ ] `-Users-kim-projects-lean-cslib/` - Computer science library
 - [ ] `-Users-kim-projects-lean-doc-gen4/` - Documentation generator
