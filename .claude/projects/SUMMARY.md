@@ -53,7 +53,7 @@ No files in the root directory - all content is in subdirectories.
 
 ### Other Lean Projects (18 directories)
 - [x] `-Users-kim-projects-lean-AoC2025/` - Advent of Code 2025 in Lean
-- [ ] `-Users-kim-projects-lean-BibtexQuery/` - BibTeX query tool for Lean
+- [x] `-Users-kim-projects-lean-BibtexQuery/` - BibTeX query tool for Lean
 - [ ] `-Users-kim-projects-lean-FLT/` - Fermat's Last Theorem formalization
 - [ ] `-Users-kim-projects-lean-FeitThompson/` - Feit-Thompson theorem formalization
 - [ ] `-Users-kim-projects-lean-FeitThompson-lean-Gorenstein/` - Gorenstein part of Feit-Thompson
