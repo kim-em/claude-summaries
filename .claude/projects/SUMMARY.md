@@ -42,7 +42,7 @@ No files in the root directory - all content is in subdirectories.
 - [x] `-Users-kim-projects-lean-lean4-2-src/` - lean4-2 src directory
 - [x] `-Users-kim-projects-lean-lean4-2-tests/` - lean4-2 tests directory
 - [x] `-Users-kim-projects-lean-lean4-tests/` - lean4 tests directory
-- [ ] `-Users-kim-projects-lean-lean4-downstream-releases-reference-manual/` - Reference manual downstream testing
+- [x] `-Users-kim-projects-lean-lean4-downstream-releases-reference-manual/` - Reference manual downstream testing
 
 ### Mathlib4 Projects (5 directories)
 - [ ] `-Users-kim-projects-lean-mathlib4/` - Main mathlib4 repository
