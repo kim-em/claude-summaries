@@ -62,7 +62,7 @@ No files in the root directory - all content is in subdirectories.
 - [x] `-Users-kim-projects-lean-cslib/` - Computer science library
 - [x] `-Users-kim-projects-lean-doc-gen4/` - Documentation generator
 - [x] `-Users-kim-projects-lean-downstream-linting/` - Downstream linting tools
-- [ ] `-Users-kim-projects-lean-frenzymath-premises/` - Frenzymath premises
+- [x] `-Users-kim-projects-lean-frenzymath-premises/` - Frenzymath premises
 - [ ] `-Users-kim-projects-lean-lakeprof/` - Lake profiling tool
 - [ ] `-Users-kim-projects-lean-lean-fro-org/` - lean-fro.org website
 - [ ] `-Users-kim-projects-lean-lean-premise-server/` - Premise server
