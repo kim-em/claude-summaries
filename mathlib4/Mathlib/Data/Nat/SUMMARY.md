@@ -63,7 +63,7 @@ The `Nat/` directory contains the foundational theory of natural numbers (ℕ) i
 - [x] `Fib/` - Fibonacci numbers
 - [x] `GCD/` - Greatest common divisor and related functions
 - [x] `NthRoot/` - Nth root functions
-- [ ] `Order/` - Order-theoretic properties and lemmas for natural numbers
+- [x] `Order/` - Order-theoretic properties and lemmas for natural numbers
 - [ ] `Prime/` - Prime numbers and primality testing
 
 ## Search Tags
