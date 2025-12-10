@@ -45,7 +45,7 @@ No files in the root directory - all content is in subdirectories.
 - [x] `-Users-kim-projects-lean-lean4-downstream-releases-reference-manual/` - Reference manual downstream testing
 
 ### Mathlib4 Projects (5 directories)
-- [ ] `-Users-kim-projects-lean-mathlib4/` - Main mathlib4 repository
+- [x] `-Users-kim-projects-lean-mathlib4/` - Main mathlib4 repository
 - [ ] `-Users-kim-projects-lean-mathlib4-2/` - mathlib4 checkout #2
 - [ ] `-Users-kim-projects-lean-mathlib4-3/` - mathlib4 checkout #3
 - [ ] `-Users-kim-projects-lean-mathlib4-4/` - mathlib4 checkout #4
