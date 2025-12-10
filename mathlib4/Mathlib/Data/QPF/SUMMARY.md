@@ -22,7 +22,7 @@ Quotients of Polynomial Functors (QPFs) provide a compositional framework for de
 
 ## Subdirectories
 
-- [~] `Multivariate/` - Multivariate QPFs operating on type vectors (TypeVec n -> Type); defines MvQPF class and provides constructions for Fix, Cofix, Comp, Quot, Sigma, Prj, and Const
+- [x] `Multivariate/` - Multivariate QPFs operating on type vectors (TypeVec n -> Type); defines MvQPF class and provides constructions for Fix, Cofix, Comp, Quot, Sigma, Prj, and Const
 - [ ] `Univariate/` - Univariate QPFs operating on single types (Type -> Type); defines QPF class with Fix (initial algebra), Cofix (final coalgebra), composition, and quotient constructions
 
 ## Search Tags
