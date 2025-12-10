@@ -48,7 +48,7 @@ No files in the root directory - all content is in subdirectories.
 - [x] `-Users-kim-projects-lean-mathlib4/` - Main mathlib4 repository
 - [x] `-Users-kim-projects-lean-mathlib4-2/` - mathlib4 checkout #2
 - [x] `-Users-kim-projects-lean-mathlib4-3/` - mathlib4 checkout #3
-- [ ] `-Users-kim-projects-lean-mathlib4-4/` - mathlib4 checkout #4
+- [x] `-Users-kim-projects-lean-mathlib4-4/` - mathlib4 checkout #4
 - [ ] `-Users-kim-projects-lean-mathlib4-lean4checker/` - mathlib4 lean4checker integration
 
 ### Other Lean Projects (18 directories)
