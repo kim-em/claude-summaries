@@ -22,7 +22,7 @@ Multivariate Quotients of Polynomial Functors (MvQPF) operating on type vectors 
 
 ## Subdirectories
 
-- [ ] `Constructions/` - QPF-preserving constructions: Fix (initial algebra), Cofix (final coalgebra/coinductive types), Comp (functor composition), Quot (quotients), Sigma, Prj (projection), and Const (constant functors)
+- [x] `Constructions/` - QPF-preserving constructions: Fix (initial algebra), Cofix (final coalgebra/coinductive types), Comp (functor composition), Quot (quotients), Sigma, Prj (projection), and Const (constant functors)
 
 ## Search Tags
 
