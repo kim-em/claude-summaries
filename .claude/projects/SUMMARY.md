@@ -52,7 +52,7 @@ No files in the root directory - all content is in subdirectories.
 - [x] `-Users-kim-projects-lean-mathlib4-lean4checker/` - mathlib4 lean4checker integration
 
 ### Other Lean Projects (18 directories)
-- [ ] `-Users-kim-projects-lean-AoC2025/` - Advent of Code 2025 in Lean
+- [x] `-Users-kim-projects-lean-AoC2025/` - Advent of Code 2025 in Lean
 - [ ] `-Users-kim-projects-lean-BibtexQuery/` - BibTeX query tool for Lean
 - [ ] `-Users-kim-projects-lean-FLT/` - Fermat's Last Theorem formalization
 - [ ] `-Users-kim-projects-lean-FeitThompson/` - Feit-Thompson theorem formalization
