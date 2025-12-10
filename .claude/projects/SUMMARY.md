@@ -60,7 +60,7 @@ No files in the root directory - all content is in subdirectories.
 - [x] `-Users-kim-projects-lean-ProofWidgets4/` - ProofWidgets4 library
 - [x] `-Users-kim-projects-lean-batteries/` - Batteries library
 - [x] `-Users-kim-projects-lean-cslib/` - Computer science library
-- [ ] `-Users-kim-projects-lean-doc-gen4/` - Documentation generator
+- [x] `-Users-kim-projects-lean-doc-gen4/` - Documentation generator
 - [ ] `-Users-kim-projects-lean-downstream-linting/` - Downstream linting tools
 - [ ] `-Users-kim-projects-lean-frenzymath-premises/` - Frenzymath premises
 - [ ] `-Users-kim-projects-lean-lakeprof/` - Lake profiling tool
