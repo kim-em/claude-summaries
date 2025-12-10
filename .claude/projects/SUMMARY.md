@@ -31,7 +31,7 @@ No files in the root directory - all content is in subdirectories.
 - [x] `-Users-kim-projects-claude-summarize/` - Claude summarize project
 - [x] `-Users-kim-projects-lean/` - Root lean projects directory
 - [x] `-Users-kim-projects-rogaine/` - Rogaine project
-- [ ] `-Users-kim-projects-vlc-audio/` - VLC audio project
+- [x] `-Users-kim-projects-vlc-audio/` - VLC audio project
 - [ ] `-Users-kim-scratch-lean-profiling/` - Lean profiling scratch work
 
 ### Lean4 Core Projects (9 directories)
