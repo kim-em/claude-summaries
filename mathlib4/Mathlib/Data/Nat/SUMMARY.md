@@ -60,7 +60,7 @@ The `Nat/` directory contains the foundational theory of natural numbers (ℕ) i
 - [x] `Digits/` - Digit representations in various bases
 - [x] `Factorial/` - Factorial function and properties
 - [x] `Factorization/` - Prime factorization as multisets and related theory
-- [ ] `Fib/` - Fibonacci numbers
+- [x] `Fib/` - Fibonacci numbers
 - [ ] `GCD/` - Greatest common divisor and related functions
 - [ ] `NthRoot/` - Nth root functions
 - [ ] `Order/` - Order-theoretic properties and lemmas for natural numbers
