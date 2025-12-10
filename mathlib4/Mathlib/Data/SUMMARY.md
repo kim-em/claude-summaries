@@ -72,7 +72,7 @@ The `Data/` directory contains fundamental data structures, numeric types, and t
 - [x] `Num/` - Binary representation of natural numbers
 - [x] `Option/` - Option type (values that may be none)
 - [x] `Ordering/` - Ordering relation (LT, EQ, GT)
-- [ ] `Ordmap/` - Ordered maps (binary search trees)
+- [x] `Ordmap/` - Ordered maps (binary search trees)
 - [ ] `PFunctor/` - Polynomial functors
 - [ ] `PNat/` - Positive natural numbers ℕ+
 - [ ] `PSigma/` - Dependent pairs (Sigma types) with universe flexibility
