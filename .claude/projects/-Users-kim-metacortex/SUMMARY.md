@@ -1,10 +1,10 @@
 ---
 source_path: /Users/kim/.claude/projects/-Users-kim-metacortex
-generated: 2025-12-09T10:32:00Z
-git_sha: d3c5486ba8cc6e05ec408002550fd039e067c322
+generated: 2025-12-11T12:00:00Z
+git_sha: 5a5c7bc8574841a2870eff76b15c9a7bf9b3c3fa
 git_branch: master
 status: complete
-files_count: 316
+files_count: 319
 subdirs_count: 0
 ---
 
@@ -12,7 +12,7 @@ subdirs_count: 0
 
 ## Overview
 
-Claude Code session history for the ~/metacortex project (personal TODO, activity log, and note management system). Contains 316 JSONL transcript files recording all Claude sessions while working in this directory. Sessions include work on project automation (claude-usage script development using expect), TODO/log management, metacortex scripts, and various task planning and execution. Mix of UUID-based session files (full conversations) and agent-based transcripts (subagent executions), totaling approximately 14MB of conversation history.
+Claude Code session history for the ~/metacortex project (personal TODO, activity log, and note management system). Contains 319 JSONL transcript files recording all Claude sessions while working in this directory. Sessions include work on project automation (claude-usage script development using expect), TODO/log management, metacortex scripts, and various task planning and execution. Mix of UUID-based session files (full conversations) and agent-based transcripts (subagent executions), totaling approximately 14MB of conversation history.
 
 ## Key Files
 
@@ -24,7 +24,7 @@ Claude Code session history for the ~/metacortex project (personal TODO, activit
 | `981bde59-b79a-4e0d-8de4-ec71697ebc45.jsonl` | Large session transcript covering extensive metacortex work (1.8MB) |
 | `c6c53172-b99c-42f6-881a-85833f52a9fb.jsonl` | Largest session file with comprehensive work history (1.6MB) |
 | `124ed0be-2042-4015-948d-ece8e9657fbc.jsonl` | Claude Max usage script development iterations |
-| `agent-*.jsonl` | 188 subagent execution transcripts (exploration, code review, etc.) |
+| `agent-*.jsonl` | ~190 subagent execution transcripts (exploration, code review, etc.) |
 
 ## Subdirectories
 
