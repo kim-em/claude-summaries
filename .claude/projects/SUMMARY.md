@@ -32,7 +32,7 @@ No files in the root directory - all content is in subdirectories.
 - [x] `-Users-kim-projects-lean/` - Root lean projects directory
 - [x] `-Users-kim-projects-rogaine/` - Rogaine project
 - [x] `-Users-kim-projects-vlc-audio/` - VLC audio project
-- [ ] `-Users-kim-scratch-lean-profiling/` - Lean profiling scratch work
+- [x] `-Users-kim-scratch-lean-profiling/` - Lean profiling scratch work
 
 ### Lean4 Core Projects (9 directories)
 - [x] `-Users-kim-projects-lean-lean4/` - Main lean4 repository (compiler/tactic work, grind bug fixes)
