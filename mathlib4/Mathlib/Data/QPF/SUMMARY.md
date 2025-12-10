@@ -3,7 +3,7 @@ source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Data/QPF
 generated: 2025-12-11T08:30:00Z
 git_sha: d3b1fce8074ef80dac7bb8dc86bbe26d1db89f2b
 git_branch: linarith_to_grind_regressions
-status: preliminary
+status: complete
 files_count: 0
 subdirs_count: 2
 ---
@@ -23,7 +23,7 @@ Quotients of Polynomial Functors (QPFs) provide a compositional framework for de
 ## Subdirectories
 
 - [x] `Multivariate/` - Multivariate QPFs operating on type vectors (TypeVec n -> Type); defines MvQPF class and provides constructions for Fix, Cofix, Comp, Quot, Sigma, Prj, and Const
-- [ ] `Univariate/` - Univariate QPFs operating on single types (Type -> Type); defines QPF class with Fix (initial algebra), Cofix (final coalgebra), composition, and quotient constructions
+- [x] `Univariate/` - Univariate QPFs operating on single types (Type -> Type); defines QPF class with Fix (initial algebra), Cofix (final coalgebra), composition, and quotient constructions
 
 ## Search Tags
 
