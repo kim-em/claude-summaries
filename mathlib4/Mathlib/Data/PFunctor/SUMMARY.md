@@ -20,7 +20,7 @@ This directory contains no files directly; all content is in subdirectories.
 
 ## Subdirectories
 
-- [ ] `Multivariate/` - Multivariate polynomial functors mapping type vectors to types; defines `MvPFunctor`, M-types, and W-types for n-ary functors
+- [x] `Multivariate/` - Multivariate polynomial functors mapping type vectors to types; defines `MvPFunctor`, M-types, and W-types for n-ary functors
 - [ ] `Univariate/` - Univariate polynomial functors `PFunctor` with structure `(A : Type, B : A → Type)`; defines W-types and M-types as fixed points
 
 ## Search Tags
