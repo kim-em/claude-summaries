@@ -39,7 +39,7 @@ No files in the root directory - all content is in subdirectories.
 - [x] `-Users-kim-projects-lean-lean4-2/` - lean4 checkout #2 (git toolchain configuration)
 - [x] `-Users-kim-projects-lean-lean4-3/` - lean4 checkout #3 (parallel task execution, docstring review)
 - [x] `-Users-kim-projects-lean-lean4-src/` - lean4 src directory
-- [ ] `-Users-kim-projects-lean-lean4-2-src/` - lean4-2 src directory
+- [x] `-Users-kim-projects-lean-lean4-2-src/` - lean4-2 src directory
 - [ ] `-Users-kim-projects-lean-lean4-2-tests/` - lean4-2 tests directory
 - [ ] `-Users-kim-projects-lean-lean4-tests/` - lean4 tests directory
 - [ ] `-Users-kim-projects-lean-lean4-downstream-releases-reference-manual/` - Reference manual downstream testing
