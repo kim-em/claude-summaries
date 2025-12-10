@@ -3,7 +3,7 @@ source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Data/PFunctor
 generated: 2025-12-11T12:00:00Z
 git_sha: d3b1fce8074ef80dac7bb8dc86bbe26d1db89f2b
 git_branch: linarith_to_grind_regressions
-status: preliminary
+status: complete
 files_count: 0
 subdirs_count: 2
 ---
@@ -21,7 +21,7 @@ This directory contains no files directly; all content is in subdirectories.
 ## Subdirectories
 
 - [x] `Multivariate/` - Multivariate polynomial functors mapping type vectors to types; defines `MvPFunctor`, M-types, and W-types for n-ary functors
-- [ ] `Univariate/` - Univariate polynomial functors `PFunctor` with structure `(A : Type, B : A → Type)`; defines W-types and M-types as fixed points
+- [x] `Univariate/` - Univariate polynomial functors `PFunctor` with structure `(A : Type, B : A → Type)`; defines W-types and M-types as fixed points
 
 ## Search Tags
 
