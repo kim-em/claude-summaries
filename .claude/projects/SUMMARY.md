@@ -66,7 +66,7 @@ No files in the root directory - all content is in subdirectories.
 - [x] `-Users-kim-projects-lean-lakeprof/` - Lake profiling tool
 - [x] `-Users-kim-projects-lean-lean-fro-org/` - lean-fro.org website
 - [x] `-Users-kim-projects-lean-lean-premise-server/` - Premise server (Docker-based ML premise selection)
-- [ ] `-Users-kim-projects-lean-leangz/` - Lean gzip utilities
+- [x] `-Users-kim-projects-lean-leangz/` - Lean gzip utilities
 - [ ] `-Users-kim-projects-lean-merely-true/` - Merely true project
 - [ ] `-Users-kim-projects-lean-reference-manual/` - Reference manual
 - [ ] `-Users-kim-projects-lean-repl/` - REPL for Lean
