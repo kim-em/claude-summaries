@@ -72,7 +72,7 @@ No files in the root directory - all content is in subdirectories.
 - [x] `-Users-kim-projects-lean-repl/` - REPL for Lean
 - [x] `-Users-kim-projects-lean-rogaine/` - Rogaine project (Lean version)
 - [x] `-Users-kim-projects-lean-row-reduce/` - Row reduction formalization
-- [ ] `-Users-kim-projects-lean-sphere-eversion/` - Sphere eversion formalization
+- [x] `-Users-kim-projects-lean-sphere-eversion/` - Sphere eversion formalization
 - [ ] `-Users-kim-projects-lean-vscode-pull-request-github/` - VS Code GitHub PR integration
 
 ### Remote Server Projects (13 directories)
