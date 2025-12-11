@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Data/Setoid
-generated: 2025-12-11T12:00:00Z
+generated: 2025-12-11T21:50:00Z
 git_sha: d3b1fce8074ef80dac7bb8dc86bbe26d1db89f2b
 git_branch: linarith_to_grind_regressions
-status: preliminary
+status: complete
 files_count: 2
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-The `Setoid/` directory provides the mathematical infrastructure for setoids (types equipped with equivalence relations) and their associated partitions. It defines the complete lattice structure on equivalence relations, the correspondence between equivalence relations and partitions, and various isomorphism theorems for quotients. This forms a foundational component for reasoning about quotient types and equivalence classes throughout mathlib.
+The `Setoid/` directory provides the mathematical infrastructure for setoids (types equipped with equivalence relations) and their associated partitions. It defines the complete lattice structure on equivalence relations, the correspondence between equivalence relations and partitions, and various isomorphism theorems for quotients. The `Partition/` subdirectory extends this with cardinality computations for finite sets intersected with partition parts. Together, this forms a foundational component for reasoning about quotient types and equivalence classes throughout mathlib.
 
 ## Key Files
 
