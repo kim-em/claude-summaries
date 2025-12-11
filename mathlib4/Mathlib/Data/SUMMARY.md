@@ -79,7 +79,7 @@ The `Data/` directory contains fundamental data structures, numeric types, and t
 - [x] `Pi/` - Dependent function types (Π-types)
 - [x] `Prod/` - Product types (pairs)
 - [x] `QPF/` - Quotients of polynomial functors
-- [~] `Rat/` - Rational numbers ℚ
+- [x] `Rat/` - Rational numbers ℚ
 - [ ] `Real/` - Real numbers ℝ
 - [ ] `Rel/` - Relations and relation operations
 - [ ] `Seq/` - Sequences (infinite lists)

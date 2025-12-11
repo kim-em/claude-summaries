@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Data/Rat
-generated: 2025-12-11T12:30:00Z
+generated: 2025-12-11T00:07:40Z
 git_sha: d3b1fce8074ef80dac7bb8dc86bbe26d1db89f2b
 git_branch: linarith_to_grind_regressions
-status: preliminary
+status: complete
 files_count: 10
 subdirs_count: 2
 ---
@@ -12,7 +12,7 @@ subdirs_count: 2
 
 ## Overview
 
-The `Rat/` directory contains the foundational implementation of rational numbers (ℚ) in mathlib4. It defines the algebraic structure (integral domain, additive/multiplicative groups), arithmetic operations (addition, multiplication, division, powers), and key properties of rationals including floor/ceiling functions, square roots, encoding/denumerability, and star-ordered ring structure. The implementation builds on Lean's core `Rat` type, providing the `divInt` (/.`) notation for constructing rationals from integers and proving fundamental lemmas about numerator/denominator manipulation.
+The `Rat/` directory provides mathlib4's comprehensive treatment of rational numbers (ℚ and ℚ≥0). Building on Lean's core `Rat` type, it defines algebraic structure (integral domain, additive/multiplicative groups), the `divInt` notation (`/.`) for constructing rationals from integers, and proves fundamental lemmas about numerator/denominator manipulation. Key capabilities include: floor/ceiling/round operations with `norm_num` support; cardinality and encoding proofs (`#ℚ = ℵ₀`, `Denumerable`, `Encodable`); square root functions; and star-ordered ring structure showing every non-negative rational is a sum of squares. The `Cast/` subdirectory provides the injection machinery for embedding ℚ into division rings with `norm_cast` lemmas and order-preserving properties, while `NatSqrt/` offers precision-controlled rational approximations to square roots with rigorous bounds.
 
 ## Key Files
 
