@@ -87,7 +87,7 @@ The `Data/` directory contains fundamental data structures, numeric types, and t
 - [x] `SetLike/` - Type class for set-like structures
 - [x] `Setoid/` - Setoids (types with equivalence relations)
 - [x] `Sigma/` - Dependent pairs (Sigma types)
-- [ ] `Sign/` - Sign type (positive, zero, negative)
+- [x] `Sign/` - Sign type (positive, zero, negative)
 - [ ] `Stream/` - Streams (infinite sequences)
 - [ ] `String/` - Strings and string operations
 - [ ] `Sum/` - Sum types (disjoint unions)
