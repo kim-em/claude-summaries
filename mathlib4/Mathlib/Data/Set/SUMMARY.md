@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Data/Set
-generated: 2025-12-11T12:00:00Z
+generated: 2025-12-11T23:15:00Z
 git_sha: d3b1fce8074ef80dac7bb8dc86bbe26d1db89f2b
 git_branch: linarith_to_grind_regressions
-status: preliminary
+status: complete
 files_count: 38
 subdirs_count: 5
 ---
@@ -12,7 +12,9 @@ subdirs_count: 5
 
 ## Overview
 
-The `Set/` directory provides the foundational theory of sets in mathlib4, where sets are defined as predicates (`Set α := α → Prop`). This directory contains the core definitions, operations, and properties for working with sets including membership, subset relations, union, intersection, complement, image, preimage, and the complete lattice structure. It also covers specialized topics like functions on sets (injectivity, surjectivity, bijectivity restricted to sets), cardinality (both computable and noncomputable), countability, pairwise relations, and pointwise operations with algebraic structures.
+The `Set/` directory provides the foundational theory of sets in mathlib4, where sets are defined as predicates (`Set α := α → Prop`). This directory contains the core definitions, operations, and properties for working with sets including membership, subset relations, union, intersection, complement, image, preimage, and the complete atomic Boolean algebra structure. The 38 files at this level cover basic operations (`Defs.lean`, `Basic.lean`), the lattice structure with indexed unions/intersections (`Lattice.lean`), images and preimages (`Image.lean`), and functions restricted to sets (`Function.lean` with predicates like `EqOn`, `MapsTo`, `InjOn`, `SurjOn`, `BijOn`).
+
+The five subdirectories extend this foundation: `Card/` provides cardinal arithmetic for set cardinality (splitting even sets, cardinality of unions); `Finite/` develops the theory of finite sets with three parallel layers (`Fintype`, `Finite`, `Set.Finite`) and conversions to `Finset`; `Lattice/` contains lemmas connecting indexed unions/intersections with images, preimages, and function predicates; `Pairwise/` develops the theory of pairwise relations with emphasis on `PairwiseDisjoint` for working with disjoint families; and `Pointwise/` provides lemmas about function supports under scalar actions. Together, these form the complete infrastructure for set-theoretic reasoning in mathlib.
 
 ## Key Files
 
