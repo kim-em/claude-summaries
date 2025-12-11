@@ -69,7 +69,7 @@ No files in the root directory - all content is in subdirectories.
 - [x] `-Users-kim-projects-lean-leangz/` - Lean gzip utilities
 - [x] `-Users-kim-projects-lean-merely-true/` - Merely true project
 - [x] `-Users-kim-projects-lean-reference-manual/` - Reference manual
-- [ ] `-Users-kim-projects-lean-repl/` - REPL for Lean
+- [x] `-Users-kim-projects-lean-repl/` - REPL for Lean
 - [ ] `-Users-kim-projects-lean-rogaine/` - Rogaine project (Lean version)
 - [ ] `-Users-kim-projects-lean-row-reduce/` - Row reduction formalization
 - [ ] `-Users-kim-projects-lean-sphere-eversion/` - Sphere eversion formalization
