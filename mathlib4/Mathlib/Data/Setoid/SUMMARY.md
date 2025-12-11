@@ -23,7 +23,7 @@ The `Setoid/` directory provides the mathematical infrastructure for setoids (ty
 
 ## Subdirectories
 
-- [ ] `Partition/` - Additional results about partitions (cardinality computations)
+- [x] `Partition/` - Additional results about partitions (cardinality computations)
 
 ## Search Tags
 
