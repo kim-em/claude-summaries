@@ -62,7 +62,7 @@ The `Set/` directory provides the foundational theory of sets in mathlib4, where
 - [x] `Finite/` - Finite sets: basic properties, lattice operations, lists, monadic operations, powerset, and ranges
 - [x] `Lattice/` - Lattice operations on images of sets
 - [x] `Pairwise/` - Pairwise relations on sets: basic properties, chains, lattice operations, and list interactions
-- [ ] `Pointwise/` - Pointwise algebraic operations on sets (e.g., `s * t`, `s + t` for sets in monoids/groups)
+- [x] `Pointwise/` - Pointwise algebraic operations on sets (e.g., `s * t`, `s + t` for sets in monoids/groups)
 
 ## Search Tags
 
