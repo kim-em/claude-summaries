@@ -3,7 +3,7 @@ source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Data/Real
 generated: 2025-12-11T22:15:00Z
 git_sha: d3b1fce8074ef80dac7bb8dc86bbe26d1db89f2b
 git_branch: linarith_to_grind_regressions
-status: preliminary
+status: complete
 files_count: 16
 subdirs_count: 1
 ---
@@ -36,7 +36,7 @@ The `Real/` directory defines the real numbers `ℝ` as equivalence classes of C
 
 ## Subdirectories
 
-- [ ] `Pi/` - Deprecated redirect stubs for pi-related content (bounds, irrationality, Leibniz/Wallis formulas), now in `Analysis/Real/Pi/`
+- [x] `Pi/` - Deprecated redirect stubs for pi-related content (bounds, irrationality, Leibniz/Wallis formulas), now in `Analysis/Real/Pi/`
 
 ## Search Tags
 
