@@ -24,7 +24,7 @@ This directory defines symmetric powers of a type, with a focus on the symmetric
 
 ## Subdirectories
 
-- [ ] `Sym2/` - Additional symmetric square functionality (Aesop rule set, Finsupp lifting, ordering/sorting)
+- [x] `Sym2/` - Additional symmetric square functionality (Aesop rule set, Finsupp lifting, ordering/sorting)
 
 ## Search Tags
 
