@@ -83,7 +83,7 @@ The `Data/` directory contains fundamental data structures, numeric types, and t
 - [x] `Real/` - Real numbers ℝ
 - [x] `Rel/` - Relations and relation operations
 - [x] `Seq/` - Sequences (infinite lists)
-- [ ] `Set/` - Sets and set operations
+- [~] `Set/` - Sets and set operations
 - [ ] `SetLike/` - Type class for set-like structures
 - [ ] `Setoid/` - Setoids (types with equivalence relations)
 - [ ] `Sigma/` - Dependent pairs (Sigma types)
