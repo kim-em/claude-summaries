@@ -80,7 +80,7 @@ No files in the root directory - all content is in subdirectories.
 - [x] `-home-kim-ProofWidgets4/` - ProofWidgets4 on server
 - [x] `-home-kim-batteries/` - Batteries on server
 - [x] `-home-kim-docker/` - Docker configurations
-- [ ] `-home-kim-hammer-bench/` - Hammer benchmark
+- [x] `-home-kim-hammer-bench/` - Hammer benchmark
 - [ ] `-home-kim-lean4/` - lean4 on server
 - [ ] `-home-kim-lean4-2/` - lean4 checkout #2 on server
 - [ ] `-home-kim-lean4-3/` - lean4 checkout #3 on server
