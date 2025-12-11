@@ -90,7 +90,7 @@ The `Data/` directory contains fundamental data structures, numeric types, and t
 - [x] `Sign/` - Sign type (positive, zero, negative)
 - [x] `Stream/` - Streams (infinite sequences)
 - [x] `String/` - Strings and string operations
-- [ ] `Sum/` - Sum types (disjoint unions)
+- [x] `Sum/` - Sum types (disjoint unions)
 - [ ] `Sym/` - Symmetric powers
 - [ ] `Tree/` - Tree data structures
 - [ ] `Vector/` - Vectors (lists with statically-known length)
