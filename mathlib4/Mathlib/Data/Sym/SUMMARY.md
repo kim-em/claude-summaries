@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Data/Sym
-generated: 2025-12-11T12:00:00Z
+generated: 2025-12-11T20:15:00Z
 git_sha: d3b1fce8074ef80dac7bb8dc86bbe26d1db89f2b
 git_branch: linarith_to_grind_regressions
-status: preliminary
+status: complete
 files_count: 3
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-This directory defines symmetric powers of a type, with a focus on the symmetric square (`Sym2`). The nth symmetric power `Sym α n` consists of homogeneous n-tuples modulo permutations by the symmetric group, implemented as multisets of fixed cardinality. The symmetric square `Sym2 α` (unordered pairs) receives extensive treatment including membership, diagonal elements, relations, and the "stars and bars" combinatorial technique for counting multisets.
+This directory defines symmetric powers of a type, which are fundamental constructions in combinatorics and algebra. The nth symmetric power `Sym α n` consists of homogeneous n-tuples modulo permutations by the symmetric group, implemented as multisets of fixed cardinality. The symmetric square `Sym2 α` (unordered pairs) receives extensive treatment as a special case, implemented as a quotient of `α × α` by swap. Key functionality includes membership operations, diagonal elements, conversions between symmetric relations and `Sym2` values, and the "stars and bars" combinatorial technique for counting multisets. The subdirectory extends `Sym2` with Aesop automation, finitely-supported function lifting, and order-theoretic operations including a canonical sorting equivalence with ordered pairs.
 
 ## Key Files
 
@@ -28,4 +28,4 @@ This directory defines symmetric powers of a type, with a focus on the symmetric
 
 ## Search Tags
 
-symmetric-powers symmetric-square unordered-pairs multisets quotients permutations stars-and-bars combinatorics multichoose binomial-coefficients diagonal relations
+symmetric-powers symmetric-square unordered-pairs multisets quotients permutations stars-and-bars combinatorics multichoose binomial-coefficients diagonal relations aesop finsupp sorting linear-order lattice
