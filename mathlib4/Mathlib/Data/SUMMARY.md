@@ -96,7 +96,7 @@ The `Data/` directory contains fundamental data structures, numeric types, and t
 - [x] `Vector/` - Vectors (lists with statically-known length)
 - [x] `W/` - W-types (well-founded trees)
 - [x] `WSeq/` - Weak sequences (potentially infinite computations)
-- [ ] `ZMod/` - Integers modulo n (ℤ/nℤ)
+- [x] `ZMod/` - Integers modulo n (ℤ/nℤ)
 
 ## Search Tags
 
