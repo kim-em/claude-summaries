@@ -78,7 +78,7 @@ No files in the root directory - all content is in subdirectories.
 ### Remote Server Projects (13 directories)
 - [x] `-home-kim/` - Remote home directory
 - [x] `-home-kim-ProofWidgets4/` - ProofWidgets4 on server
-- [ ] `-home-kim-batteries/` - Batteries on server
+- [x] `-home-kim-batteries/` - Batteries on server
 - [ ] `-home-kim-docker/` - Docker configurations
 - [ ] `-home-kim-hammer-bench/` - Hammer benchmark
 - [ ] `-home-kim-lean4/` - lean4 on server
