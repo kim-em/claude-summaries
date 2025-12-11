@@ -31,7 +31,7 @@ Claude Code user configuration directory, synchronized across machines via git. 
 - [x] `commands/` - Custom slash commands (reflect.md, coffee.md, update-log.md)
 - [x] `skills/` - 21 custom skills with SKILL.md definitions and helper scripts (including zulip with FTS5 search and message sending, merge-conflict-helper with 10-step PR workflow, copying-conversation-logs)
 - [x] `plugins/` - Plugin configuration with versioned plugin registries (v1/v2) and marketplaces subdirectory
-- [~] `projects/` - Per-project session history and context (62 project directories)
+- [x] `projects/` - Per-project session history and context (62 project directories)
 
 ### Runtime & State (9 directories)
 - [x] `debug/` - Debug logs and diagnostic data

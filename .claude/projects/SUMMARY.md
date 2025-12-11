@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/.claude/projects
-generated: 2025-12-11T12:00:00Z
+generated: 2025-12-11T21:30:00Z
 git_sha: 5a5c7bc8574841a2870eff76b15c9a7bf9b3c3fa
 git_branch: master
-status: preliminary
+status: complete
 files_count: 0
 subdirs_count: 62
 ---
@@ -12,7 +12,16 @@ subdirs_count: 62
 
 ## Overview
 
-Per-project session history storage for Claude Code. Each subdirectory corresponds to a specific project directory on the filesystem, with the path encoded in the directory name (slashes replaced with hyphens). Contains JSONL session transcript files (one per Claude session) that preserve conversation history and context across sessions. This enables Claude to resume work with full context and provides a searchable archive of all interactions for each project.
+Per-project session history storage for Claude Code, containing 7,301 JSONL transcript files (2,520 main sessions + 4,781 agent subprocesses) totaling 1.2GB. Each subdirectory corresponds to a project directory on the filesystem, with the path encoded in the directory name (slashes replaced with hyphens). The archive spans work from November-December 2025 across 62 projects on two machines (local Mac ~/projects and remote server /home/kim).
+
+**Primary focus areas:**
+- **Lean4 compiler development**: Grind tactic bug fixes, CI validation, library suggestion macros, kernel type checker work
+- **Mathlib4 contributions**: ConvexSpace refactoring, Lake cache optimization, linter improvements, deprecation fixes
+- **Mathematical formalizations**: Fermat's Last Theorem, Feit-Thompson theorem, sphere eversion
+- **Developer tooling**: Metacortex automation (319 sessions), Claude-related skills, lean4web (live.lean-lang.org)
+- **Personal projects**: Advent of Code 2025 in Lean (83 sessions), rogaine, vlc-audio
+
+The heaviest-use projects are metacortex (319 files, 14MB), mathlib4 (147 files, 30MB), AoC2025 (83 files), and the three lean4 checkouts combined (68 files).
 
 ## Key Files
 
