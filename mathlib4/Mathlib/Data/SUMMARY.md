@@ -81,7 +81,7 @@ The `Data/` directory contains fundamental data structures, numeric types, and t
 - [x] `QPF/` - Quotients of polynomial functors
 - [x] `Rat/` - Rational numbers ℚ
 - [x] `Real/` - Real numbers ℝ
-- [ ] `Rel/` - Relations and relation operations
+- [x] `Rel/` - Relations and relation operations
 - [ ] `Seq/` - Sequences (infinite lists)
 - [ ] `Set/` - Sets and set operations
 - [ ] `SetLike/` - Type class for set-like structures
