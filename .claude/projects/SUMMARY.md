@@ -90,7 +90,7 @@ No files in the root directory - all content is in subdirectories.
 - [x] `-home-kim-mathlib4-3/` - mathlib4 checkout #3 on server
 - [x] `-home-kim-mathlib4-4/` - mathlib4 checkout #4 on server
 - [x] `-home-kim-metacortex/` - Metacortex on server
-- [ ] `-home-kim-vscode-pull-request-github/` - VS Code PR on server
+- [x] `-home-kim-vscode-pull-request-github/` - VS Code PR on server (investigation of issue #7403 document leak)
 
 ## Search Tags
 
