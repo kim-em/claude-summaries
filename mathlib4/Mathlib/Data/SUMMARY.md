@@ -93,7 +93,7 @@ The `Data/` directory contains fundamental data structures, numeric types, and t
 - [x] `Sum/` - Sum types (disjoint unions)
 - [x] `Sym/` - Symmetric powers
 - [x] `Tree/` - Tree data structures
-- [ ] `Vector/` - Vectors (lists with statically-known length)
+- [x] `Vector/` - Vectors (lists with statically-known length)
 - [ ] `W/` - W-types (well-founded trees)
 - [ ] `WSeq/` - Weak sequences (potentially infinite computations)
 - [ ] `ZMod/` - Integers modulo n (ℤ/nℤ)
