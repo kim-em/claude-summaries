@@ -58,7 +58,7 @@ The `Set/` directory provides the foundational theory of sets in mathlib4, where
 
 ## Subdirectories
 
-- [ ] `Card/` - Arithmetic lemmas for set cardinality
+- [x] `Card/` - Arithmetic lemmas for set cardinality
 - [ ] `Finite/` - Finite sets: basic properties, lattice operations, lists, monadic operations, powerset, and ranges
 - [ ] `Lattice/` - Lattice operations on images of sets
 - [ ] `Pairwise/` - Pairwise relations on sets: basic properties, chains, lattice operations, and list interactions
