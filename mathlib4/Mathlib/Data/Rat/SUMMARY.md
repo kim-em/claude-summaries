@@ -32,7 +32,7 @@ The `Rat/` directory contains the foundational implementation of rational number
 ## Subdirectories
 
 - [x] `Cast/` - Casting operations between ℚ and other types (CharZero, order-preserving casts, scientific notation)
-- [ ] `NatSqrt/` - Natural number square root approximations for rationals
+- [x] `NatSqrt/` - Natural number square root approximations for rationals
 
 ## Search Tags
 
