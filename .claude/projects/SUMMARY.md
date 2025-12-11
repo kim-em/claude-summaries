@@ -83,7 +83,7 @@ No files in the root directory - all content is in subdirectories.
 - [x] `-home-kim-hammer-bench/` - Hammer benchmark
 - [x] `-home-kim-lean4/` - lean4 on server
 - [x] `-home-kim-lean4-2/` - lean4 checkout #2 on server
-- [ ] `-home-kim-lean4-3/` - lean4 checkout #3 on server
+- [x] `-home-kim-lean4-3/` - lean4 checkout #3 on server
 - [ ] `-home-kim-lean4web/` - lean4web project
 - [ ] `-home-kim-mathlib4/` - mathlib4 on server
 - [ ] `-home-kim-mathlib4-2/` - mathlib4 checkout #2 on server
