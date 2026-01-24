@@ -51,7 +51,7 @@ The `Function/` directory contains the theory of measurable functions and their 
 - [x] `L1Space/` - L¹ space of integrable functions
 - [x] `LpSeminorm/` - Seminorms on Lp spaces and their properties
 - [x] `LpSpace/` - Lp spaces for 1 ≤ p ≤ ∞
-- [ ] `SpecialFunctions/` - Measure theory properties of special functions
+- [x] `SpecialFunctions/` - Measure theory properties of special functions
 - [ ] `StronglyMeasurable/` - Strongly measurable functions and related concepts
 
 ## Search Tags
