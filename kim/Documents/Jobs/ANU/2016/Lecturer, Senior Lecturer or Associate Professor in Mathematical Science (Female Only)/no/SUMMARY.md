@@ -37,7 +37,7 @@ No files directly in this folder - all materials are organized in candidate subd
 - [x] `Liao, Xian/` - Postdoc at Universität Bonn; PhD Paris-Est 2013 under Danchin; research on PDEs, fluid mechanics, zero Mach number systems, density patch problems; 10 publications; 4 reference letters (Feireisl, Zhang, Danchin, Koch); no Australian work rights
 - [x] `Myer, Ziva/` - PhD candidate at Bryn Mawr College; research on A∞ algebras for Legendrian submanifolds using generating families in contact/symplectic geometry; expected graduation May 2017; 3 strong reference letters from advisor Lisa Traynor, Joshua Sabloff (Haverford), Katrin Wehrheim (Berkeley); extensive TA experience; EDGE program mentor; no Australian work rights
 - [x] `O.Donnol, Danielle/` - Visiting Assistant Professor at Indiana University; PhD UCLA 2008; research in knot theory, spatial graphs, Legendrian graphs, Floer homology, DNA topology; NSF funding $144,577; 6 reference letters (Orr, Harvey, Buck, Etnyre, McKinley, Flapan); papers subdirectory; no Australian work rights
-- [ ] `Pourhasan, Razieh/` - Application materials with reference letters
+- [~] `Pourhasan, Razieh/` - Postdoctoral fellow at University of Iceland specializing in theoretical physics/string theory; PhD Waterloo/Perimeter 2014; research on holography, AdS/CFT, entanglement entropy, holographic cosmology; Scientific American cover article 2014; no Australian work rights
 - [ ] `Rupam, Rishika/` - Application materials with reference letters
 - [ ] `Salmeron, Raquel/` - Application materials with reference letters
 - [ ] `Saorin Gomez, Eugenia/` - Application materials with reference letters
