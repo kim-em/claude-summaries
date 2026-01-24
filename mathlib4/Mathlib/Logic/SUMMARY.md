@@ -40,7 +40,7 @@ The `Logic/` directory provides foundational mathematical logic infrastructure f
 - [x] `Function/` - Function properties and constructions (composition, inverses, injectivity, surjectivity)
 - [x] `Godel/` - Gödel's Beta Function Lemma for encoding/decoding finite sequences of natural numbers
 - [x] `Nontrivial/` - Nontrivial types (at least two distinct elements)
-- [ ] `Small/` - Small types (embeddable into a universe level)
+- [x] `Small/` - Small types (embeddable into a universe level)
 
 ## Search Tags
 
