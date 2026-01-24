@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/Lecturer, Senior Lecturer or Associate Professor in Mathematical Science (Female Only)/no/Corran, Ruth
-generated: 2026-01-24T19:53:00Z
+generated: 2026-01-24T20:03:00Z
 git_sha: fafb26e72fe7b535873cd5b8a8f359b75df7fe29
 git_branch: master
-status: preliminary
+status: complete
 files_count: 6
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Application materials for Dr. Ruth Corran, an Australian/British mathematician applying from the American University of Paris for a female-only faculty position in Mathematical Sciences at ANU. Dr. Corran is an Associate Professor specializing in algebra (reflection groups, braid groups, Garside structures) with 16+ years of research and teaching experience. Her application demonstrates strong research credentials (10 publications, international collaborations) and extensive teaching experience, though her publication rate slowed after having children. She applied at Senior Lecturer/Level C, seeking to return to Australia with her children and be closer to family in Sydney.
+Application materials for Dr. Ruth Corran, an Australian/British mathematician applying from the American University of Paris for a female-only faculty position in Mathematical Sciences at ANU. Dr. Corran is an Associate Professor specializing in algebra, specifically reflection groups, braid groups, Garside structures, and Artin monoids, with 16+ years of research and teaching experience. Her research demonstrates strong expertise in combinatorial group theory and computational algebra through international collaborations, evidenced by publications in prestigious journals like Journal of Algebra (2015) and International Journal of Computer Mathematics (2013). The included papers showcase sophisticated work on braid groups of imprimitive complex reflection groups and automaticity of singular Artin monoids. Despite strong research credentials (10 publications) and four enthusiastic reference letters from international collaborators, her publication rate slowed after having children. She applied at Senior Lecturer/Level C, seeking to return to Australia with her children and be closer to family in Sydney.
 
 ## Key Files
 

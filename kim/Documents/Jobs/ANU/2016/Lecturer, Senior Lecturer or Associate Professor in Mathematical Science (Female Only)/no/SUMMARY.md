@@ -24,7 +24,7 @@ No files directly in this folder - all materials are organized in candidate subd
 - [x] `Begum, Azra/` - Application materials (application PDF only, minimal documentation)
 - [x] `Burtscher, Annegret/` - Application materials with reference letters
 - [x] `Cheung, Yeuk-Kwan Edna/` - Application materials with reference letters
-- [~] `Corran, Ruth/` - Application materials with reference letters
+- [x] `Corran, Ruth/` - Application materials with reference letters
 - [ ] `Dann, Susanna/` - Application materials with reference letters
 - [ ] `Ginges, Jacinda/` - Application materials with reference letters
 - [ ] `Grigorova, Miryana/` - Application materials with reference letters
