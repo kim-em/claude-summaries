@@ -38,7 +38,7 @@ The `Equiv/` directory contains the theory of type equivalences (bijections) in 
 
 ## Subdirectories
 
-- [ ] `Fin/` - Equivalences involving `Fin n` (finite types with n elements)
+- [x] `Fin/` - Equivalences involving `Fin n` (finite types with n elements)
 
 ## Search Tags
 
