@@ -26,7 +26,7 @@ Application materials for Arielle Leitner, postdoctoral researcher at Technion a
 
 ## Subdirectories
 
-- [ ] `papers/` - Research publications submitted with application
+- [x] `papers/` - Research publications submitted with application
 
 ## Search Tags
 
