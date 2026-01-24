@@ -36,3 +36,4 @@
 - `Counterexamples/` - Claude error: Credit balance is too low  (skipped 2026-01-24T07:21:28Z)
 - `MathlibTest/` - Claude error: Credit balance is too low  (skipped 2026-01-24T07:21:33Z)
 - `Cache/` - Claude error: Credit balance is too low  (skipped 2026-01-24T07:21:38Z)
+- `LongestPole/` - Claude error: Credit balance is too low  (skipped 2026-01-24T07:21:43Z)
