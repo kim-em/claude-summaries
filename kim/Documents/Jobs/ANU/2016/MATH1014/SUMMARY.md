@@ -33,7 +33,7 @@ MATH1014 (Mathematics and Applications 1) Semester 2 2016 teaching materials for
 ## Subdirectories
 
 - [x] `Assignment/` - Course assignment materials including main assignment, mock assignment, solutions, cover sheets, and marking rubric
-- [ ] `Exams/` - Mid-semester and final exam materials for both linear algebra and calculus components with solutions and grade spreadsheets
+- [~] `Exams/` - Mid-semester and final exam materials for both linear algebra and calculus components with solutions and grade spreadsheets
 - [ ] `Worksheets/` - Weekly linear algebra tutorial worksheets for weeks 3-11 with LaTeX source files
 - [ ] `Notes/` - Course notes subdirectory for linear algebra content
 - [ ] `PastExams/` - Past exam papers from 2014-2015 for student practice (linear algebra mid-semester and final exams with solutions)
