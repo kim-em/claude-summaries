@@ -23,7 +23,7 @@ The `Mathlib/Lean/Elab/` directory provides elaboration-related utilities that e
 
 ## Subdirectories
 
-- [ ] `Tactic/` - Tactic elaboration utilities
+- [x] `Tactic/` - Tactic elaboration utilities
 
 ## Search Tags
 
