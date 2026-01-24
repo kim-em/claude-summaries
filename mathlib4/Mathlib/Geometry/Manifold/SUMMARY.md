@@ -49,7 +49,7 @@ The `Manifold/` directory contains the formalization of smooth manifolds and dif
 - [x] `Instances/` - Concrete manifold instances: real line, unit interval `[0,1]`, spheres, units of normed algebras
 - [x] `IntegralCurve/` - Integral curves of vector fields: existence, uniqueness, and transformations
 - [x] `IsManifold/` - The `IsManifold` typeclass and properties of manifolds (interior, boundary, extended charts)
-- [ ] `MFDeriv/` - The manifold derivative `mfderiv`: definitions, basic properties, chain rule, specific functions
+- [x] `MFDeriv/` - The manifold derivative `mfderiv`: definitions, basic properties, chain rule, specific functions
 - [ ] `Riemannian/` - Riemannian geometry: metrics on manifolds, path length via energy functionals
 - [ ] `Sheaf/` - Sheaf-theoretic perspective on manifolds: sheaves of smooth functions, locally ringed spaces
 - [ ] `VectorBundle/` - Smooth vector bundles: tangent bundles, smooth sections, local frames, Riemannian metrics on bundles
