@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/Lecturer, Senior Lecturer or Associate Professor in Mathematical Science (Female Only)/no/Sohail, Ayesha
-generated: 2026-01-25T08:00:00Z
+generated: 2026-01-25T08:40:00Z
 git_sha: fafb26e72fe7b535873cd5b8a8f359b75df7fe29
 git_branch: master
-status: preliminary
+status: complete
 files_count: 1
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Application materials for Dr Ayesha Sohail, a Pakistani mathematician applying for ANU's 2016 female-only faculty position (Lecturer/Senior Lecturer/Associate Professor in Mathematical Science). PhD in Applied and Computational Mathematics from University of Sheffield (UK) 2012. Assistant Professor at COMSATS Lahore since 2006, specializing in applied mathematics, numerical analysis, computational biology, and mathematical physics. Extensive publication record with 30+ journal articles and multiple conference proceedings. Application was rejected (placed in "no" folder). Notably indicated no Australian work rights.
+Application materials for Dr Ayesha Sohail, a Pakistani mathematician applying for ANU's 2016 female-only faculty position (Lecturer/Senior Lecturer/Associate Professor in Mathematical Science). PhD in Applied and Computational Mathematics from University of Sheffield (UK) 2012. Assistant Professor at COMSATS Lahore since 2006, demonstrating strong interdisciplinary breadth in applied mathematics spanning computational biology (fractional-order tumor modeling), mathematical finance (insurance optimization via stochastic control), and mathematical physics (nonlinear wave equations for surface dynamics). Research portfolio includes 30+ journal publications with MathSciNet citations, computational expertise (MATLAB, COMSOL, Maple, Mathematica, C++), and $20k research productivity award. Application was rejected (placed in "no" folder), likely influenced by lack of Australian work rights.
 
 ## Key Files
 
@@ -22,7 +22,7 @@ Application materials for Dr Ayesha Sohail, a Pakistani mathematician applying f
 
 ## Subdirectories
 
-- [x] `papers/` - Three PDF papers: fractional-order tumor model (Int. J. Biomath. 2015), equilibrium strategies in mean-variance problems for insurers (Insurance Math. Econom. 2016), and Painlevé property/Adomian decomposition for KdV-like wave equation (Appl. Math. Comput. 2014)
+- [x] `papers/` - Three peer-reviewed mathematical research papers (2014-2016) demonstrating breadth across application domains: fractional-order differential equations for tumor-immune dynamics with immunotherapy treatments (Int. J. Biomath. 2015), mean-variance optimization for insurance surplus using forward-backward SDEs and Poisson jump processes (Insurance Math. Econom. 2016), and integrability analysis of KdV-like evolution equations for capillary-gravity surface waves via Painlevé property and Adomian decomposition (Appl. Math. Comput. 2014)
 
 ## Search Tags
 
