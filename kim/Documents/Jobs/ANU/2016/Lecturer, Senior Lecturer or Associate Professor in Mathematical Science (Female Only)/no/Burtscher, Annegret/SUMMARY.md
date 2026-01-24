@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/Lecturer, Senior Lecturer or Associate Professor in Mathematical Science (Female Only)/no/Burtscher, Annegret
-generated: 2026-01-24T19:54:00Z
+generated: 2026-01-24T22:29:00Z
 git_sha: fafb26e72fe7b535873cd5b8a8f359b75df7fe29
 git_branch: master
-status: preliminary
+status: complete
 files_count: 5
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Application materials for Annegret Burtscher, a candidate in the 2016 ANU female-only faculty search for mathematical sciences positions (Lecturer/Senior Lecturer/Associate Professor). The folder contains the main application PDF, four reference letters from mathematical physics researchers, and a papers subdirectory with three published works on differential geometry and general relativity topics.
+Application materials for Annegret Burtscher, a candidate ultimately not advanced in the 2016 ANU female-only faculty search for mathematical sciences positions (Lecturer/Senior Lecturer/Associate Professor). The folder contains the main application document (1.4 MB) and four reference letters totaling 1.85 MB from established mathematical physics researchers (James Grant, Michael Kunzinger, Piotr Chrusciel, and Roland Donninger). A papers subdirectory contains three published research works focusing on differential geometry and general relativity, demonstrating the candidate's research profile in geometric analysis and mathematical physics.
 
 ## Key Files
 
