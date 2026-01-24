@@ -80,7 +80,7 @@ The `LinearAlgebra/` directory contains mathlib4's comprehensive formalization o
 - [x] `LinearIndependent/` - Linear independence
 - [x] `Matrix/` - Matrix theory and operations
 - [x] `Multilinear/` - Multilinear maps
-- [ ] `PerfectPairing/` - Perfect pairings and duality
+- [x] `PerfectPairing/` - Perfect pairings and duality
 - [ ] `PiTensorProduct/` - Indexed tensor products (subdirectory extension)
 - [ ] `Projectivization/` - Projectivization of vector spaces
 - [ ] `QuadraticForm/` - Quadratic forms
