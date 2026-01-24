@@ -5,7 +5,7 @@ git_sha: a7f9d0e5692aa0d2ec137abd8f2601dccd0a21ec
 git_branch: master
 status: complete
 files_count: 0
-subdirs_count: 1
+subdirs_count: 0
 ---
 
 # marketplaces
@@ -20,7 +20,13 @@ Storage directory for Claude Code plugin marketplaces. Contains cloned repositor
 
 ## Subdirectories
 
-- [x] `claude-plugins-official/` - Official Anthropic plugin marketplace cloned from anthropics/claude-plugins-official; contains plugin manifests in plugins/ and external_plugins/ directories
+(none)
+
+## Submodules
+
+| Directory | Repository | Commit | Description |
+|-----------|------------|--------|-------------|
+| `claude-plugins-official/` | https://github.com/anthropics/claude-plugins-official | dbc4a77 | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
 
 ## Search Tags
 
