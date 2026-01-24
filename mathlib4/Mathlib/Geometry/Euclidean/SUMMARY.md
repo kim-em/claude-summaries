@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Geometry/Euclidean
-generated: 2026-01-24T06:15:00Z
+generated: 2026-01-24T22:45:00Z
 git_sha: 073b1c781e4870a435fcc3a04440176ab0c8af88
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 12
 subdirs_count: 3
 ---
@@ -12,7 +12,19 @@ subdirs_count: 3
 
 ## Overview
 
-The `Euclidean/` directory formalizes Euclidean geometry in real inner product spaces and Euclidean affine spaces. It builds on the foundation of normed add-commutative groups with inner products and normed add-torsors, defining geometric constructs like simplices, circumcenters, incenters, altitudes, and various triangle properties. The library covers classical Euclidean geometry topics including the law of cosines, law of sines, triangle congruence and similarity criteria (SSS, SAS, ASA, AAS), Monge points, orthogonal projections, perpendicular bisectors, and geometric inversion. It also includes specialized theories for angles (both oriented and unoriented), spheres, and circle geometry.
+The `Euclidean/` directory provides a comprehensive formalization of Euclidean geometry in real inner product spaces and Euclidean affine spaces. The library builds on normed add-commutative groups with inner products and normed add-torsors to develop both classical synthetic geometry and coordinate-based approaches.
+
+**Simplex and polytope theory**: Simplices in Euclidean spaces have rich structure including circumspheres (circumcenter, circumradius), inspheres (incenter, inradius), exspheres (excenter, exradius), altitudes, and Monge points (the n-dimensional generalization of the orthocenter). The library proves existence and uniqueness of circumcenters, the Euler line relationship for Monge points, and orthocentric system properties.
+
+**Triangle geometry**: Classical results include the law of cosines, law of sines, pons asinorum, the sum of angles equaling π, and comprehensive congruence (SSS, SAS, ASA, AAS) and similarity (AA, SAS) criteria via the `Congruent` typeclass.
+
+**Angle theory**: Both oriented (signed, 2D-specific using complex exponentials) and unoriented (unsigned, arbitrary-dimension using arccos) angles are formalized. This supports the Pythagorean theorem, inscribed angle theorem, Thales' theorem, cyclic quadrilateral theorems, and angle bisector characterizations.
+
+**Sphere geometry**: The `Sphere` structure bundles center and radius, with theories for cospherical/concyclic points, tangent lines and spaces, power of a point, intersecting chords/secants theorems (Freek No. 55), Ptolemy's theorem (Freek No. 95), and second intersection points.
+
+**Geometric inversion**: Circle/sphere inversion is formalized as an involution with distance formulas, calculus properties (differentiability, smoothness), and the key result that spheres through the center map to hyperplanes.
+
+**Projections and distances**: Orthogonal projection onto affine subspaces, reflection in affine subspaces, perpendicular bisectors via equidistance characterization, and signed distances with trilinear coordinates.
 
 ## Key Files
 
@@ -33,10 +45,10 @@ The `Euclidean/` directory formalizes Euclidean geometry in real inner product s
 
 ## Subdirectories
 
-- [x] `Angle/` - Angles in Euclidean spaces: oriented and unoriented angles between vectors, angle bisectors, angles inscribed in circles
-- [x] `Inversion/` - Geometric inversion (circle inversion): basic properties, calculus of inversion, images of hyperplanes
-- [x] `Sphere/` - Sphere geometry: basic definitions, orthogonal radius, power of a point, Ptolemy's theorem, second intersection point, tangent lines
+- [x] `Angle/` - Angles in Euclidean spaces: both oriented (signed, 2D) and unoriented (unsigned, arbitrary dimension) angle theories, inscribed angle theorem, Thales' theorem, cyclic quadrilaterals, angle bisectors, Pythagorean theorem
+- [x] `Inversion/` - Geometric inversion: involutivity, distance formulas, Ptolemy's inequality, calculus (derivatives, smoothness), images of spheres and hyperplanes
+- [x] `Sphere/` - Sphere geometry: cospherical/concyclic points, power of a point, intersecting chords/secants theorems (Freek No. 55), Ptolemy's theorem (Freek No. 95), tangent lines/spaces, second intersection points
 
 ## Search Tags
 
-euclidean-geometry inner-product-space affine-space simplex circumcenter circumradius incenter inradius excenter altitude monge-point orthocenter euler-line triangle law-of-cosines law-of-sines congruence SSS SAS ASA AAS similarity perpendicular-bisector orthogonal-projection reflection signed-distance trilinear-coordinates cospherical
+euclidean-geometry inner-product-space affine-space simplex circumcenter circumradius incenter inradius excenter exradius altitude monge-point orthocenter euler-line triangle law-of-cosines law-of-sines pons-asinorum congruence SSS SAS ASA AAS similarity perpendicular-bisector orthogonal-projection reflection signed-distance trilinear-coordinates cospherical concyclic angle oriented-angle unoriented-angle inscribed-angle thales-theorem cyclic-quadrilateral pythagorean-theorem inversion circle-inversion ptolemy freek-55 freek-95 sphere tangent power-of-point intersecting-chords
