@@ -27,7 +27,7 @@ Lecture 5 of the linear algebra component of MATH1014, focusing on the introduct
 
 ## Subdirectories
 
-- [ ] `diagrams/` - Supporting graphics for lecture (plane diagrams, quadrant illustration, line diagrams, example PDFs)
+- [x] `diagrams/` - Supporting graphics for lecture (plane diagrams, quadrant illustration, line diagrams, example PDFs)
 
 ## Search Tags
 
