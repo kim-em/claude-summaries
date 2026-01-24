@@ -35,7 +35,7 @@ The `Dimension/` subdirectory contains mathlib4's formalization of dimension the
 
 ## Subdirectories
 
-- [ ] `Torsion/` - Dimension theory for torsion modules
+- [x] `Torsion/` - Dimension theory for torsion modules
 
 ## Search Tags
 
