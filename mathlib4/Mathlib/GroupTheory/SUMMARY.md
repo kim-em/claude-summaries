@@ -61,7 +61,7 @@ The `GroupTheory/` directory contains comprehensive formalization of group-theor
 
 - [x] `Abelianization/` - Abelianization functor: definitions and finiteness properties
 - [x] `Commutator/` - Commutator subgroups: basic theory and finiteness
-- [ ] `Congruence/` - Congruence relations on monoids and groups
+- [x] `Congruence/` - Congruence relations on monoids and groups
 - [ ] `Coprod/` - Coproduct (free product) of two groups
 - [ ] `Coset/` - Coset theory: basic definitions and cardinality
 - [ ] `Coxeter/` - Coxeter groups and Coxeter systems
