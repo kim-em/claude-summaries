@@ -54,7 +54,7 @@ LaTeX-based lecture notes for the linear algebra component of MATH1014 (Mathemat
 - [x] `Lecture22/` - The Gram-Schmidt Process for converting arbitrary bases into orthogonal and orthonormal bases, with QR matrix factorization
 - [~] `Lecture23/` - The Least Squares Problem (best approximation for inconsistent systems, normal equations A^T A x̂ = A^T b)
 - [x] `Lecture24/` - Markov chains, text generation, PageRank algorithm, and SVD image compression with Python/Mathematica examples
-- [ ] `Lecture25/` - Linear algebra lecture content
+- [x] `Lecture25/` - Final revision session with 13 comprehensive practice problems covering all semester topics (change of basis, eigenvalues, diagonalization, dynamical systems, Markov chains, orthogonal projections)
 
 ## Search Tags
 
