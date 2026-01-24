@@ -25,7 +25,7 @@ Application materials for Dr. Arunima Ray, a postdoctoral instructor at Brandeis
 
 ## Subdirectories
 
-- [ ] `papers/` - Contains 2 research publications on knot concordance and Casson towers
+- [x] `papers/` - Contains 2 research publications on knot concordance and Casson towers
 
 ## Search Tags
 
