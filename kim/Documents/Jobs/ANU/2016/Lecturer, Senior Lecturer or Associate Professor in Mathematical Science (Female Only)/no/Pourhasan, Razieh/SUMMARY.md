@@ -28,7 +28,7 @@ Application materials for Dr. Razieh Pourhasan, postdoctoral fellow at Universit
 
 ## Subdirectories
 
-- [ ] `papers/` - Research publications (contains 1 paper: Gauss-Bonnet black holes and heavy fermion metals co-authored with R.B. Mann, published in J. High Energy Phys. 2011)
+- [x] `papers/` - Research publications (contains 1 paper: Gauss-Bonnet black holes and heavy fermion metals co-authored with R.B. Mann, published in J. High Energy Phys. 2011)
 
 ## Search Tags
 
