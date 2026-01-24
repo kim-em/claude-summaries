@@ -91,7 +91,7 @@ The `LinearAlgebra/` directory contains mathlib4's comprehensive formalization o
 - [x] `Span/` - Span of sets in modules
 - [x] `SymmetricAlgebra/` - Symmetric algebras
 - [x] `TensorAlgebra/` - Tensor algebras
-- [ ] `TensorPower/` - Tensor powers
+- [x] `TensorPower/` - Tensor powers
 - [ ] `TensorProduct/` - Tensor products of modules
 
 ## Search Tags
