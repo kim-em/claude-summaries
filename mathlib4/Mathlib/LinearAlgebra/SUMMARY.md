@@ -89,7 +89,7 @@ The `LinearAlgebra/` directory contains mathlib4's comprehensive formalization o
 - [x] `SModEq/` - Scalar modular equivalence (subdirectory extension)
 - [x] `SesquilinearForm/` - Sesquilinear forms (subdirectory extension)
 - [x] `Span/` - Span of sets in modules
-- [ ] `SymmetricAlgebra/` - Symmetric algebras
+- [x] `SymmetricAlgebra/` - Symmetric algebras
 - [ ] `TensorAlgebra/` - Tensor algebras
 - [ ] `TensorPower/` - Tensor powers
 - [ ] `TensorProduct/` - Tensor products of modules
