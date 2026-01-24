@@ -26,7 +26,7 @@ Complete application materials for Dr. Katharine Turner, a postdoctoral scientis
 
 ## Subdirectories
 
-- [ ] `papers/` - Selected published research papers demonstrating excellence in applied topology
+- [x] `papers/` - Selected published research papers demonstrating excellence in applied topology
 
 ## Search Tags
 
