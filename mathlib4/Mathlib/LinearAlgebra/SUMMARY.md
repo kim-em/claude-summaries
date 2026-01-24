@@ -62,7 +62,7 @@ The `LinearAlgebra/` directory contains mathlib4's comprehensive formalization o
 - [x] `AffineSpace/` - Affine spaces and affine combinations
 - [x] `Alternating/` - Alternating multilinear maps
 - [x] `Basis/` - Basis theory and constructions
-- [ ] `BilinearForm/` - Bilinear forms on modules
+- [x] `BilinearForm/` - Bilinear forms on modules
 - [ ] `Charpoly/` - Characteristic polynomials
 - [ ] `CliffordAlgebra/` - Clifford algebras from quadratic forms
 - [ ] `Complex/` - Complex-specific linear algebra
