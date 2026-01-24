@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/MATH1014/Notes/LinearAlgebra/Lecture12
-generated: 2026-01-25T10:15:00Z
+generated: 2026-01-25T10:35:00Z
 git_sha: fafb26e72fe7b535873cd5b8a8f359b75df7fe29
 git_branch: master
-status: preliminary
+status: complete
 files_count: 7
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Materials for Lecture 12 (labeled "Lecture 13" in the content) of MATH1014 Linear Algebra, covering the characteristic equation and its use in finding eigenvalues and eigenvectors. The lecture reviews eigenvalue/eigenvector definitions, introduces the characteristic polynomial det(A - λI) and characteristic equation, discusses similarity transformations, and applies these concepts to dynamical systems and Markov chains. Includes LaTeX source files, generated PDFs (slides and handout), a scribbled/annotated PDF from the actual lecture, and supporting Maple worksheet diagrams for computational examples.
+Materials for Lecture 12 (labeled "Lecture 13" in the content) of MATH1014 Linear Algebra, covering the characteristic equation and its use in finding eigenvalues and eigenvectors. The lecture reviews eigenvalue/eigenvector definitions, introduces the characteristic polynomial det(A - λI) and characteristic equation, discusses similarity transformations, and applies these concepts to dynamical systems and Markov chains. Includes LaTeX source files, generated PDFs (slides and handout), and a scribbled/annotated PDF from the actual lecture. The diagrams subdirectory contains Maple computational worksheets that provide concrete numerical examples of eigenvalue/eigenvector calculations for specific 3×3 matrices, demonstrating the techniques discussed in the lecture.
 
 ## Key Files
 
