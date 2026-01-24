@@ -27,7 +27,7 @@ LaTeX source files and generated PDFs for Lecture 18 on discrete dynamical syste
 
 ## Subdirectories
 
-- [ ] `diagrams/` - Supporting diagrams and images for visualizing dynamical systems
+- [x] `diagrams/` - Supporting diagrams and images for visualizing dynamical systems
 
 ## Search Tags
 
