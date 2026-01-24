@@ -27,7 +27,7 @@ Fifth year of ANU faculty employment (2016) documenting promotion to Associate P
 - [x] `ASC/` - Australian Summer Course materials on Knot Theory co-taught with Zsuzsanna Dancso
 - [x] `CategoryTheory/` - Special topics course on Category Theory Semester 1 materials
 - [x] `IT-committee/` - IT committee work including website proposal
-- [ ] `Lecturer, Senior Lecturer or Associate Professor in Mathematical Science (Female Only)/` - Faculty position selection committee for female-only continuing position
+- [x] `Lecturer, Senior Lecturer or Associate Professor in Mathematical Science (Female Only)/` - Faculty position selection committee for female-only continuing position
 - [ ] `MATH1014/` - First-year calculus course Semester 2 teaching materials co-taught with Griffith Ware
 - [ ] `PDR/` - Performance Development Review documents
 - [ ] `RepresentationTheory/` - Special topics course on Representation Theory Semester 1 materials
