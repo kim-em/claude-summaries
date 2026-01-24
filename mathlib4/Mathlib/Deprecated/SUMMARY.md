@@ -26,7 +26,7 @@ The `Deprecated/` folder contains definitions and theorems that have been deprec
 
 ## Subdirectories
 
-- [ ] `MLList/` - Deprecated lazy list search algorithms including best-first search with priority estimation
+- [x] `MLList/` - Deprecated lazy list search algorithms including best-first search with priority estimation
 
 ## Search Tags
 
