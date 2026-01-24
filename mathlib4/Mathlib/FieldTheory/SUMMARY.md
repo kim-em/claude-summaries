@@ -62,7 +62,7 @@ The `FieldTheory/` directory contains a comprehensive formalization of field the
 - [x] `MvRatFunc/` - Multivariate rational functions and their rank properties
 - [x] `Normal/` - Normal extensions: definitions, basic properties, normal closure construction
 - [x] `PurelyInseparable/` - Purely inseparable extensions: basic theory, exponents, relationship to perfect closure, tower properties
-- [ ] `RatFunc/` - Rational functions: basic definitions and constructions, degree theory, relationship to polynomials
+- [x] `RatFunc/` - Rational functions: basic definitions and constructions, degree theory, relationship to polynomials
 - [ ] `SplittingField/` - Splitting fields: construction, uniqueness (IsSplittingField), fundamental properties
 
 ## Search Tags
