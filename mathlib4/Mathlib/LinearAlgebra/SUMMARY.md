@@ -83,7 +83,7 @@ The `LinearAlgebra/` directory contains mathlib4's comprehensive formalization o
 - [x] `PerfectPairing/` - Perfect pairings and duality
 - [x] `PiTensorProduct/` - Indexed tensor products (subdirectory extension)
 - [x] `Projectivization/` - Projectivization of vector spaces
-- [~] `QuadraticForm/` - Quadratic forms
+- [x] `QuadraticForm/` - Quadratic forms
 - [ ] `Quotient/` - Quotient modules
 - [ ] `RootSystem/` - Root systems and Lie theory
 - [ ] `SModEq/` - Scalar modular equivalence (subdirectory extension)

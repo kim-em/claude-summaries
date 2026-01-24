@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/LinearAlgebra/QuadraticForm
-generated: 2026-01-25T22:45:00Z
+generated: 2026-01-25T23:45:00Z
 git_sha: 542a7d7979ad5f45d2a89008412e565c8fa001d2
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 10
 subdirs_count: 2
 ---
@@ -12,7 +12,7 @@ subdirs_count: 2
 
 ## Overview
 
-The `QuadraticForm/` directory formalizes quadratic maps and quadratic forms on modules over commutative rings. A quadratic map `Q : M → N` satisfies `Q(a • x) = (a * a) • Q(x)` and has a companion bilinear map (the polar form). The directory includes fundamental theory (isometries, equivalences, tensor products), basis-dependent constructions, and classification results for real and complex quadratic forms. Key results include correspondence with symmetric bilinear forms (when 2 is invertible), Sylvester's law of inertia for real quadratic forms, and equivalence to sum of squares for complex forms. Also includes categorical perspectives through the `QuadraticModuleCat` category.
+The `QuadraticForm/` directory provides a comprehensive formalization of quadratic maps and quadratic forms on modules over commutative rings. A quadratic map `Q : M → N` satisfies the homogeneity condition `Q(a • x) = (a * a) • Q(x)` and has an associated polar form (a bilinear map recovered from the quadratic map). The directory develops the complete theory in three main layers: (1) foundational algebraic theory including isometries, equivalences, and the correspondence with symmetric bilinear forms (when 2 is invertible); (2) basis-dependent constructions and computational tools including triangular bilinear form extraction and expansion formulas; and (3) classification theory proving canonical form results for real quadratic forms (Sylvester's law of inertia: every form is equivalent to a weighted sum of squares with weights ±1 or 0) and complex quadratic forms (all nondegenerate forms of the same dimension are equivalent to unweighted sum of squares). The theory is extended categorically through the `QuadraticModuleCat` category equipped with symmetric monoidal structure via tensor products, and tensor product operations are validated through categorical coherence isometries (commutativity, associativity, identity). This completes the mathlib4 formalization of quadratic algebra alongside bilinear and sesquilinear forms.
 
 ## Key Files
 
@@ -31,8 +31,8 @@ The `QuadraticForm/` directory formalizes quadratic maps and quadratic forms on 
 
 ## Subdirectories
 
-- [x] `QuadraticModuleCat/` - Categorical structures for quadratic modules
-- [x] `TensorProduct/` - Additional tensor product theory for quadratic forms
+- [x] `QuadraticModuleCat/` - Monoidal and symmetric monoidal category structure on quadratic modules, with tensor product of quadratic forms requiring invertible 2, and forgetful functor to ModuleCat preserving monoidal/braided structure
+- [x] `TensorProduct/` - Tensor product isometries and coherence isomorphisms (commutativity, associativity, left/right identity) extending the basic tmul construction with categorical structure properties, split from main file for compilation performance
 
 ## Search Tags
 
