@@ -28,3 +28,4 @@
 - `Mathlib/SetTheory/` - Claude error: Credit balance is too low  (skipped 2026-01-24T07:19:59Z)
 - `Mathlib/Std/` - Claude error: Credit balance is too low  (skipped 2026-01-24T07:20:04Z)
 - `Mathlib/Tactic/` - Claude error: Credit balance is too low  (skipped 2026-01-24T07:20:58Z)
+- `Mathlib/Testing/` - Claude error: Credit balance is too low  (skipped 2026-01-24T07:21:03Z)
