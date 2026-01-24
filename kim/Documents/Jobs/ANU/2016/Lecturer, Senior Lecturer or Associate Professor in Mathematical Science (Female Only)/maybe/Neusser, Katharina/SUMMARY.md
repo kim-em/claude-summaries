@@ -3,7 +3,7 @@ source_path: /Users/kim/Documents/Jobs/ANU/2016/Lecturer, Senior Lecturer or Ass
 generated: 2026-01-24T00:00:00Z
 git_sha: 4a303882f378292f2fd905a5120a915b750f22dd
 git_branch: master
-status: preliminary
+status: complete
 files_count: 5
 subdirs_count: 1
 ---
@@ -26,7 +26,7 @@ Application materials for Dr. Katharina Neusser, an Austrian differential geomet
 
 ## Subdirectories
 
-- [ ] `papers/` - Two research papers: "On automorphism groups of some types of generic distributions" (2009, with Cap) and "Prolongation on regular infinitesimal flag manifolds" (2012)
+- [x] `papers/` - Two research papers: "On automorphism groups of some types of generic distributions" (2009, with Cap) and "Prolongation on regular infinitesimal flag manifolds" (2012)
 
 ## Search Tags
 
