@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/Lecturer, Senior Lecturer or Associate Professor in Mathematical Science (Female Only)/yes/Yang, Yaping
-generated: 2026-01-25T07:30:00Z
+generated: 2026-01-25T07:40:00Z
 git_sha: fafb26e72fe7b535873cd5b8a8f359b75df7fe29
 git_branch: master
-status: preliminary
+status: complete
 files_count: 5
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Application materials for Yaping Yang, a geometric representation theory specialist working on quantum groups, integrable systems, and elliptic cohomology. At time of application (October 2016), she was a Visiting Assistant Professor at UMass Amherst, having completed her PhD at Northeastern University in 2014 under Valerio Toledano Laredo. Her research focuses on infinite-dimensional quantum groups (Yangians, quantum loop algebras, elliptic quantum groups), deformed double current algebras, cohomological Hall algebras, and their applications to differential equations and Nakajima quiver varieties. Strong reference letters from leading mathematicians including Ivan Mirkovic (current supervisor at UMass), Valerio Toledano Laredo (PhD advisor at Northeastern), Pavel Etingof (MIT), and Marc Levine (Universität Duisburg-Essen).
+Application materials for Yaping Yang, a geometric representation theory specialist working on quantum groups, integrable systems, and elliptic cohomology. At time of application (October 2016), she was a Visiting Assistant Professor at UMass Amherst, having completed her PhD at Northeastern University in 2014 under Valerio Toledano Laredo. Her research focuses on infinite-dimensional quantum groups (Yangians, quantum loop algebras, elliptic quantum groups), deformed double current algebras, cohomological Hall algebras, and their applications to differential equations and Nakajima quiver varieties. The included paper with Marc Levine and Gufang Zhao on algebraic elliptic cohomology theory and flops demonstrates her work connecting algebraic cobordism, motivic homotopy theory, and birational geometry. Strong reference letters from leading mathematicians including Ivan Mirkovic (current supervisor at UMass), Valerio Toledano Laredo (PhD advisor at Northeastern), Pavel Etingof (MIT), and Marc Levine (Universität Duisburg-Essen, co-author on the elliptic cohomology paper).
 
 ## Key Files
 
@@ -26,7 +26,7 @@ Application materials for Yaping Yang, a geometric representation theory special
 
 ## Subdirectories
 
-- [ ] `papers/` - Selected research publications
+- [x] `papers/` - Selected research publications (includes co-authored work on algebraic elliptic cohomology theory and flops)
 
 ## Search Tags
 
