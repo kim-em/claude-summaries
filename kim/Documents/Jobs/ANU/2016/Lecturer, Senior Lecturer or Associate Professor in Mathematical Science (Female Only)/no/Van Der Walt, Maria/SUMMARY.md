@@ -26,7 +26,7 @@ Application materials for Dr. Maria van der Walt, Assistant Professor at Vanderb
 
 ## Subdirectories
 
-- [ ] `papers/` - Two published papers on data-driven atomic decomposition and signal analysis via instantaneous frequency estimation (both in GEM International Journal on Geomathematics, 2015-2016)
+- [x] `papers/` - Two published papers on data-driven atomic decomposition and signal analysis via instantaneous frequency estimation (both in GEM International Journal on Geomathematics, 2015-2016)
 
 ## Search Tags
 
