@@ -52,7 +52,7 @@ The `Function/` directory contains the theory of measurable functions and their 
 - [x] `LpSeminorm/` - Seminorms on Lp spaces and their properties
 - [x] `LpSpace/` - Lp spaces for 1 ≤ p ≤ ∞
 - [x] `SpecialFunctions/` - Measure theory properties of special functions
-- [ ] `StronglyMeasurable/` - Strongly measurable functions and related concepts
+- [x] `StronglyMeasurable/` - Strongly measurable functions and related concepts
 
 ## Search Tags
 
