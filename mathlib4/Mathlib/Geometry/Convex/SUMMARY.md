@@ -22,7 +22,7 @@ The `Convex/` directory contains formalized convex geometry results that work wi
 
 ## Subdirectories
 
-- [ ] `Cone/` - Convex cones theory
+- [x] `Cone/` - Convex cones theory
 
 ## Search Tags
 
