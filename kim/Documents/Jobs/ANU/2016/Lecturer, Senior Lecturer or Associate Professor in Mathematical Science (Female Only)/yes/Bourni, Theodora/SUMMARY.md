@@ -32,7 +32,7 @@ Job application package for Dr. Theodora Bourni, candidate for the 2016 ANU Lect
 
 ## Subdirectories
 
-- [ ] `papers/` - Eight research papers (7 published, 1 submitted) covering her main research areas
+- [?] `papers/` - Eight research papers (7 published, 1 submitted) covering her main research areas
 
 ## Search Tags
 
