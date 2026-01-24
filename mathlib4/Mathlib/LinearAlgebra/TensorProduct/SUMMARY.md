@@ -36,7 +36,7 @@ The `TensorProduct/` directory contains mathlib4's comprehensive formalization o
 
 ## Subdirectories
 
-- [ ] `Graded/` - Graded tensor products with signed commutativity
+- [x] `Graded/` - Graded tensor products with signed commutativity
 
 ## Search Tags
 
