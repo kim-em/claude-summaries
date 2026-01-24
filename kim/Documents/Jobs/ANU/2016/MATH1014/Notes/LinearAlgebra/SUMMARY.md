@@ -46,7 +46,7 @@ LaTeX-based lecture notes for the linear algebra component of MATH1014 (Mathemat
 - [x] `Lecture14/` - Matrix diagonalization (similarity, factorization A=PDP^(-1), computing matrix powers)
 - [x] `Lecture15/` - The Diagonalization Theorem with worked examples, eigenspace dimensions and multiplicities
 - [x] `Lecture16/` - Matrix representations of linear transformations with respect to different bases, B-matrix notation, and connection to diagonalization
-- [ ] `Lecture17/` - Linear algebra lecture content
+- [x] `Lecture17/` - Complex eigenvalues and eigenvectors (geometric interpretation as rotation and scaling)
 - [ ] `Lecture18/` - Linear algebra lecture content
 - [ ] `Lecture19/` - Linear algebra lecture content
 - [ ] `Lecture20/` - Linear algebra lecture content
