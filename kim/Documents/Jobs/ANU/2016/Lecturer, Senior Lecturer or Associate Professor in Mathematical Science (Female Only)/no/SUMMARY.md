@@ -34,7 +34,7 @@ No files directly in this folder - all materials are organized in candidate subd
 - [x] `Jiang, Jiaojiao/` - Application materials for PhD candidate at Deakin University; research in applied statistics, complex networks, and information diffusion; background in computer science/information technology rather than mathematical statistics
 - [x] `Leitner, Arielle/` - Postdoc at Technion; PhD UCSB 2015 under Cooper; research on geometric transitions, Cartan subgroup limits, convex projective structures; strong teaching background in inquiry-based learning; no Australian work rights
 - [x] `Liang, Xuan/` - PhD candidate at Peking University specializing in environmental statistics; research on PM2.5 pollution in China using nonparametric methods; strong references from Qiwei Yao, Song Xi Chen, Theis Lange; no Australian work rights
-- [ ] `Liao, Xian/` - Application materials with reference letters
+- [~] `Liao, Xian/` - Postdoc at Universität Bonn; PhD Paris-Est 2013 under Danchin; research on PDEs, fluid mechanics, zero Mach number systems, density patch problems; 10 publications; 4 reference letters (Feireisl, Zhang, Danchin, Koch); no Australian work rights
 - [ ] `Myer, Ziva/` - Application materials with reference letters
 - [ ] `O.Donnol, Danielle/` - Application materials with reference letters
 - [ ] `Pourhasan, Razieh/` - Application materials with reference letters
