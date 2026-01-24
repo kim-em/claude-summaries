@@ -24,7 +24,7 @@ Application materials for 18 candidates in the "maybe" category requiring furthe
 - [x] `Holcomb, Diane/` - Application with 5 reference letters (no papers subdirectory)
 - [x] `Knapp, Johanna/` - Application with 4 reference letters and papers subdirectory
 - [x] `Li, Wei/` - Application with 4 reference letters (no papers subdirectory)
-- [~] `Lierl, Janna/` - Application with 6 reference letters and papers subdirectory
+- [x] `Lierl, Janna/` - Application with 6 reference letters and papers subdirectory
 - [ ] `Lindsey, Kathryn/` - Application with papers subdirectory (no reference letters)
 - [ ] `Massierer, Maike/` - Application with 4 reference letters and papers subdirectory
 - [ ] `Monniaux, Sylvie/` - Application with 4 reference letters and papers subdirectory
