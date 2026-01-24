@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Geometry/RingedSpace
-generated: 2026-01-24T18:45:00Z
+generated: 2026-01-24T21:35:00Z
 git_sha: 073b1c781e4870a435fcc3a04440176ab0c8af88
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 6
 subdirs_count: 2
 ---
@@ -12,7 +12,7 @@ subdirs_count: 2
 
 ## Overview
 
-The `RingedSpace/` directory provides the foundational categorical infrastructure for algebraic geometry, building a hierarchy of spaces equipped with sheaves of rings. It defines presheafed spaces (topological spaces with presheaves), sheafed spaces (where the presheaf is actually a sheaf), ringed spaces (sheafed spaces with commutative ring-valued sheaves), and locally ringed spaces (where all stalks are local rings). The directory also includes the theory of open immersions, stalks, and basic open sets, forming the categorical foundation needed to define schemes.
+The `RingedSpace/` directory provides the complete foundational categorical infrastructure for algebraic geometry, building a hierarchy of spaces equipped with sheaves of rings. It defines presheafed spaces (topological spaces with presheaves), sheafed spaces (where the presheaf is actually a sheaf), ringed spaces (sheafed spaces with commutative ring-valued sheaves), and locally ringed spaces (where all stalks are local rings). The core files establish morphisms, restrictions, global sections, open immersions, stalks, units in germs, and basic opens. The subdirectories provide essential categorical constructions: gluing theory for assembling spaces from components via open immersions (critical for scheme construction), colimit existence in presheafed and locally ringed space categories, and the theory of residue fields at points. Together, this forms the complete categorical foundation needed to define and work with schemes in algebraic geometry.
 
 ## Key Files
 
@@ -27,8 +27,8 @@ The `RingedSpace/` directory provides the foundational categorical infrastructur
 
 ## Subdirectories
 
-- [ ] `LocallyRingedSpace/` - Additional constructions for locally ringed spaces: colimits and residue fields
-- [x] `PresheafedSpace/` - Additional constructions for presheafed spaces: gluing and colimits
+- [x] `LocallyRingedSpace/` - Categorical constructions (colimits, coproducts, coequalizers) and algebraic theory (residue fields at points, evaluation maps) for locally ringed spaces
+- [x] `PresheafedSpace/` - Gluing theory for assembling presheafed/sheafed/locally ringed spaces via open immersions; colimit existence in PresheafedSpace category
 
 ## Search Tags
 
