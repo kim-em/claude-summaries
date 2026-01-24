@@ -26,7 +26,7 @@ Application materials for Yang Shi, a postdoctoral researcher at University of S
 
 ## Subdirectories
 
-- [ ] `papers/` - Two published papers on reductions of ABS equations and geometric connections to discrete Painlevé systems
+- [~] `papers/` - Two published papers on reductions of ABS equations and geometric connections to discrete Painlevé systems
 
 ## Search Tags
 
