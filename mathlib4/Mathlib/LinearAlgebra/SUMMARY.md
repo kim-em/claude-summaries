@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/LinearAlgebra
-generated: 2026-01-25T22:30:00Z
+generated: 2026-01-26T00:30:00Z
 git_sha: 542a7d7979ad5f45d2a89008412e565c8fa001d2
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 38
 subdirs_count: 34
 ---
@@ -12,7 +12,13 @@ subdirs_count: 34
 
 ## Overview
 
-The `LinearAlgebra/` directory contains mathlib4's comprehensive formalization of linear algebra, spanning foundational theory (vector spaces, linear maps, bases, dimension) through advanced topics (tensor products, exterior algebras, Clifford algebras, root systems). Core functionality includes bilinear and multilinear maps, determinants and traces for endomorphisms, matrix theory with extensive linear algebra operations, quotient spaces with projections to complements, and specialized algebraic structures. The directory covers both abstract theory (finite-dimensional spaces, basis-independent constructions, dimension theory) and concrete constructions (product/pi spaces, direct sums, free modules, finitely-supported functions), plus classical groups (general linear, special linear, symplectic, unitary).
+The `LinearAlgebra/` directory provides mathlib4's comprehensive and rigorous formalization of linear algebra, developing both abstract theory and computational tools from foundational definitions through sophisticated advanced structures. The treatment begins with core module theory (linear maps, bilinear/multilinear/alternating maps, bases with coordinate representations, linear independence, span operations) and finite-dimensional vector spaces (dimension theory with rank-nullity theorems, dual spaces with perfect pairings, quotient modules with correspondence theorems). Matrix theory bridges concrete computation with abstract algebra through explicit equivalences between matrices and linear maps, comprehensive determinant/trace/rank theory, and classical matrix groups (general linear, special linear, symplectic, unitary).
+
+Advanced algebraic constructions provide the framework for modern applications: tensor products (with universal property, basis constructions, right-exactness, and graded variants for super-algebras), exterior algebras (alternating maps, wedge products, grading by exterior powers), Clifford algebras (quadratic forms, Pin/Spin groups, isomorphisms to quaternions/complex numbers), symmetric algebras (free commutative algebras, polynomial ring isomorphisms), and tensor/exterior/symmetric powers with categorical structures. Specialized geometric theories include affine spaces (affine maps, affine combinations, barycentric coordinates, simplices, Ceva's theorem), projectivization (quotient by scalars, projective subspaces, geometric operations), quadratic forms (polar forms, isometries, Sylvester's law of inertia for reals, canonical forms over complex numbers, categorical monoidal structure), bilinear forms (orthogonality, nondegeneracy, dual bases, dual lattices), and sesquilinear forms (Hermitian forms, star ring structures).
+
+The directory systematically develops dimension theory across algebraic contexts: cardinal-valued rank for general modules, natural-number finrank for finite-dimensional spaces, rank-nullity theorems for division rings and commutative domains (via localization), tower laws for field extensions, dimension formulas for constructions (products, quotients, direct sums, tensor products), Erdős-Kaplansky theorem for infinite-dimensional duals, and strong rank condition ensuring invariant basis number. Eigenspace theory follows Axler's basis-independent approach with generalized eigenspaces, characteristic/minimal polynomial connections, triangularizability over algebraically closed fields, and semisimple/nilpotent endomorphism classifications.
+
+Specialized subdirectories complete the picture: affine geometry with simplices and Commandino's theorem, root systems from Lie theory with Weyl groups and Cartan matrices (including complete 𝔤₂ classification and Geck's semisimple Lie algebra construction), free modules over PIDs with Smith normal form and structure theorems, matrix subdirectories for characteristic polynomials (Cayley-Hamilton via Bar-Natan's elegant proof), determinant theory (Leibniz formula, totally unimodular matrices), GL(n) theory with GL(2) geometric classification, and irreducible matrices with graph-theoretic Perron-Frobenius foundations. The treatment unifies concrete computation (matrix operations, coordinate calculations, explicit bases) with abstract categorical perspectives (universal properties, functoriality, monoidal structures), providing a complete foundation for applications from numerical linear algebra through differential geometry and representation theory.
 
 ## Key Files
 
