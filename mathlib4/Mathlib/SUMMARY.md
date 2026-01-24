@@ -36,26 +36,26 @@ The `Mathlib/` directory is the core of the mathlib4 library, containing the com
 - [x] `Deprecated/` - Deprecated definitions and theorems maintained for compatibility
 - [x] `Dynamics/` - Comprehensive dynamical systems theory: flows as continuous monoid actions, topological dynamics (minimal/transitive actions, fixed/periodic points, circle rotation numbers, topological entropy), ergodic theory (measure-preserving maps, conservative dynamics, Poincare recurrence, ergodic measures as extreme points, invariant functions, concrete examples on additive circle), Birkhoff sums and averages, and connections between minimal actions and ergodicity
 - [x] `FieldTheory/` - Field theory (extensions, Galois theory, algebraic closures)
-- [?] `Geometry/` - Geometric structures and theory
-- [?] `GroupTheory/` - Group theory (subgroups, quotients, group actions, representations)
-- [?] `InformationTheory/` - Information-theoretic concepts
-- [?] `Lean/` - Lean-specific metaprogramming utilities and extensions
-- [?] `LinearAlgebra/` - Linear algebra (vector spaces, matrices, linear maps, tensor products)
-- [?] `Logic/` - Mathematical logic (propositional logic, first-order logic, model theory basics)
-- [?] `Mathport/` - Mathport compatibility layer for porting from Lean 3
-- [?] `MeasureTheory/` - Measure theory and integration
-- [?] `ModelTheory/` - Model theory (structures, theories, definability)
-- [?] `NumberTheory/` - Number theory (primes, divisibility, Diophantine equations, arithmetic functions)
-- [?] `Order/` - Order theory (partial orders, lattices, well-founded relations, ordinals)
-- [?] `Probability/` - Probability theory
-- [?] `RepresentationTheory/` - Representation theory of groups and algebras
-- [?] `RingTheory/` - Ring theory (ideals, modules, homological algebra, commutative algebra)
-- [?] `SetTheory/` - Set theory (cardinals, ordinals, ZFC foundations)
-- [?] `Std/` - Standard library compatibility and extensions
-- [?] `Tactic/` - All proof tactics and automation tools (186 subdirectories/files)
-- [?] `Testing/` - Testing utilities and frameworks
-- [?] `Topology/` - Point-set and algebraic topology (topological spaces, continuity, compactness, separation)
-- [?] `Util/` - General utility functions and metaprogramming helpers
+- [ ] `Geometry/` - Geometric structures and theory
+- [ ] `GroupTheory/` - Group theory (subgroups, quotients, group actions, representations)
+- [ ] `InformationTheory/` - Information-theoretic concepts
+- [ ] `Lean/` - Lean-specific metaprogramming utilities and extensions
+- [ ] `LinearAlgebra/` - Linear algebra (vector spaces, matrices, linear maps, tensor products)
+- [ ] `Logic/` - Mathematical logic (propositional logic, first-order logic, model theory basics)
+- [ ] `Mathport/` - Mathport compatibility layer for porting from Lean 3
+- [ ] `MeasureTheory/` - Measure theory and integration
+- [ ] `ModelTheory/` - Model theory (structures, theories, definability)
+- [ ] `NumberTheory/` - Number theory (primes, divisibility, Diophantine equations, arithmetic functions)
+- [ ] `Order/` - Order theory (partial orders, lattices, well-founded relations, ordinals)
+- [ ] `Probability/` - Probability theory
+- [ ] `RepresentationTheory/` - Representation theory of groups and algebras
+- [ ] `RingTheory/` - Ring theory (ideals, modules, homological algebra, commutative algebra)
+- [ ] `SetTheory/` - Set theory (cardinals, ordinals, ZFC foundations)
+- [ ] `Std/` - Standard library compatibility and extensions
+- [ ] `Tactic/` - All proof tactics and automation tools (186 subdirectories/files)
+- [ ] `Testing/` - Testing utilities and frameworks
+- [ ] `Topology/` - Point-set and algebraic topology (topological spaces, continuity, compactness, separation)
+- [ ] `Util/` - General utility functions and metaprogramming helpers
 
 ## Search Tags
 

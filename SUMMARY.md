@@ -22,7 +22,7 @@ This is the output directory for the claude-summary tool, containing progressive
 
 - [x] `.claude/` - Summary of Kim's Claude Code configuration directory at ~/.claude
 - [~] `kim/` - Summary of Kim's home directory at /Users/kim
-- [~] `mathlib4/` - Summary of the Mathlib4 formal mathematics library at /Users/kim/projects/lean/mathlib4
+- [ ] `mathlib4/` - Summary of the Mathlib4 formal mathematics library at /Users/kim/projects/lean/mathlib4
 
 ## Search Tags
 
