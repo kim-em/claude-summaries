@@ -22,7 +22,7 @@ Application materials for Dr Ayesha Sohail, a Pakistani mathematician applying f
 
 ## Subdirectories
 
-- [ ] `papers/` - Three PDF papers: fractional-order tumor model (Int. J. Biomath. 2015), equilibrium strategies in mean-variance problems for insurers (Insurance Math. Econom. 2016), and Painlevé property/Adomian decomposition for KdV-like wave equation (Appl. Math. Comput. 2014)
+- [x] `papers/` - Three PDF papers: fractional-order tumor model (Int. J. Biomath. 2015), equilibrium strategies in mean-variance problems for insurers (Insurance Math. Econom. 2016), and Painlevé property/Adomian decomposition for KdV-like wave equation (Appl. Math. Comput. 2014)
 
 ## Search Tags
 
