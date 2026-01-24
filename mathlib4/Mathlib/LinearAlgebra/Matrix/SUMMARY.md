@@ -79,7 +79,7 @@ The `Matrix/` directory contains mathlib4's comprehensive formalization of matri
 
 ## Subdirectories
 
-- [ ] `Charpoly/` - Characteristic polynomials of matrices
+- [x] `Charpoly/` - Characteristic polynomials of matrices
 - [ ] `Determinant/` - Determinant theory and computation
 - [ ] `GeneralLinearGroup/` - General linear group GL(n) theory
 - [ ] `Irreducible/` - Irreducible matrices and primitivity
