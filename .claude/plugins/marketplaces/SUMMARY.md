@@ -1,27 +1,27 @@
 ---
 source_path: /Users/kim/.claude/plugins/marketplaces
-generated: 2025-12-11T12:00:00Z
-git_sha: 5a5c7bc8574841a2870eff76b15c9a7bf9b3c3fa
+generated: 2026-01-24T21:00:00Z
+git_sha: a7f9d0e5692aa0d2ec137abd8f2601dccd0a21ec
 git_branch: master
 status: complete
 files_count: 0
-subdirs_count: 0
+subdirs_count: 1
 ---
 
 # marketplaces
 
 ## Overview
 
-Empty directory within the Claude Code plugins system. Likely intended as storage location for plugin marketplace data or cached marketplace metadata. Currently unused with no files.
+Storage directory for Claude Code plugin marketplaces. Contains cloned repositories that serve as plugin registries. Currently hosts the official Anthropic plugin marketplace (claude-plugins-official), a GitHub repository containing plugin manifests and metadata.
 
 ## Key Files
 
-(none)
+(none at this level)
 
 ## Subdirectories
 
-This folder contains no subdirectories.
+- [x] `claude-plugins-official/` - Official Anthropic plugin marketplace cloned from anthropics/claude-plugins-official; contains plugin manifests in plugins/ and external_plugins/ directories
 
 ## Search Tags
 
-plugins marketplaces empty placeholder claude-code
+plugins marketplaces claude-code anthropic official registry plugin-manifests

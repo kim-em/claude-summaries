@@ -1,7 +1,7 @@
 ---
 source_path: /Users/kim/.claude/skills/lean-mwe
-generated: 2025-12-08T07:05:00Z
-git_sha: 8345a514d8c10f0ac9da977a555996abb463c434
+generated: 2026-01-24T21:00:00Z
+git_sha: a7f9d0e5692aa0d2ec137abd8f2601dccd0a21ec
 git_branch: master
 status: complete
 files_count: 3

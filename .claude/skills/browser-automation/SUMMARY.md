@@ -1,7 +1,7 @@
 ---
 source_path: /Users/kim/.claude/skills/browser-automation
-generated: 2025-12-01T13:30:00Z
-git_sha: b75fd51d2702e678b15ef7ce28cf6993a31edb62
+generated: 2026-01-24T21:00:00Z
+git_sha: a7f9d0e5692aa0d2ec137abd8f2601dccd0a21ec
 git_branch: master
 status: complete
 files_count: 3
@@ -12,7 +12,7 @@ subdirs_count: 0
 
 ## Overview
 
-A Claude Code skill for browser automation using Microsoft's Playwright MCP server. Activates when WebFetch fails due to JavaScript-heavy content, access restrictions, or forbidden responses. Provides configuration guidance for headless mode, Chrome profile reuse (for authenticated sessions), and profile setup on new machines. Includes comprehensive research documentation comparing Playwright vs Puppeteer for modern web scraping.
+A Claude Code skill for browser automation using Microsoft's Playwright MCP server. Activates when WebFetch fails due to JavaScript-heavy content, access restrictions, or forbidden responses—but explicitly defers to specialized skills when available (e.g., use `zulip` skill for Zulip URLs instead). Provides configuration guidance for headless mode, Chrome profile reuse (for authenticated sessions), and profile setup on new machines. Includes comprehensive research documentation comparing Playwright vs Puppeteer for modern web scraping.
 
 ## Key Files
 
