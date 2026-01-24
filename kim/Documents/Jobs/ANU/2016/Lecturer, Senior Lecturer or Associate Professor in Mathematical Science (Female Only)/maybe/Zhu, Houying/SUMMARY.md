@@ -3,7 +3,7 @@ source_path: /Users/kim/Documents/Jobs/ANU/2016/Lecturer, Senior Lecturer or Ass
 generated: 2026-01-24T08:00:00Z
 git_sha: fafb26e72fe7b535873cd5b8a8f359b75df7fe29
 git_branch: master
-status: preliminary
+status: complete
 files_count: 1
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Application materials for Dr. Houying Zhu, a candidate for the ANU mathematical sciences position in 2016. Dr. Zhu was a research associate at City University of Hong Kong specializing in quasi-Monte Carlo methods, computational statistics, and numerical analysis. Her application includes a comprehensive CV showing PhD from UNSW (2012-2016), multiple publications in peer-reviewed journals, and teaching experience. She held a 457 visa requiring sponsorship and listed four referees from UNSW and international institutions.
+Application materials for Dr. Houying Zhu, a candidate for the ANU mathematical sciences position in 2016. Dr. Zhu was a research associate at City University of Hong Kong specializing in quasi-Monte Carlo methods, computational statistics, and numerical analysis. Her application includes a comprehensive CV showing PhD from UNSW (2012-2016, supervised by Josef Dick and Frances Kuo), multiple publications in peer-reviewed journals including work on software reliability modeling, and teaching experience with positive student evaluations. She held a 457 visa requiring sponsorship. The included research paper demonstrates her expertise in computational mathematics through novel software reliability models using compounded-decreased-rate error removal and differential equation methods.
 
 ## Key Files
 
@@ -22,7 +22,7 @@ Application materials for Dr. Houying Zhu, a candidate for the ANU mathematical 
 
 ## Subdirectories
 
-- [x] `papers/` - Research publication folder containing one software reliability modeling paper
+- [x] `papers/` - Research publication on software reliability modeling using compounded-decreased-rate error removal (Mathematical and Computer Modelling, 2012)
 
 ## Search Tags
 
