@@ -69,7 +69,7 @@ The `GroupTheory/` directory contains comprehensive formalization of group-theor
 - [x] `FreeGroup/` - Free groups: constructions, reductions, normal forms
 - [x] `GroupAction/` - Group actions: basic theory, blocks, conjugation, embeddings, fixed points, Jordan's theorem, primitivity, transitivity, quotients, support
 - [x] `GroupExtension/` - Group extensions and extension theory
-- [ ] `MonoidLocalization/` - Localization of monoids (inverting elements)
+- [x] `MonoidLocalization/` - Localization of monoids (inverting elements)
 - [ ] `Order/` - Ordered groups
 - [ ] `OreLocalization/` - Ore localization for non-commutative rings/monoids
 - [ ] `Perm/` - Permutation groups: cycles, cycle types, sign, specific permutations
