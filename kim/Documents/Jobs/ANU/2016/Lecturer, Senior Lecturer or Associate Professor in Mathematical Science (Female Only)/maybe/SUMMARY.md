@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/Lecturer, Senior Lecturer or Associate Professor in Mathematical Science (Female Only)/maybe
-generated: 2025-12-09T00:00:00Z
-git_sha: 48a99ef1be36fc0c3cca2af4518f1aebb71ec697
+generated: 2026-01-24T14:00:00Z
+git_sha: 4a303882f378292f2fd905a5120a915b750f22dd
 git_branch: master
-status: preliminary
+status: complete
 files_count: 0
 subdirs_count: 18
 ---
@@ -12,7 +12,7 @@ subdirs_count: 18
 
 ## Overview
 
-Application materials for 18 candidates in the "maybe" category requiring further evaluation for the ANU mathematical sciences faculty position. Each candidate folder contains their application PDF and typically 2-5 reference letters. Most candidates (13 of 18) also have a papers/ subdirectory with their research publications. These candidates span diverse mathematical areas and represent the middle tier between the top "yes" candidates and rejected "no" applicants.
+Application materials for 18 candidates in the "maybe" category requiring further evaluation for the ANU mathematical sciences faculty position (female-only). This cohort represents a remarkably diverse cross-section of mathematics: low-dimensional geometry and dynamical systems (Davis, Lindsey, Ray, Saez Trumper, Shi), differential geometry and geometric structures (Neusser, Monniaux, Lierl), combinatorics (Ramadurai, Shah), number theory and arithmetic geometry (Massierer, Knapp), topology and computational methods (Robins), analysis (Holcomb, Puskas), and mathematical/theoretical physics (Li, Zhu). Candidates range from early-career postdocs to tenured associate professors, with appointments spanning North America, Europe, Asia, and Australia. Most (13 of 18) include papers/ subdirectories with research publications; all have 2-6 reference letters from prominent mathematicians in their fields. Several candidates have strong ANU connections: Robins was already an ARC Future Fellow at ANU applying for a tenured Senior Lecturer position, while Neusser had previously spent 5 years (2010-2015) as a postdoc at ANU's MSI. The collection showcases the breadth and depth of the applicant pool for this prestigious position.
 
 ## Key Files
 
@@ -28,7 +28,7 @@ Application materials for 18 candidates in the "maybe" category requiring furthe
 - [x] `Lindsey, Kathryn/` - Application with papers subdirectory (no reference letters)
 - [x] `Massierer, Maike/` - Application with 4 reference letters and papers subdirectory
 - [x] `Monniaux, Sylvie/` - Application with 4 reference letters and papers subdirectory
-- [~] `Neusser, Katharina/` - Application with 4 reference letters and papers subdirectory
+- [x] `Neusser, Katharina/` - Application with 4 reference letters and papers subdirectory
 - [x] `Nur Saglam, Kadriye/` - Application with 3 reference letters (no papers subdirectory)
 - [x] `Puskas, Anna/` - Application with 6 reference letters (no papers subdirectory)
 - [x] `Ramadurai, Reshma/` - Application with 5 additional PDFs and papers subdirectory
