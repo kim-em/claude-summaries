@@ -25,7 +25,7 @@ No files directly in this directory - all materials organized within candidate s
 - [x] `Tran, Giang/` - Applied mathematician specializing in computational methods, imaging science, sparse optimization, and numerical PDE; Bing Instructor at UT Austin, PhD UCLA 2015 (advisor Stan Osher)
 - [x] `Turner, Katharine/` - Applied topology expert with references from Kathryn Hess, Robert Adler, Shmuel Weinberger, Victor Panaretos
 - [x] `Wang, Hang/` - Noncommutative geometry and index theory specialist with references from Gennadi Kasparov, Guoliang Yu, Finnur Larusson, Michael Murray; University of Adelaide
-- [~] `Wang, Qian/` - Geometric analysis specialist with references from Igor Rodnianski, Jeremie Szeftel, Mihalis Dafermos, Sergiu Klainerman (prominent figures in general relativity and PDE)
+- [x] `Wang, Qian/` - Geometric analysis specialist with references from Igor Rodnianski, Jeremie Szeftel, Mihalis Dafermos, Sergiu Klainerman (prominent figures in general relativity and PDE)
 - [ ] `Yang, Yaping/` - Mathematics candidate
 
 ## Search Tags
