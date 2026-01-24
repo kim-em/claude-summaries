@@ -34,7 +34,7 @@ The `Mathlib/` directory is the core of the mathlib4 library, containing the com
 - [x] `Control/` - Functional programming abstractions: comprehensive functors/applicatives/monads framework with monad transformers (StateT/ReaderT/ExceptT/ContT/WriterT), bifunctors and bitraversable structures, traversable typeclass with lawful instances, multivariate functors (MvFunctor), equivalence functors, folding operations, random generation, fixed-point operators, universe lifting, and monadic normalization infrastructure
 - [x] `Data/` - Foundational data structures and numeric types: complete numeric tower (ℕ, ℤ, ℚ, ℝ, ℂ plus extended variants), finite structures (Fintype, Finite, FinEnum, Finset, Fin), collections (List, Multiset, Set, Ordmap), sparse/dependent functions (Finsupp, DFinsupp), coinductive types (Seq, WSeq, Stream), polynomial functors (PFunctor, QPF, W-types), type-theoretic infrastructure (Part, Subtype, Sigma, Prod, Sum, FunLike), and modular arithmetic (ZMod)
 - [x] `Deprecated/` - Deprecated definitions and theorems maintained for compatibility
-- [ ] `Dynamics/` - Dynamical systems theory
+- [~] `Dynamics/` - Dynamical systems theory
 - [ ] `FieldTheory/` - Field theory (extensions, Galois theory, algebraic closures)
 - [ ] `Geometry/` - Geometric structures and theory
 - [ ] `GroupTheory/` - Group theory (subgroups, quotients, group actions, representations)
