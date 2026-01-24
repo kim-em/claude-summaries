@@ -20,7 +20,7 @@ No files directly in this folder - all materials are organized in candidate subd
 
 ## Subdirectories
 
-- [ ] `Aghaei, Nezhla/` - Application materials with 4 reference letters (Loran, Teschner, Quella, Schomerus)
+- [x] `Aghaei, Nezhla/` - Application materials with 4 reference letters (Loran, Teschner, Quella, Schomerus)
 - [ ] `Begum, Azra/` - Application materials (application PDF only, minimal documentation)
 - [ ] `Burtscher, Annegret/` - Application materials with reference letters
 - [ ] `Cheung, Yeuk-Kwan Edna/` - Application materials with reference letters
