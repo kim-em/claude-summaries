@@ -52,7 +52,7 @@ The `Manifold/` directory contains the formalization of smooth manifolds and dif
 - [x] `MFDeriv/` - The manifold derivative `mfderiv`: definitions, basic properties, chain rule, specific functions
 - [x] `Riemannian/` - Riemannian geometry: metrics on manifolds, path length via energy functionals
 - [x] `Sheaf/` - Sheaf-theoretic perspective on manifolds: sheaves of smooth functions, locally ringed spaces
-- [ ] `VectorBundle/` - Smooth vector bundles: tangent bundles, smooth sections, local frames, Riemannian metrics on bundles
+- [x] `VectorBundle/` - Smooth vector bundles: tangent bundles, smooth sections, local frames, Riemannian metrics on bundles
 - [ ] `VectorField/` - Vector fields on manifolds: Lie brackets, pullbacks of vector fields
 
 ## Search Tags
