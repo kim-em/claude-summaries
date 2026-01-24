@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Logic/Equiv
-generated: 2026-01-25T19:00:00Z
+generated: 2026-01-25T23:30:00Z
 git_sha: 542a7d7979ad5f45d2a89008412e565c8fa001d2
 git_branch: nightly-testing
-status: preliminary
+status: complete
 files_count: 17
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-The `Equiv/` directory contains the theory of type equivalences (bijections) in mathlib4. At its core are `Equiv α β` (notation `α ≃ β`), representing bundled bijections with explicit inverses, and `PartialEquiv`, representing bijections between subsets (used primarily for manifold charts). The directory provides foundational definitions (`Defs.lean`), extensive lemmas and constructions (`Basic.lean`), and specialized equivalences for standard type constructors: products, sums, options, lists, multisets, finsets, arrays, and finite types. Key functionality includes equivalence composition/inversion, transferring instances along equivalences, permutations (`Equiv.Perm`), and connections to embeddings and functors.
+The `Equiv/` directory contains the comprehensive theory of type equivalences (bijections) in mathlib4. At its core are `Equiv α β` (notation `α ≃ β`), representing bundled bijections with explicit inverses, and `PartialEquiv`, representing bijections between subsets (used primarily for manifold charts). The directory provides foundational definitions (`Defs.lean`), extensive lemmas and constructions (`Basic.lean`), and specialized equivalences for standard type constructors: products, sums, options, lists, multisets, finsets, arrays, and finite types. Key functionality includes equivalence composition/inversion, transferring instances along equivalences, permutations (`Equiv.Perm`), and connections to embeddings and functors. The `Fin/` subdirectory provides critical building blocks for working with finite indexed types, including canonical conversions between `Fin n` and option/sum types, product/sum decomposition equivalences, and cyclic rotation operations that are fundamental to finite permutation theory.
 
 ## Key Files
 
