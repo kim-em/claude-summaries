@@ -37,7 +37,7 @@ Weekly linear algebra tutorial worksheets for MATH1014 (Semester 2, 2016) coveri
 
 ## Subdirectories
 
-- [ ] `diagrams/` - Contains pointline.pdf diagram used in Week 3 worksheet for illustrating point-to-line distance problems
+- [x] `diagrams/` - Contains pointline.pdf diagram used in Week 3 worksheet for illustrating point-to-line distance problems
 
 ## Search Tags
 
