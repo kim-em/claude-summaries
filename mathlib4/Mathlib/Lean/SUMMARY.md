@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Lean
-generated: 2026-01-24T22:00:00Z
+generated: 2026-01-25T10:30:00Z
 git_sha: 542a7d7979ad5f45d2a89008412e565c8fa001d2
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 14
 subdirs_count: 4
 ---
@@ -12,7 +12,7 @@ subdirs_count: 4
 
 ## Overview
 
-The `Mathlib/Lean/` directory provides low-level metaprogramming utilities and extensions to Lean 4's core libraries. It contains helper functions and additional APIs for working with Lean's internal types and monads (Expr, Name, Environment, CoreM, MetaM, etc.), plus specialized utilities for tactic elaboration, pretty printing, and linting. These are foundational tools that support Mathlib's metaprogramming infrastructure, including tactics, automation, and code analysis.
+The `Mathlib/Lean/` directory provides comprehensive metaprogramming infrastructure extending Lean 4's core libraries across the full elaboration and meta-programming stack. At its foundation, it offers utilities for working with fundamental types (Expr, Name, Environment) and monads (CoreM, MetaM, TacticM), including expression manipulation (numeric literals, recursive replacement, pattern matching), name operations, linter APIs, and exception handling. The elaboration layer adds IDE integration (info trees, Try This suggestions), tactic execution in MetaM, and pattern elaboration. The meta layer provides sophisticated automation infrastructure: refined discrimination trees for efficient library search with lazy evaluation and scoring, advanced congruence lemma generation with subsingleton discovery, simplification support, and subexpression rewriting utilities. Finally, the pretty-printing layer extends the delaborator with binder handling and go-to-definition annotations. Together, these tools form critical infrastructure for Mathlib's metaprogramming needs, enabling the 300+ tactics, automation systems, IDE features, and code analysis tools that define Mathlib's user experience.
 
 ## Key Files
 
@@ -35,10 +35,10 @@ The `Mathlib/Lean/` directory provides low-level metaprogramming utilities and e
 
 ## Subdirectories
 
-- [x] `Elab/` - Elaboration utilities for tactics and terms
-- [x] `Expr/` - Expression manipulation tools
-- [x] `Meta/` - MetaM-level utilities including refined discrimination trees, congruence lemmas, simplification, and rewriting
-- [x] `PrettyPrinter/` - Pretty printing customizations
+- [x] `Elab/` - Elaboration infrastructure with info tree utilities (IDE support, Try This suggestions, theorem extraction), term elaboration helpers (pattern elaboration, universe levels), and tactic execution in MetaM contexts
+- [x] `Expr/` - Fundamental expression utilities: recognizers and constructors for numeric literals (naturals, integers, rationals) and relations, name operations, expression modifiers, proof erasure, projection creation, set coercions, and recursive replacement with memoization
+- [x] `Meta/` - Advanced MetaM infrastructure: refined discrimination tree for library search with lazy evaluation and scoring, congruence lemma generation with subsingleton discovery, simplification context construction and helpers, subexpression matching with position utilities for safe rewriting, and high-level tactic utilities for expression transformation
+- [x] `PrettyPrinter/` - Delaborator extensions for converting internal expressions to user-facing syntax, with utilities for binder handling, options-per-position, and go-to-definition annotations
 
 ## Search Tags
 
