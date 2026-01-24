@@ -26,7 +26,7 @@ Application materials for Mariel Sáez Trumper, Associate Professor at Pontifici
 
 ## Subdirectories
 
-- [ ] `papers/` - 10 PDF files of research publications spanning geometric flows, Allen-Cahn equations, fractional Laplacian, mean curvature flow
+- [?] `papers/` - 10 PDF files of research publications spanning geometric flows, Allen-Cahn equations, fractional Laplacian, mean curvature flow
 
 ## Search Tags
 
