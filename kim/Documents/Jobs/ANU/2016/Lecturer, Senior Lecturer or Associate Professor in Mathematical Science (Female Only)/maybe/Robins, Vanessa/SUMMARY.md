@@ -27,7 +27,7 @@ Application materials for Dr Vanessa Robins, an ARC Future Fellow in Applied Mat
 
 ## Subdirectories
 
-- [~] `papers/` - Three selected research publications on computational topology
+- [x] `papers/` - Three selected research publications on computational topology
 
 ## Search Tags
 
