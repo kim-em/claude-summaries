@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/MeasureTheory/VectorMeasure
-generated: 2026-01-25T22:15:00Z
+generated: 2026-01-25T23:00:00Z
 git_sha: 542a7d7979ad5f45d2a89008412e565c8fa001d2
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 2
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-The `VectorMeasure/` directory provides the formalization of vector-valued measures and signed measures. Vector measures are σ-additive functions from measurable sets to an additive monoid (such as ℝ, ℂ, or general Banach spaces) that map the empty set and non-measurable sets to zero. This generalizes classical measure theory to allow measures with positive and negative parts. The directory includes fundamental operations (pushforward, restriction, scalar multiplication), order structures, absolute continuity, mutual singularity, and the construction of vector measures via integration (with-density construction for Radon-Nikodym applications).
+The `VectorMeasure/` directory provides the complete formalization of vector-valued measures and signed measures, including both foundational definitions and the four fundamental decomposition theorems. Vector measures are σ-additive functions from measurable sets to an additive monoid (such as ℝ, ℂ, or general Banach spaces) that map the empty set and non-measurable sets to zero. This generalizes classical measure theory to allow measures with positive and negative parts. The directory includes fundamental operations (pushforward, restriction, scalar multiplication), order structures, absolute continuity, mutual singularity, and the construction of vector measures via integration (with-density construction). The `Decomposition/` subdirectory provides the theoretical capstone with the Hahn, Jordan, Lebesgue, and Radon-Nikodym decomposition theorems, enabling representation and manipulation of signed measures in terms of simpler components (positive/negative parts, singular/absolutely continuous decomposition, densities).
 
 ## Key Files
 
