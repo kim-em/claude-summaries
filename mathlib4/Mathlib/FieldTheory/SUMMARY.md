@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/FieldTheory
-generated: 2026-01-24T22:30:00Z
+generated: 2026-01-24T23:00:00Z
 git_sha: 073b1c781e4870a435fcc3a04440176ab0c8af88
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 31
 subdirs_count: 11
 ---
@@ -12,7 +12,11 @@ subdirs_count: 11
 
 ## Overview
 
-The `FieldTheory/` directory contains a comprehensive formalization of field theory, including algebraic extensions, Galois theory, separability, perfect fields, splitting fields, intermediate fields, and minimal polynomials. It covers foundational concepts like field extensions and towers, advanced topics like the Abel-Ruffini theorem on solvability by radicals, and sophisticated theories including Kummer extensions, linear disjointness of fields, and purely inseparable extensions. The directory provides the infrastructure for reasoning about field embeddings, algebraic closures, fixed points under group actions, and relationships between different field extensions.
+The `FieldTheory/` directory provides a comprehensive, modern formalization of field theory spanning foundational to advanced topics. At its core, the directory develops the theory of field extensions: intermediate fields as lattice structures with adjunction operators, finite-dimensional and algebraic extensions with tower laws, and minimal polynomials with their conjugacy classes. Building on this foundation, it establishes the complete machinery of Galois theory through the Fundamental Theorem (both finite and infinite cases via profinite topology), connecting intermediate fields to closed subgroups of Galois groups, with specialized results for abelian extensions and the normal basis theorem.
+
+The directory encompasses several major theoretical frameworks: algebraically closed fields with explicit algebraic closure construction and classification by transcendence degree; splitting fields with existence and uniqueness theorems; separable and purely inseparable extensions with their degree theories and tower multiplicativity; perfect fields characterized by Frobenius bijectivity; and normal extensions with normal closures. Advanced topics include differential field theory with Liouville's theorem on integration in finite terms, the Abel-Ruffini theorem proving the insolubility of the quintic, Kummer theory of cyclic extensions, linear disjointness of fields, and finite field theory with Galois fields and cyclic Galois groups.
+
+The formalization also covers specialized areas: rational functions (univariate and multivariate) as field extensions with degree and valuation theory, fixed fields under group actions, separable closures, perfect closures in prime characteristic, primitive element theorem, Ax-Grothendieck theorem, Chevalley-Warning theorem, and the Krull topology on absolute Galois groups. The directory provides the essential infrastructure for algebraic number theory, algebraic geometry, and modern arithmetic geometry.
 
 ## Key Files
 
@@ -53,17 +57,17 @@ The `FieldTheory/` directory contains a comprehensive formalization of field the
 
 ## Subdirectories
 
-- [x] `Differential/` - Differential field extensions and Liouville's theorem on integration in finite terms
-- [x] `Finite/` - Finite field extensions: basic theory, Galois fields (finite fields as splitting fields), trace, polynomial properties over finite extensions
-- [x] `Galois/` - Galois theory: Galois extensions (normal and separable), Galois closures, Galois groups, infinite Galois theory, abelian extensions, fundamental theorem
-- [x] `IntermediateField/` - Intermediate fields in field extensions: basic theory, adjoining elements, algebraic intermediate fields
-- [x] `IsAlgClosed/` - Algebraically closed fields: basic properties, algebraic closure construction, classification, spectrum of rings
-- [x] `Minpoly/` - Minimal polynomials: basic theory, minimal polynomials over fields and integrally closed domains, conjugate roots, conjugacy classes
-- [x] `MvRatFunc/` - Multivariate rational functions and their rank properties
-- [x] `Normal/` - Normal extensions: definitions, basic properties, normal closure construction
-- [x] `PurelyInseparable/` - Purely inseparable extensions: basic theory, exponents, relationship to perfect closure, tower properties
-- [x] `RatFunc/` - Rational functions: basic definitions and constructions, degree theory, relationship to polynomials
-- [x] `SplittingField/` - Splitting fields: construction, uniqueness (IsSplittingField), fundamental properties
+- [x] `Differential/` - Differential field theory with logarithmic derivatives and Liouville's theorem: proves all finite-dimensional extensions in characteristic zero are Liouville extensions (elements expressible via logarithmic derivatives); follows Rosenlicht's approach to integration in finite terms using Galois theory and normal closures
+- [x] `Finite/` - Finite fields theory: cardinality as prime powers, Fermat's little theorem, cyclic unit groups, Frobenius endomorphism, Galois fields GF(p^n) as splitting fields with uniqueness, finite field extensions are Galois with cyclic Galois groups, explicit trace/norm formulas, indicator polynomials
+- [x] `Galois/` - Complete Galois theory: Fundamental Theorem of Galois Theory establishing the Galois correspondence between intermediate fields and subgroups for finite extensions; extends to infinite Galois theory via Krull topology with closed subgroups; profinite structure of Galois groups; abelian and cyclic extensions; normal basis theorem; general IsGaloisGroup predicate for group actions
+- [x] `IntermediateField/` - Intermediate field infrastructure: SetLike structure with lattice operations, map/comap along algebra homomorphisms, scalar tower mechanics (restrictScalars, extendScalars, lift); adjunction theory with complete lattice structure via Galois insertion; algebraicity and finite-dimensionality propagation; power bases and minimal polynomials in simple extensions
+- [x] `IsAlgClosed/` - Algebraically closed fields and algebraic closures: every polynomial splits and has roots, irreducibles have degree 1; explicit construction of algebraic closure as quotient of multivariate polynomial ring; uniqueness up to isomorphism; classification by characteristic and transcendence degree; spectral mapping theorem for polynomials over algebraically closed fields
+- [x] `Minpoly/` - Minimal polynomial theory: monic polynomial of smallest degree having element as root; irreducibility over fields, divisibility properties; extension to integrally closed domains with fraction field compatibility; conjugate roots as equivalence relation (IsConjRoot) with conjugacy classes; quotient polynomial minpolyDiv for trace form duality
+- [x] `MvRatFunc/` - Multivariate rational function fields: rank (vector space dimension over base field) of FractionRing(MvPolynomial σ F) equals max(#F, #σ, ℵ₀) via transcendental elements and cardinality bounds
+- [x] `Normal/` - Normal extensions theory: algebraic extensions where minimal polynomials split completely; equivalent to being splitting field for finite extensions; restriction and lifting of algebra homomorphisms through normal subfields; normal closure construction as supremum of embeddings with uniqueness and closure operator properties; Galois conjugacy via orbit structure
+- [x] `PurelyInseparable/` - Purely inseparable extensions: elements outside base have inseparable minimal polynomials; characterizations via powers (x^(q^n) ∈ F); exponent theory with iterated Frobenius maps; relative perfect closure as maximal purely inseparable subextension; tower laws proving separable/inseparable degrees are multiplicative; epimorphism property in category of fields
+- [x] `RatFunc/` - Rational function field K(X) as FractionRing(K[X]): field structure with numerator/denominator in coprime form with monic denominators; lifting mechanisms for homomorphisms; polynomial embedding (constants C, indeterminate X) with evaluation; degree theory as intDegree = deg(num) - deg(denom); X-adic valuation for polynomials and rational functions
+- [x] `SplittingField/` - Splitting field theory: concrete construction via recursive root adjunction through quotients of multivariate polynomials; IsSplittingField predicate characterizing when extension is generated by roots where polynomial splits; existence and uniqueness up to isomorphism; finite-dimensionality; embeddings into any field that splits the polynomial
 
 ## Search Tags
 
