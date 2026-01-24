@@ -36,7 +36,7 @@ The `Mathlib/Lean/` directory provides low-level metaprogramming utilities and e
 ## Subdirectories
 
 - [x] `Elab/` - Elaboration utilities for tactics and terms
-- [~] `Expr/` - Expression manipulation tools
+- [x] `Expr/` - Expression manipulation tools
 - [ ] `Meta/` - MetaM-level utilities
 - [ ] `PrettyPrinter/` - Pretty printing customizations
 

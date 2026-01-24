@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Lean/Expr
-generated: 2026-01-24T09:00:00Z
+generated: 2026-01-24T22:30:00Z
 git_sha: 542a7d7979ad5f45d2a89008412e565c8fa001d2
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 4
 subdirs_count: 0
 ---
