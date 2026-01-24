@@ -27,7 +27,7 @@ Lecture 2 materials covering dot products and cross products of vectors in linea
 
 ## Subdirectories
 
-- [ ] `diagrams/` - Diagram files used in the lecture (8 PDFs and 1 OmniGraffle source)
+- [x] `diagrams/` - Diagram files used in the lecture (8 PDFs and 1 OmniGraffle source)
 
 ## Search Tags
 
