@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/MeasureTheory/Integral
-generated: 2026-01-25T23:30:00Z
+generated: 2026-01-25T23:59:00Z
 git_sha: 542a7d7979ad5f45d2a89008412e565c8fa001d2
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 27
 subdirs_count: 5
 ---
@@ -12,7 +12,9 @@ subdirs_count: 5
 
 ## Overview
 
-The `Integral/` directory contains the complete formalization of integration theory in mathlib4, building on the measure theory foundations. It includes both the Bochner integral (for Banach space-valued functions) and the Lebesgue integral (for extended non-negative real-valued functions), along with fundamental theorems (dominated convergence, Fubini), specialized integrals (circle, curve, torus, interval), improper integrals and their relationship to proper integrals, integration techniques (by parts, change of variables, divergence theorem), and applications including the Gamma function, layer cake formula, mean inequalities (Hölder, Minkowski), peak functions, and the Riesz-Markov-Kakutani representation theorem.
+The `Integral/` directory contains the comprehensive formalization of integration theory in mathlib4, providing two foundational integral theories: the Lebesgue integral (`∫⁻`) for extended non-negative real-valued functions (serving as the computational foundation) and the Bochner integral (`∫`) for Banach space-valued functions (constructed via extension from simple functions through L¹ space). The directory establishes fundamental convergence theorems (monotone convergence, dominated convergence for both integral types), measure-theoretic properties (Fubini's theorem for product measures, behavior under measure-preserving maps), and the crucial connection between these two integral theories.
+
+Beyond the core integration machinery, the directory contains specialized integration contexts: interval integration on ℝ with the fundamental theorems of calculus (FTC-1 for derivatives of integrals, FTC-2 for integrals of derivatives), integration techniques (by parts, change of variables), curve integrals for 1-forms with Poincaré's lemma, circle and torus integrals for complex analysis, and improper integration theory linking proper integrals to limits over unbounded domains. Advanced topics include the layer cake formula (Cavalieri's principle), integration against approximations of identity (peak functions), mean inequalities (Hölder, Minkowski), the divergence theorem on boxes, the Vitali-Carathéodory approximation theorem, and the Riesz-Markov-Kakutani representation theorem connecting positive linear functionals on compactly supported continuous functions to regular measures.
 
 ## Key Files
 
@@ -48,11 +50,11 @@ The `Integral/` directory contains the complete formalization of integration the
 
 ## Subdirectories
 
-- [x] `Bochner/` - Bochner integral foundations (basic definitions, continuous linear maps, fundamental theorem of calculus, L1 theory, integration on sets, Vitali-Carathéodory approximation)
-- [x] `Lebesgue/` - Lebesgue integral theory (basic definitions, additivity, countable operations, dominated convergence for lintegral, mapping theorems, Markov's inequality, norm properties)
-- [x] `IntervalIntegral/` - Interval integration on ℝ (FTC, integration by parts, continuously differentiable functions, derivatives of integrals, mean value theorems, periodic functions, trapezoidal rule, Lebesgue differentiation)
-- [x] `RieszMarkovKakutani/` - Riesz-Markov-Kakutani representation theorem (correspondence between positive linear functionals and measures, versions for NNReal and Real)
-- [x] `CurveIntegral/` - Line integrals along curves (basic theory, Poincaré lemma relating closed forms to exact forms)
+- [x] `Bochner/` - Bochner integral for Banach space-valued functions, constructed via four-step extension process (set indicators → simple functions → L¹ simple functions → all L¹ functions), including integration on sets (`∫ x in s, f x`), composition with continuous linear maps, FTC for set integrals, and Vitali-Carathéodory approximation by semicontinuous functions
+- [x] `Lebesgue/` - Lebesgue integral (`∫⁻`) for extended non-negative real-valued functions, defined as supremum over simple functions, including monotone convergence (Beppo Levi), dominated convergence, additivity/subtraction, behavior under maps and equivalences, Markov's inequality, and specializations to finite/countable types and measures
+- [x] `IntervalIntegral/` - Interval integration on ℝ with notation `∫ x in a..b, f x`, establishing both fundamental theorems of calculus (FTC-1 for derivatives of integrals with respect to endpoints, FTC-2 for integrals of derivatives), integration techniques (by parts, change of variables), specialized results (trapezoidal rule, Lebesgue differentiation, mean value theorems, periodic functions), and derivative integrability for monotone and bounded variation functions
+- [~] `RieszMarkovKakutani/` - Riesz-Markov-Kakutani representation theorem establishing bijective correspondence between positive linear functionals on compactly supported continuous functions and regular measures on locally compact T2 spaces, proven for both ℝ≥0-linear functionals (with both Bochner and Lebesgue integral formulations) and ℝ-linear functionals, including uniqueness and regularity properties
+- [x] `CurveIntegral/` - Curve integrals (line integrals) for 1-forms along paths in normed spaces with notation `∫ᶜ x in γ, ω x`, establishing fundamental properties (additivity, reversal, composition under path operations), derivative formulas for segment integrals, and Poincaré's lemma for convex sets showing closed 1-forms admit primitives via homotopy invariance
 
 ## Search Tags
 
