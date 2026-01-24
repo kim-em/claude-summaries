@@ -57,7 +57,7 @@ The `FieldTheory/` directory contains a comprehensive formalization of field the
 - [x] `Finite/` - Finite field extensions: basic theory, Galois fields (finite fields as splitting fields), trace, polynomial properties over finite extensions
 - [x] `Galois/` - Galois theory: Galois extensions (normal and separable), Galois closures, Galois groups, infinite Galois theory, abelian extensions, fundamental theorem
 - [x] `IntermediateField/` - Intermediate fields in field extensions: basic theory, adjoining elements, algebraic intermediate fields
-- [ ] `IsAlgClosed/` - Algebraically closed fields: basic properties, algebraic closure construction, classification, spectrum of rings
+- [x] `IsAlgClosed/` - Algebraically closed fields: basic properties, algebraic closure construction, classification, spectrum of rings
 - [ ] `Minpoly/` - Minimal polynomials: basic theory, minimal polynomials over fields and integrally closed domains, conjugate roots, conjugacy classes
 - [ ] `MvRatFunc/` - Multivariate rational functions and their rank properties
 - [ ] `Normal/` - Normal extensions: definitions, basic properties, normal closure construction
