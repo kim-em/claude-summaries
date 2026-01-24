@@ -44,7 +44,7 @@ The `Mathlib/` directory is the core of the mathlib4 library, containing the com
 - [?] `Logic/` - Mathematical logic (propositional logic, first-order logic, model theory basics)
 - [?] `Mathport/` - Mathport compatibility layer for porting from Lean 3
 - [?] `MeasureTheory/` - Measure theory and integration
-- [ ] `ModelTheory/` - Model theory (structures, theories, definability)
+- [?] `ModelTheory/` - Model theory (structures, theories, definability)
 - [ ] `NumberTheory/` - Number theory (primes, divisibility, Diophantine equations, arithmetic functions)
 - [ ] `Order/` - Order theory (partial orders, lattices, well-founded relations, ordinals)
 - [ ] `Probability/` - Probability theory
