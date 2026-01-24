@@ -22,7 +22,7 @@ The `Group/` directory contains formalizations of geometric group theory, the st
 
 ## Subdirectories
 
-- [ ] `Growth/` - Group growth theory: linear lower bounds on growth of infinite groups, growth relationships between groups, normal subgroups, and quotients
+- [x] `Growth/` - Group growth theory: linear lower bounds on growth of infinite groups, growth relationships between groups, normal subgroups, and quotients
 
 ## Search Tags
 
