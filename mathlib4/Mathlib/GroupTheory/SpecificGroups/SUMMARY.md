@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/GroupTheory/SpecificGroups
-generated: 2026-01-24T12:01:46Z
+generated: 2026-01-24T22:50:00Z
 git_sha: 542a7d7979ad5f45d2a89008412e565c8fa001d2
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 6
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-The `SpecificGroups/` directory contains formalizations of concrete, well-studied families of groups. The main files define cyclic groups (including primality-based cyclicity results and exponent characterizations), dihedral groups (symmetries of regular n-gons), quaternion groups (generalized dicyclic groups of order 4n), Klein four-groups (non-cyclic abelian groups of order 4 and exponent 2), Z-groups (groups whose Sylow subgroups are all cyclic), and alternating groups (even permutations with simplicity results). These implementations provide both the group structure definitions and key classification theorems for these fundamental group families.
+The `SpecificGroups/` directory contains comprehensive formalizations of concrete, well-studied families of groups. The main files define cyclic groups (including primality-based cyclicity results, exponent characterizations, and finite simple abelian group classification), dihedral groups (symmetries of regular n-gons), quaternion groups (generalized dicyclic groups of order 4n), Klein four-groups (non-cyclic abelian groups of order 4 and exponent 2), Z-groups (groups whose Sylow subgroups are all cyclic with semidirect product characterizations), and alternating groups (even permutations with simplicity results). The `Alternating/` subdirectory provides advanced results including centralizer computations for conjugacy class enumeration, Klein four-group structure within A₄, and the O'Nan-Scott classification of maximal subgroups. Together, these implementations provide both the fundamental group structure definitions and deep classification theorems for these essential group families.
 
 ## Key Files
 
