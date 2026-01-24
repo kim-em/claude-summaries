@@ -29,7 +29,7 @@ Application materials for Dr. Alia Hamieh, a number theorist specializing in ana
 
 ## Subdirectories
 
-- [ ] `papers/` - Contains one published paper: "Special values of anticyclotomic L-functions modulo lambda" (Manuscripta Math. 2014)
+- [x] `papers/` - Contains one published paper: "Special values of anticyclotomic L-functions modulo lambda" (Manuscripta Math. 2014)
 
 ## Search Tags
 
