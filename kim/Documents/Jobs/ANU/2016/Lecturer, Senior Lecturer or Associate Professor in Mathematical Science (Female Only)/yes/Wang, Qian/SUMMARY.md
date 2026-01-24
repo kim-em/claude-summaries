@@ -26,7 +26,7 @@ Application materials for Qian Wang, a geometric analyst specializing in nonline
 
 ## Subdirectories
 
-- [ ] `papers/` - Three published research papers on Einstein equations: improved breakdown criterion (Comm. Pure Appl. Math 2012), Ricci coefficients work (Calc. Var. PDE 2013), and one additional paper (MR3201225)
+- [?] `papers/` - Three published research papers on Einstein equations: improved breakdown criterion (Comm. Pure Appl. Math 2012), Ricci coefficients work (Calc. Var. PDE 2013), and one additional paper (MR3201225)
 
 ## Search Tags
 
