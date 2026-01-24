@@ -1,18 +1,28 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Geometry/Manifold
-generated: 2026-01-24T06:15:00Z
+generated: 2026-01-24T23:15:00Z
 git_sha: 073b1c781e4870a435fcc3a04440176ab0c8af88
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 24
-subdirs_count: 11
+subdirs_count: 10
 ---
 
 # Manifold
 
 ## Overview
 
-The `Manifold/` directory contains the formalization of smooth manifolds and differential geometry in Mathlib. It provides the foundational framework for defining manifolds as topological spaces locally modeled on a model space (typically a normed vector space), with smooth transition maps between charts. The library supports both finite-dimensional and infinite-dimensional manifolds, manifolds with boundary, and various structures built on top of manifolds including Lie groups, vector bundles, and Riemannian geometry. Key concepts include charted spaces, structure groupoids, smooth maps (`ContMDiff`), the manifold derivative (`mfderiv`), diffeomorphisms, immersions, and smooth embeddings.
+The `Manifold/` directory contains Mathlib's comprehensive formalization of smooth manifolds and differential geometry. The architecture is built on three foundational abstractions: **structure groupoids** (sets of open partial homeomorphisms closed under composition and inverse that specify which coordinate changes are allowed), **charted spaces** (topological spaces with atlases of charts to a model space), and **models with corners** (embeddings of model spaces like half-spaces into normed vector spaces that enable manifolds with boundary).
+
+The core smoothness infrastructure lives in `ContMDiff/`, which defines `ContMDiff`, `ContMDiffAt`, and related predicates for C^n maps between manifolds. These leverage a local invariant properties framework to lift smoothness from model spaces to manifolds in a coordinate-independent way. The manifold derivative (`MFDeriv/`) extends the Fréchet derivative to manifolds, working through extended charts into the model vector space.
+
+Geometric structures are built atop this foundation: `VectorBundle/` formalizes smooth vector bundles with C^n transition functions, including the tangent bundle construction; `VectorField/` provides vector fields with Lie brackets and pullbacks; `Riemannian/` defines Riemannian metrics where distance equals the infimum of path lengths; and `IntegralCurve/` formalizes integral curves of vector fields with existence/uniqueness theorems via Picard-Lindelöf.
+
+Algebraic structures on manifolds are developed in `Algebra/`, defining Lie groups (smooth manifolds with smooth group operations), smooth monoids/rings, and left-invariant derivations that model Lie algebras. The sheaf-theoretic perspective in `Sheaf/` shows that smooth manifolds are locally ringed spaces with the structure sheaf of smooth functions.
+
+Concrete instances in `Instances/` include: real manifolds with half-spaces and quadrants for boundaries, closed intervals [x,y] as 1-dimensional manifolds with boundary, unit spheres via stereographic projection, and units of complete normed algebras (including GL(n)) as Lie groups.
+
+Notable results at this level include: bump functions and smooth partitions of unity, the Whitney embedding theorem (compact manifolds embed in Euclidean space), metrizability of finite-dimensional σ-compact manifolds, smooth approximation of continuous functions, diffeomorphisms and local diffeomorphisms, immersions and smooth embeddings, holomorphic functions on complex manifolds with maximum modulus principle, bordism theory foundations, and the statement of the generalized Poincaré conjecture.
 
 ## Key Files
 
@@ -44,17 +54,17 @@ The `Manifold/` directory contains the formalization of smooth manifolds and dif
 
 ## Subdirectories
 
-- [x] `Algebra/` - Lie groups, smooth monoid structures, left-invariant derivations, and smooth functions as an algebra
-- [x] `ContMDiff/` - Core definitions and properties of continuously differentiable maps between manifolds (`ContMDiff`, `ContMDiffAt`, etc.)
-- [x] `Instances/` - Concrete manifold instances: real line, unit interval `[0,1]`, spheres, units of normed algebras
-- [x] `IntegralCurve/` - Integral curves of vector fields: existence, uniqueness, and transformations
-- [x] `IsManifold/` - The `IsManifold` typeclass and properties of manifolds (interior, boundary, extended charts)
-- [x] `MFDeriv/` - The manifold derivative `mfderiv`: definitions, basic properties, chain rule, specific functions
-- [x] `Riemannian/` - Riemannian geometry: metrics on manifolds, path length via energy functionals
-- [x] `Sheaf/` - Sheaf-theoretic perspective on manifolds: sheaves of smooth functions, locally ringed spaces
-- [x] `VectorBundle/` - Smooth vector bundles: tangent bundles, smooth sections, local frames, Riemannian metrics on bundles
-- [x] `VectorField/` - Vector fields on manifolds: Lie brackets, pullbacks of vector fields
+- [x] `Algebra/` - Lie groups (`LieGroup`), smooth monoids (`ContMDiffMul`), smooth rings (`ContMDiffRing`), left-invariant derivations, and smooth functions as algebras
+- [x] `ContMDiff/` - Core `ContMDiff`/`ContMDiffAt` definitions and properties: composition, products, sums, atlas smoothness, equivalence with `ContDiff` for vector spaces
+- [x] `Instances/` - Concrete manifolds: real line, intervals `[x,y]` with boundary, spheres via stereographic projection, circle as Lie group, GL(n) and units of normed algebras
+- [x] `IntegralCurve/` - Integral curves of vector fields: `IsMIntegralCurve` definitions, local existence/uniqueness via Picard-Lindelöf, translation/scaling transforms, uniform time lemma
+- [x] `IsManifold/` - `IsManifold` typeclass, `ModelWithCorners` structure, extended charts `extChartAt`, manifold interior/boundary, `BoundarylessManifold`
+- [x] `MFDeriv/` - Manifold Fréchet derivative: `mfderiv`, `MDifferentiableAt`, `HasMFDerivAt`, chain rule, specific function derivatives, unique differentiability
+- [x] `Riemannian/` - Riemannian manifolds: `IsRiemannianManifold` typeclass, path length via derivative norm integral, `riemannianEDist` as infimum of path lengths
+- [x] `Sheaf/` - Sheaves of smooth functions, `smoothSheaf` construction, locally ringed space structure on manifolds, stalks as local rings
+- [x] `VectorBundle/` - Smooth vector bundles: `ContMDiffVectorBundle`, tangent bundle construction, smooth sections, local frames, Hom bundles, pullback bundles, Riemannian bundles
+- [x] `VectorField/` - Vector fields: pullback under smooth maps (`mpullback`), Lie bracket (`mlieBracket`), Jacobi identity, bracket preservation under pullback
 
 ## Search Tags
 
-manifold smooth-manifold charted-space structure-groupoid atlas chart diffeomorphism local-diffeomorphism immersion smooth-embedding bump-function partition-of-unity contmdiff mfderiv tangent-bundle lie-group vector-bundle riemannian bordism whitney-embedding poincare-conjecture holomorphic complex-manifold metrizable model-with-corners
+manifold smooth-manifold charted-space structure-groupoid atlas chart diffeomorphism local-diffeomorphism immersion smooth-embedding bump-function partition-of-unity contmdiff contmdiffat mfderiv mdifferentiable tangent-bundle tangent-space lie-group lie-algebra vector-bundle smooth-section local-frame riemannian-manifold bordism whitney-embedding poincare-conjecture holomorphic complex-manifold metrizable model-with-corners extchartat integral-curve vector-field lie-bracket pullback sheaf locally-ringed-space
