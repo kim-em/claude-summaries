@@ -55,7 +55,7 @@ The `Mathlib/` directory is the core of the mathlib4 library, containing the com
 - [?] `Tactic/` - All proof tactics and automation tools (186 subdirectories/files)
 - [?] `Testing/` - Testing utilities and frameworks
 - [?] `Topology/` - Point-set and algebraic topology (topological spaces, continuity, compactness, separation)
-- [ ] `Util/` - General utility functions and metaprogramming helpers
+- [?] `Util/` - General utility functions and metaprogramming helpers
 
 ## Search Tags
 
