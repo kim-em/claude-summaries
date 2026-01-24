@@ -51,7 +51,7 @@ LaTeX-based lecture notes for the linear algebra component of MATH1014 (Mathemat
 - [x] `Lecture19/` - Inner products and orthogonality in Euclidean spaces
 - [x] `Lecture20/` - Orthogonal and orthonormal sets, orthogonal bases, orthogonal matrices
 - [x] `Lecture21/` - Orthogonal projections onto subspaces
-- [ ] `Lecture22/` - Linear algebra lecture content
+- [x] `Lecture22/` - The Gram-Schmidt Process for converting arbitrary bases into orthogonal and orthonormal bases, with QR matrix factorization
 - [ ] `Lecture23/` - Linear algebra lecture content
 - [ ] `Lecture24/` - Linear algebra lecture content
 - [ ] `Lecture25/` - Linear algebra lecture content
