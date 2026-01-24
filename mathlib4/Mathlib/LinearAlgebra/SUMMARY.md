@@ -85,7 +85,7 @@ The `LinearAlgebra/` directory contains mathlib4's comprehensive formalization o
 - [x] `Projectivization/` - Projectivization of vector spaces
 - [x] `QuadraticForm/` - Quadratic forms
 - [x] `Quotient/` - Quotient modules
-- [ ] `RootSystem/` - Root systems and Lie theory
+- [~] `RootSystem/` - Root systems and Lie theory
 - [ ] `SModEq/` - Scalar modular equivalence (subdirectory extension)
 - [ ] `SesquilinearForm/` - Sesquilinear forms (subdirectory extension)
 - [ ] `Span/` - Span of sets in modules
