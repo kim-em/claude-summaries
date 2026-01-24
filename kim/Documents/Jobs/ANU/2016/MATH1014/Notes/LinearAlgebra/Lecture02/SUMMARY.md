@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/MATH1014/Notes/LinearAlgebra/Lecture02
-generated: 2026-01-25T09:45:00Z
+generated: 2026-01-25T09:55:00Z
 git_sha: fafb26e72fe7b535873cd5b8a8f359b75df7fe29
 git_branch: master
-status: preliminary
+status: complete
 files_count: 7
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Lecture 2 materials covering dot products and cross products of vectors in linear algebra for MATH1014. The lecture introduces two fundamental ways to multiply vectors: the dot (scalar) product which produces a scalar, and the cross (vector) product in R³ which produces a vector. Topics include computing dot and cross products, using dot products to find angles and projections, properties of both products, and applications to geometric problems. Includes LaTeX source files and multiple generated PDF formats (slides, handouts, and a scribbled/annotated version).
+Lecture 2 materials covering dot products and cross products of vectors in linear algebra for MATH1014. The lecture introduces two fundamental ways to multiply vectors: the dot (scalar) product which produces a scalar, and the cross (vector) product in R³ which produces a vector. Topics include computing dot and cross products, using dot products to find angles and projections, properties of both products, and applications to geometric problems including work in physics. The presentation is supported by rich visual diagrams showing vector geometry concepts such as angles between vectors, projections, decomposition, 3D coordinate systems, and the right-hand rule for cross products. Includes LaTeX source files and multiple generated PDF formats (slides, handouts, and a scribbled/annotated version).
 
 ## Key Files
 
