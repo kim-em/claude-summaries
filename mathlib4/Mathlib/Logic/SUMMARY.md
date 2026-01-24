@@ -38,7 +38,7 @@ The `Logic/` directory provides foundational mathematical logic infrastructure f
 - [x] `Encodable/` - Encodable types (countably infinite or finite types with encode/decode to ℕ)
 - [x] `Equiv/` - Type equivalences (bijections) and related constructions
 - [x] `Function/` - Function properties and constructions (composition, inverses, injectivity, surjectivity)
-- [ ] `Godel/` - Gödel-related results and encoding
+- [x] `Godel/` - Gödel's Beta Function Lemma for encoding/decoding finite sequences of natural numbers
 - [ ] `Nontrivial/` - Nontrivial types (at least two distinct elements)
 - [ ] `Small/` - Small types (embeddable into a universe level)
 
