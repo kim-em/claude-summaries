@@ -23,7 +23,7 @@ The `Order/` directory provides measure-theoretic results for ordered structures
 
 ## Subdirectories
 
-- [ ] `Group/` - Measurability results for groups with lattice structure (positive/negative parts, multiplicative absolute value)
+- [x] `Group/` - Measurability results for groups with lattice structure (positive/negative parts, multiplicative absolute value)
 
 ## Search Tags
 
