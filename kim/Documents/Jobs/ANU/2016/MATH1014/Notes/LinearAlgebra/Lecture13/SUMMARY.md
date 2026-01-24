@@ -27,7 +27,7 @@ Mid-semester examination review lecture covering problems from the 2013 exam. To
 
 ## Subdirectories
 
-- [ ] `diagrams/` - Supporting diagrams and graphics for the lecture
+- [x] `diagrams/` - Supporting diagrams and graphics for the lecture
 
 ## Search Tags
 
