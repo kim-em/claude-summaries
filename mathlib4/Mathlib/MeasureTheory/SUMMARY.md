@@ -35,7 +35,7 @@ The `MeasureTheory/` directory provides the complete formalization of measure th
 - [x] `Measure/` - Complete measure theory formalization: measure spaces, operations (restriction, pushforward, density), decomposition theorems (Lebesgue, Radon-Nikodym, Hahn), Haar measures on groups, Lebesgue measure on ℝⁿ, typeclass hierarchy (finite, σ-finite, probability, atomless), regularity theory, weak convergence, and specialized measures (Hausdorff, Stieltjes, Dirac)
 - [x] `Order/` - Measure theory on ordered structures (lattices, groups with order)
 - [x] `OuterMeasure/` - Outer measures (Carathéodory construction, induced outer measures, Borel-Cantelli lemma)
-- [ ] `SpecificCodomains/` - Measurability and integration for specific target spaces (continuous maps, Pi types, WithLp)
+- [x] `SpecificCodomains/` - Measurability and integration for specific target spaces (continuous maps, Pi types, WithLp)
 - [ ] `VectorMeasure/` - Vector-valued measures (signed measures, Radon-Nikodym for vector measures, Hahn decomposition)
 
 ## Search Tags
