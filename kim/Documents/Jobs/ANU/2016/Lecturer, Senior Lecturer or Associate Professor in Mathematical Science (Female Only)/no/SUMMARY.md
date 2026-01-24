@@ -48,7 +48,7 @@ No files directly in this folder - all materials are organized in candidate subd
 - [x] `Wang, Qixuan/` - Researcher at UC Irvine; PhD Minnesota 2012 under Othmer; mathematical biology specialist in cell motility, hair follicle modeling, low Reynolds number swimming; extensive teaching experience; 4 referees (Nie, Othmer, Plikus, Baranovsky); published work on amoeboid swimming; no Australian work rights
 - [x] `Yao, Yuan/` - Application materials for Research Assistant Professor at Hong Kong Baptist University; PhD in statistics; research on survival analysis, high-dimensional data, transformation models; complete application package (22-page PDF with CV, selection criteria, research statement)
 - [x] `Zemljic, Sara Sabrina/` - Postdoc at University of Iceland; PhD Ljubljana 2014 in discrete mathematics under Klavžar; research on Sierpiński graphs, algebraic graph theory; collaboration with Marston Conder (Auckland); President ESN Iceland; no Australian work rights
-- [ ] `de la Torre, Pedraza Azahara/` - Application materials (minimal documentation)
+- [x] `de la Torre, Pedraza Azahara/` - PhD candidate at UPC Barcelona; research on fractional Yamabe problem and conformal geometry; advisor María del Mar González; 4 referees (González, Cabré, Chang, Sire); expected PhD completion December 2016; no Australian work rights
 
 ## Search Tags
 
