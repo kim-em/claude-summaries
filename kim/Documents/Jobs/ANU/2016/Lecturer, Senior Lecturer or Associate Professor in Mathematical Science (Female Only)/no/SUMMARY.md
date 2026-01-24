@@ -40,7 +40,7 @@ No files directly in this folder - all materials are organized in candidate subd
 - [x] `Pourhasan, Razieh/` - Postdoctoral fellow at University of Iceland specializing in theoretical physics/string theory; PhD Waterloo/Perimeter 2014; research on holography, AdS/CFT, entanglement entropy, holographic cosmology; Scientific American cover article 2014; no Australian work rights
 - [x] `Rupam, Rishika/` - CEMPI postdoc at Lille 1; PhD Texas A&M 2015 under Poltoratski; research on complex analysis, meromorphic inner functions, Krein-de Branges theory, spectral problems; 5 reference letters; no Australian work rights
 - [x] `Salmeron, Raquel/` - Australian citizen and former ANU employee (2006-2015); PhD Physics; mathematical modeling of magnetohydrodynamics; Network Performance & Analysis Manager at Airservices Australia (2015-present); 16 publications with 349 citations; $580k+ research funding; comprehensive 26-page application with CV, selection criteria, teaching/research statements, and 3 reference letters
-- [ ] `Saorin Gomez, Eugenia/` - Application materials with reference letters
+- [x] `Saorin Gomez, Eugenia/` - Assistant researcher at Otto-von-Guericke Universität Magdeburg; PhD Murcia 2008 in convex geometry; 21 publications including solved 40+ year old open problems; 4 strong reference letters from leading convex geometers (Colesanti, Hernández Cifre, Hug, Henk); married with 2 children; no Australian work rights
 - [ ] `Seelinger, Nora/` - Application materials with reference letters
 - [ ] `Snow, Kate/` - Application materials with reference letters
 - [ ] `Sohail, Ayesha/` - Application materials with reference letters
