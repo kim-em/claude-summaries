@@ -35,7 +35,7 @@ The `Euclidean/` directory formalizes Euclidean geometry in real inner product s
 
 - [x] `Angle/` - Angles in Euclidean spaces: oriented and unoriented angles between vectors, angle bisectors, angles inscribed in circles
 - [x] `Inversion/` - Geometric inversion (circle inversion): basic properties, calculus of inversion, images of hyperplanes
-- [ ] `Sphere/` - Sphere geometry: basic definitions, orthogonal radius, power of a point, Ptolemy's theorem, second intersection point, tangent lines
+- [x] `Sphere/` - Sphere geometry: basic definitions, orthogonal radius, power of a point, Ptolemy's theorem, second intersection point, tangent lines
 
 ## Search Tags
 
