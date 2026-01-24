@@ -45,7 +45,7 @@ Mid-semester and final examination materials for MATH1014 Semester 2 2016, cover
 
 ## Subdirectories
 
-- [ ] `deferred-midsemester-exams/` - Scanned completed mid-semester exams from 6 students who took deferred exams (PDFs named by student ID)
+- [x] `deferred-midsemester-exams/` - Scanned completed mid-semester exams from 6 students who took deferred exams (PDFs named by student ID)
 
 ## Search Tags
 
