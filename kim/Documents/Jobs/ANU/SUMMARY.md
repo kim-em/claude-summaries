@@ -27,7 +27,7 @@ No files are stored directly in the ANU root directory (only subdirectories).
 - [?] `2016/` - Fifth year documenting promotion to Associate Professor (Level D), HDR Convenor role, extensive teaching (MATH1014 ~400 students, MATH3325 23 students, Category Theory 6 students, Representation Theory 2 students, ASC Knot Theory 1 student), PhD and honours supervision (Cain Edie-Michell, Benjamin Thompson, Tejas Iyer, Florrie Verity, Yanbai Zhang, Jack Brand), DP16 grant ($455,992), international research travel (MATRIX, AIM Square, Oaxaca, Bonn, Oberwolfach), postdoctoral hiring, continuing positions selection (female-only position)
 - [?] `2017/` - Employment records and annual activities
 - [?] `2018/` - Employment records and annual activities
-- [ ] `2019/` - Materials including ITP, Level E promotion, complaint documentation, director records, honours supervision, final.pdf
+- [?] `2019/` - Materials including ITP, Level E promotion, complaint documentation, director records, honours supervision, final.pdf
 - [ ] `HDR/` - Higher Degree by Research administration including CPMS web pages, student lists (past students 2015), 2017 applications, MSI Committee of Enquiry response 2017, 2019 materials, APA/IPRS/Heyde scholarships, Career Development Program, examiner letters for overdue reports, milestones tracking, individual student cases
 - [ ] `PhD-students/` - Individual PhD student folders for Cain (Edie-Michell) and Dom
 - [ ] `arrival/` - Relocation and commencement materials including ANU offer letter (Feb 2011, Senior Lecturer Level C starting July 2012), employment letter amendments (June 2012), market loading case (April 2014), loadings payment documentation, Judith Wright housing, commencement checklist

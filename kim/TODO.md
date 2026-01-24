@@ -66,3 +66,4 @@ This file tracks files that couldn't be processed with standard tools and need s
 - `Documents/Jobs/ANU/2016/` - Claude error: Credit balance is too low  (skipped 2026-01-24T07:19:57Z)
 - `Documents/Jobs/ANU/2017/` - Claude error: Credit balance is too low  (skipped 2026-01-24T07:20:02Z)
 - `Documents/Jobs/ANU/2018/` - Claude error: Credit balance is too low  (skipped 2026-01-24T07:20:07Z)
+- `Documents/Jobs/ANU/2019/` - Claude error: Credit balance is too low  (skipped 2026-01-24T07:21:00Z)
