@@ -20,7 +20,7 @@ No files directly in this directory - all materials organized within candidate s
 
 ## Subdirectories
 
-- [ ] `Bapat, Asilata/` - Algebraic geometry and representation theory specialist with references from Geordie Williamson, Samuel Evens, Tom Braden, Victor Ginzburg
+- [x] `Bapat, Asilata/` - Algebraic geometry and representation theory specialist with references from Geordie Williamson, Samuel Evens, Tom Braden, Victor Ginzburg
 - [ ] `Bourni, Theodora/` - Differential geometry and geometric analysis researcher
 - [ ] `Tran, Giang/` - Applied mathematics candidate
 - [ ] `Turner, Katharine/` - Applied topology expert with references from Kathryn Hess, Robert Adler, Shmuel Weinberger, Victor Panaretos

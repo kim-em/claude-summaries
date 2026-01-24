@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/Lecturer, Senior Lecturer or Associate Professor in Mathematical Science (Female Only)/yes/Bapat, Asilata
-generated: 2026-01-25T08:15:00Z
+generated: 2026-01-25T08:30:00Z
 git_sha: fafb26e72fe7b535873cd5b8a8f359b75df7fe29
 git_branch: master
-status: preliminary
+status: complete
 files_count: 5
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Complete job application package for Dr. Asilata Bapat's 2016 application to ANU for a Lecturer position in Mathematical Sciences. Bapat was a recent PhD graduate (June 2016, University of Chicago, advisor Victor Ginzburg) applying from her first postdoctoral position at University of Georgia. Her research specializes in geometric representation theory with emphasis on D-modules, Bernstein-Sato b-functions, intersection cohomology sheaves, Calogero-Moser spaces, and Hessenberg varieties.
+Complete job application package for Dr. Asilata Bapat's 2016 application to ANU for a Lecturer position in Mathematical Sciences. Bapat was a recent PhD graduate (June 2016, University of Chicago, advisor Victor Ginzburg) applying from her first postdoctoral position at University of Georgia. Her research specializes in geometric representation theory with emphasis on D-modules, Bernstein-Sato b-functions, intersection cohomology sheaves, Calogero-Moser spaces, and Hessenberg varieties. The application includes strong reference letters from four leading mathematicians and a selected published paper from Pacific Journal of Mathematics (2015) demonstrating her expertise in intersection cohomology and tensor products under torus actions.
 
 ## Key Files
 
@@ -26,7 +26,7 @@ Complete job application package for Dr. Asilata Bapat's 2016 application to ANU
 
 ## Subdirectories
 
-- [ ] `papers/` - Selected published research papers
+- [x] `papers/` - Single published research paper on intersection cohomology and tensor products under torus actions (Pacific J. Math. 2015)
 
 ## Search Tags
 
