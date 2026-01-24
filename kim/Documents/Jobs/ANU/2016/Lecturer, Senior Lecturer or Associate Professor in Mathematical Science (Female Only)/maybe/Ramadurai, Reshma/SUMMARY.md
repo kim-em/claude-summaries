@@ -27,7 +27,7 @@ Application materials for Dr Reshma Ramadurai, a combinatorics researcher applyi
 
 ## Subdirectories
 
-- [ ] `papers/` - Four research papers on Folkman numbers, hypergraph colorings, and MSO logic
+- [x] `papers/` - Four research papers on Folkman numbers, hypergraph colorings, and MSO logic
 
 ## Search Tags
 
