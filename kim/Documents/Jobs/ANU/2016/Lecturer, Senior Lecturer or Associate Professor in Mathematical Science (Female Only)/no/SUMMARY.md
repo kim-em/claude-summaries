@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/Lecturer, Senior Lecturer or Associate Professor in Mathematical Science (Female Only)/no
-generated: 2026-01-24T19:48:00Z
+generated: 2026-01-25T09:15:00Z
 git_sha: fafb26e72fe7b535873cd5b8a8f359b75df7fe29
 git_branch: master
-status: preliminary
+status: complete
 files_count: 0
 subdirs_count: 29
 ---
@@ -12,7 +12,7 @@ subdirs_count: 29
 
 ## Overview
 
-Rejected candidates from the 2016 ANU female-only mathematical sciences faculty search. Contains 29 individual candidate folders, each with application materials including application PDFs and reference letters. These candidates were not advanced for further consideration by the selection committee, as indicated by their placement in the "no" category versus the "yes" (7 candidates) or "maybe" (18 candidates) folders.
+Rejected candidates from the 2016 ANU female-only mathematical sciences faculty search. Contains 29 individual candidate folders representing diverse mathematical specializations including number theory, topology, convex geometry, mathematical physics, probability theory, PDEs, and applied mathematics. The applicant pool was highly international (mostly lacking Australian work rights) with candidates ranging from recent PhDs to established researchers. Notable patterns include strong research credentials across the board (many with excellent publication records and reference letters from leading figures), suggesting selection decisions involved nuanced factors beyond raw research quality. Two candidates (Salmeron, Snow) were Australian citizens, with Snow being a recent ANU PhD graduate in physical oceanography.
 
 ## Key Files
 
@@ -52,4 +52,4 @@ No files directly in this folder - all materials are organized in candidate subd
 
 ## Search Tags
 
-anu faculty-search rejected-candidates 2016 female-only mathematical-sciences application-materials reference-letters selection-committee lecturer senior-lecturer associate-professor
+anu faculty-search rejected-candidates 2016 female-only mathematical-sciences application-materials reference-letters selection-committee lecturer senior-lecturer associate-professor international-applicants australian-citizens number-theory topology convex-geometry algebraic-topology string-theory mathematical-physics probability-theory pdes fluid-mechanics complex-analysis harmonic-analysis geometric-analysis differential-geometry contact-topology symplectic-geometry knot-theory graph-theory mathematical-biology computational-mathematics applied-statistics data-science postdocs phd-candidates australian-work-rights
