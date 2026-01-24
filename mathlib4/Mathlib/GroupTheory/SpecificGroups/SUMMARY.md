@@ -27,7 +27,7 @@ The `SpecificGroups/` directory contains formalizations of concrete, well-studie
 
 ## Subdirectories
 
-- [ ] `Alternating/` - Additional results on alternating groups: centralizers, Klein four-group in A₄, maximal subgroups
+- [x] `Alternating/` - Additional results on alternating groups: centralizers, Klein four-group in A₄, maximal subgroups
 
 ## Search Tags
 
