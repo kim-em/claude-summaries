@@ -67,7 +67,7 @@ The `LinearAlgebra/` directory contains mathlib4's comprehensive formalization o
 - [x] `CliffordAlgebra/` - Clifford algebras from quadratic forms
 - [x] `Complex/` - Complex-specific linear algebra
 - [x] `Dimension/` - Dimension theory for vector spaces
-- [ ] `DirectSum/` - Direct sum decompositions
+- [x] `DirectSum/` - Direct sum decompositions
 - [ ] `Dual/` - Dual spaces and double duals
 - [ ] `Eigenspace/` - Eigenspaces and eigenvalues
 - [ ] `ExteriorAlgebra/` - Exterior algebras
