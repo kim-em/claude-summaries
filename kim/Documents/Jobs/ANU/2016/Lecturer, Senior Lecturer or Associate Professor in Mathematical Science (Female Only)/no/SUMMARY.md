@@ -35,7 +35,7 @@ No files directly in this folder - all materials are organized in candidate subd
 - [x] `Leitner, Arielle/` - Postdoc at Technion; PhD UCSB 2015 under Cooper; research on geometric transitions, Cartan subgroup limits, convex projective structures; strong teaching background in inquiry-based learning; no Australian work rights
 - [x] `Liang, Xuan/` - PhD candidate at Peking University specializing in environmental statistics; research on PM2.5 pollution in China using nonparametric methods; strong references from Qiwei Yao, Song Xi Chen, Theis Lange; no Australian work rights
 - [x] `Liao, Xian/` - Postdoc at Universität Bonn; PhD Paris-Est 2013 under Danchin; research on PDEs, fluid mechanics, zero Mach number systems, density patch problems; 10 publications; 4 reference letters (Feireisl, Zhang, Danchin, Koch); no Australian work rights
-- [ ] `Myer, Ziva/` - Application materials with reference letters
+- [x] `Myer, Ziva/` - PhD candidate at Bryn Mawr College; research on A∞ algebras for Legendrian submanifolds using generating families in contact/symplectic geometry; expected graduation May 2017; 3 strong reference letters from advisor Lisa Traynor, Joshua Sabloff (Haverford), Katrin Wehrheim (Berkeley); extensive TA experience; EDGE program mentor; no Australian work rights
 - [ ] `O.Donnol, Danielle/` - Application materials with reference letters
 - [ ] `Pourhasan, Razieh/` - Application materials with reference letters
 - [ ] `Rupam, Rishika/` - Application materials with reference letters
