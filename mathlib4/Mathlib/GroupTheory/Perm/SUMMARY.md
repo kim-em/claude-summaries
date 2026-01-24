@@ -36,7 +36,7 @@ The `Perm/` directory contains the formalization of permutation groups (symmetri
 
 ## Subdirectories
 
-- [ ] `Cycle/` - Cycle decomposition: basic cycle theory, concrete cycles, cycle factorizations, cycle types
+- [x] `Cycle/` - Cycle decomposition: basic cycle theory, concrete cycles, cycle factorizations, cycle types
 
 ## Search Tags
 
