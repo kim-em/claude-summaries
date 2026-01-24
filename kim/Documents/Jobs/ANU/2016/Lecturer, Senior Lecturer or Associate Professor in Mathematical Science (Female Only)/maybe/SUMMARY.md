@@ -36,7 +36,7 @@ Application materials for 18 candidates in the "maybe" category requiring furthe
 - [?] `Robins, Vanessa/` - Application with 5 reference letters and papers subdirectory
 - [?] `Saez Trumper, Mariel/` - Application with 4 reference letters and papers subdirectory
 - [?] `Shah, Hemangi/` - Application with 2 reference letters (no papers subdirectory)
-- [ ] `Shi, Yang/` - Application with 4 reference letters and papers subdirectory
+- [?] `Shi, Yang/` - Application with 4 reference letters and papers subdirectory
 - [ ] `Zhu, Houying/` - Application with papers subdirectory (no reference letters)
 
 ## Search Tags
