@@ -27,7 +27,7 @@ LaTeX source files and generated outputs for Lecture 20 of MATH1014 Linear Algeb
 
 ## Subdirectories
 
-- [ ] `diagrams/` - Supporting diagram files
+- [x] `diagrams/` - Supporting diagram files
 
 ## Search Tags
 
