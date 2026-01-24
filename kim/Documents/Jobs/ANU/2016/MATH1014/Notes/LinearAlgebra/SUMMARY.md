@@ -35,7 +35,7 @@ LaTeX-based lecture notes for the linear algebra component of MATH1014 (Mathemat
 - [x] `Lecture03/` - Lines and planes in Euclidean space
 - [x] `Lecture04/` - Distances in R³ (point-to-plane, point-to-line, line-to-line)
 - [x] `Lecture05/` - Vector Spaces and Subspaces (formal axioms, examples, closure properties, span)
-- [ ] `Lecture06/` - Linear algebra lecture content
+- [x] `Lecture06/` - Null spaces, column spaces, and linear transformations
 - [ ] `Lecture07/` - Linear algebra lecture content
 - [ ] `Lecture08/` - Linear algebra lecture content
 - [ ] `Lecture09/` - Linear algebra lecture content
