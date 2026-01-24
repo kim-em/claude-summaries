@@ -40,7 +40,7 @@ LaTeX-based lecture notes for the linear algebra component of MATH1014 (Mathemat
 - [x] `Lecture08/` - Coordinate systems and change of basis
 - [x] `Lecture09/` - Dimension theory, bases, rank-nullity theorem, row spaces
 - [x] `Lecture10/` - Applications to Markov chains (stochastic matrices, probability vectors, steady-state analysis)
-- [ ] `Lecture11/` - Linear algebra lecture content
+- [~] `Lecture11/` - Eigenvectors and eigenvalues (basic definitions, eigenspaces, triangular matrices)
 - [ ] `Lecture12/` - Linear algebra lecture content
 - [ ] `Lecture13/` - Linear algebra lecture content
 - [ ] `Lecture14/` - Linear algebra lecture content
