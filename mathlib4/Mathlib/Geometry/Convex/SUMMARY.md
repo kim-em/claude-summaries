@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Geometry/Convex
-generated: 2026-01-24T06:02:15Z
+generated: 2026-01-24T09:15:00Z
 git_sha: 073b1c781e4870a435fcc3a04440176ab0c8af88
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 1
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-The `Convex/` directory contains formalized convex geometry results that work without requiring a norm or inner product. This is a foundational approach to convexity that operates at a more general algebraic level than the norm-dependent convexity theory found in `Mathlib.Analysis.Convex`. Currently, the focus is on convex cones and their properties.
+The `Convex/` directory contains formalized convex geometry results that work at a purely algebraic level without requiring topology, norms, or inner products. This complements the topological convexity theory in `Mathlib.Analysis.Convex` by providing foundational algebraic structures. The primary content is a comprehensive theory of convex cones, including bundled `ConvexCone` and `PointedCone` types, complete lattice structure on cones, correspondence between cones and ordered modules, dual cones via bilinear pairings, and tensor products of pointed cones (both minimal and maximal constructions).
 
 ## Key Files
 
@@ -22,8 +22,8 @@ The `Convex/` directory contains formalized convex geometry results that work wi
 
 ## Subdirectories
 
-- [x] `Cone/` - Convex cones theory
+- [x] `Cone/` - Algebraic theory of convex cones: bundled `ConvexCone` and `PointedCone` types, properties (pointed/blunt/flat/salient), complete lattice structure, maps between cones, duality via bilinear pairings, tensor products, and correspondence with ordered modules
 
 ## Search Tags
 
-convex-geometry convex-sets cones convexity algebraic-convexity norm-free inner-product-free foundational-convexity
+convex-geometry convex-sets cones convexity algebraic-convexity norm-free inner-product-free foundational-convexity convex-cones pointed-cones dual-cones tensor-products ordered-modules salient-cones generating-cones
