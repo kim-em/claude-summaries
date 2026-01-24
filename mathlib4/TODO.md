@@ -13,3 +13,4 @@
 - `Mathlib/Geometry/RingedSpace/` - Claude error: Credit balance is too low  (skipped 2026-01-24T07:18:44Z)
 - `Mathlib/Geometry/` - Claude error: Credit balance is too low  (skipped 2026-01-24T07:18:50Z)
 - `Mathlib/GroupTheory/` - Claude error: Credit balance is too low  (skipped 2026-01-24T07:18:55Z)
+- `Mathlib/InformationTheory/` - Claude error: Credit balance is too low  (skipped 2026-01-24T07:19:00Z)

@@ -38,7 +38,7 @@ The `Mathlib/` directory is the core of the mathlib4 library, containing the com
 - [x] `FieldTheory/` - Field theory (extensions, Galois theory, algebraic closures)
 - [?] `Geometry/` - Geometric structures and theory
 - [?] `GroupTheory/` - Group theory (subgroups, quotients, group actions, representations)
-- [ ] `InformationTheory/` - Information-theoretic concepts
+- [?] `InformationTheory/` - Information-theoretic concepts
 - [ ] `Lean/` - Lean-specific metaprogramming utilities and extensions
 - [ ] `LinearAlgebra/` - Linear algebra (vector spaces, matrices, linear maps, tensor products)
 - [ ] `Logic/` - Mathematical logic (propositional logic, first-order logic, model theory basics)
