@@ -26,7 +26,7 @@ Application materials for Annegret Burtscher, a candidate in the 2016 ANU female
 
 ## Subdirectories
 
-- [ ] `papers/` - Three published research papers on algebraic approaches to manifold-valued generalized functions, energy inequalities for tensorial wave equations, and trapped surface formation in Einstein-Euler spacetimes
+- [?] `papers/` - Three published research papers on algebraic approaches to manifold-valued generalized functions, energy inequalities for tensorial wave equations, and trapped surface formation in Einstein-Euler spacetimes
 
 ## Search Tags
 
