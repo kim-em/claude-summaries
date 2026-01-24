@@ -20,7 +20,7 @@ No files are stored directly in the Jobs root directory (only subdirectories).
 
 ## Subdirectories
 
-- [~] `ANU/` - ANU faculty employment records organized by year (2012-2019), HDR supervision, PhD students, honours students, and arrival documentation (5062 files)
+- [?] `ANU/` - ANU faculty employment records organized by year (2012-2019), HDR supervision, PhD students, honours students, and arrival documentation (5062 files)
 - [ ] `ASD/` - Australian Security Declaration countries list documenting international travel history 1982-2014 for visa/security purposes (1 file)
 - [ ] `Applications/` - Grant and fellowship applications organized by year (2008-2019) including ARC Discovery Projects, Future Fellowship, and assessment materials (1079 files)
 - [ ] `AustMS/` - Australian Mathematical Society council materials and annotated Special Committee reports (12 files)
