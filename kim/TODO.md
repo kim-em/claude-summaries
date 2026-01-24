@@ -45,3 +45,4 @@ This file tracks files that couldn't be processed with standard tools and need s
 - `Documents/Jobs/ANU/2016/Lecturer,/` - Claude error: PDF too large. Try reading the file a different way (e.g., extract text with a CLI too... (skipped 2026-01-24T05:40:25Z)
 - `Documents/Jobs/ANU/2016/Lecturer,/` - Claude error: Prompt is too long  (skipped 2026-01-24T06:01:38Z)
 - `Documents/Jobs/ANU/2016/Lecturer,/` - Claude error: PDF too large. Try reading the file a different way (e.g., extract text with a CLI too... (skipped 2026-01-24T06:03:41Z)
+- `Documents/Jobs/ANU/2016/Lecturer, Senior Lecturer or Associate Professor in Mathematical Science (Female Only)/maybe/Knapp, Johanna/papers/` - Claude error: PDF too large. Try reading the file a different way (e.g., extract text with a CLI too... (skipped 2026-01-24T06:04:42Z)

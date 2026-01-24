@@ -26,7 +26,7 @@ Application materials for Johanna Knapp, a mathematical string theorist applying
 
 ## Subdirectories
 
-- [ ] `papers/` - Eight published research papers (2004-2011) in high-energy physics and mathematical physics journals
+- [?] `papers/` - Eight published research papers (2004-2011) in high-energy physics and mathematical physics journals
 
 ## Search Tags
 
