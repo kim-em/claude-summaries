@@ -47,7 +47,7 @@ The `Mathlib/` directory is the core of the mathlib4 library, containing the com
 - [?] `ModelTheory/` - Model theory (structures, theories, definability)
 - [?] `NumberTheory/` - Number theory (primes, divisibility, Diophantine equations, arithmetic functions)
 - [?] `Order/` - Order theory (partial orders, lattices, well-founded relations, ordinals)
-- [ ] `Probability/` - Probability theory
+- [?] `Probability/` - Probability theory
 - [ ] `RepresentationTheory/` - Representation theory of groups and algebras
 - [ ] `RingTheory/` - Ring theory (ideals, modules, homological algebra, commutative algebra)
 - [ ] `SetTheory/` - Set theory (cardinals, ordinals, ZFC foundations)
