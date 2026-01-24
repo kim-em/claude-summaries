@@ -20,7 +20,7 @@ No files directly in this directory.
 
 ## Subdirectories
 
-- [ ] `Convex/` - Convex geometry without norms or inner products (cones and convex sets)
+- [~] `Convex/` - Convex geometry without norms or inner products (cones and convex sets)
 - [ ] `Euclidean/` - Euclidean geometry: real inner product spaces, affine Euclidean spaces, angles, circumcenters, incenters, altitudes, perpendicular bisectors, congruence, similarity, simplices, spheres, triangles, signed distances, Monge points, projections, and inversions
 - [ ] `Group/` - Geometric group theory: finitely generated groups acting on geometric spaces, group growth
 - [ ] `Manifold/` - Differential geometry: smooth manifolds with charted spaces, atlases, structure groupoids, smooth maps (ContMDiff), diffeomorphisms, local coordinates, tangent bundles, bump functions, immersions, Lie groups and Lie algebras, bordism theory, conformal structures, integral curves
