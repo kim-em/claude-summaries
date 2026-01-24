@@ -39,3 +39,4 @@
 - `LongestPole/` - Claude error: Credit balance is too low  (skipped 2026-01-24T07:21:43Z)
 - `DownstreamTest/` - Claude error: Credit balance is too low  (skipped 2026-01-24T07:21:48Z)
 - `docs/` - Claude error: Credit balance is too low  (skipped 2026-01-24T07:21:53Z)
+- `scripts/` - Claude error: Credit balance is too low  (skipped 2026-01-24T07:21:58Z)
