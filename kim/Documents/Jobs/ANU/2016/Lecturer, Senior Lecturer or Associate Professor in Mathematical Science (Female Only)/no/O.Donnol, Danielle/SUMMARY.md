@@ -29,7 +29,7 @@ Application materials for Danielle O'Donnol, a candidate for the 2016 ANU female
 
 ## Subdirectories
 
-- [ ] `papers/` - Published research papers (2 PDFs on Legendrian theta-graphs and knotting in the Petersen family)
+- [x] `papers/` - Published research papers (2 PDFs on Legendrian theta-graphs and knotting in the Petersen family)
 
 ## Search Tags
 
