@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/LinearAlgebra/RootSystem
-generated: 2026-01-24T16:11:22Z
+generated: 2026-01-25T17:35:00Z
 git_sha: 542a7d7979ad5f45d2a89008412e565c8fa001d2
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 15
 subdirs_count: 2
 ---
@@ -12,7 +12,7 @@ subdirs_count: 2
 
 ## Overview
 
-The `RootSystem/` directory contains a comprehensive formalization of root pairings, root data, and root systems from Lie theory. Root pairings provide a general framework unifying root systems and root data, built on perfectly-paired modules with indexed families of roots, coroots, and reflection permutations. The theory includes both abstract foundations (definitions, morphisms, homological properties) and concrete structures (bases, Weyl groups, Cartan matrices), covering both finite and infinite root systems with particular attention to crystallographic (integer-valued) cases. Key features include existence proofs for bases, characterizations of reduced and irreducible systems, root chain theory, and connections to bilinear forms and category theory.
+The `RootSystem/` directory contains a comprehensive formalization of root pairings, root data, and root systems from Lie theory. Root pairings provide a general framework unifying root systems and root data, built on perfectly-paired modules with indexed families of roots, coroots, and reflection permutations. The theory includes both abstract foundations (definitions, morphisms, homological properties) and concrete structures (bases, Weyl groups, Cartan matrices), covering both finite and infinite root systems with particular attention to crystallographic (integer-valued) cases. The finite subdirectory establishes canonical bilinear forms with positive-definiteness results, Coxeter weight bounds, and complete classification of the exceptional 𝔤₂ root system. The GeckConstruction subdirectory implements a matrix-based construction of semisimple Lie algebras from reduced crystallographic root systems, proving irreducibility and triviality of the radical. Together, this provides a complete formalization spanning abstract root theory through concrete Lie algebra constructions.
 
 ## Key Files
 
@@ -36,8 +36,8 @@ The `RootSystem/` directory contains a comprehensive formalization of root pairi
 
 ## Subdirectories
 
-- [x] `Finite/` - Theory specific to finite root pairings
-- [x] `GeckConstruction/` - Geck's construction for root systems
+- [x] `Finite/` - Theory specific to finite (finitely-indexed) root pairings: canonical bilinear forms with positive-definiteness, Coxeter weight enumeration (bounded by 4), structural classification lemmas for crystallographic systems including complete pairing enumeration, nondegeneracy results for invariant forms on root spans, and full theory of the exceptional 𝔤₂ root system with all 12 roots and length relations
+- [x] `GeckConstruction/` - Geck's construction of semisimple Lie algebras from reduced crystallographic root systems with distinguished base: matrix-based construction of `sl₂` triples (h, e, f) satisfying Cartan matrix relations, trace-free representation, irreducibility of defining representation, and semisimplicity via trivial radical proof, providing one of three standard approaches avoiding sign ambiguities in direct bracket constructions
 
 ## Search Tags
 
