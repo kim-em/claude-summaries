@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/GroupTheory/Perm
-generated: 2026-01-24T23:15:00Z
+generated: 2026-01-24T23:35:00Z
 git_sha: 542a7d7979ad5f45d2a89008412e565c8fa001d2
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 15
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-The `Perm/` directory contains the formalization of permutation groups (symmetric groups) and their properties. Core topics include permutation support (the set of elements moved by a permutation), disjointness of permutations, swap operations, sign/parity of permutations, cycles and cycle types, permutations of finite types (especially `Fin n`), permutations constructed from lists, and the algebraic structure of centralizers and maximal subgroups. The directory provides both the theoretical foundations for symmetric groups and computational machinery for working with specific permutations.
+The `Perm/` directory provides a comprehensive formalization of permutation groups (symmetric groups) and their properties, serving as a central component of Mathlib's group theory library. The directory spans from foundational concepts (permutation support, disjointness, swap operations) through advanced theory (cycle decomposition, cycle types, conjugacy classification) to specialized applications (permutations of `Fin n`, maximal subgroups, centralizers). At the core are 15 files covering support theory, sign/parity homomorphisms, finite permutations, list-based constructions, and group-theoretic structure. The `Cycle/` subdirectory contains the deep cycle theory, including the complete cycle decomposition theorem, cycle types as conjugacy invariants, and applications like Cauchy's theorem. Together, these provide both abstract theoretical foundations (conjugacy via cycle types, O'Nan-Scott classification fragments) and concrete computational machinery (converting between permutations and cycle notation, computing signs and orders).
 
 ## Key Files
 
