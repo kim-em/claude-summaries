@@ -16,3 +16,4 @@
 - `Mathlib/InformationTheory/` - Claude error: Credit balance is too low  (skipped 2026-01-24T07:19:00Z)
 - `Mathlib/Lean/` - Claude error: Credit balance is too low  (skipped 2026-01-24T07:19:05Z)
 - `Mathlib/LinearAlgebra/` - Claude error: Credit balance is too low  (skipped 2026-01-24T07:19:10Z)
+- `Mathlib/Logic/` - Claude error: Credit balance is too low  (skipped 2026-01-24T07:19:15Z)
