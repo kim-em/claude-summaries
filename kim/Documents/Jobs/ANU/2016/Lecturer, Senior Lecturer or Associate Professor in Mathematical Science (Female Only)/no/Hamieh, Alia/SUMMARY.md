@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/Lecturer, Senior Lecturer or Associate Professor in Mathematical Science (Female Only)/no/Hamieh, Alia
-generated: 2026-01-24T20:15:00Z
+generated: 2026-01-24T20:31:00Z
 git_sha: fafb26e72fe7b535873cd5b8a8f359b75df7fe29
 git_branch: master
-status: preliminary
+status: complete
 files_count: 8
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Application materials for Dr. Alia Hamieh, a number theorist specializing in analytic and algebraic number theory, automorphic forms, and special values of L-functions. At the time of application, she was a PIMS Postdoctoral Fellow at University of Lethbridge (Canada) with previous postdoc experience at Queen's University. Her PhD was from University of British Columbia (2013) under Vinayak Vatsal. The application includes 7 reference letters from leading mathematicians and comprehensive documentation of research and teaching experience. Note: Candidate did not have rights to work in Australia and could start August 2017.
+Application materials for Dr. Alia Hamieh, a number theorist specializing in analytic and algebraic number theory, automorphic forms, and special values of L-functions. At the time of application, she was a PIMS Postdoctoral Fellow at University of Lethbridge (Canada) with previous postdoc experience at Queen's University. Her PhD was from University of British Columbia (2013) under Vinayak Vatsal. The application includes 7 reference letters from leading mathematicians, comprehensive documentation of research and teaching experience, and one published paper from her PhD work on special values of anticyclotomic L-functions in Hilbert modular settings. Her research generalizes Vatsal's work on Rankin-Selberg L-functions from elliptic curves to totally real fields. Note: Candidate did not have rights to work in Australia and could start August 2017.
 
 ## Key Files
 
@@ -29,7 +29,7 @@ Application materials for Dr. Alia Hamieh, a number theorist specializing in ana
 
 ## Subdirectories
 
-- [x] `papers/` - Contains one published paper: "Special values of anticyclotomic L-functions modulo lambda" (Manuscripta Math. 2014)
+- [x] `papers/` - Contains Hamieh's 2014 Manuscripta Mathematica paper generalizing Vatsal's results on special values of Rankin-Selberg L-functions from elliptic curves to cuspidal Hilbert modular newforms over totally real fields in anticyclotomic Zp-extensions
 
 ## Search Tags
 
