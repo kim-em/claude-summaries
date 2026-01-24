@@ -37,7 +37,7 @@ Application materials for 18 candidates in the "maybe" category requiring furthe
 - [x] `Saez Trumper, Mariel/` - Application with 4 reference letters and papers subdirectory
 - [x] `Shah, Hemangi/` - Application with 2 reference letters (no papers subdirectory)
 - [x] `Shi, Yang/` - Application with 4 reference letters and papers subdirectory
-- [ ] `Zhu, Houying/` - Application with papers subdirectory (no reference letters)
+- [~] `Zhu, Houying/` - Application with papers subdirectory (no reference letters)
 
 ## Search Tags
 
