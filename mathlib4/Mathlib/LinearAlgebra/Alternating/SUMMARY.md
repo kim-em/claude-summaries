@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/LinearAlgebra/Alternating
-generated: 2026-01-25T08:15:00Z
+generated: 2026-01-25T09:45:00Z
 git_sha: 542a7d7979ad5f45d2a89008412e565c8fa001d2
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 3
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-The `Alternating/` directory provides the theory of alternating multilinear maps - multilinear maps that vanish when two arguments are equal and change sign when two arguments are swapped. The core type `AlternatingMap R M N ι` represents R-linear alternating maps from `ι → M` to `N`, extending the multilinear map framework with alternating properties. The directory includes basic structural theory, currying operations for splitting off the first variable, and the exterior product construction (domCoprod) that combines two alternating maps into a tensor product via signed sums over permutation equivalence classes.
+The `Alternating/` directory provides a comprehensive theory of alternating multilinear maps - multilinear maps that vanish when two arguments are equal and change sign when two arguments are swapped. The core type `AlternatingMap R M N ι` represents R-linear alternating maps from `ι → M` to `N`, extending the multilinear map framework with alternating properties. The directory includes basic structural theory (definition, algebraic structures, permutation properties), currying/uncurrying operations that decompose alternating maps into iterated linear maps (essential for constructing the exterior derivative), and the exterior product construction (domCoprod) that combines two alternating maps into a tensor product. The uncurrying operations provide the inverse construction to currying with a round-trip formula showing they are inverse up to scaling, and the interaction between uncurrying and symmetric bilinear maps establishes that the second exterior derivative vanishes - a fundamental property for differential forms.
 
 ## Key Files
 
