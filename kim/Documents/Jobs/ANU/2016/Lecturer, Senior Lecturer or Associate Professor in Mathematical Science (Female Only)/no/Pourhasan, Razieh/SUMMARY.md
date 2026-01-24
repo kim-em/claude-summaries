@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/Lecturer, Senior Lecturer or Associate Professor in Mathematical Science (Female Only)/no/Pourhasan, Razieh
-generated: 2026-01-25T08:30:00Z
+generated: 2026-01-25T08:40:00Z
 git_sha: fafb26e72fe7b535873cd5b8a8f359b75df7fe29
 git_branch: master
-status: preliminary
+status: complete
 files_count: 7
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Application materials for Dr. Razieh Pourhasan, postdoctoral fellow at University of Iceland (2014-2017), applying for ANU's 2016 female-only mathematical sciences faculty search. PhD in Theoretical Physics from University of Waterloo/Perimeter Institute (2014) specializing in string theory, holography, and gauge/gravity duality. Research spans holographic cosmology, entanglement entropy, condensed matter applications via AdS/CFT, and out-of-equilibrium systems. Notable for Scientific American cover article (August 2014) on holographic Big Bang theory. Six years high school physics teaching experience in Iran; extensive TA experience at Waterloo. No Australian work rights.
+Application materials for Dr. Razieh Pourhasan, postdoctoral fellow at University of Iceland (2014-2017), applying for ANU's 2016 female-only mathematical sciences faculty search. PhD in Theoretical Physics from University of Waterloo/Perimeter Institute (2014) specializing in string theory, holography, and gauge/gravity duality. Research spans holographic cosmology, entanglement entropy, condensed matter applications via AdS/CFT (including heavy fermion metals modeled using Einstein-Gauss-Bonnet gravity with Lifshitz scaling), and out-of-equilibrium systems. Notable for Scientific American cover article (August 2014) on holographic Big Bang theory. Four referees: Thorlacius (current supervisor Iceland), Myers (PhD supervisor Perimeter), Mann (PhD supervisor Waterloo), and Giangreco Puletti (Iceland colleague). Six years high school physics teaching experience in Iran; extensive TA experience at Waterloo. On maternity leave Jun-Nov 2016. No Australian work rights; expected start date SEP 2017.
 
 ## Key Files
 
