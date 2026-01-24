@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/GroupTheory/GroupAction
-generated: 2026-01-24T22:58:00Z
+generated: 2026-01-24T23:29:00Z
 git_sha: 542a7d7979ad5f45d2a89008412e565c8fa001d2
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 22
 subdirs_count: 2
 ---
@@ -12,7 +12,7 @@ subdirs_count: 2
 
 ## Overview
 
-The `GroupAction/` directory provides comprehensive formalization of group actions, including core definitions (orbits, stabilizers, fixed points), structural properties (transitivity, primitivity, multiple primitivity/transitivity), blocks and primitive actions, equivariant homomorphisms, quotient structures, and specialized constructions (conjugation actions, domain actions, sub-mul-actions). Notable advanced content includes Jordan's theorems on primitive permutation groups (Wielandt 1964), the orbit-stabilizer theorem, Burnside's lemma, and the class formula. The directory combines foundational action theory with sophisticated results from permutation group theory.
+The `GroupAction/` directory provides comprehensive formalization of group actions spanning foundational definitions through sophisticated permutation group theory. Core content includes basic theory (orbits, stabilizers, fixed points in `Defs.lean` and `Basic.lean`), structural properties (transitivity, primitivity, multiple primitivity/transitivity), block systems for primitive actions, equivariant homomorphisms, quotient structures (orbit-stabilizer theorem, Burnside's lemma, class formula), and specialized constructions. Notable advanced results include Jordan's theorems on primitive permutation groups (Wielandt 1964) and Iwasawa's lemma. The directory contains two specialized subdirectories: `DomAct/` for domain actions (right actions on functions induced by left actions on domains), and `SubMulAction/` for invariant subset theory (stabilizer actions, fixing subgroup actions, closures, combinations, and pointwise operations).
 
 ## Key Files
 
@@ -43,8 +43,8 @@ The `GroupAction/` directory provides comprehensive formalization of group actio
 
 ## Subdirectories
 
-- [x] `DomAct/` - Domain actions (specialized action type)
-- [x] `SubMulAction/` - Sub-mul-action theory: closure, combinations, fixing subgroups, stabilizers, pointwise operations
+- [x] `DomAct/` - Domain actions: right actions on functions/homomorphisms induced by left actions on domains, implemented via `DomMulAct M` type synonym (`Mᵈᵐᵃ` notation), with instances for plain functions, monoid/additive homomorphisms, and equivariant maps
+- [x] `SubMulAction/` - Sub-mul-action theory: stabilizer and fixing subgroup actions on complements, closure operations and finitely generated SubMulActions, combinations (n-element subsets with group actions), pointwise monoid structures, extensive equivariant map machinery
 
 ## Search Tags
 
