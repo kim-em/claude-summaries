@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/FieldTheory/Differential
-generated: 2026-01-24T23:45:00Z
+generated: 2026-01-24T23:55:00Z
 git_sha: 073b1c781e4870a435fcc3a04440176ab0c8af88
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 2
 subdirs_count: 0
 ---
