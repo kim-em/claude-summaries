@@ -39,7 +39,7 @@ No files directly in this folder - all materials are organized in candidate subd
 - [x] `O.Donnol, Danielle/` - Visiting Assistant Professor at Indiana University; PhD UCLA 2008; research in knot theory, spatial graphs, Legendrian graphs, Floer homology, DNA topology; NSF funding $144,577; 6 reference letters (Orr, Harvey, Buck, Etnyre, McKinley, Flapan); papers subdirectory; no Australian work rights
 - [x] `Pourhasan, Razieh/` - Postdoctoral fellow at University of Iceland specializing in theoretical physics/string theory; PhD Waterloo/Perimeter 2014; research on holography, AdS/CFT, entanglement entropy, holographic cosmology; Scientific American cover article 2014; no Australian work rights
 - [x] `Rupam, Rishika/` - CEMPI postdoc at Lille 1; PhD Texas A&M 2015 under Poltoratski; research on complex analysis, meromorphic inner functions, Krein-de Branges theory, spectral problems; 5 reference letters; no Australian work rights
-- [ ] `Salmeron, Raquel/` - Application materials with reference letters
+- [x] `Salmeron, Raquel/` - Australian citizen and former ANU employee (2006-2015); PhD Physics; mathematical modeling of magnetohydrodynamics; Network Performance & Analysis Manager at Airservices Australia (2015-present); 16 publications with 349 citations; $580k+ research funding; comprehensive 26-page application with CV, selection criteria, teaching/research statements, and 3 reference letters
 - [ ] `Saorin Gomez, Eugenia/` - Application materials with reference letters
 - [ ] `Seelinger, Nora/` - Application materials with reference letters
 - [ ] `Snow, Kate/` - Application materials with reference letters
