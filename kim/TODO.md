@@ -43,3 +43,4 @@ This file tracks files that couldn't be processed with standard tools and need s
 - `Documents/Jobs/ANU/2016/Analysis3/Essays/cheater/case/Complete/` - Claude error: PDF too large. Please double press esc to edit your message and try again.  (skipped 2025-12-08T06:45:37Z)
 - `Documents/Jobs/ANU/2016/Analysis3/Essays/cheater/case/Complete/` - Claude error: Limit reached · resets 10am (Australia/Sydney) · turn on /extra-usage  (skipped 2025-12-08T08:52:37Z)
 - `Documents/Jobs/ANU/2016/Lecturer,/` - Claude error: PDF too large. Try reading the file a different way (e.g., extract text with a CLI too... (skipped 2026-01-24T05:40:25Z)
+- `Documents/Jobs/ANU/2016/Lecturer,/` - Claude error: Prompt is too long  (skipped 2026-01-24T06:01:38Z)
