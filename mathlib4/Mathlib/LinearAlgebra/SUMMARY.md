@@ -64,7 +64,7 @@ The `LinearAlgebra/` directory contains mathlib4's comprehensive formalization o
 - [x] `Basis/` - Basis theory and constructions
 - [x] `BilinearForm/` - Bilinear forms on modules
 - [x] `Charpoly/` - Characteristic polynomials
-- [ ] `CliffordAlgebra/` - Clifford algebras from quadratic forms
+- [~] `CliffordAlgebra/` - Clifford algebras from quadratic forms
 - [ ] `Complex/` - Complex-specific linear algebra
 - [ ] `Dimension/` - Dimension theory for vector spaces
 - [ ] `DirectSum/` - Direct sum decompositions
