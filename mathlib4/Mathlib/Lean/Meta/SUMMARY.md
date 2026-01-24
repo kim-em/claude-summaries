@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Lean/Meta
-generated: 2026-01-25T05:30:00Z
+generated: 2026-01-25T10:00:00Z
 git_sha: 542a7d7979ad5f45d2a89008412e565c8fa001d2
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 6
 subdirs_count: 2
 ---
@@ -12,7 +12,7 @@ subdirs_count: 2
 
 ## Overview
 
-The `Mathlib/Lean/Meta/` directory provides advanced metaprogramming utilities for working with Lean's `MetaM` monad and meta-level operations. It contains extensions to core Lean functionality for congruence lemma generation, discrimination trees (both standard and refined), simplification support, subexpression matching, and rewriting. These tools support Mathlib's automation tactics and enable sophisticated expression indexing, unification, and transformation capabilities.
+The `Mathlib/Lean/Meta/` directory provides advanced metaprogramming utilities for working with Lean's `MetaM` monad and meta-level operations. It extends core Lean functionality with sophisticated tools for congruence lemma generation, expression indexing via discrimination trees, simplification support, subexpression matching, and rewriting. The directory includes a comprehensive implementation of the refined discrimination tree (a lazy expression indexing data structure with parallel initialization and unification-based matching) and high-level tactic utilities for expression rewriting. These tools form critical infrastructure for Mathlib's automation tactics, enabling efficient library search, pattern matching, and expression transformation.
 
 ## Key Files
 
@@ -27,8 +27,8 @@ The `Mathlib/Lean/Meta/` directory provides advanced metaprogramming utilities f
 
 ## Subdirectories
 
-- [x] `RefinedDiscrTree/` - Implementation details for refined discrimination tree (Basic, Encode, Initialize, Lookup)
-- [x] `Tactic/` - Tactic-level utilities for expression rewriting
+- [x] `RefinedDiscrTree/` - Complete lazy refined discrimination tree implementation with expression encoding, parallel tree initialization, and unification-based matching. Supports lambda/forall indexing, numbered metavariables, η-reduction, and scored results for library search
+- [x] `Tactic/` - High-level tactic utilities for expression rewriting in MetaM contexts, providing convenience wrappers around core Lean rewrite functionality
 
 ## Search Tags
 
