@@ -50,7 +50,7 @@ LaTeX-based lecture notes for the linear algebra component of MATH1014 (Mathemat
 - [x] `Lecture18/` - Discrete dynamical systems (matrix recurrence relations, predator-prey models, trajectory analysis)
 - [x] `Lecture19/` - Inner products and orthogonality in Euclidean spaces
 - [x] `Lecture20/` - Orthogonal and orthonormal sets, orthogonal bases, orthogonal matrices
-- [ ] `Lecture21/` - Linear algebra lecture content
+- [~] `Lecture21/` - Orthogonal projections onto subspaces
 - [ ] `Lecture22/` - Linear algebra lecture content
 - [ ] `Lecture23/` - Linear algebra lecture content
 - [ ] `Lecture24/` - Linear algebra lecture content
