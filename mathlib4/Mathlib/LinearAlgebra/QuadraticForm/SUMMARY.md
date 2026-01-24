@@ -31,7 +31,7 @@ The `QuadraticForm/` directory formalizes quadratic maps and quadratic forms on 
 
 ## Subdirectories
 
-- [ ] `QuadraticModuleCat/` - Categorical structures for quadratic modules
+- [x] `QuadraticModuleCat/` - Categorical structures for quadratic modules
 - [ ] `TensorProduct/` - Additional tensor product theory for quadratic forms
 
 ## Search Tags
