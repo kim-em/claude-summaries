@@ -49,7 +49,7 @@ LaTeX-based lecture notes for the linear algebra component of MATH1014 (Mathemat
 - [x] `Lecture17/` - Complex eigenvalues and eigenvectors (geometric interpretation as rotation and scaling)
 - [x] `Lecture18/` - Discrete dynamical systems (matrix recurrence relations, predator-prey models, trajectory analysis)
 - [x] `Lecture19/` - Inner products and orthogonality in Euclidean spaces
-- [ ] `Lecture20/` - Linear algebra lecture content
+- [~] `Lecture20/` - Orthogonal and orthonormal sets, orthogonal bases, orthogonal matrices
 - [ ] `Lecture21/` - Linear algebra lecture content
 - [ ] `Lecture22/` - Linear algebra lecture content
 - [ ] `Lecture23/` - Linear algebra lecture content
