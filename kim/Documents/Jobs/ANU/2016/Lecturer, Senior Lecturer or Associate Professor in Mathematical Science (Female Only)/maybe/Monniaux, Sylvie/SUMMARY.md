@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/Lecturer, Senior Lecturer or Associate Professor in Mathematical Science (Female Only)/maybe/Monniaux, Sylvie
-generated: 2026-01-24T00:00:00Z
-git_sha: a7e735b43b4e8b9d0515837be82e96fb41e377c1
+generated: 2026-01-24T06:40:50Z
+git_sha: 4a303882f378292f2fd905a5120a915b750f22dd
 git_branch: master
-status: preliminary
+status: complete
 files_count: 5
 subdirs_count: 1
 ---
@@ -12,7 +12,9 @@ subdirs_count: 1
 
 ## Overview
 
-Application materials for Sylvie Monniaux, an assistant professor (maître de conférences) at Université Aix-Marseille since 1998. She specializes in harmonic analysis, functional analysis, and partial differential equations, with expertise in semigroup theory, evolution equations, holomorphic functional calculus, and Navier-Stokes equations in non-smooth domains. PhD from Besançon (1995) under Wolfgang Arendt, habilitation in 2007. Notable for extensive international collaborations (France, Germany, USA, Australia, New Zealand), 28 MathSciNet publications, and an 8-month research visit to ANU in 2014-15. Four reference letters from distinguished mathematicians (Wolfgang Arendt, Thierry Coulhon, Steve Hofmann, Pascal Auscher).
+Application materials for Sylvie Monniaux, an assistant professor (maître de conférences) at Université Aix-Marseille since 1998. She specializes in harmonic analysis, functional analysis, and partial differential equations, with expertise in semigroup theory, evolution equations, holomorphic functional calculus, and Navier-Stokes equations in non-smooth domains. PhD from Besançon (1995) under Wolfgang Arendt, habilitation in 2007. Notable for extensive international collaborations (France, Germany, USA, Australia, New Zealand), 28 MathSciNet publications, and an 8-month research visit to ANU in 2014-15. Four reference letters from distinguished mathematicians (Wolfgang Arendt, Thierry Coulhon, Steve Hofmann, and Thierry Gallouet).
+
+The included papers (8 publications spanning 1997-2015) demonstrate her core research themes: bounded imaginary powers of operators, maximal L^p regularity for evolution equations, heat kernels, and Navier-Stokes/Stokes equations in Lipschitz domains. Collaborations with Marius Mitrea, Pascal Auscher, and others produced influential work on singular integrals in tent spaces and the Lame system in non-smooth domains.
 
 ## Key Files
 
