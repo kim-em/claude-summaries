@@ -50,7 +50,7 @@ The `Function/` directory contains the theory of measurable functions and their 
 - [x] `ConditionalExpectation/` - Conditional expectation with respect to sub-σ-algebras
 - [x] `L1Space/` - L¹ space of integrable functions
 - [x] `LpSeminorm/` - Seminorms on Lp spaces and their properties
-- [~] `LpSpace/` - Lp spaces for 1 ≤ p ≤ ∞
+- [x] `LpSpace/` - Lp spaces for 1 ≤ p ≤ ∞
 - [ ] `SpecialFunctions/` - Measure theory properties of special functions
 - [ ] `StronglyMeasurable/` - Strongly measurable functions and related concepts
 

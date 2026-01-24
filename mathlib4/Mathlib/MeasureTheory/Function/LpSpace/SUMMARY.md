@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/MeasureTheory/Function/LpSpace
-generated: 2026-01-25T22:45:00Z
+generated: 2026-01-25T23:20:00Z
 git_sha: 542a7d7979ad5f45d2a89008412e565c8fa001d2
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 5
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-The `LpSpace/` directory contains the core definitions and theory for Lp spaces in measure theory. Lp spaces consist of equivalence classes of measurable functions with finite eLpNorm. This includes the fundamental definition of the Lp space as an additive subgroup of almost everywhere equal functions, completeness results showing Lp is a complete metric space for 1 ≤ p, the embedding of bounded continuous functions into Lp for finite measures, continuity results for composition with measure-preserving maps, indicator functions of sets as Lp elements, and the action of domain multiplication groups on Lp spaces.
+The `LpSpace/` directory contains the core definitions and theory for Lp spaces in measure theory. Lp spaces consist of equivalence classes of measurable functions with finite eLpNorm. This includes the fundamental definition of the Lp space as an additive subgroup of almost everywhere equal functions, completeness results showing Lp is a complete metric space for 1 ≤ p, the embedding of bounded continuous functions into Lp for finite measures, continuity results for composition with measure-preserving maps, indicator functions of sets as Lp elements, and the action of domain multiplication groups on Lp spaces. The `DomAct/` subdirectory develops the theory of how the domain multiplication group acts on Lp spaces via measure-preserving transformations, establishing that this action preserves all algebraic and metric structure while remaining continuous under appropriate topological conditions.
 
 ## Key Files
 
