@@ -39,7 +39,7 @@ The `AffineSpace/` directory formalizes affine spaces and affine geometry in mat
 ## Subdirectories
 
 - [x] `AffineSubspace/` - Affine subspaces, affine span, and lattice structure
-- [ ] `Simplex/` - Simplices, standard simplices, and simplex-specific constructions
+- [x] `Simplex/` - Simplices, standard simplices, and simplex-specific constructions
 
 ## Search Tags
 
