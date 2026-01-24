@@ -30,7 +30,7 @@ Fifth year of ANU faculty employment (2016) documenting promotion to Associate P
 - [?] `Lecturer, Senior Lecturer or Associate Professor in Mathematical Science (Female Only)/` - Faculty position selection committee for female-only continuing position
 - [?] `MATH1014/` - First-year calculus course Semester 2 teaching materials co-taught with Griffith Ware
 - [?] `PDR/` - Performance Development Review documents
-- [ ] `RepresentationTheory/` - Special topics course on Representation Theory Semester 1 materials
+- [?] `RepresentationTheory/` - Special topics course on Representation Theory Semester 1 materials
 - [ ] `continuing-positions/` - Faculty continuing position selection committee work for multiple candidates
 - [ ] `honours/` - Honours student supervision records including Benjamin Thompson, Tejas Iyer, Florrie Verity, Victor Wang
 - [ ] `postdoc/` - Postdoctoral hiring committee work including applications and selection
