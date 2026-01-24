@@ -26,3 +26,4 @@
 - `Mathlib/RepresentationTheory/` - Claude error: Credit balance is too low  (skipped 2026-01-24T07:19:50Z)
 - `Mathlib/RingTheory/` - Claude error: Credit balance is too low  (skipped 2026-01-24T07:19:54Z)
 - `Mathlib/SetTheory/` - Claude error: Credit balance is too low  (skipped 2026-01-24T07:19:59Z)
+- `Mathlib/Std/` - Claude error: Credit balance is too low  (skipped 2026-01-24T07:20:04Z)
