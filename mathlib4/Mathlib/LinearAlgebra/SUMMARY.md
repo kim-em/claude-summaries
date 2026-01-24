@@ -69,7 +69,7 @@ The `LinearAlgebra/` directory contains mathlib4's comprehensive formalization o
 - [x] `Dimension/` - Dimension theory for vector spaces
 - [x] `DirectSum/` - Direct sum decompositions
 - [x] `Dual/` - Dual spaces and double duals
-- [ ] `Eigenspace/` - Eigenspaces and eigenvalues
+- [x] `Eigenspace/` - Eigenspaces and eigenvalues
 - [ ] `ExteriorAlgebra/` - Exterior algebras
 - [ ] `ExteriorPower/` - Exterior powers
 - [ ] `FiniteDimensional/` - Finite-dimensional vector spaces
