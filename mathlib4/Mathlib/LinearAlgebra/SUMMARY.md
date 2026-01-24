@@ -88,7 +88,7 @@ The `LinearAlgebra/` directory contains mathlib4's comprehensive formalization o
 - [x] `RootSystem/` - Root systems and Lie theory
 - [x] `SModEq/` - Scalar modular equivalence (subdirectory extension)
 - [x] `SesquilinearForm/` - Sesquilinear forms (subdirectory extension)
-- [ ] `Span/` - Span of sets in modules
+- [x] `Span/` - Span of sets in modules
 - [ ] `SymmetricAlgebra/` - Symmetric algebras
 - [ ] `TensorAlgebra/` - Tensor algebras
 - [ ] `TensorPower/` - Tensor powers
