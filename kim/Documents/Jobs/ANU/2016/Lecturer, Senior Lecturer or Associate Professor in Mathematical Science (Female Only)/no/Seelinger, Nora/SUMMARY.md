@@ -25,7 +25,7 @@ Application materials for Dr. Nora Seelinger, a candidate for the 2016 ANU femal
 
 ## Subdirectories
 
-- [ ] `papers/` - Published papers (2 PDFs on loop homology and Dickson invariants)
+- [?] `papers/` - Published papers (2 PDFs on loop homology and Dickson invariants)
 
 ## Search Tags
 
