@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Deprecated
-generated: 2025-01-24T10:30:00Z
+generated: 2025-01-24T22:45:00Z
 git_sha: 073b1c781e4870a435fcc3a04440176ab0c8af88
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 5
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-The `Deprecated/` folder contains definitions and theorems that have been deprecated from the main Mathlib library but are maintained for backward compatibility during transition periods. Each file contains aliases, shims, or entire deprecated modules with explicit `@[deprecated]` attributes indicating when they were deprecated and what (if anything) replaces them. These items were typically used in removed features (like the `rw_search` tactic) or superseded by better alternatives (like `List.Sorted` being replaced by `List.Pairwise`).
+The `Deprecated/` folder serves as Mathlib's backward compatibility layer, containing definitions and theorems that have been superseded but are maintained during transition periods. The folder houses two categories of deprecated content: (1) standalone items like the `Estimator` typeclass for lazy bound computation and the `List.Sorted` alias for `List.Pairwise`, and (2) module shims that re-export imports for files that have been reorganized. The most substantial deprecated content relates to the removed `rw_search` tactic—both the `Estimator` typeclass (for computing improvable lower bounds on lazy `Thunk` values) and the `MLList/BestFirst.lean` search algorithm (priority queue with lazy estimate refinement) were purpose-built for that tactic's expensive edit-distance computations. All items carry explicit `@[deprecated]` attributes with dates and replacement guidance.
 
 ## Key Files
 
@@ -26,8 +26,8 @@ The `Deprecated/` folder contains definitions and theorems that have been deprec
 
 ## Subdirectories
 
-- [x] `MLList/` - Deprecated lazy list search algorithms including best-first search with priority estimation
+- [x] `MLList/` - Deprecated lazy list search algorithms including best-first search with priority estimation, beam search via `maxQueued`, and duplicate detection; built for `rw_search` tactic's edit-distance computations (deprecated 2025-09-11)
 
 ## Search Tags
 
-deprecated compatibility backward-compat aliases estimator bounds thunk sorted pairwise list rw_search tactic removed legacy mathlib4
+deprecated compatibility backward-compat aliases estimator bounds thunk sorted pairwise list rw_search tactic removed legacy mathlib4 best-first-search priority-queue beam-search mllist lazy-list
