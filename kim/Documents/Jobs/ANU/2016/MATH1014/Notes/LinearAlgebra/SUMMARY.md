@@ -44,7 +44,7 @@ LaTeX-based lecture notes for the linear algebra component of MATH1014 (Mathemat
 - [x] `Lecture12/` - Characteristic equation, finding eigenvalues, similarity transformations, dynamical systems
 - [x] `Lecture13/` - Mid-semester examination review covering problems from the 2013 exam
 - [x] `Lecture14/` - Matrix diagonalization (similarity, factorization A=PDP^(-1), computing matrix powers)
-- [ ] `Lecture15/` - Linear algebra lecture content
+- [x] `Lecture15/` - The Diagonalization Theorem with worked examples, eigenspace dimensions and multiplicities
 - [ ] `Lecture16/` - Linear algebra lecture content
 - [ ] `Lecture17/` - Linear algebra lecture content
 - [ ] `Lecture18/` - Linear algebra lecture content
