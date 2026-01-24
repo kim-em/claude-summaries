@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/MATH1014/Exams
-generated: 2026-01-25T12:00:00Z
+generated: 2026-01-25T13:30:00Z
 git_sha: fafb26e72fe7b535873cd5b8a8f359b75df7fe29
 git_branch: master
-status: preliminary
+status: complete
 files_count: 24
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Mid-semester and final examination materials for MATH1014 Semester 2 2016, covering both linear algebra and calculus components. Contains exam papers (2016 versions plus reference 2015 papers), LaTeX source files, solutions, student information sheets, grade tracking spreadsheets, administrative documents for special consideration and deferred exams, and Mathematica notebooks for grade analysis. Includes detailed records of students requiring deferred exams or special consideration, with tracking of approximately 8-15 students needing alternative exam arrangements for both mid-semester and final exams.
+Comprehensive examination materials for MATH1014 Semester 2 2016, encompassing both mid-semester and final exams for the course's dual linear algebra and calculus components. Contains complete exam lifecycle documentation: original exam papers with LaTeX sources, student information/study guide sheets, solutions, grade tracking spreadsheets, and statistical analysis via Mathematica notebooks. Substantial administrative records document the complexity of managing a large first-year course (~400 students), including special consideration cases and deferred exam arrangements for approximately 8-15 students across both exam periods. The deferred-midsemester-exams subdirectory preserves scanned submissions from six students who took alternative mid-semester exam arrangements, demonstrating the careful record-keeping required for students receiving accommodations.
 
 ## Key Files
 
