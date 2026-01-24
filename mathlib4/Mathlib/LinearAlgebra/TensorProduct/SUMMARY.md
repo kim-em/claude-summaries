@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/LinearAlgebra/TensorProduct
-generated: 2026-01-25T23:00:00Z
+generated: 2026-01-25T23:15:00Z
 git_sha: 542a7d7979ad5f45d2a89008412e565c8fa001d2
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 16
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-The `TensorProduct/` directory contains mathlib4's comprehensive formalization of tensor products of modules and algebras over commutative semirings. Core functionality includes the fundamental construction `M ⊗[R] N` via quotient of free additive monoid with bilinearity relations, universal property (lift, curry/uncurry), structural isomorphisms (associator, left/right identity, commutativity), and basis theory showing tensor products of free modules are free. The directory covers both abstract theory (right-exactness properties, interaction with quotients and direct limits, vanishing criteria) and concrete constructions (products, pi-types, submodules/subalgebras), plus specialized topics including tower structures for algebra extensions, graded tensor products with signed commutativity, and finiteness results for finite generation preservation.
+The `TensorProduct/` directory contains mathlib4's comprehensive formalization of tensor products of modules and algebras over commutative semirings. The fundamental construction defines `M ⊗[R] N` as a quotient of the free additive monoid by bilinearity relations, equipped with the universal property enabling bilinear map lifting and curry/uncurry transformations. Core structural results include associativity, left/right identity, and commutativity isomorphisms, plus basis theory proving tensor products of free modules are free with explicit basis construction from component bases. The directory establishes key categorical properties including right-exactness (preservation of surjectivity and short exact sequences), commutation with direct limits and quotients, and distribution over products and pi-types. Specialized constructions support algebra theory through tower structures for base change and algebra extensions, vanishing criteria characterizing zero tensors via linear dependence witnesses, finiteness preservation showing finite generation passes through tensor products, and interaction with submodules/subalgebras via natural multiplication maps. The Graded/ subdirectory extends the theory to graded tensor products with signed commutativity `(a ⊗ b)(a' ⊗ b') = (-1)^{deg a' deg b} (aa') ⊗ (bb')`, essential for super-algebras and graded commutative algebra, complete with universal property for anticommuting graded algebra morphisms.
 
 ## Key Files
 
@@ -36,7 +36,7 @@ The `TensorProduct/` directory contains mathlib4's comprehensive formalization o
 
 ## Subdirectories
 
-- [x] `Graded/` - Graded tensor products with signed commutativity
+- [x] `Graded/` - Graded tensor products with signed commutativity for super-algebras and graded commutative algebra, featuring braiding operator and universal property for anticommuting morphisms
 
 ## Search Tags
 
