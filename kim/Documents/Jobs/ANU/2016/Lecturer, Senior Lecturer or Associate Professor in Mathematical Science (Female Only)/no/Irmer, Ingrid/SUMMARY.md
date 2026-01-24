@@ -22,7 +22,7 @@ Application materials for Dr. Ingrid Irmer, a mathematical researcher specializi
 
 ## Subdirectories
 
-- [ ] `papers/` - Contains one published paper on the Chillingworth class from Algebraic & Geometric Topology (2015)
+- [x] `papers/` - Contains one published paper on the Chillingworth class from Algebraic & Geometric Topology (2015)
 
 ## Search Tags
 
