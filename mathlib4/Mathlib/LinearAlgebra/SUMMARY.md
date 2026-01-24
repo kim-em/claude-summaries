@@ -77,7 +77,7 @@ The `LinearAlgebra/` directory contains mathlib4's comprehensive formalization o
 - [x] `FreeModule/` - Free modules and rank
 - [x] `FreeProduct/` - Free products of modules
 - [x] `GeneralLinearGroup/` - General linear groups
-- [ ] `LinearIndependent/` - Linear independence
+- [x] `LinearIndependent/` - Linear independence
 - [ ] `Matrix/` - Matrix theory and operations
 - [ ] `Multilinear/` - Multilinear maps
 - [ ] `PerfectPairing/` - Perfect pairings and duality
