@@ -74,7 +74,7 @@ The `LinearAlgebra/` directory contains mathlib4's comprehensive formalization o
 - [x] `ExteriorPower/` - Exterior powers
 - [x] `FiniteDimensional/` - Finite-dimensional vector spaces
 - [x] `Finsupp/` - Finitely supported functions
-- [~] `FreeModule/` - Free modules and rank
+- [x] `FreeModule/` - Free modules and rank
 - [ ] `FreeProduct/` - Free products of modules
 - [ ] `GeneralLinearGroup/` - General linear groups
 - [ ] `LinearIndependent/` - Linear independence

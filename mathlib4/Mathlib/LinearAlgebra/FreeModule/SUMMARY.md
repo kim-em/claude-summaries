@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/LinearAlgebra/FreeModule
-generated: 2026-01-24T14:57:07Z
+generated: 2026-01-25T23:52:30Z
 git_sha: 542a7d7979ad5f45d2a89008412e565c8fa001d2
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 8
 subdirs_count: 1
 ---
@@ -12,7 +12,11 @@ subdirs_count: 1
 
 ## Overview
 
-The `FreeModule/` directory formalizes the theory of free modules over rings and principal ideal domains (PIDs). Core theory includes the definition of free modules (modules admitting a basis), construction of canonical bases via the axiom of choice, and the universal property relating functions from basis elements to linear maps. For PIDs, the directory establishes that submodules of finite-rank free modules are themselves free and finite-rank, culminating in Smith normal form decompositions. Specialized results include quotient module structures over ℤ (showing G/nG has cardinality n^d for rank d free ℤ-modules), index computations for subgroups, determinant theory in free finite modules, ideal quotient decompositions as products of cyclic modules, norm-based characterizations via Smith coefficients, and the strong rank condition for commutative rings (ensuring invariant basis number).
+The `FreeModule/` directory formalizes the theory of free modules over rings and principal ideal domains (PIDs), establishing foundational properties and structural decomposition theorems. Core theory begins with the definition of free modules (modules admitting a basis) and construction of canonical bases via the axiom of choice, together with the universal property relating functions from basis elements to linear maps. For PIDs, the directory proves the fundamental structure theorem: submodules of finite-rank free modules are themselves free and finite-rank, with Smith normal form providing explicit diagonal basis representations.
+
+The Finite/ subdirectory specializes to finite-rank free modules, establishing that fintype-indexed bases yield finite modules and that finite free modules have fintype basis indices. For PIDs, quotient decompositions express M⧸N as products of cyclic modules R⧸⟨aᵢ⟩ using Smith coefficients. Integer modules receive detailed treatment: quotient cardinalities are computed via determinants of basis change matrices, subgroup indices relate to Smith coefficients, and G/nG has cardinality n^rank for finite free ℤ-modules. The directory further proves that linear map spaces (M →ₗ N) are free/finite when M and N are, with explicit rank formulas.
+
+Additional specialized results include ideal quotient decompositions, norm characterizations via Smith coefficients for polynomial algebras, and the strong rank condition for commutative rings (ensuring invariant basis number). Determinant theory for free finite modules establishes that zero endomorphisms have zero determinant in nontrivial settings.
 
 ## Key Files
 
@@ -29,7 +33,7 @@ The `FreeModule/` directory formalizes the theory of free modules over rings and
 
 ## Subdirectories
 
-- [x] `Finite/` - Finite-rank free modules
+- [x] `Finite/` - Finite-rank free modules: fintype basis indices, quotient decompositions via Smith normal form, cardinality formulas via determinants, linear map module structures with rank formulas
 
 ## Search Tags
 
