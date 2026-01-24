@@ -42,7 +42,7 @@ Mathlib4 is the main mathematical library for the Lean 4 theorem prover, maintai
 - [?] `DownstreamTest/` - Tests for downstream package compatibility
 - [?] `docs/` - Additional documentation in the form of module docstrings
 - [?] `scripts/` - Utility scripts for linting, code generation, and project maintenance
-- [ ] `widget/` - ProofWidgets integration and UI components
+- [?] `widget/` - ProofWidgets integration and UI components
 
 ## Search Tags
 
