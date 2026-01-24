@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/Lecturer, Senior Lecturer or Associate Professor in Mathematical Science (Female Only)/maybe/Robins, Vanessa
-generated: 2026-01-24T12:00:00Z
+generated: 2026-01-24T13:30:00Z
 git_sha: 4a303882f378292f2fd905a5120a915b750f22dd
 git_branch: master
-status: preliminary
+status: complete
 files_count: 7
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Application materials for Dr Vanessa Robins, an ARC Future Fellow in Applied Mathematics at ANU, applying for a Senior Lecturer position at MSI. Her research focuses on computational topology (persistent homology, topological data analysis) and topological crystallography (periodic networks, graph embeddings in surfaces). She has a PhD from University of Colorado Boulder (2000) and BSc(Hons) with University Medal from ANU (1994). The folder contains her complete application with cover letter, CV, research/teaching statement, plus 5 reference letters from prominent mathematicians (Bradley, Edelsbrunner, Meiss, Mischaikow, Hyde).
+Application materials for Dr Vanessa Robins, an ARC Future Fellow in Applied Mathematics at ANU, applying for a Senior Lecturer position at MSI. Her research bridges computational topology and materials science, with foundational contributions to computing topological properties from finite point-set data and applications to periodic minimal surfaces and crystallographic networks. She has a PhD from University of Colorado Boulder (2000) and BSc(Hons) with University Medal from ANU (1994). The folder contains her complete application with cover letter, CV, research/teaching statement, 5 reference letters from prominent mathematicians (Bradley, Edelsbrunner, Meiss, Mischaikow, Hyde), and three selected publications spanning 1998-2004 that showcase her core contributions to computational topology and its applications to dynamical systems and materials science.
 
 ## Key Files
 
