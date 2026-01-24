@@ -30,7 +30,7 @@ No files directly in this folder - all materials are organized in candidate subd
 - [x] `Grigorova, Miryana/` - Application materials for postdoc from Germany specializing in probability theory, stochastic analysis, and mathematical finance; PhD Paris-Diderot 2013 on Choquet integration and risk measures; 2 strong reference letters (Föllmer, Quenez)
 - [x] `Hamieh, Alia/` - Application materials with 7 reference letters (Akbary-Majdabadno, Khuri-Makdisi, Ng, Taylor, Siksek, Fitzpatrick, Vatsal) plus papers subdirectory; PIMS postdoc at Lethbridge; PhD UBC 2013 under Vatsal; research on analytic/algebraic number theory, automorphic forms, L-functions
 - [x] `Irmer, Ingrid/` - Application materials for mathematician specializing in low-dimensional topology; PhD Bonn 2010; at Melbourne 2016; includes research/teaching statements and published paper
-- [ ] `Jhorar, Bablesh/` - Application materials with reference letters
+- [x] `Jhorar, Bablesh/` - Application materials for Assistant Professor at CDLU Sirsa; PhD thesis submitted 2016 on polynomials in valued fields under Khanduja; 6 publications in algebra/number theory; no Australian work rights
 - [ ] `Jiang, Jiaojiao/` - Application materials (minimal documentation)
 - [ ] `Leitner, Arielle/` - Application materials with reference letters
 - [ ] `Liang, Xuan/` - Application materials with reference letters
