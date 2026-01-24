@@ -47,7 +47,7 @@ The `Function/` directory contains the theory of measurable functions and their 
 ## Subdirectories
 
 - [x] `AEEqFun/` - Additional theory for almost everywhere equal functions
-- [ ] `ConditionalExpectation/` - Conditional expectation with respect to sub-σ-algebras
+- [x] `ConditionalExpectation/` - Conditional expectation with respect to sub-σ-algebras
 - [ ] `L1Space/` - L¹ space of integrable functions
 - [ ] `LpSeminorm/` - Seminorms on Lp spaces and their properties
 - [ ] `LpSpace/` - Lp spaces for 1 ≤ p ≤ ∞
