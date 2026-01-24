@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/Lecturer, Senior Lecturer or Associate Professor in Mathematical Science (Female Only)/maybe/Massierer, Maike
-generated: 2026-01-24T00:00:00Z
+generated: 2026-01-24T06:45:00Z
 git_sha: 4a303882f378292f2fd905a5120a915b750f22dd
 git_branch: master
-status: preliminary
+status: complete
 files_count: 5
 subdirs_count: 1
 ---
