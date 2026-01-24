@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/MeasureTheory/Order
-generated: 2026-01-25T22:15:00Z
+generated: 2026-01-25T22:45:00Z
 git_sha: 542a7d7979ad5f45d2a89008412e565c8fa001d2
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 2
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-The `Order/` directory provides measure-theoretic results for ordered structures, combining order theory with measurability. It defines typeclasses for measurability of lattice operations (supremum and infimum), proves that order-connected sets in ℝⁿ have null frontiers (and are thus null-measurable), and extends these results to groups with lattice structure. The core contributions include the `MeasurableSup` and `MeasurableInf` typeclass hierarchies with dot-style lemmas, and the surprising result that any order-connected set in finite-dimensional Euclidean space is null-measurable despite not generally being Borel measurable.
+The `Order/` directory provides measure-theoretic results for ordered structures, combining order theory with measurability. It defines typeclasses for measurability of lattice operations (supremum and infimum), proves that order-connected sets in ℝⁿ have null frontiers (and are thus null-measurable), and extends these results to groups with lattice structure. The core contributions include the `MeasurableSup` and `MeasurableInf` typeclass hierarchies with dot-style lemmas, the surprising result that any order-connected set in finite-dimensional Euclidean space is null-measurable despite not generally being Borel measurable, and measurability results for group-specific lattice operations including positive/negative parts (oneLePart, leOnePart) and multiplicative absolute value (mabs). All results have both multiplicative and additive versions through the `@[to_additive]` attribute.
 
 ## Key Files
 
