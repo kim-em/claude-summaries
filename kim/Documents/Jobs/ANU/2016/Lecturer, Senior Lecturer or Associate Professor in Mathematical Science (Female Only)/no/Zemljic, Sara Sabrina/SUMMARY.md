@@ -28,7 +28,7 @@ Application materials for Sara Sabrina Zemljic, Slovenian mathematician and post
 
 ## Subdirectories
 
-- [ ] `papers/` - Two published papers: "Hamming dimension of a graph—the case of Sierpiński graphs" (European J. Combin. 2013) and "On disjoint hypercubes in Fibonacci cubes" (Discrete Appl. Math. 2015)
+- [x] `papers/` - Two published papers: "Hamming dimension of a graph—the case of Sierpiński graphs" (European J. Combin. 2013) and "On disjoint hypercubes in Fibonacci cubes" (Discrete Appl. Math. 2015)
 
 ## Search Tags
 
