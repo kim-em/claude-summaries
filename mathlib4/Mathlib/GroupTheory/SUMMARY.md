@@ -75,7 +75,7 @@ The `GroupTheory/` directory contains comprehensive formalization of group-theor
 - [x] `Perm/` - Permutation groups: cycles, cycle types, sign, specific permutations
 - [x] `QuotientGroup/` - Quotient groups by normal subgroups
 - [x] `SpecificGroups/` - Concrete groups: cyclic, dihedral, quaternion, alternating, symmetric
-- [ ] `Subgroup/` - Subgroup theory: basic operations, lattice structure, morphisms, products, normal subgroups
+- [x] `Subgroup/` - Subgroup theory: centers, centralizers, saturated subgroups, simple groups
 - [ ] `Submonoid/` - Submonoid theory (multiplicative substructures)
 - [ ] `Subsemigroup/` - Subsemigroup theory (basic substructures)
 
