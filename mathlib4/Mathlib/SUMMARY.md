@@ -36,7 +36,7 @@ The `Mathlib/` directory is the core of the mathlib4 library, containing the com
 - [x] `Deprecated/` - Deprecated definitions and theorems maintained for compatibility
 - [x] `Dynamics/` - Comprehensive dynamical systems theory: flows as continuous monoid actions, topological dynamics (minimal/transitive actions, fixed/periodic points, circle rotation numbers, topological entropy), ergodic theory (measure-preserving maps, conservative dynamics, Poincare recurrence, ergodic measures as extreme points, invariant functions, concrete examples on additive circle), Birkhoff sums and averages, and connections between minimal actions and ergodicity
 - [x] `FieldTheory/` - Field theory (extensions, Galois theory, algebraic closures)
-- [ ] `Geometry/` - Geometric structures and theory
+- [x] `Geometry/` - Comprehensive geometric formalization spanning Euclidean geometry (simplices, triangle congruence/similarity, angles, spheres, Ptolemy's theorem), convex geometry (algebraic cones and ordered modules), differential geometry (smooth manifolds, structure groupoids, diffeomorphisms, tangent bundles, Lie groups, Riemannian metrics, Whitney embedding), geometric group theory (group growth), and algebraic geometry foundations (ringed spaces, locally ringed spaces, gluing theory)
 - [ ] `GroupTheory/` - Group theory (subgroups, quotients, group actions, representations)
 - [ ] `InformationTheory/` - Information-theoretic concepts
 - [ ] `Lean/` - Lean-specific metaprogramming utilities and extensions
