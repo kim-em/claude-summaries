@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/LinearAlgebra/Dimension
-generated: 2026-01-25T23:45:00Z
+generated: 2026-01-25T23:47:00Z
 git_sha: 542a7d7979ad5f45d2a89008412e565c8fa001d2
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 14
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-The `Dimension/` subdirectory contains mathlib4's formalization of dimension theory for modules and vector spaces. Core definitions include `Module.rank` (cardinal-valued dimension as supremum of cardinalities of linearly independent subsets) and `Module.finrank` (natural-number-valued dimension for finite-dimensional spaces, 0 by convention for infinite-dimensional spaces). The directory establishes fundamental dimension theorems: rank-nullity theorem (`HasRankNullity` typeclass with instances for division rings and commutative domains), tower law for field extensions (rank_F(A) = rank_F(K) × rank_K(A)), dimension formulas for constructions (products, quotients, direct sums, tensor products, finsupp), and the Erdős-Kaplansky theorem (infinite-dimensional dual spaces have dimension equal to their cardinality). Files cover dimension theory under various ring conditions: strong rank condition (cardinality bounds for linearly independent sets vs spanning sets), invariant basis number (all bases have same cardinality), free modules (bases exist, dimension well-defined), division rings (full rank-nullity theorem), and commutative domains (rank-nullity via localization to fraction fields).
+The `Dimension/` subdirectory contains mathlib4's comprehensive formalization of dimension theory for modules and vector spaces, establishing a complete cardinal-valued dimension framework with connections to torsion theory. Core definitions include `Module.rank` (cardinal-valued dimension as supremum of cardinalities of linearly independent subsets) and `Module.finrank` (natural-number-valued dimension for finite-dimensional spaces, 0 by convention for infinite-dimensional spaces). The directory establishes fundamental dimension theorems: rank-nullity theorem (`HasRankNullity` typeclass with instances for division rings and commutative domains via localization), tower law for field extensions (rank_F(A) = rank_F(K) × rank_K(A)), dimension formulas for constructions (products, quotients, direct sums, tensor products, finsupp), and the Erdős-Kaplansky theorem (infinite-dimensional dual spaces have dimension equal to their cardinality). Files develop dimension theory stratified by ring properties: strong rank condition (cardinality bounds for linearly independent sets vs spanning sets), invariant basis number (all bases have same cardinality), free modules (bases exist, dimension well-defined), division rings (full rank-nullity theorem), and commutative domains (rank-nullity via localization to fraction fields). The Torsion subdirectory establishes that torsion submodules don't contribute to rank, characterizing zero-dimensional modules as precisely the torsion modules over integral domains.
 
 ## Key Files
 
@@ -35,7 +35,7 @@ The `Dimension/` subdirectory contains mathlib4's formalization of dimension the
 
 ## Subdirectories
 
-- [x] `Torsion/` - Dimension theory for torsion modules
+- [x] `Torsion/` - Dimension theory for torsion modules: rank preservation under torsion quotients and zero-rank characterization via torsion elements over integral domains
 
 ## Search Tags
 
