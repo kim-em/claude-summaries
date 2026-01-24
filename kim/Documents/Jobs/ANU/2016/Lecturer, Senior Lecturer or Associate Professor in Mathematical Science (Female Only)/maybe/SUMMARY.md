@@ -32,7 +32,7 @@ Application materials for 18 candidates in the "maybe" category requiring furthe
 - [x] `Nur Saglam, Kadriye/` - Application with 3 reference letters (no papers subdirectory)
 - [x] `Puskas, Anna/` - Application with 6 reference letters (no papers subdirectory)
 - [x] `Ramadurai, Reshma/` - Application with 5 additional PDFs and papers subdirectory
-- [ ] `Ray, Arunima/` - Application with 3 reference letters and papers subdirectory
+- [~] `Ray, Arunima/` - Application with 3 reference letters and papers subdirectory
 - [ ] `Robins, Vanessa/` - Application with 5 reference letters and papers subdirectory
 - [ ] `Saez Trumper, Mariel/` - Application with 4 reference letters and papers subdirectory
 - [ ] `Shah, Hemangi/` - Application with 2 reference letters (no papers subdirectory)
