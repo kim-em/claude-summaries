@@ -25,7 +25,7 @@ No files directly in this folder - all materials are organized in candidate subd
 - [x] `Burtscher, Annegret/` - Application materials with reference letters
 - [x] `Cheung, Yeuk-Kwan Edna/` - Application materials with reference letters
 - [x] `Corran, Ruth/` - Application materials with reference letters
-- [ ] `Dann, Susanna/` - Application materials with reference letters
+- [x] `Dann, Susanna/` - Application materials with 4 reference letters and papers subdirectory; postdoc at Missouri, Assistant Professor at Vienna; research on convex geometry and Busemann-Petty problem
 - [ ] `Ginges, Jacinda/` - Application materials with reference letters
 - [ ] `Grigorova, Miryana/` - Application materials with reference letters
 - [ ] `Hamieh, Alia/` - Application materials with 7 reference letters (Akbary-Majdabadno, Khuri-Makdisi, Ng, Taylor, Siksek, Fitzpatrick, Vatsal) plus papers subdirectory
