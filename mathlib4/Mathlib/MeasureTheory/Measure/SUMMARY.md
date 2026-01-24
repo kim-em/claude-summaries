@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/MeasureTheory/Measure
-generated: 2026-01-24T19:13:18Z
+generated: 2026-01-25T21:50:00Z
 git_sha: 542a7d7979ad5f45d2a89008412e565c8fa001d2
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 50
 subdirs_count: 4
 ---
@@ -12,7 +12,11 @@ subdirs_count: 4
 
 ## Overview
 
-The `Measure/` directory contains the core formalization of measures on measurable spaces in mathlib4. It defines the `Measure` structure as a countably additive outer measure on measurable sets, provides fundamental operations on measures (restriction, pushforward, density change), and develops the theory of special measure classes including finite measures, probability measures, the Hausdorff measure, and Stieltjes measures. The directory includes regularity properties (outer regular, weakly regular, inner regular measures), measure relationships (absolute continuity, mutual singularity), and topological aspects (weak convergence, Levy-Prokhorov metric, Portmanteau theorem). Key constructions include the Giry monad (making measures into a measurable space), the Radon-Nikodym theorem via the withDensity construction, and connections to integration theory via characteristic functions.
+The `Measure/` directory contains the complete formalization of measure theory in mathlib4, from foundational definitions to advanced specialized topics. At its core, it defines the `Measure` structure as a countably additive outer measure on measurable sets and the `MeasureSpace` typeclass providing a canonical `volume` measure. The directory encompasses fundamental operations (restriction, pushforward, density change via `withDensity`), measure relationships (absolute continuity, mutual singularity), and typeclass-based classifications (finite, σ-finite, s-finite, probability, atomless measures).
+
+Major theoretical developments include: the Lebesgue-Radon-Nikodym decomposition theorems (splitting measures into mutually singular and absolutely continuous parts with density functions), Haar measure theory for locally compact groups (existence, uniqueness, quotient measures, and disintegration), Lebesgue measure on ℝⁿ as a special case of Haar measure (with transformation formulas via determinants and explicit ball volume computations), and regularity theory (outer/inner approximation by open/closed/compact sets).
+
+The directory also formalizes specialized measures (Hausdorff, Stieltjes, Dirac, counting), topological measure theory (weak convergence, Levy-Prokhorov metric, Portmanteau theorem, Prokhorov's theorem, tightness), the Giry monad structure making measures themselves measurable, and connections to integration via characteristic functions. These components together provide the foundation for abstract integration theory, probability theory, harmonic analysis, and geometric measure theory throughout mathlib4.
 
 ## Key Files
 
@@ -71,10 +75,10 @@ The `Measure/` directory contains the core formalization of measures on measurab
 
 ## Subdirectories
 
-- [x] `Decomposition/` - Measure decomposition theorems (Lebesgue decomposition, Hahn decomposition, Jordan decomposition)
-- [x] `Haar/` - Haar measure theory on groups (existence, uniqueness, properties)
-- [x] `Lebesgue/` - Lebesgue measure on ℝⁿ and related Euclidean spaces
-- [x] `Typeclasses/` - Typeclass instances for measure properties (finite, probability, sigma-finite, locally finite, no atoms)
+- [x] `Decomposition/` - Fundamental measure decomposition theorems: Lebesgue decomposition (singular part + absolutely continuous part), Radon-Nikodym theorem (absolute continuity via density functions), unsigned Hahn decomposition (partition where one measure dominates), and method of exhaustion for sigma-finite sets
+- [x] `Haar/` - Haar measure theory for locally compact groups: existence and uniqueness of left-invariant measures, construction via covering numbers, Lebesgue measure on vector spaces from bases, quotient measures and fundamental domains, disintegration along linear maps, and measure-scaling characters for group actions
+- [x] `Lebesgue/` - Lebesgue measure on ℝ, ℝⁿ, and ℂ as Haar measure on inner product spaces: equivalence with Stieltjes measure, transformation formulas via determinants, volume computations for balls and intervals, density point theorems, and integration substitutions
+- [x] `Typeclasses/` - Typeclass hierarchy for measure classifications: finite measures (`IsFiniteMeasure`, `IsLocallyFiniteMeasure`, `IsFiniteMeasureOnCompacts`), s-finite and σ-finite measures with spanning sets, probability measures (`IsProbabilityMeasure`), and atomless measures (`NoAtoms`)
 
 ## Search Tags
 
