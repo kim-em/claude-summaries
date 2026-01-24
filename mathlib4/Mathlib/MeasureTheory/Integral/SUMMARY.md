@@ -48,7 +48,7 @@ The `Integral/` directory contains the complete formalization of integration the
 
 ## Subdirectories
 
-- [ ] `Bochner/` - Bochner integral foundations (basic definitions, continuous linear maps, fundamental theorem of calculus, L1 theory, integration on sets, Vitali-Carathéodory approximation)
+- [x] `Bochner/` - Bochner integral foundations (basic definitions, continuous linear maps, fundamental theorem of calculus, L1 theory, integration on sets, Vitali-Carathéodory approximation)
 - [ ] `Lebesgue/` - Lebesgue integral theory (basic definitions, additivity, countable operations, dominated convergence for lintegral, mapping theorems, Markov's inequality, norm properties)
 - [ ] `IntervalIntegral/` - Interval integration on ℝ (FTC, integration by parts, continuously differentiable functions, derivatives of integrals, mean value theorems, periodic functions, trapezoidal rule, Lebesgue differentiation)
 - [ ] `RieszMarkovKakutani/` - Riesz-Markov-Kakutani representation theorem (correspondence between positive linear functionals and measures, versions for NNReal and Real)
