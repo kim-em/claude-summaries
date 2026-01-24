@@ -59,7 +59,7 @@ The `LinearAlgebra/` directory contains mathlib4's comprehensive formalization o
 
 ## Subdirectories
 
-- [~] `AffineSpace/` - Affine spaces and affine combinations
+- [x] `AffineSpace/` - Affine spaces and affine combinations
 - [ ] `Alternating/` - Alternating multilinear maps
 - [ ] `Basis/` - Basis theory and constructions
 - [ ] `BilinearForm/` - Bilinear forms on modules

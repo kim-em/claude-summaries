@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/LinearAlgebra/AffineSpace
-generated: 2026-01-25T22:50:00Z
+generated: 2026-01-25T23:05:00Z
 git_sha: 542a7d7979ad5f45d2a89008412e565c8fa001d2
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 17
 subdirs_count: 2
 ---
@@ -12,7 +12,7 @@ subdirs_count: 2
 
 ## Overview
 
-The `AffineSpace/` directory formalizes affine spaces and affine geometry in mathlib4. An affine space is defined as notation for `AddTorsor V P`, capturing the structure where a vector space `V` acts on a point space `P`. The directory provides comprehensive theory of affine maps (structure-preserving maps between affine spaces), affine equivalences (affine isomorphisms), affine combinations (weighted sums of points), affine independence (geometric independence), affine bases with barycentric coordinates, and specialized constructions including centroids, midpoints, slopes, and geometric theorems like Ceva's theorem. This foundational material supports both abstract affine geometry and concrete applications in finite-dimensional spaces.
+The `AffineSpace/` directory formalizes affine spaces and affine geometry in mathlib4, providing a comprehensive framework from foundational definitions through geometric applications. An affine space is defined as notation for `AddTorsor V P`, capturing the structure where a vector space `V` acts freely and transitively on a point space `P`. The directory develops the complete theory including affine maps (structure-preserving transformations), affine equivalences (affine isomorphisms), affine combinations (weighted sums with weight constraints), affine independence (geometric independence), and affine bases with barycentric coordinates. Specialized constructions cover centroids, midpoints, slopes, and classical geometric theorems like Ceva's theorem. The `AffineSubspace/` subdirectory provides the core theory of affine subspaces as subsets closed under affine combinations, with `affineSpan`, `vectorSpan`, lattice structure, and parallel subspace theory. The `Simplex/` subdirectory formalizes n-dimensional simplices as bundled affinely independent point families, developing comprehensive simplex operations, interior/boundary characterizations via barycentric coordinates, and centroid theorems including Commandino's theorem in arbitrary dimensions. This foundational material supports both abstract affine geometry and concrete applications across finite and infinite-dimensional spaces.
 
 ## Key Files
 
@@ -38,8 +38,8 @@ The `AffineSpace/` directory formalizes affine spaces and affine geometry in mat
 
 ## Subdirectories
 
-- [x] `AffineSubspace/` - Affine subspaces, affine span, and lattice structure
-- [x] `Simplex/` - Simplices, standard simplices, and simplex-specific constructions
+- [x] `AffineSubspace/` - Core theory of affine subspaces as subsets closed under affine combinations, with affineSpan, vectorSpan, direction, complete lattice structure, map/comap operations, and parallel subspace relations
+- [x] `Simplex/` - n-dimensional simplices as bundled affinely independent point families, with face operations, interior/boundary characterizations via barycentric coordinates, centroid theory, and Commandino's theorem
 
 ## Search Tags
 
