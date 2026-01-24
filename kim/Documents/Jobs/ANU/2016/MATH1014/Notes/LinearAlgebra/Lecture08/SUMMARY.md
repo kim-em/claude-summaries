@@ -27,7 +27,7 @@ Lecture 8 materials covering coordinate systems and change of basis in linear al
 
 ## Subdirectories
 
-- [ ] `diagrams/` - Diagrams and figures for the lecture
+- [x] `diagrams/` - Diagrams and figures for the lecture
 
 ## Search Tags
 
