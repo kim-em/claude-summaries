@@ -33,7 +33,7 @@ Mathlib4 is the main mathematical library for the Lean 4 theorem prover, maintai
 
 ## Subdirectories
 
-- [~] `Mathlib/` - Core mathematical library containing formalized mathematics
+- [?] `Mathlib/` - Core mathematical library containing formalized mathematics
 - [ ] `Archive/` - Historical and archived mathematical content
 - [ ] `Counterexamples/` - Collection of mathematical counterexamples
 - [ ] `MathlibTest/` - Test suite for verifying library functionality
