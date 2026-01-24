@@ -27,7 +27,7 @@ Materials for Lecture 12 (labeled "Lecture 13" in the content) of MATH1014 Linea
 
 ## Subdirectories
 
-- [ ] `diagrams/` - Maple worksheet files and generated PDFs for eigenvalue/eigenvector computational examples
+- [x] `diagrams/` - Maple worksheet files and generated PDFs for eigenvalue/eigenvector computational examples
 
 ## Search Tags
 
