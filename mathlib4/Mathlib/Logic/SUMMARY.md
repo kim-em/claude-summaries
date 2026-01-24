@@ -36,7 +36,7 @@ The `Logic/` directory provides foundational mathematical logic infrastructure f
 
 - [x] `Embedding/` - Embeddings between types (injective functions with additional structure)
 - [x] `Encodable/` - Encodable types (countably infinite or finite types with encode/decode to ℕ)
-- [ ] `Equiv/` - Type equivalences (bijections) and related constructions
+- [~] `Equiv/` - Type equivalences (bijections) and related constructions
 - [ ] `Function/` - Function properties and constructions (composition, inverses, injectivity, surjectivity)
 - [ ] `Godel/` - Gödel-related results and encoding
 - [ ] `Nontrivial/` - Nontrivial types (at least two distinct elements)
