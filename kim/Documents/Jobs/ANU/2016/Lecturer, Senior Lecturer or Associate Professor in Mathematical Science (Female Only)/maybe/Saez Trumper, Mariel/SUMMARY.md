@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/Lecturer, Senior Lecturer or Associate Professor in Mathematical Science (Female Only)/maybe/Saez Trumper, Mariel
-generated: 2026-01-24T00:00:00Z
+generated: 2026-01-24T04:27:00Z
 git_sha: 4a303882f378292f2fd905a5120a915b750f22dd
 git_branch: master
-status: preliminary
+status: complete
 files_count: 5
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Application materials for Mariel Sáez Trumper, Associate Professor at Pontificia Universidad Católica de Chile, applying for the ANU mathematical sciences position. The candidate is a Chilean citizen currently serving as department director, with PhD from Stanford (2005, advisor Rafe Mazzeo) and postdoc at Max Planck Institute. Her research focuses on geometric analysis, particularly geometric flows, mean curvature flow, Allen-Cahn equations, and fractional operators. She has published 14+ papers in prestigious journals and has an extensive international collaboration network. Application includes 4 strong reference letters and demonstrates leadership experience in organizing conferences and promoting women in mathematics.
+Application materials for Mariel Sáez Trumper, Associate Professor at Pontificia Universidad Católica de Chile, applying for the ANU mathematical sciences position. The candidate is a Chilean citizen currently serving as department director, with PhD from Stanford (2005, advisor Rafe Mazzeo) and postdoc at Max Planck Institute. Her research focuses on geometric analysis, particularly geometric flows, mean curvature flow, Allen-Cahn equations, and fractional operators. She has published 14+ papers in prestigious journals including Journal of Differential Geometry and has an extensive international collaboration network. Application includes 4 exceptionally strong reference letters from leading researchers (Mazzeo, Ecker, Valdinoci, Musso) describing her as an "internationally leading young researcher" and "worldwide leading figure in geometric analysis." The application demonstrates significant leadership experience in organizing conferences and promoting women in mathematics, combining strong technical research with administrative capability.
 
 ## Key Files
 
