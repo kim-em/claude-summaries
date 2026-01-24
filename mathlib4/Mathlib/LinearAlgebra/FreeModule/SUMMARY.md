@@ -29,7 +29,7 @@ The `FreeModule/` directory formalizes the theory of free modules over rings and
 
 ## Subdirectories
 
-- [ ] `Finite/` - Finite-rank free modules
+- [x] `Finite/` - Finite-rank free modules
 
 ## Search Tags
 
