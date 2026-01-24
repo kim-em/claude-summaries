@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/MATH1014/Notes/LinearAlgebra/Lecture01
-generated: 2026-01-25T10:15:00Z
+generated: 2026-01-25T11:45:00Z
 git_sha: fafb26e72fe7b535873cd5b8a8f359b75df7fe29
 git_branch: master
-status: preliminary
+status: complete
 files_count: 6
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-First lecture materials for the linear algebra component of MATH1014, combining administrative content with mathematical introduction. Covers course logistics (assessment breakdown, resources) and begins technical content with coordinates, vectors, and geometry in R^2 and R^3. Includes LaTeX source files that generate multiple output formats (slides and handouts) plus a scribble-annotated version. The lecture introduces Euclidean space, coordinate systems, distance formulas, surfaces (spheres and planes), and vector operations (addition, scalar multiplication) with practical examples involving velocity and navigation problems.
+Complete first lecture package for MATH1014 Linear Algebra, combining administrative course setup with foundational mathematical content. The lecture covers course logistics (assessment, resources) and introduces core vector concepts: Euclidean space, coordinate systems in R^2 and R^3, distance formulas, surfaces (spheres and planes), and vector operations (addition and scalar multiplication). Supported by 15 custom OmniGraffle diagrams illustrating vector addition (parallelogram rule), coordinate notation, and 3D coordinate systems with planes. The materials demonstrate a complete teaching workflow: shared LaTeX source generating both presentation slides and 3-up handouts, with an annotated PDF incorporating handwritten lecture notes.
 
 ## Key Files
 
@@ -27,7 +27,7 @@ First lecture materials for the linear algebra component of MATH1014, combining 
 
 ## Subdirectories
 
-- [x] `diagrams/` - Graphics files for lecture illustrations (OmniGraffle sources and PDFs)
+- [x] `diagrams/` - 15 vector graphics illustrating fundamental concepts (vector addition, coordinates, 3D systems)
 
 ## Search Tags
 
