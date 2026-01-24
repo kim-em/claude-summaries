@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Lean/Elab
-generated: 2026-01-24T23:45:00Z
+generated: 2026-01-24T23:50:00Z
 git_sha: 542a7d7979ad5f45d2a89008412e565c8fa001d2
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 2
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-The `Mathlib/Lean/Elab/` directory provides elaboration-related utilities that extend Lean 4's elaboration infrastructure. It contains helper functions for working with info trees (the data structure that stores elaboration information for IDE support), term elaboration (pattern elaboration, fresh level parameters), and tactic elaboration. These tools support Mathlib's metaprogramming needs during the elaboration phase, including IDE integration, suggestion collection, and custom elaboration strategies.
+The `Mathlib/Lean/Elab/` directory provides elaboration-related utilities that extend Lean 4's elaboration infrastructure. At the top level, it contains helper functions for working with info trees (the data structure that stores elaboration information for IDE support) and term elaboration (pattern elaboration, fresh level parameters). The `Tactic/` subdirectory extends this with utilities for tactic goal management and tactic execution in MetaM contexts. Together, these tools support Mathlib's metaprogramming needs during the elaboration phase, including IDE integration (Try This suggestions, theorem extraction), custom elaboration strategies (pattern elaboration with typeclass failure tolerance), and seamless integration between tactic and meta-level programming.
 
 ## Key Files
 
