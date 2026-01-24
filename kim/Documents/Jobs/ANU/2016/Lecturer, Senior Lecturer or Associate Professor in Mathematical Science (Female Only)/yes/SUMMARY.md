@@ -26,7 +26,7 @@ No files directly in this directory - all materials organized within candidate s
 - [x] `Turner, Katharine/` - Applied topology expert with references from Kathryn Hess, Robert Adler, Shmuel Weinberger, Victor Panaretos
 - [x] `Wang, Hang/` - Noncommutative geometry and index theory specialist with references from Gennadi Kasparov, Guoliang Yu, Finnur Larusson, Michael Murray; University of Adelaide
 - [x] `Wang, Qian/` - Geometric analysis specialist with references from Igor Rodnianski, Jeremie Szeftel, Mihalis Dafermos, Sergiu Klainerman (prominent figures in general relativity and PDE)
-- [ ] `Yang, Yaping/` - Mathematics candidate
+- [~] `Yang, Yaping/` - Geometric representation theory specialist working on quantum groups, integrable systems, and elliptic cohomology; Visiting Assistant Professor at UMass Amherst, PhD Northeastern 2014
 
 ## Search Tags
 
