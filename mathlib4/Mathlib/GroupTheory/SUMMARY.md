@@ -73,7 +73,7 @@ The `GroupTheory/` directory contains comprehensive formalization of group-theor
 - [x] `Order/` - Ordered groups
 - [x] `OreLocalization/` - Ore localization for non-commutative rings/monoids
 - [x] `Perm/` - Permutation groups: cycles, cycle types, sign, specific permutations
-- [ ] `QuotientGroup/` - Quotient groups by normal subgroups
+- [x] `QuotientGroup/` - Quotient groups by normal subgroups
 - [ ] `SpecificGroups/` - Concrete groups: cyclic, dihedral, quaternion, alternating, symmetric
 - [ ] `Subgroup/` - Subgroup theory: basic operations, lattice structure, morphisms, products, normal subgroups
 - [ ] `Submonoid/` - Submonoid theory (multiplicative substructures)
