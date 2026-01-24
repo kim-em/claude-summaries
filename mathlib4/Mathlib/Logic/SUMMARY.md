@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Logic
-generated: 2026-01-25T18:30:00Z
+generated: 2026-01-25T23:45:00Z
 git_sha: 542a7d7979ad5f45d2a89008412e565c8fa001d2
 git_branch: nightly-testing
-status: preliminary
+status: complete
 files_count: 13
 subdirs_count: 7
 ---
@@ -12,7 +12,7 @@ subdirs_count: 7
 
 ## Overview
 
-The `Logic/` directory provides foundational mathematical logic infrastructure for mathlib4, serving as one of the earliest imports. It contains core logic properties (equality, heterogeneous equality, congruence), fundamental type predicates (emptiness, nonemptiness, uniqueness, denumerability), relation theory (reflexive/transitive/equivalence closures, composition, pairwise relations), and specialized topics including existence uniqueness notation, the hydra game termination proof, and relators for parametricity. These files establish basic logical building blocks used throughout mathlib, with carefully separated decidable vs. classical namespaces and extensive tactic support.
+The `Logic/` directory provides comprehensive foundational infrastructure for mathematical logic in mathlib4, serving as one of the earliest and most fundamental imports. At its core are basic logic properties (equality, heterogeneous equality, congruence) and type predicates (IsEmpty, Nonempty, Unique, Denumerable), along with extensive relation theory covering reflexive/transitive/equivalence closures, composition, and pairwise relations. The directory expands into seven major subdirectories that build the essential type-theoretic machinery used throughout mathlib: `Function/` establishes comprehensive function properties (injectivity, surjectivity, bijectivity) with iteration and semiconjugation theory; `Equiv/` provides the complete theory of type equivalences (bijections) including partial equivalences for manifold charts and specialized equivalences for all standard type constructors; `Embedding/` defines bundled injective functions with set-theoretic operations; `Encodable/` implements constructively countable types with encode/decode functions, lattice operations, and Pi types over finite domains; `Small/` controls universe polymorphism via the Small typeclass for types embeddable into specified universe levels; `Nontrivial/` formalizes types with at least two distinct elements (crucial for algebra and linear algebra); and `Godel/` proves the Beta Function Lemma for encoding sequences in formal arithmetic. The directory also includes specialized topics like existence uniqueness notation (`∃!`), the hydra game termination proof using well-founded relations, relators for parametricity, and universe level management. These files establish the logical and type-theoretic building blocks used pervasively throughout mathlib, with carefully separated decidable vs. classical namespaces and extensive tactic support.
 
 ## Key Files
 
@@ -34,13 +34,13 @@ The `Logic/` directory provides foundational mathematical logic infrastructure f
 
 ## Subdirectories
 
-- [x] `Embedding/` - Embeddings between types (injective functions with additional structure)
-- [x] `Encodable/` - Encodable types (countably infinite or finite types with encode/decode to ℕ)
-- [x] `Equiv/` - Type equivalences (bijections) and related constructions
-- [x] `Function/` - Function properties and constructions (composition, inverses, injectivity, surjectivity)
-- [x] `Godel/` - Gödel's Beta Function Lemma for encoding/decoding finite sequences of natural numbers
-- [x] `Nontrivial/` - Nontrivial types (at least two distinct elements)
-- [x] `Small/` - Small types (embeddable into a universe level)
+- [x] `Embedding/` - Bundled injective functions (`α ↪ β`) with basic operations, conversions to/from equivalences, constructions for standard type constructors, and set-theoretic operations (codomain restriction, image embeddings, subset inclusions)
+- [x] `Encodable/` - Constructively countable types with encode/decode functions to ℕ; includes core typeclass, instances for type constructors, ULower for universe lowering, constructive choice functions, lattice operations, and Pi types over finite domains
+- [x] `Equiv/` - Comprehensive type equivalence theory: bundled bijections (`α ≃ β`) with explicit inverses, partial equivalences for manifold charts, specialized equivalences for products/sums/options/lists/multisets/finsets/arrays/finite types, permutations, and connections to embeddings/functors; includes Fin subdirectory with finite type conversions and cyclic rotations
+- [x] `Function/` - Comprehensive function infrastructure: core properties (injective/surjective/bijective), combinators (composition/swap/update/iteration), specialized predicates (fixed points/semiconjugation/commutativity/dependency), and advanced constructs (heterogeneous n-ary functions/fiber partitions/coequalization)
+- [x] `Godel/` - Gödel's Beta Function Lemma proving arithmetically definable encoding/decoding of finite sequences via Chinese Remainder Theorem with coprime moduli; key technical result for Gödel's First Incompleteness Theorem
+- [x] `Nontrivial/` - Nontrivial typeclass for types with at least two distinct elements; fundamental for algebra (distinguishing rings where 0 ≠ 1) and linear algebra (positive dimension); includes constructors, instances for type constructors, and relationship with Unique/Subsingleton
+- [x] `Small/` - Small typeclass for types embeddable into specified universe levels; provides noncomputable Shrink model with equivShrink equivalence, instances for type constructors, propagation theorems via injective/surjective functions, and specialized instances for lists/sets
 
 ## Search Tags
 
