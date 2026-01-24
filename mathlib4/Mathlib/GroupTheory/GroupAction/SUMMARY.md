@@ -43,7 +43,7 @@ The `GroupAction/` directory provides comprehensive formalization of group actio
 
 ## Subdirectories
 
-- [ ] `DomAct/` - Domain actions (specialized action type)
+- [x] `DomAct/` - Domain actions (specialized action type)
 - [ ] `SubMulAction/` - Sub-mul-action theory: closure, combinations, fixing subgroups, stabilizers, pointwise operations
 
 ## Search Tags
