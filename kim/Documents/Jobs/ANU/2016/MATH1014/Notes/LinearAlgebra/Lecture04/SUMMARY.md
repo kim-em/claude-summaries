@@ -29,7 +29,7 @@ Lecture materials for Lecture 4 on distances in R³. Covers techniques for compu
 
 ## Subdirectories
 
-- [ ] `diagrams/` - Supporting diagrams for lecture illustrations
+- [x] `diagrams/` - Supporting diagrams for lecture illustrations
 
 ## Search Tags
 
