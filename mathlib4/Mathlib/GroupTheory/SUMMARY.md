@@ -77,7 +77,7 @@ The `GroupTheory/` directory contains comprehensive formalization of group-theor
 - [x] `SpecificGroups/` - Concrete groups: cyclic, dihedral, quaternion, alternating, symmetric
 - [x] `Subgroup/` - Subgroup theory: centers, centralizers, saturated subgroups, simple groups
 - [x] `Submonoid/` - Submonoid theory (multiplicative substructures)
-- [ ] `Subsemigroup/` - Subsemigroup theory (basic substructures)
+- [x] `Subsemigroup/` - Subsemigroup theory (basic substructures)
 
 ## Search Tags
 
