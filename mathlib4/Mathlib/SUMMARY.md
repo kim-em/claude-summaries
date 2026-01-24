@@ -35,7 +35,7 @@ The `Mathlib/` directory is the core of the mathlib4 library, containing the com
 - [x] `Data/` - Foundational data structures and numeric types: complete numeric tower (ℕ, ℤ, ℚ, ℝ, ℂ plus extended variants), finite structures (Fintype, Finite, FinEnum, Finset, Fin), collections (List, Multiset, Set, Ordmap), sparse/dependent functions (Finsupp, DFinsupp), coinductive types (Seq, WSeq, Stream), polynomial functors (PFunctor, QPF, W-types), type-theoretic infrastructure (Part, Subtype, Sigma, Prod, Sum, FunLike), and modular arithmetic (ZMod)
 - [x] `Deprecated/` - Deprecated definitions and theorems maintained for compatibility
 - [x] `Dynamics/` - Comprehensive dynamical systems theory: flows as continuous monoid actions, topological dynamics (minimal/transitive actions, fixed/periodic points, circle rotation numbers, topological entropy), ergodic theory (measure-preserving maps, conservative dynamics, Poincare recurrence, ergodic measures as extreme points, invariant functions, concrete examples on additive circle), Birkhoff sums and averages, and connections between minimal actions and ergodicity
-- [ ] `FieldTheory/` - Field theory (extensions, Galois theory, algebraic closures)
+- [~] `FieldTheory/` - Field theory (extensions, Galois theory, algebraic closures)
 - [ ] `Geometry/` - Geometric structures and theory
 - [ ] `GroupTheory/` - Group theory (subgroups, quotients, group actions, representations)
 - [ ] `InformationTheory/` - Information-theoretic concepts
