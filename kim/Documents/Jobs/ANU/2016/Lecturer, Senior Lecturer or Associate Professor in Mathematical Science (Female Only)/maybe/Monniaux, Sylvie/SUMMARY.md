@@ -26,7 +26,7 @@ Application materials for Sylvie Monniaux, an assistant professor (maître de co
 
 ## Subdirectories
 
-- [ ] `papers/` - 8 research publications including papers on maximal regularity, Navier-Stokes equations, heat kernels, singular integrals, and Stokes operator
+- [x] `papers/` - 8 research publications including papers on maximal regularity, Navier-Stokes equations, heat kernels, singular integrals, and Stokes operator
 
 ## Search Tags
 
