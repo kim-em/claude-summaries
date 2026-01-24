@@ -41,7 +41,7 @@ No files directly in this folder - all materials are organized in candidate subd
 - [x] `Rupam, Rishika/` - CEMPI postdoc at Lille 1; PhD Texas A&M 2015 under Poltoratski; research on complex analysis, meromorphic inner functions, Krein-de Branges theory, spectral problems; 5 reference letters; no Australian work rights
 - [x] `Salmeron, Raquel/` - Australian citizen and former ANU employee (2006-2015); PhD Physics; mathematical modeling of magnetohydrodynamics; Network Performance & Analysis Manager at Airservices Australia (2015-present); 16 publications with 349 citations; $580k+ research funding; comprehensive 26-page application with CV, selection criteria, teaching/research statements, and 3 reference letters
 - [x] `Saorin Gomez, Eugenia/` - Assistant researcher at Otto-von-Guericke Universität Magdeburg; PhD Murcia 2008 in convex geometry; 21 publications including solved 40+ year old open problems; 4 strong reference letters from leading convex geometers (Colesanti, Hernández Cifre, Hug, Henk); married with 2 children; no Australian work rights
-- [ ] `Seelinger, Nora/` - Application materials with reference letters
+- [~] `Seelinger, Nora/` - Postdoc at University of Haifa; PhD Aberdeen 2009 under Ran Levi; research in algebraic topology, homotopy theory, fusion systems, string topology; previous ANU Research Fellow 2013-2015 with Angeltveit; 3 reference letters (Broto, Grodal, Smith); no Australian work rights
 - [ ] `Snow, Kate/` - Application materials with reference letters
 - [ ] `Sohail, Ayesha/` - Application materials with reference letters
 - [ ] `Van Der Walt, Maria/` - Application materials with reference letters
