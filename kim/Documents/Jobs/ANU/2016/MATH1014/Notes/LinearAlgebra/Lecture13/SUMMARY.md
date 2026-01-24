@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/MATH1014/Notes/LinearAlgebra/Lecture13
-generated: 2026-01-25T10:45:00Z
+generated: 2026-01-25T11:15:00Z
 git_sha: fafb26e72fe7b535873cd5b8a8f359b75df7fe29
 git_branch: master
-status: preliminary
+status: complete
 files_count: 6
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Mid-semester examination review lecture covering problems from the 2013 exam. Topics include lines and planes in R³, bases and coordinate systems, vector spaces and subspaces, linear transformations, and null/column spaces of matrices. The lecture works through detailed solutions to sample questions covering all major topics from the first half of the course, followed by revision sections highlighting key definitions, theorems about bases, and geometric concepts.
+Mid-semester examination review lecture for MATH1014 Linear Algebra, delivered by A/Prof Scott Morrison at ANU in 2016. This lecture works through problems from the 2013 mid-semester exam, providing detailed solutions covering all major topics from the first half of the course: lines and planes in R³, bases and coordinate systems, vector spaces and subspaces, linear transformations, and null/column spaces of matrices. The lecture concludes with revision sections highlighting key definitions, theorems about bases, and geometric concepts. The diagrams subdirectory contains supporting materials including Markov chain examples (likely shared from Lecture10) with PDF diagrams and Maple computational worksheets.
 
 ## Key Files
 

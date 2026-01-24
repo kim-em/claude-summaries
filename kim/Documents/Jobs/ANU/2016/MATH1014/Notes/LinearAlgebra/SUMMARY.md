@@ -42,7 +42,7 @@ LaTeX-based lecture notes for the linear algebra component of MATH1014 (Mathemat
 - [x] `Lecture10/` - Applications to Markov chains (stochastic matrices, probability vectors, steady-state analysis)
 - [x] `Lecture11/` - Eigenvectors and eigenvalues (basic definitions, eigenspaces, triangular matrices)
 - [x] `Lecture12/` - Characteristic equation, finding eigenvalues, similarity transformations, dynamical systems
-- [~] `Lecture13/` - Mid-semester examination review covering problems from the 2013 exam
+- [x] `Lecture13/` - Mid-semester examination review covering problems from the 2013 exam
 - [ ] `Lecture14/` - Linear algebra lecture content
 - [ ] `Lecture15/` - Linear algebra lecture content
 - [ ] `Lecture16/` - Linear algebra lecture content
