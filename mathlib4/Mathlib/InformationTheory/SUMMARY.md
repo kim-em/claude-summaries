@@ -22,7 +22,7 @@ The `InformationTheory/` directory contains formalized information theory concep
 
 ## Subdirectories
 
-- [ ] `KullbackLeibler/` - Kullback-Leibler divergence theory: defines KL divergence `klDiv μ ν` as f-divergence using `klFun x = x * log x + 1 - x`, proves Gibbs' inequality (KL divergence is nonnegative) and converse (zero iff measures equal), establishes equivalence between integrability of log-likelihood ratio and integrability of KL function composed with Radon-Nikodym derivative, with alternative formulas as integral and Lebesgue integral of klFun
+- [x] `KullbackLeibler/` - Kullback-Leibler divergence theory: defines KL divergence `klDiv μ ν` as f-divergence using `klFun x = x * log x + 1 - x`, proves Gibbs' inequality (KL divergence is nonnegative) and converse (zero iff measures equal), establishes equivalence between integrability of log-likelihood ratio and integrability of KL function composed with Radon-Nikodym derivative, with alternative formulas as integral and Lebesgue integral of klFun
 
 ## Search Tags
 
