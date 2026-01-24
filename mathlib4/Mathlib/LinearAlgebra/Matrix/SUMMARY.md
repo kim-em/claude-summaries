@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/LinearAlgebra/Matrix
-generated: 2026-01-25T22:45:00Z
+generated: 2026-01-26T00:15:00Z
 git_sha: 542a7d7979ad5f45d2a89008412e565c8fa001d2
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 53
 subdirs_count: 4
 ---
@@ -13,6 +13,8 @@ subdirs_count: 4
 ## Overview
 
 The `Matrix/` directory contains mathlib4's comprehensive formalization of matrix theory, bridging concrete matrix computations with abstract linear algebra. It defines matrices as functions `m → n → α` with extensive support for matrix operations (multiplication, transpose, conjugate transpose), structural properties (rank, trace, determinant), and equivalences between matrices and linear maps. The directory covers both computational aspects (Cramer's rule, matrix inversion via adjugate, Kronecker products) and theoretical foundations (basis conversions, positive definiteness, special matrix groups), with specialized support for notation (`!![a, b; c, d]` syntax) and connections to quadratic/bilinear/sesquilinear forms.
+
+The subdirectories provide deep theory in four key areas: `Charpoly/` develops characteristic polynomials with the Cayley-Hamilton theorem (proved over arbitrary commutative rings using an elegant argument from Bar-Natan), connecting eigenvalues to polynomial roots and extending to finitely generated modules; `Determinant/` formalizes the Leibniz formula and proves fundamental properties (multiplicativity, row operations, block matrices) with specialized support for totally unimodular matrices; `GeneralLinearGroup/` characterizes GL(n,R) as matrix units with detailed GL(2) theory (parabolic/hyperbolic/elliptic classification via discriminant) and finite field cardinality formulas; `Irreducible/` provides graph-theoretic foundations for Perron-Frobenius theory by associating directed graphs with nonnegative matrices and proving equivalence between strong connectivity and algebraic irreducibility.
 
 ## Key Files
 
