@@ -25,7 +25,7 @@ Selection committee materials for a female-only continuing faculty position in m
 
 - [ ] `maybe/` - 18 candidate folders requiring further evaluation (Davis, Holcomb, Knapp, Li, Lierl, Lindsey, Massierer, Monniaux, Neusser, Nur Saglam, Puskas, Ramadurai, Ray, Robins, Saez Trumper, Shah, Shi, Zhu)
 - [x] `no/` - 29 rejected candidate folders (Aghaei, Begum, Burtscher, Cheung, Corran, Dann, Ginges, Grigorova, Hamieh, Irmer, Jhorar, Jiang, Leitner, Liang, Liao, Myer, O.Donnol, Pourhasan, Rupam, Salmeron, Saorin Gomez, Seelinger, Snow, Sohail, Van Der Walt, Wang Qixuan, Yao, Zemljic, de la Torre)
-- [~] `yes/` - 7 top candidate folders (Bapat Asilata, Bourni Theodora, Tran Giang, Turner Katharine, Wang Hang, Wang Qian, Yang Yaping)
+- [x] `yes/` - 7 top candidate folders (Bapat Asilata, Bourni Theodora, Tran Giang, Turner Katharine, Wang Hang, Wang Qian, Yang Yaping)
 
 ## Search Tags
 
