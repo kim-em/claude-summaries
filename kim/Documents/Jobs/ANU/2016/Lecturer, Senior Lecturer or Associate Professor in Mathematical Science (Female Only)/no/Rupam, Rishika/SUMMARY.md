@@ -27,7 +27,7 @@ Application materials for Rishika Rupam, a CEMPI postdoctoral fellow at Universi
 
 ## Subdirectories
 
-- [ ] `papers/` - Published research paper on restricted interpolation by meromorphic inner functions
+- [x] `papers/` - Published research paper on restricted interpolation by meromorphic inner functions
 
 ## Search Tags
 
