@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/FieldTheory/IntermediateField
-generated: 2026-01-24T23:15:00Z
+generated: 2026-01-24T23:40:00Z
 git_sha: 073b1c781e4870a435fcc3a04440176ab0c8af88
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 2
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-The `IntermediateField/` directory provides the foundational theory of intermediate fields in field extensions. Given a field extension `L / K`, an intermediate field is a subfield of `L` containing the image of `K`, forming a tower `L / S / K`. This infrastructure is essential for Galois theory, as intermediate fields correspond to subgroups of the Galois group. The directory covers the basic structure theory, algebraic properties of intermediate fields, and the theory of adjoining elements to create simple and finitely generated extensions.
+The `IntermediateField/` directory provides the foundational theory of intermediate fields in field extensions. Given a field extension `L / K`, an intermediate field is a subfield of `L` containing the image of `K`, forming a tower `L / S / K`. This infrastructure is essential for Galois theory, as intermediate fields correspond to subgroups of the Galois group via the Fundamental Theorem of Galois Theory. The directory provides three main areas: basic structural theory (`Basic.lean`) defining intermediate fields as subalgebras closed under inverses with SetLike instances and map/comap operations; algebraic properties (`Algebraic.lean`) connecting intermediate fields with finite dimensionality and algebraicity; and the theory of adjoining elements (`Adjoin/` subdirectory) that constructs simple and finitely generated extensions, provides complete lattice structure, and establishes the relationship between field adjunction and ring-theoretic adjunction.
 
 ## Key Files
 
@@ -23,7 +23,7 @@ The `IntermediateField/` directory provides the foundational theory of intermedi
 
 ## Subdirectories
 
-- [x] `Adjoin/` - Theory of adjoining elements to fields: definitions of `adjoin F S` and `F⟮α⟯` notation, lattice structure on intermediate fields, Galois connection with `Algebra.adjoin`, power bases for simple extensions, finitely generated extensions, results on compositum of fields
+- [x] `Adjoin/` - Theory of adjoining elements to fields: core definitions (`adjoin F S`, `F⟮α⟯` notation) and complete lattice structure via Galois insertion; advanced results on power bases, minimal polynomials, and finite generation; relationship between `IntermediateField.adjoin` and `Algebra.adjoin` including fraction ring characterization
 
 ## Search Tags
 
