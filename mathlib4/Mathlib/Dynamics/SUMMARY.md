@@ -28,7 +28,7 @@ The `Dynamics/` directory formalizes dynamical systems theory in Mathlib, encomp
 
 - [x] `BirkhoffSum/` - Birkhoff sums (time averages along orbits) for dynamical systems and ergodic theory
 - [x] `Circle/` - Circle dynamics, including rotation number theory for circle homeomorphisms
-- [ ] `Ergodic/` - Ergodic theory: measure-preserving transformations, ergodic maps, conservative dynamics, and related theorems
+- [~] `Ergodic/` - Ergodic theory: measure-preserving transformations, ergodic maps, conservative dynamics, and related theorems
 - [ ] `FixedPoints/` - Fixed point theorems and related topology for dynamical systems
 - [ ] `PeriodicPts/` - Periodic points of dynamical systems, including definitions and key lemmas
 - [ ] `TopologicalEntropy/` - Topological entropy theory measuring dynamical complexity via covers, nets, and entourages
