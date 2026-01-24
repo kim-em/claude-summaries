@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/Lecturer, Senior Lecturer or Associate Professor in Mathematical Science (Female Only)/no/Van Der Walt, Maria
-generated: 2026-01-24T14:31:19Z
+generated: 2026-01-25T09:33:00Z
 git_sha: fafb26e72fe7b535873cd5b8a8f359b75df7fe29
 git_branch: master
-status: preliminary
+status: complete
 files_count: 5
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Application materials for Dr. Maria van der Walt, Assistant Professor at Vanderbilt University applying for the 2016 ANU female-only mathematical sciences faculty search. South African candidate (no Australian work rights) with PhD in Applied Mathematics from University of Missouri-St. Louis (2015) under Charles K. Chui; research in data science, signal processing, and spline approximation theory; strong teaching evaluations; published in International Journal on Geomathematics.
+Application materials for Dr. Maria van der Walt, Assistant Professor at Vanderbilt University applying for the 2016 ANU female-only mathematical sciences faculty search. South African candidate (no Australian work rights) with PhD in Applied Mathematics from University of Missouri-St. Louis (2015) under Charles K. Chui; research in data science, signal processing, wavelet analysis, and spline approximation theory. Her doctoral research focused on advanced signal processing and time-frequency analysis techniques, particularly empirical mode decomposition (EMD), synchrosqueezed wavelet transforms (SST), and intrinsic mode functions (IMF). Includes two published papers in GEM International Journal on Geomathematics (2015-2016) on data-driven atomic decomposition and instantaneous frequency estimation. Strong teaching evaluations and enthusiastic reference letter from PhD advisor calling her "the best student I had over the past 20 years."
 
 ## Key Files
 
