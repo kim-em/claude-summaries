@@ -26,7 +26,7 @@ Application materials for Dr. Ruth Corran, an Australian/British mathematician a
 
 ## Subdirectories
 
-- [ ] `papers/` - Two representative publications: braid groups paper (J. Algebra 2015) and automaticity paper (Int. J. Comput. Math. 2013)
+- [x] `papers/` - Two representative publications: braid groups paper (J. Algebra 2015) and automaticity paper (Int. J. Comput. Math. 2013)
 
 ## Search Tags
 
