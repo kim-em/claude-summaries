@@ -42,7 +42,7 @@ The `Mathlib/` directory is the core of the mathlib4 library, containing the com
 - [?] `Lean/` - Lean-specific metaprogramming utilities and extensions
 - [?] `LinearAlgebra/` - Linear algebra (vector spaces, matrices, linear maps, tensor products)
 - [?] `Logic/` - Mathematical logic (propositional logic, first-order logic, model theory basics)
-- [ ] `Mathport/` - Mathport compatibility layer for porting from Lean 3
+- [?] `Mathport/` - Mathport compatibility layer for porting from Lean 3
 - [ ] `MeasureTheory/` - Measure theory and integration
 - [ ] `ModelTheory/` - Model theory (structures, theories, definability)
 - [ ] `NumberTheory/` - Number theory (primes, divisibility, Diophantine equations, arithmetic functions)
