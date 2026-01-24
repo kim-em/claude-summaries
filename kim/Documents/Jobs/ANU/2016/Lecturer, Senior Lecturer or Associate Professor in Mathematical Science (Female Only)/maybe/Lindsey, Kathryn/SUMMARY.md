@@ -22,7 +22,7 @@ Application materials for Dr. Kathryn Lindsey, a Dickson Instructor and NSF Math
 
 ## Subdirectories
 
-- [ ] `papers/` - Research publications (2 PDFs)
+- [x] `papers/` - Research publications (2 PDFs)
 
 ## Search Tags
 
