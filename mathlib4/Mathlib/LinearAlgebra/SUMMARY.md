@@ -63,7 +63,7 @@ The `LinearAlgebra/` directory contains mathlib4's comprehensive formalization o
 - [x] `Alternating/` - Alternating multilinear maps
 - [x] `Basis/` - Basis theory and constructions
 - [x] `BilinearForm/` - Bilinear forms on modules
-- [ ] `Charpoly/` - Characteristic polynomials
+- [x] `Charpoly/` - Characteristic polynomials
 - [ ] `CliffordAlgebra/` - Clifford algebras from quadratic forms
 - [ ] `Complex/` - Complex-specific linear algebra
 - [ ] `Dimension/` - Dimension theory for vector spaces
