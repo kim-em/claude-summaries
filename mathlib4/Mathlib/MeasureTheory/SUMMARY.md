@@ -33,7 +33,7 @@ The `MeasureTheory/` directory provides the complete formalization of measure th
 - [x] `Integral/` - Integration theory (Bochner integral for Banach space-valued functions, Lebesgue integral for extended non-negative reals, dominated convergence, Fubini, circle/curve integrals, interval integrals with FTC, layercake formula, gamma function, Riesz-Markov-Kakutani representation theorem)
 - [x] `MeasurableSpace/` - Measurable space foundations (σ-algebras, measurability, product/Pi constructions, countably/measurably generated spaces, cardinality)
 - [x] `Measure/` - Complete measure theory formalization: measure spaces, operations (restriction, pushforward, density), decomposition theorems (Lebesgue, Radon-Nikodym, Hahn), Haar measures on groups, Lebesgue measure on ℝⁿ, typeclass hierarchy (finite, σ-finite, probability, atomless), regularity theory, weak convergence, and specialized measures (Hausdorff, Stieltjes, Dirac)
-- [ ] `Order/` - Measure theory on ordered structures (lattices, groups with order)
+- [~] `Order/` - Measure theory on ordered structures (lattices, groups with order)
 - [ ] `OuterMeasure/` - Outer measures (Carathéodory construction, induced outer measures, Borel-Cantelli lemma)
 - [ ] `SpecificCodomains/` - Measurability and integration for specific target spaces (continuous maps, Pi types, WithLp)
 - [ ] `VectorMeasure/` - Vector-valued measures (signed measures, Radon-Nikodym for vector measures, Hahn decomposition)
