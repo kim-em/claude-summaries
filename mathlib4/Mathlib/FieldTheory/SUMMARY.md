@@ -54,7 +54,7 @@ The `FieldTheory/` directory contains a comprehensive formalization of field the
 ## Subdirectories
 
 - [x] `Differential/` - Differential field extensions and Liouville's theorem on integration in finite terms
-- [ ] `Finite/` - Finite field extensions: basic theory, Galois fields (finite fields as splitting fields), trace, polynomial properties over finite extensions
+- [x] `Finite/` - Finite field extensions: basic theory, Galois fields (finite fields as splitting fields), trace, polynomial properties over finite extensions
 - [ ] `Galois/` - Galois theory: Galois extensions (normal and separable), Galois closures, Galois groups, infinite Galois theory, abelian extensions, fundamental theorem
 - [ ] `IntermediateField/` - Intermediate fields in field extensions: basic theory, adjoining elements, algebraic intermediate fields
 - [ ] `IsAlgClosed/` - Algebraically closed fields: basic properties, algebraic closure construction, classification, spectrum of rings
