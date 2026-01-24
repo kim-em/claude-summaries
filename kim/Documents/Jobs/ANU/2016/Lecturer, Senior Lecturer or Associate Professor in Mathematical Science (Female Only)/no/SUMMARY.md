@@ -32,7 +32,7 @@ No files directly in this folder - all materials are organized in candidate subd
 - [x] `Irmer, Ingrid/` - Application materials for mathematician specializing in low-dimensional topology; PhD Bonn 2010; at Melbourne 2016; includes research/teaching statements and published paper
 - [x] `Jhorar, Bablesh/` - Application materials for Assistant Professor at CDLU Sirsa; PhD thesis submitted 2016 on polynomials in valued fields under Khanduja; 6 publications in algebra/number theory; no Australian work rights
 - [x] `Jiang, Jiaojiao/` - Application materials for PhD candidate at Deakin University; research in applied statistics, complex networks, and information diffusion; background in computer science/information technology rather than mathematical statistics
-- [ ] `Leitner, Arielle/` - Application materials with reference letters
+- [~] `Leitner, Arielle/` - Postdoc at Technion; PhD UCSB 2015 under Cooper; research on geometric transitions, Cartan subgroup limits, convex projective structures; strong teaching background in inquiry-based learning; no Australian work rights
 - [ ] `Liang, Xuan/` - Application materials with reference letters
 - [ ] `Liao, Xian/` - Application materials with reference letters
 - [ ] `Myer, Ziva/` - Application materials with reference letters
