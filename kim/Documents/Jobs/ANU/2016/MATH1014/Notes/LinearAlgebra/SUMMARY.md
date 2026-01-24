@@ -43,7 +43,7 @@ LaTeX-based lecture notes for the linear algebra component of MATH1014 (Mathemat
 - [x] `Lecture11/` - Eigenvectors and eigenvalues (basic definitions, eigenspaces, triangular matrices)
 - [x] `Lecture12/` - Characteristic equation, finding eigenvalues, similarity transformations, dynamical systems
 - [x] `Lecture13/` - Mid-semester examination review covering problems from the 2013 exam
-- [ ] `Lecture14/` - Linear algebra lecture content
+- [x] `Lecture14/` - Matrix diagonalization (similarity, factorization A=PDP^(-1), computing matrix powers)
 - [ ] `Lecture15/` - Linear algebra lecture content
 - [ ] `Lecture16/` - Linear algebra lecture content
 - [ ] `Lecture17/` - Linear algebra lecture content
