@@ -21,3 +21,4 @@
 - `Mathlib/MeasureTheory/` - Claude error: Credit balance is too low  (skipped 2026-01-24T07:19:25Z)
 - `Mathlib/ModelTheory/` - Claude error: Credit balance is too low  (skipped 2026-01-24T07:19:30Z)
 - `Mathlib/NumberTheory/` - Claude error: Credit balance is too low  (skipped 2026-01-24T07:19:35Z)
+- `Mathlib/Order/` - Claude error: Credit balance is too low  (skipped 2026-01-24T07:19:40Z)
