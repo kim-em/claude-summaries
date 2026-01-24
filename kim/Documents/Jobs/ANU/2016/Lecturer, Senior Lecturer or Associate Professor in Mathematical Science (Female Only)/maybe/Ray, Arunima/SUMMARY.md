@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/Lecturer, Senior Lecturer or Associate Professor in Mathematical Science (Female Only)/maybe/Ray, Arunima
-generated: 2026-01-24T00:00:00Z
-git_sha: 4a303882f378292f2fd905a5120a915b750f22dd
+generated: 2026-01-24T01:30:00Z
+git_sha: 494db8ae0b499de3a566337b66454a08ec93826a
 git_branch: master
-status: preliminary
+status: complete
 files_count: 4
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Application materials for Dr. Arunima Ray, a postdoctoral instructor at Brandeis University specializing in low-dimensional topology, knot theory, and 4-manifolds. PhD from Rice University (2014) under Tim Cochran. Strong publication record with papers in Journal of Topology, Algebraic & Geometric Topology, and PAMS. Research focuses on knot concordance, satellite operators, and the smooth/topological distinction in 4-manifold topology. Has AMS-Simons Travel Grant and teaching experience at undergraduate through graduate levels. Notes personal interest in Australia and research alignment with Dr. Joan Licata at ANU.
+Application materials for Dr. Arunima Ray, a postdoctoral instructor at Brandeis University specializing in low-dimensional topology, knot theory, and 4-manifolds. PhD from Rice University (2014) under Tim Cochran. Strong publication record with papers in Journal of Topology, Algebraic & Geometric Topology, and PAMS. Research focuses on knot concordance, satellite operators, and the smooth/topological distinction in 4-manifold topology—demonstrated by included papers on Casson tower filtrations (solo author, AGT 2015) and satellite operators as group actions (joint with C.W. Davis, AGT 2016). Has AMS-Simons Travel Grant and teaching experience at undergraduate through graduate levels. Notes personal interest in Australia and research alignment with Dr. Joan Licata at ANU.
 
 ## Key Files
 
