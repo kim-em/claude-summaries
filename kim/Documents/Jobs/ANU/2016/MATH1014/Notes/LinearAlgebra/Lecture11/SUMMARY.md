@@ -27,7 +27,7 @@ Lecture 11 (labelled internally as "Lecture 12") introduces eigenvectors and eig
 
 ## Subdirectories
 
-- [ ] `diagrams/` - Diagram resources for the lecture (contains ex1401.pdf)
+- [x] `diagrams/` - Diagram resources for the lecture (contains ex1401.pdf)
 
 ## Search Tags
 
