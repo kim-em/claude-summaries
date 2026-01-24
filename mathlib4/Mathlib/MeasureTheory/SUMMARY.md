@@ -31,7 +31,7 @@ The `MeasureTheory/` directory provides the complete formalization of measure th
 - [x] `Function/` - Measurable function theory (AE equality classes, essential supremum, convergence in measure/distribution, conditional expectation, Lp spaces, Jacobians, Hölder inequality, Egorov's theorem)
 - [x] `Group/` - Measure theory on groups (Haar measure, convolution, fundamental domains, measurable group actions, additive circle, modular characters, Følner filters)
 - [x] `Integral/` - Integration theory (Bochner integral for Banach space-valued functions, Lebesgue integral for extended non-negative reals, dominated convergence, Fubini, circle/curve integrals, interval integrals with FTC, layercake formula, gamma function, Riesz-Markov-Kakutani representation theorem)
-- [~] `MeasurableSpace/` - Measurable space foundations (σ-algebras, measurability, product/Pi constructions, countably/measurably generated spaces, cardinality)
+- [x] `MeasurableSpace/` - Measurable space foundations (σ-algebras, measurability, product/Pi constructions, countably/measurably generated spaces, cardinality)
 - [ ] `Measure/` - Measure theory (measure spaces, Lebesgue measure, Hausdorff measure, finite measures, probability measures, absolutely continuous measures, Haar measure, Radon-Nikodym, Giry monad, Levy-Prokhorov metric)
 - [ ] `Order/` - Measure theory on ordered structures (lattices, groups with order)
 - [ ] `OuterMeasure/` - Outer measures (Carathéodory construction, induced outer measures, Borel-Cantelli lemma)
