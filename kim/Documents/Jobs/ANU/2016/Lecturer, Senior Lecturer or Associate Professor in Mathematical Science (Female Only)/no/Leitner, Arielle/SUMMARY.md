@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/Lecturer, Senior Lecturer or Associate Professor in Mathematical Science (Female Only)/no/Leitner, Arielle
-generated: 2026-01-24T20:15:00Z
+generated: 2026-01-25T03:45:00Z
 git_sha: fafb26e72fe7b535873cd5b8a8f359b75df7fe29
 git_branch: master
-status: preliminary
+status: complete
 files_count: 5
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Application materials for Arielle Leitner, postdoctoral researcher at Technion applying for the 2016 ANU female-only mathematical sciences faculty position. PhD from UC Santa Barbara (2015) under Daryl Cooper. Research focuses on geometric topology, specifically geometric transitions of the Cartan subgroup in SL(n,R), convex projective structures, and generalized cusps. No Australian work rights noted as potential concern. Strong publication record with 4 published papers and active research collaborations.
+Application materials for Arielle Leitner, early-career mathematician rejected in the 2016 ANU female-only faculty search. Recent PhD from UC Santa Barbara (2015) under Daryl Cooper, currently postdoc at Technion. Strong research profile in geometric topology, with innovative use of nonstandard analysis to study geometric transitions, conjugacy limits of the Cartan subgroup in SL(n,R), and classification of generalized cusps in convex projective manifolds. Application includes three published research papers demonstrating technical depth across geometric topology and combinatorics. Four highly supportive reference letters emphasize exceptional research potential, collaborative abilities, and inquiry-based teaching skills. Lack of Australian work rights noted in application materials, likely a factor in rejection. Requested start date of September 1, 2017.
 
 ## Key Files
 
@@ -26,7 +26,7 @@ Application materials for Arielle Leitner, postdoctoral researcher at Technion a
 
 ## Subdirectories
 
-- [x] `papers/` - Research publications submitted with application
+- [x] `papers/` - Three published research papers spanning geometric topology (SL(n,R) group theory, convex projective manifolds) and combinatorics (universal cycles); demonstrates technical breadth and innovative use of nonstandard analysis
 
 ## Search Tags
 
