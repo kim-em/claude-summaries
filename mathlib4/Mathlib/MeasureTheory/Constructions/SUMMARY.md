@@ -31,7 +31,7 @@ The `Constructions/` directory provides foundational constructions for building 
 ## Subdirectories
 
 - [x] `BorelSpace/` - Borel space constructions and properties
-- [ ] `Polish/` - Polish space measure theory
+- [x] `Polish/` - Polish space measure theory
 
 ## Search Tags
 
