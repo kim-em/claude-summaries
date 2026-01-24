@@ -29,7 +29,7 @@ The `Ergodic/` directory formalizes the mathematical foundations of ergodic theo
 
 ## Subdirectories
 
-- [ ] `Action/` - Ergodicity for group actions, including minimal actions and regular actions
+- [x] `Action/` - Ergodicity for group actions, including minimal actions and regular actions
 
 ## Search Tags
 
