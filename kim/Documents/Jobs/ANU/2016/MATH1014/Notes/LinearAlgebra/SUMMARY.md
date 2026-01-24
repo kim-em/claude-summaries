@@ -39,7 +39,7 @@ LaTeX-based lecture notes for the linear algebra component of MATH1014 (Mathemat
 - [x] `Lecture07/` - Linear independence, bases, and coordinate systems for abstract vector spaces
 - [x] `Lecture08/` - Coordinate systems and change of basis
 - [x] `Lecture09/` - Dimension theory, bases, rank-nullity theorem, row spaces
-- [~] `Lecture10/` - Applications to Markov chains (stochastic matrices, probability vectors, steady-state analysis)
+- [x] `Lecture10/` - Applications to Markov chains (stochastic matrices, probability vectors, steady-state analysis)
 - [ ] `Lecture11/` - Linear algebra lecture content
 - [ ] `Lecture12/` - Linear algebra lecture content
 - [ ] `Lecture13/` - Linear algebra lecture content

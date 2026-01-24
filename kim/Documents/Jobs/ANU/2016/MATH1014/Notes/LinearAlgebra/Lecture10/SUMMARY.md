@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/MATH1014/Notes/LinearAlgebra/Lecture10
-generated: 2026-01-25T11:30:00Z
+generated: 2026-01-25T12:00:00Z
 git_sha: fafb26e72fe7b535873cd5b8a8f359b75df7fe29
 git_branch: master
-status: preliminary
+status: complete
 files_count: 6
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Lecture 10 covers applications of linear algebra to Markov chains, a probabilistic modeling tool using matrix algebra. Topics include stochastic matrices, probability vectors, transition matrices, steady-state vectors, and the long-term behavior of regular Markov chains. Includes three worked examples: bird population distribution in a zoo aviary, weather patterns in the fictional "Land of Oz", and rat movement in a three-compartment cage. This material is from Lay §4.9 and was noted as not examinable on the mid-semester exam.
+Lecture 10 applies linear algebra to Markov chains, demonstrating how matrix algebra models probabilistic systems. The lecture covers stochastic matrices, probability vectors, transition matrices, steady-state vectors, and long-term behavior of regular Markov chains. Three detailed examples illustrate the concepts: bird population distribution in a zoo aviary, weather patterns in the fictional "Land of Oz", and rat movement in a three-compartment cage. Based on Lay §4.9, this material was noted as not examinable on the mid-semester exam. The lecture includes complete LaTeX source files and generated PDFs in multiple formats (slides, handouts), plus a large annotated PDF with handwritten notes from the actual lecture delivery.
 
 ## Key Files
 
