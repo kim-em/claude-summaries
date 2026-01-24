@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/MATH1014/Notes/LinearAlgebra/Lecture07
-generated: 2026-01-25T11:30:00Z
+generated: 2026-01-25T11:40:00Z
 git_sha: fafb26e72fe7b535873cd5b8a8f359b75df7fe29
 git_branch: master
-status: preliminary
+status: complete
 files_count: 6
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-LaTeX source and generated PDFs for Lecture 7 of the Linear Algebra component, covering linear independence, bases, and coordinate systems for abstract vector spaces. The lecture introduces formal definitions of linear independence and linear dependence, provides the spanning set theorem, and develops methods for finding bases of null spaces and column spaces of matrices. Includes the unique representation theorem showing that coordinates relative to a basis are unique.
+LaTeX source and generated PDFs for Lecture 7 of the Linear Algebra component, covering linear independence, bases, and coordinate systems for abstract vector spaces. The lecture introduces formal definitions of linear independence and linear dependence, provides the spanning set theorem, and develops methods for finding bases of null spaces and column spaces of matrices. Includes the unique representation theorem showing that coordinates relative to a basis are unique. The lecture uses 3D geometric visualizations (provided in the diagrams subdirectory) to illustrate how linear combinations of vectors form planes and subspaces, bridging abstract algebraic concepts with concrete geometric intuition.
 
 ## Key Files
 
@@ -27,7 +27,7 @@ LaTeX source and generated PDFs for Lecture 7 of the Linear Algebra component, c
 
 ## Subdirectories
 
-- [x] `diagrams/` - Diagram assets for the lecture (includes ex01.pdf showing geometric illustration of vector span)
+- [x] `diagrams/` - 3D vector diagram showing geometric interpretation of vector spans and linear independence in 3-dimensional space
 
 ## Search Tags
 
