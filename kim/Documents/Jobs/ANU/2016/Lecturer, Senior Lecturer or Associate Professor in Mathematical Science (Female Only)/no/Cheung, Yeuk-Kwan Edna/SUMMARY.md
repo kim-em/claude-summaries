@@ -25,7 +25,7 @@ Application materials for Dr. Yeuk-Kwan Edna Cheung, a theoretical physicist spe
 
 ## Subdirectories
 
-- [ ] `papers/` - Sample publications (5 PDF reprints): families of N=2 strings, instantons on non-commutative T^4, moduli stabilization with string gas, open string gravity, strings in gravimagnetic fields
+- [?] `papers/` - Sample publications (5 PDF reprints): families of N=2 strings, instantons on non-commutative T^4, moduli stabilization with string gas, open string gravity, strings in gravimagnetic fields
 
 ## Search Tags
 
