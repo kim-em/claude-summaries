@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/Lecturer, Senior Lecturer or Associate Professor in Mathematical Science (Female Only)/no/O.Donnol, Danielle
-generated: 2026-01-25T19:30:00Z
+generated: 2026-01-25T20:20:00Z
 git_sha: fafb26e72fe7b535873cd5b8a8f359b75df7fe29
 git_branch: master
-status: preliminary
+status: complete
 files_count: 8
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Application materials for Danielle O'Donnol, a candidate for the 2016 ANU female-only mathematical sciences faculty search. O'Donnol was a Visiting Assistant Professor at Indiana University (August 2015-present) with research interests in knot theory, spatial graphs, contact topology (Legendrian graphs), and DNA topology. She held a PhD from UCLA (2008) and had previous positions at Oklahoma State (Clinical Instructor/Calculus Coordinator 2013-2015), Imperial College London (postdoc 2012-2013), Smith College (VAP 2011-2012), and Rice University (G.C. Evans Instructor 2008-2011). She had NSF funding ($144,577 for 2014-2017), publications in quality journals, and no Australian work rights. The application indicates she could start August 20, 2017.
+Application materials for Danielle O'Donnol, a candidate for the 2016 ANU female-only mathematical sciences faculty search. O'Donnol was a Visiting Assistant Professor at Indiana University (August 2015-present) with research interests in knot theory, spatial graphs, contact topology (Legendrian graphs), and DNA topology. She held a PhD from UCLA (2008) and had previous positions at Oklahoma State (Clinical Instructor/Calculus Coordinator 2013-2015), Imperial College London (postdoc 2012-2013), Smith College (VAP 2011-2012), and Rice University (G.C. Evans Instructor 2008-2011). She had NSF funding ($144,577 for 2014-2017) and peer-reviewed publications in quality mathematics journals including Osaka Journal of Mathematics (2015) and Pacific Journal of Mathematics (2014). Her research demonstrated expertise in spatial graph theory (proving K-linking properties for the Petersen family) and Legendrian graphs in contact geometry (realization theorems for θ-graphs). The application was supported by six reference letters from experts in her field, but she had no Australian work rights. The application indicates she could start August 20, 2017.
 
 ## Key Files
 
