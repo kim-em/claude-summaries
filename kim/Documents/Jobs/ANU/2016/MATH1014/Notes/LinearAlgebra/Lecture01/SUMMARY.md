@@ -27,7 +27,7 @@ First lecture materials for the linear algebra component of MATH1014, combining 
 
 ## Subdirectories
 
-- [ ] `diagrams/` - Graphics files for lecture illustrations (OmniGraffle sources and PDFs)
+- [x] `diagrams/` - Graphics files for lecture illustrations (OmniGraffle sources and PDFs)
 
 ## Search Tags
 
