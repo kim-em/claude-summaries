@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/LinearAlgebra/RootSystem/GeckConstruction
-generated: 2026-01-25T17:15:00Z
+generated: 2026-01-25T17:29:00Z
 git_sha: 542a7d7979ad5f45d2a89008412e565c8fa001d2
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 4
 subdirs_count: 0
 ---
