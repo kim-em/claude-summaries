@@ -26,7 +26,7 @@ Application materials for Xian Liao, a Chinese postdoctoral researcher applying 
 
 ## Subdirectories
 
-- [ ] `papers/` - 4 published research papers (2014-2016) on zero Mach number systems, non-Newtonian fluids, and density patch problems in incompressible viscous flow
+- [?] `papers/` - 4 published research papers (2014-2016) on zero Mach number systems, non-Newtonian fluids, and density patch problems in incompressible viscous flow
 
 ## Search Tags
 
