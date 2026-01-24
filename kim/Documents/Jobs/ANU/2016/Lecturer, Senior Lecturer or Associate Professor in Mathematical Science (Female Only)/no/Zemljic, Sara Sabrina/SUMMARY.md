@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/Lecturer, Senior Lecturer or Associate Professor in Mathematical Science (Female Only)/no/Zemljic, Sara Sabrina
-generated: 2026-01-25T09:30:00Z
+generated: 2026-01-25T09:45:00Z
 git_sha: fafb26e72fe7b535873cd5b8a8f359b75df7fe29
 git_branch: master
-status: preliminary
+status: complete
 files_count: 5
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Application materials for Sara Sabrina Zemljic, Slovenian mathematician and postdoc at University of Iceland. PhD Ljubljana 2014 under Sandi Klavžar in discrete mathematics; research focus on Sierpiński graphs, metric properties, and algebraic graph theory. Extensive teaching experience in Slovenia and Germany. No Australian work rights. Application includes CV, cover letters, research/teaching statement, 3 reference letters (Klavžar, Hinz, Möller), LMU Munich confirmation letter, and papers subdirectory.
+Application materials for Sara Sabrina Zemljic, Slovenian mathematician and postdoc at University of Iceland. PhD Ljubljana 2014 under Sandi Klavžar in discrete mathematics; research focus on Sierpiński graphs, metric properties, and algebraic graph theory with particular expertise in Hamming dimension, isometric embeddings, and Fibonacci cubes. Publications in European Journal of Combinatorics (2013) and Discrete Applied Mathematics (2015) demonstrate strong mathematical contribution from PhD and postdoctoral work. International collaboration network including French, Slovenian, and New Zealand mathematicians. Extensive teaching experience in Slovenia and Germany (LMU Munich). Active leadership as President of ESN Iceland. Applied for both general mathematical sciences position and number theory/cryptography role. No Australian work rights. Application rejected ("no" category) despite strong mathematical credentials and relevant Australian connections (collaboration with Marston Conder at Auckland).
 
 ## Key Files
 
