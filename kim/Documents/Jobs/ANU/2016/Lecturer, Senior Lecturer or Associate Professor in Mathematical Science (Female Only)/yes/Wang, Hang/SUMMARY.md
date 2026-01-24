@@ -26,7 +26,7 @@ This folder contains the job application materials for Dr. Hang Wang, who applie
 
 ## Subdirectories
 
-- [ ] `papers/` - Collection of 5 published research papers in noncommutative geometry and index theory
+- [?] `papers/` - Collection of 5 published research papers in noncommutative geometry and index theory
 
 ## Search Tags
 
