@@ -26,7 +26,7 @@ Application materials for Dr. Maike Massierer, a computational number theorist a
 
 ## Subdirectories
 
-- [ ] `papers/` - Research publications (2 papers on trace zero varieties and class field theory)
+- [x] `papers/` - Research publications (2 papers on trace zero varieties and class field theory)
 
 ## Search Tags
 
