@@ -27,7 +27,7 @@ The `RingedSpace/` directory provides the foundational categorical infrastructur
 
 ## Subdirectories
 
-- [ ] `LocallyRingedSpace/` - Additional constructions for locally ringed spaces: colimits and residue fields
+- [?] `LocallyRingedSpace/` - Additional constructions for locally ringed spaces: colimits and residue fields
 - [ ] `PresheafedSpace/` - Additional constructions for presheafed spaces: gluing and colimits
 
 ## Search Tags
