@@ -27,7 +27,7 @@ Lecture 10 covers applications of linear algebra to Markov chains, a probabilist
 
 ## Subdirectories
 
-- [ ] `diagrams/` - Support materials for lecture examples (bird diagrams, weather visualization, rat cage diagram)
+- [?] `diagrams/` - Support materials for lecture examples (bird diagrams, weather visualization, rat cage diagram)
 
 ## Search Tags
 
