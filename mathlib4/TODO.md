@@ -24,3 +24,4 @@
 - `Mathlib/Order/` - Claude error: Credit balance is too low  (skipped 2026-01-24T07:19:40Z)
 - `Mathlib/Probability/` - Claude error: Credit balance is too low  (skipped 2026-01-24T07:19:45Z)
 - `Mathlib/RepresentationTheory/` - Claude error: Credit balance is too low  (skipped 2026-01-24T07:19:50Z)
+- `Mathlib/RingTheory/` - Claude error: Credit balance is too low  (skipped 2026-01-24T07:19:54Z)
