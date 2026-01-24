@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/MATH1014/Notes/LinearAlgebra/Lecture18
-generated: 2026-01-25T09:45:00Z
+generated: 2026-01-25T10:30:00Z
 git_sha: fafb26e72fe7b535873cd5b8a8f359b75df7fe29
 git_branch: master
-status: preliminary
+status: complete
 files_count: 8
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-LaTeX source files and generated PDFs for Lecture 18 on discrete dynamical systems in linear algebra. The lecture introduces discrete linear dynamical systems modeled by matrix equations (x_{k+1} = Ax_k), exploring their long-term behavior through eigenvalue analysis. Includes extensive worked examples: predator-prey systems (owl and woodrat populations under varying predation rates), graphical trajectory analysis showing attractors, repellors, saddle points, and spiral behavior, and ecological applications including buffalo herd survival and spotted owl population modeling. The lecture demonstrates how eigenvalue magnitudes and eigenvector decomposition determine whether populations grow, decay, reach equilibrium, or spiral.
+Complete lecture package on discrete dynamical systems in linear algebra, combining theoretical content with rich visual materials. The lecture introduces discrete linear dynamical systems modeled by matrix equations (x_{k+1} = Ax_k), exploring their long-term behavior through eigenvalue analysis. Covers fundamental trajectory types (attractors, repellors, saddle points, spirals) with extensive worked examples from ecology: predator-prey systems (owl and woodrat populations under varying predation rates), buffalo herd survival, and spotted owl population modeling. The diagrams subdirectory provides phase plane visualizations showing eigenvector directions and trajectory behaviors for each eigenvalue configuration, plus photographs of the species used in ecological examples. Together, the LaTeX sources and visual assets demonstrate how eigenvalue magnitudes and eigenvector decomposition determine whether populations grow, decay, reach equilibrium, or spiral.
 
 ## Key Files
 

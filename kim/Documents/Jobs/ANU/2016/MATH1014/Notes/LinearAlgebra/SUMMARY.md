@@ -47,7 +47,7 @@ LaTeX-based lecture notes for the linear algebra component of MATH1014 (Mathemat
 - [x] `Lecture15/` - The Diagonalization Theorem with worked examples, eigenspace dimensions and multiplicities
 - [x] `Lecture16/` - Matrix representations of linear transformations with respect to different bases, B-matrix notation, and connection to diagonalization
 - [x] `Lecture17/` - Complex eigenvalues and eigenvectors (geometric interpretation as rotation and scaling)
-- [~] `Lecture18/` - Discrete dynamical systems (matrix recurrence relations, predator-prey models, trajectory analysis)
+- [x] `Lecture18/` - Discrete dynamical systems (matrix recurrence relations, predator-prey models, trajectory analysis)
 - [ ] `Lecture19/` - Linear algebra lecture content
 - [ ] `Lecture20/` - Linear algebra lecture content
 - [ ] `Lecture21/` - Linear algebra lecture content
