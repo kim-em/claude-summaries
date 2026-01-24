@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/Lecturer, Senior Lecturer or Associate Professor in Mathematical Science (Female Only)/yes/Bourni, Theodora
-generated: 2026-01-25T10:15:00Z
+generated: 2026-01-25T10:35:00Z
 git_sha: fafb26e72fe7b535873cd5b8a8f359b75df7fe29
 git_branch: master
-status: preliminary
+status: complete
 files_count: 14
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Job application package for Dr. Theodora Bourni, candidate for the 2016 ANU Lecturer/Senior Lecturer/Associate Professor position in Mathematical Science (Female Only, Job no. 511070). Contains complete application materials including CV, research and teaching statements, cover letter, six strong reference letters from leading mathematicians (Gerhard Huisken, Felix Schulze, Klaus Ecker, Giuseppe Tinaglia, Leon Simon), and eight published/submitted research papers. Bourni is a geometric analyst with PhD from Stanford (2008, advisor Leon Simon), specializing in minimal surfaces, prescribed mean curvature equations, geometric measure theory, varifolds, and mean curvature flow with applications to general relativity.
+Complete job application package for Dr. Theodora Bourni, a highly regarded geometric analyst applying for the 2016 ANU Lecturer/Senior Lecturer/Associate Professor position in Mathematical Science (Female Only, Job no. 511070). Bourni received her PhD from Stanford in 2008 under the supervision of Leon Simon, held postdoctoral positions at the Max Planck Institute for Gravitational Physics (2008-2011), and was working at Freie Universität Berlin at the time of application. Her research focuses on regularity theory for minimal surfaces and varifolds, prescribed mean curvature equations, and mean curvature flow with applications to general relativity (particularly marginally outer trapped surfaces). The application demonstrates exceptional credentials with six strong reference letters from world-leading mathematicians including her advisor Leon Simon, Gerhard Huisken, and collaborators Giuseppe Tinaglia, Felix Schulze, and Klaus Ecker. The 35-page research statement provides deep technical exposition of her three main research areas, while the teaching statement emphasizes her experience with graduate-level PDE and differential geometry courses at the Berlin Mathematical School.
 
 ## Key Files
 
