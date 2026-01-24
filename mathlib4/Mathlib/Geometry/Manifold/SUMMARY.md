@@ -47,7 +47,7 @@ The `Manifold/` directory contains the formalization of smooth manifolds and dif
 - [x] `Algebra/` - Lie groups, smooth monoid structures, left-invariant derivations, and smooth functions as an algebra
 - [x] `ContMDiff/` - Core definitions and properties of continuously differentiable maps between manifolds (`ContMDiff`, `ContMDiffAt`, etc.)
 - [x] `Instances/` - Concrete manifold instances: real line, unit interval `[0,1]`, spheres, units of normed algebras
-- [ ] `IntegralCurve/` - Integral curves of vector fields: existence, uniqueness, and transformations
+- [x] `IntegralCurve/` - Integral curves of vector fields: existence, uniqueness, and transformations
 - [ ] `IsManifold/` - The `IsManifold` typeclass and properties of manifolds (interior, boundary, extended charts)
 - [ ] `MFDeriv/` - The manifold derivative `mfderiv`: definitions, basic properties, chain rule, specific functions
 - [ ] `Riemannian/` - Riemannian geometry: metrics on manifolds, path length via energy functionals
