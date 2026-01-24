@@ -27,7 +27,7 @@ LaTeX source and generated PDFs for Lecture 7 of the Linear Algebra component, c
 
 ## Subdirectories
 
-- [ ] `diagrams/` - Diagram assets for the lecture (includes ex01.pdf showing geometric illustration of vector span)
+- [x] `diagrams/` - Diagram assets for the lecture (includes ex01.pdf showing geometric illustration of vector span)
 
 ## Search Tags
 
