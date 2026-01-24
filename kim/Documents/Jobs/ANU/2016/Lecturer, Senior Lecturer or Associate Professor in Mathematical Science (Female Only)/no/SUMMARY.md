@@ -26,7 +26,7 @@ No files directly in this folder - all materials are organized in candidate subd
 - [x] `Cheung, Yeuk-Kwan Edna/` - Application materials with reference letters
 - [x] `Corran, Ruth/` - Application materials with reference letters
 - [x] `Dann, Susanna/` - Application materials with 4 reference letters and papers subdirectory; postdoc at Missouri, Assistant Professor at Vienna; research on convex geometry and Busemann-Petty problem
-- [ ] `Ginges, Jacinda/` - Application materials with reference letters
+- [x] `Ginges, Jacinda/` - Application materials for theoretical physicist specializing in atomic many-body theory and QED radiative corrections; 4 strong reference letters from leading international figures (Budker, Kozlov, Flambaum, Berengut); highly cited Physics Reports review; career break 2009-2014
 - [ ] `Grigorova, Miryana/` - Application materials with reference letters
 - [ ] `Hamieh, Alia/` - Application materials with 7 reference letters (Akbary-Majdabadno, Khuri-Makdisi, Ng, Taylor, Siksek, Fitzpatrick, Vatsal) plus papers subdirectory
 - [ ] `Irmer, Ingrid/` - Application materials with reference letters
