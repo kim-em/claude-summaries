@@ -3,7 +3,7 @@ source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Dynamics/Circle
 generated: 2026-01-24T00:00:00Z
 git_sha: 073b1c781e4870a435fcc3a04440176ab0c8af88
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 0
 subdirs_count: 1
 ---
@@ -22,7 +22,7 @@ The `Circle/` directory formalizes the dynamics of circle maps in Mathlib, speci
 
 ## Subdirectories
 
-- [ ] `RotationNumber/` - Translation/rotation number theory for lifts of circle homeomorphisms; defines `CircleDeg1Lift` as monotone maps `f : ℝ → ℝ` satisfying `f(x+1) = f(x)+1`, with the translation number τ(f) = lim (f^n(x) - x)/n
+- [x] `RotationNumber/` - Translation/rotation number theory for lifts of circle homeomorphisms; defines `CircleDeg1Lift` as monotone maps `f : ℝ → ℝ` satisfying `f(x+1) = f(x)+1`, with the translation number τ(f) = lim (f^n(x) - x)/n
 
 ## Search Tags
 
