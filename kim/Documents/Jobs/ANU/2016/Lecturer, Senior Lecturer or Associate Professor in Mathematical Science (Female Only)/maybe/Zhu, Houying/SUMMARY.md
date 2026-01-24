@@ -22,7 +22,7 @@ Application materials for Dr. Houying Zhu, a candidate for the ANU mathematical 
 
 ## Subdirectories
 
-- [ ] `papers/` - Research publication folder containing one software reliability modeling paper
+- [x] `papers/` - Research publication folder containing one software reliability modeling paper
 
 ## Search Tags
 
