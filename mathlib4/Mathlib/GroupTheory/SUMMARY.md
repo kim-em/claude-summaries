@@ -66,7 +66,7 @@ The `GroupTheory/` directory contains comprehensive formalization of group-theor
 - [x] `Coset/` - Coset theory: basic definitions and cardinality
 - [x] `Coxeter/` - Coxeter groups and Coxeter systems
 - [x] `FiniteAbelian/` - Structure theory of finite abelian groups
-- [ ] `FreeGroup/` - Free groups: constructions, reductions, normal forms
+- [x] `FreeGroup/` - Free groups: constructions, reductions, normal forms
 - [ ] `GroupAction/` - Group actions: basic theory, blocks, conjugation, embeddings, fixed points, Jordan's theorem, primitivity, transitivity, quotients, support
 - [ ] `GroupExtension/` - Group extensions and extension theory
 - [ ] `MonoidLocalization/` - Localization of monoids (inverting elements)
