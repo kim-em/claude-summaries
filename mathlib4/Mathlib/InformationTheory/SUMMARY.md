@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/InformationTheory
-generated: 2026-01-24T22:00:00Z
+generated: 2026-01-24T22:30:00Z
 git_sha: 542a7d7979ad5f45d2a89008412e565c8fa001d2
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 1
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-The `InformationTheory/` directory contains formalized information theory concepts fundamental to coding theory and information measurement. It includes the Hamming distance/norm metric (counting differing positions in Pi types, used for defining minimum code distance), the Kullback-Leibler (KL) divergence (measuring difference between probability measures), and supporting f-divergence infrastructure. The Hamming implementation provides a type synonym with normed group structure using the Hamming metric instead of sup norm, while KL divergence is defined on finite measures with Gibbs' inequality (nonnegativity) and converse Gibbs' inequality (zero iff measures equal).
+The `InformationTheory/` directory provides foundational information-theoretic measures with applications to coding theory and statistics. It formalizes two key concepts: the Hamming distance/norm (discrete metric counting differing positions in finite Pi types, yielding a normed group structure essential for error-correcting codes) and the Kullback-Leibler divergence (a measure of difference between probability distributions implemented as an f-divergence). The Hamming theory establishes metric space axioms and connections to minimum code distance. The KL divergence implementation is comprehensive, defining `klDiv μ ν` on finite measures using the f-divergence function `klFun x = x * log x + 1 - x`, providing alternative formulas via log-likelihood ratio integrals, proving Gibbs' inequality (nonnegativity) and its converse (zero iff measures equal), and establishing integrability equivalences between the KL function and log-likelihood ratios.
 
 ## Key Files
 
@@ -22,7 +22,7 @@ The `InformationTheory/` directory contains formalized information theory concep
 
 ## Subdirectories
 
-- [x] `KullbackLeibler/` - Kullback-Leibler divergence theory: defines KL divergence `klDiv μ ν` as f-divergence using `klFun x = x * log x + 1 - x`, proves Gibbs' inequality (KL divergence is nonnegative) and converse (zero iff measures equal), establishes equivalence between integrability of log-likelihood ratio and integrability of KL function composed with Radon-Nikodym derivative, with alternative formulas as integral and Lebesgue integral of klFun
+- [x] `KullbackLeibler/` - Kullback-Leibler divergence theory: defines KL divergence `klDiv μ ν` as f-divergence using `klFun x = x * log x + 1 - x` (continuous, nonnegative, strictly convex with minimum at 1), extends to finite measures via correction term, proves Gibbs' inequality (nonnegativity via `integral_llr_add_sub_measure_univ_nonnegative`), proves converse (`klDiv_eq_zero_iff`: zero iff measures equal), establishes integrability equivalence between `klFun ∘ rnDeriv` and log-likelihood ratio, provides integral formulas and inequalities including `mul_log_le_toReal_klDiv`
 
 ## Search Tags
 
