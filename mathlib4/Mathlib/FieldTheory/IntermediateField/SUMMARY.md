@@ -23,7 +23,7 @@ The `IntermediateField/` directory provides the foundational theory of intermedi
 
 ## Subdirectories
 
-- [ ] `Adjoin/` - Theory of adjoining elements to fields: definitions of `adjoin F S` and `F⟮α⟯` notation, lattice structure on intermediate fields, Galois connection with `Algebra.adjoin`, power bases for simple extensions, finitely generated extensions, results on compositum of fields
+- [x] `Adjoin/` - Theory of adjoining elements to fields: definitions of `adjoin F S` and `F⟮α⟯` notation, lattice structure on intermediate fields, Galois connection with `Algebra.adjoin`, power bases for simple extensions, finitely generated extensions, results on compositum of fields
 
 ## Search Tags
 
