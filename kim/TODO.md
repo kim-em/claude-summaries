@@ -4,6 +4,8 @@ This file tracks files that couldn't be processed with standard tools and need s
 
 ## Large PDFs (exceeding 32MB limit)
 
+- `Documents/Jobs/ANU/2016/MATH1014/Notes/LinearAlgebra/MATH1014-LinearAlgebra.handout.pdf` (7MB, 202 pages) in [Documents/Jobs/ANU/2016/MATH1014/Notes/LinearAlgebra/SUMMARY.md](Documents/Jobs/ANU/2016/MATH1014/Notes/LinearAlgebra/SUMMARY.md)
+
 - `Documents/Housing/LookingInCanberra/2014/LambertSt/18 Lambert St - Contract and Building Report.pdf` (32.3MB) in [LambertSt/SUMMARY.md](Documents/Housing/LookingInCanberra/2014/LambertSt/SUMMARY.md)
   - Contract and building inspection report for 18 Lambert Street, Lyneham property purchase
   - Would require PDF splitting or external processing tool
@@ -12,6 +14,8 @@ This file tracks files that couldn't be processed with standard tools and need s
   - Would require PDF splitting or external processing tool
 
 ## Large PDFs (exceeding 100-page limit)
+
+- `Documents/Jobs/ANU/2016/MATH1014/Notes/LinearAlgebra/MATH1014-LinearAlgebra.handout.pdf` (7MB, 202 pages) in [Documents/Jobs/ANU/2016/MATH1014/Notes/LinearAlgebra/SUMMARY.md](Documents/Jobs/ANU/2016/MATH1014/Notes/LinearAlgebra/SUMMARY.md)
 
 - `Documents/Jobs/ANU/2016/Analysis3/Essays/cheater/Analysis Essay/FurtherReference/Claudia_Prévôt,_Michael_Röckner_A Concise Course_on_Stochastic_Partial_Differential_Equations.pdf` (1.1MB, 148 pages) in [FurtherReference/SUMMARY.md](Documents/Jobs/ANU/2016/Analysis3/Essays/cheater/Analysis%20Essay/FurtherReference/SUMMARY.md)
   - Graduate textbook on stochastic partial differential equations
