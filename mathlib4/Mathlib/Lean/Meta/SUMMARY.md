@@ -27,7 +27,7 @@ The `Mathlib/Lean/Meta/` directory provides advanced metaprogramming utilities f
 
 ## Subdirectories
 
-- [ ] `RefinedDiscrTree/` - Implementation details for refined discrimination tree (Basic, Encode, Initialize, Lookup)
+- [x] `RefinedDiscrTree/` - Implementation details for refined discrimination tree (Basic, Encode, Initialize, Lookup)
 - [ ] `Tactic/` - Tactic-level utilities
 
 ## Search Tags
