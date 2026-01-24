@@ -46,7 +46,7 @@ No files directly in this folder - all materials are organized in candidate subd
 - [x] `Sohail, Ayesha/` - Application materials for Dr Ayesha Sohail, Pakistani mathematician; PhD Sheffield 2012 in applied/computational mathematics; Assistant Professor at COMSATS Lahore; extensive publication record (30+ journal articles); research in numerical analysis, computational biology, mathematical physics; no Australian work rights
 - [x] `Van Der Walt, Maria/` - Assistant Professor at Vanderbilt; PhD Missouri-St. Louis 2015 under Chui; research in data science, signal processing, wavelet analysis, spline approximation; strong teaching evaluations; published papers on EMD-SST and SuperEMD; no Australian work rights
 - [x] `Wang, Qixuan/` - Researcher at UC Irvine; PhD Minnesota 2012 under Othmer; mathematical biology specialist in cell motility, hair follicle modeling, low Reynolds number swimming; extensive teaching experience; 4 referees (Nie, Othmer, Plikus, Baranovsky); published work on amoeboid swimming; no Australian work rights
-- [ ] `Yao, Yuan/` - Application materials (minimal documentation)
+- [x] `Yao, Yuan/` - Application materials for Research Assistant Professor at Hong Kong Baptist University; PhD in statistics; research on survival analysis, high-dimensional data, transformation models; complete application package (22-page PDF with CV, selection criteria, research statement)
 - [ ] `Zemljic, Sara Sabrina/` - Application materials with reference letters
 - [ ] `de la Torre, Pedraza Azahara/` - Application materials (minimal documentation)
 
