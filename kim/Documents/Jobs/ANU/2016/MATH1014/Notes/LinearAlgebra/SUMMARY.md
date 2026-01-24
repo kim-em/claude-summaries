@@ -32,7 +32,7 @@ LaTeX-based lecture notes for the linear algebra component of MATH1014 (Mathemat
 
 - [x] `Lecture01/` - Administrative overview and course introduction
 - [x] `Lecture02/` - Dot products and cross products of vectors
-- [~] `Lecture03/` - Lines and planes in Euclidean space
+- [x] `Lecture03/` - Lines and planes in Euclidean space
 - [ ] `Lecture04/` - Linear algebra lecture content
 - [ ] `Lecture05/` - Linear algebra lecture content
 - [ ] `Lecture06/` - Linear algebra lecture content

@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/MATH1014/Notes/LinearAlgebra/Lecture03
-generated: 2026-01-25T09:45:00Z
+generated: 2026-01-25T10:15:00Z
 git_sha: fafb26e72fe7b535873cd5b8a8f359b75df7fe29
 git_branch: master
-status: preliminary
+status: complete
 files_count: 6
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Lecture 3 of the linear algebra course covering lines and planes in Euclidean space. The lecture introduces vector and parametric equations for lines in R² and R³, symmetric equations for lines, and vector/scalar equations for planes. Topics include direction vectors, normal vectors, plane intersections, and using cross products to find normal vectors. The lecture builds on the dot product and cross product concepts from Lecture 2.
+Lecture 3 of the linear algebra course covering lines and planes in Euclidean space. The lecture introduces vector and parametric equations for lines in R² and R³, symmetric equations for lines, and vector/scalar equations for planes. Topics include direction vectors, normal vectors, plane intersections, and using cross products to find normal vectors. The lecture builds on the dot product and cross product concepts from Lecture 2. The material is supported by comprehensive 3D geometric diagrams created in OmniGraffle, which visualize the mathematical concepts including position vectors, normal vectors, direction vectors, and the right-hand rule for cross products.
 
 ## Key Files
 
@@ -27,7 +27,7 @@ Lecture 3 of the linear algebra course covering lines and planes in Euclidean sp
 
 ## Subdirectories
 
-- [x] `diagrams/` - Graffle source files and PDFs for geometric diagrams illustrating planes, vectors, and their relationships
+- [x] `diagrams/` - OmniGraffle source files and compiled PDFs for 3D geometric visualizations of planes, lines, normal vectors, direction vectors, and the right-hand rule for cross products
 
 ## Search Tags
 
