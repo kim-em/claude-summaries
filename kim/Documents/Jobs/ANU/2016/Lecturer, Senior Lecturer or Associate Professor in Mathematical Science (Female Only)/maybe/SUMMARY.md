@@ -29,7 +29,7 @@ Application materials for 18 candidates in the "maybe" category requiring furthe
 - [x] `Massierer, Maike/` - Application with 4 reference letters and papers subdirectory
 - [x] `Monniaux, Sylvie/` - Application with 4 reference letters and papers subdirectory
 - [~] `Neusser, Katharina/` - Application with 4 reference letters and papers subdirectory
-- [ ] `Nur Saglam, Kadriye/` - Application with 3 reference letters (no papers subdirectory)
+- [x] `Nur Saglam, Kadriye/` - Application with 3 reference letters (no papers subdirectory)
 - [ ] `Puskas, Anna/` - Application with 6 reference letters (no papers subdirectory)
 - [ ] `Ramadurai, Reshma/` - Application with 5 additional PDFs and papers subdirectory
 - [ ] `Ray, Arunima/` - Application with 3 reference letters and papers subdirectory
