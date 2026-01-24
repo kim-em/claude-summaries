@@ -27,7 +27,7 @@ LaTeX source files and generated PDFs for Lecture 21 of the linear algebra compo
 
 ## Subdirectories
 
-- [ ] `diagrams/` - Diagram images referenced in the lecture (4 PDF files: ex1, ex2, ex3, la2201)
+- [x] `diagrams/` - Geometric diagrams illustrating orthogonal projection concepts
 
 ## Search Tags
 
