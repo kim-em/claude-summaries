@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/MATH1014/Notes/LinearAlgebra/Lecture21
-generated: 2026-01-25T09:45:00Z
+generated: 2026-01-25T10:20:00Z
 git_sha: fafb26e72fe7b535873cd5b8a8f359b75df7fe29
 git_branch: master
-status: preliminary
+status: complete
 files_count: 6
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-LaTeX source files and generated PDFs for Lecture 21 of the linear algebra component of MATH1014, covering orthogonal projections onto subspaces. This lecture generalizes the notion of projection from a single vector to arbitrary subspaces in higher dimensions, introduces the Orthogonal Decomposition Theorem, and presents the Best Approximation Theorem. Topics include decomposing vectors into components parallel and orthogonal to a subspace, computing projections using orthonormal bases, the matrix formula proj_W(y) = UU^T y, and finding closest vectors in subspaces.
+LaTeX source files and generated PDFs for Lecture 21 of the linear algebra component of MATH1014, covering orthogonal projections onto subspaces. This lecture generalizes the notion of projection from a single vector to arbitrary subspaces in higher dimensions, introduces the Orthogonal Decomposition Theorem, and presents the Best Approximation Theorem. Topics include decomposing vectors into components parallel and orthogonal to a subspace, computing projections using orthonormal bases, the matrix formula proj_W(y) = UU^T y, and finding closest vectors in subspaces. The lecture includes geometric diagrams visualizing projection concepts in 2D and 3D, illustrating how vectors decompose into components within and perpendicular to subspaces.
 
 ## Key Files
 
