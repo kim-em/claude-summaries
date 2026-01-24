@@ -36,7 +36,7 @@ The `RootSystem/` directory contains a comprehensive formalization of root pairi
 
 ## Subdirectories
 
-- [ ] `Finite/` - Theory specific to finite root pairings
+- [x] `Finite/` - Theory specific to finite root pairings
 - [ ] `GeckConstruction/` - Geck's construction for root systems
 
 ## Search Tags
