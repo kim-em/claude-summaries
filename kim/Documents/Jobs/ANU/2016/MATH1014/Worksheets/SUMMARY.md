@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/MATH1014/Worksheets
-generated: 2026-01-25T09:45:00Z
+generated: 2026-01-25T10:35:00Z
 git_sha: fafb26e72fe7b535873cd5b8a8f359b75df7fe29
 git_branch: master
-status: preliminary
+status: complete
 files_count: 28
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Weekly linear algebra tutorial worksheets for MATH1014 (Semester 2, 2016) covering weeks 3-14, plus a general matrix workshop. Each week's worksheet includes LaTeX source files and compiled PDFs with problem sets designed for in-class tutorial work. The worksheets cover foundational topics in linear algebra including geometric distance calculations, linear transformations, eigenvectors and eigenvalues, diagonalization, and matrix projections. The header.tex file provides a common formatting template with toggleable solution/hint display using `\solutions` and `\nosolutions` commands, allowing the same source to generate both student and instructor versions.
+Weekly linear algebra tutorial worksheets for MATH1014 (Semester 2, 2016) covering weeks 3-14, plus a general matrix workshop. Each week's worksheet includes LaTeX source files and compiled PDFs with problem sets designed for in-class tutorial work. The worksheets cover foundational topics in linear algebra including geometric distance calculations, linear transformations, eigenvectors and eigenvalues, diagonalization, and matrix projections. The header.tex file provides a common formatting template with toggleable solution/hint display using `\solutions` and `\nosolutions` commands, allowing the same source to generate both student and instructor versions. Visual materials including geometric diagrams are stored in the diagrams/ subdirectory and referenced from the worksheets. The build system uses a makefile with latexmk for compilation and rsync for deployment to the teaching server.
 
 ## Key Files
 
