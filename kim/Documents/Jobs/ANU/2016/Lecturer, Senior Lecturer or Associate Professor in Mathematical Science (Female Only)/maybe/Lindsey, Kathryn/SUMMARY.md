@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/Lecturer, Senior Lecturer or Associate Professor in Mathematical Science (Female Only)/maybe/Lindsey, Kathryn
-generated: 2026-01-24T00:00:00Z
+generated: 2026-01-24T06:23:57Z
 git_sha: 4a303882f378292f2fd905a5120a915b750f22dd
 git_branch: master
-status: preliminary
+status: complete
 files_count: 1
 subdirs_count: 1
 ---
@@ -14,6 +14,8 @@ subdirs_count: 1
 
 Application materials for Dr. Kathryn Lindsey, a Dickson Instructor and NSF Mathematical Sciences Postdoctoral Research Fellow at the University of Chicago (as of 2016). Her research focuses on dynamical systems, low-dimensional geometry/topology, and complex analysis, with two main themes: complex dynamics (particularly polynomial Julia sets and their shapes) and flat surfaces/Teichmüller dynamics. She earned her Ph.D. from Cornell University (2014) under John Smillie and holds multiple prestigious fellowships including NSF Graduate Research Fellowship and NSF Postdoctoral Research Fellowship.
 
+The included papers demonstrate the range of her work: from early undergraduate research on measure-theoretic sensitivity (co-authored at Williams College's SMALL REU, published in Proc. Amer. Math. Soc. 2008) to more recent solo work characterizing invariant components of hyperelliptic translation surfaces (Israel J. Math. 2015). Her application highlights collaborations with prominent mathematicians including William Thurston, Laura DeMarco, and Howard Masur.
+
 ## Key Files
 
 | File | Purpose |
@@ -22,8 +24,8 @@ Application materials for Dr. Kathryn Lindsey, a Dickson Instructor and NSF Math
 
 ## Subdirectories
 
-- [x] `papers/` - Research publications (2 PDFs)
+- [x] `papers/` - Research publications: hyperelliptic translation surfaces paper (Israel J. Math. 2015) and measurable sensitivity paper (Proc. Amer. Math. Soc. 2008)
 
 ## Search Tags
 
-anu faculty-search 2016 maybe-candidate kathryn-lindsey dynamical-systems complex-dynamics julia-sets flat-surfaces teichmuller-theory university-chicago cornell nsf-fellow dickson-instructor amie-wilkinson john-smillie laura-demarco howard-masur john-hubbard ergodic-theory translation-surfaces polynomial-dynamics mathematics postdoc
+anu faculty-search 2016 maybe-candidate kathryn-lindsey dynamical-systems complex-dynamics julia-sets flat-surfaces teichmuller-theory university-chicago cornell nsf-fellow dickson-instructor amie-wilkinson john-smillie laura-demarco howard-masur john-hubbard ergodic-theory translation-surfaces polynomial-dynamics mathematics postdoc hyperelliptic-surfaces measurable-sensitivity williams-college-small cesar-silva israel-journal-mathematics proceedings-ams
