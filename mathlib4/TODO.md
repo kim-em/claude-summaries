@@ -18,3 +18,4 @@
 - `Mathlib/LinearAlgebra/` - Claude error: Credit balance is too low  (skipped 2026-01-24T07:19:10Z)
 - `Mathlib/Logic/` - Claude error: Credit balance is too low  (skipped 2026-01-24T07:19:15Z)
 - `Mathlib/Mathport/` - Claude error: Credit balance is too low  (skipped 2026-01-24T07:19:20Z)
+- `Mathlib/MeasureTheory/` - Claude error: Credit balance is too low  (skipped 2026-01-24T07:19:25Z)
