@@ -26,7 +26,7 @@ The `LpSpace/` directory contains the core definitions and theory for Lp spaces 
 
 ## Subdirectories
 
-- [ ] `DomAct/` - Action of domain multiplication groups Mᵈᵐᵃ on Lp spaces via measure-preserving transformations
+- [x] `DomAct/` - Action of domain multiplication groups Mᵈᵐᵃ on Lp spaces via measure-preserving transformations
 
 ## Search Tags
 
