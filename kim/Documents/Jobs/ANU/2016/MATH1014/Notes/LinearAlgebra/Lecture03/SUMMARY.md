@@ -27,7 +27,7 @@ Lecture 3 of the linear algebra course covering lines and planes in Euclidean sp
 
 ## Subdirectories
 
-- [ ] `diagrams/` - Graffle source files and PDFs for geometric diagrams illustrating planes, vectors, and their relationships
+- [x] `diagrams/` - Graffle source files and PDFs for geometric diagrams illustrating planes, vectors, and their relationships
 
 ## Search Tags
 
