@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/Lecturer, Senior Lecturer or Associate Professor in Mathematical Science (Female Only)/yes/Wang, Hang
-generated: 2026-01-25T00:00:00Z
+generated: 2026-01-25T07:30:00Z
 git_sha: fafb26e72fe7b535873cd5b8a8f359b75df7fe29
 git_branch: master
-status: preliminary
+status: complete
 files_count: 5
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-This folder contains the job application materials for Dr. Hang Wang, who applied for a female-only lecturer position in Mathematical Science at the Australian National University in 2016. The application includes comprehensive documentation of her qualifications, research record, teaching experience, and reference materials from her position at the University of Adelaide.
+Complete application package for Dr. Hang Wang, a rising star in noncommutative geometry and index theory who applied for the ANU female-only lecturer position in 2016 from her position at the University of Adelaide. The application demonstrates exceptional research credentials through four strong reference letters from prominent mathematicians (including her PhD advisor Gennadi Kasparov from Vanderbilt and collaborators at Adelaide and Texas A&M) who emphasize her contributions to K-theory and operator algebras. The package includes her formal application with research and teaching documentation, along with published papers in her research area (papers subdirectory was not fully indexed due to size constraints).
 
 ## Key Files
 

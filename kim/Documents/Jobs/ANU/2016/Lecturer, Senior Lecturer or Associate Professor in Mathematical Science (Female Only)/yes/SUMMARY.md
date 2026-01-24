@@ -24,7 +24,7 @@ No files directly in this directory - all materials organized within candidate s
 - [x] `Bourni, Theodora/` - Geometric analyst specializing in minimal surfaces, prescribed mean curvature, varifolds, and mean curvature flow; PhD Stanford 2008 (advisor Leon Simon)
 - [x] `Tran, Giang/` - Applied mathematician specializing in computational methods, imaging science, sparse optimization, and numerical PDE; Bing Instructor at UT Austin, PhD UCLA 2015 (advisor Stan Osher)
 - [x] `Turner, Katharine/` - Applied topology expert with references from Kathryn Hess, Robert Adler, Shmuel Weinberger, Victor Panaretos
-- [ ] `Wang, Hang/` - Mathematical researcher
+- [x] `Wang, Hang/` - Noncommutative geometry and index theory specialist with references from Gennadi Kasparov, Guoliang Yu, Finnur Larusson, Michael Murray; University of Adelaide
 - [ ] `Wang, Qian/` - Geometric analysis specialist with references from Igor Rodnianski, Jeremie Szeftel, Mihalis Dafermos, Sergiu Klainerman (prominent figures in general relativity and PDE)
 - [ ] `Yang, Yaping/` - Mathematics candidate
 
