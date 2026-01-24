@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/Lecturer, Senior Lecturer or Associate Professor in Mathematical Science (Female Only)/no/Irmer, Ingrid
-generated: 2026-01-24T20:30:00Z
+generated: 2026-01-24T21:30:00Z
 git_sha: fafb26e72fe7b535873cd5b8a8f359b75df7fe29
 git_branch: master
-status: preliminary
+status: complete
 files_count: 1
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Application materials for Dr. Ingrid Irmer, a mathematical researcher specializing in low-dimensional geometry/topology, mapping class groups, and Lorentzian geometry. At the time of application (October 2016), she was at the University of Melbourne with an extensive international research background including positions in Turkey, Singapore, Germany, and the US. The application includes a CV, research statement, teaching statement, cover letter, and selection criteria responses, plus a papers subdirectory containing one published work. Notably, Irmer was a current/former ANU student or employee (University ID: u3224197).
+Application materials for Dr. Ingrid Irmer, a mathematical researcher specializing in low-dimensional topology, mapping class groups, and related geometric structures. At the time of application (October 2016), she was at the University of Melbourne with an extensive international research background including positions in Turkey, Singapore, Germany, and the US. The application demonstrates her expertise through comprehensive documentation of her research program connecting curve complexes, the Torelli group, and signed stable length invariants. Her included paper on the Chillingworth class (Algebraic & Geometric Topology, 2015) exemplifies this research direction, establishing fundamental connections between geometric actions on curve graphs and algebraic structures in mapping class group theory. Notably, Irmer was a current/former ANU student or employee (University ID: u3224197), giving her direct familiarity with the institution.
 
 ## Key Files
 
