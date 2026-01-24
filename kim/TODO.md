@@ -79,3 +79,4 @@ This file tracks files that couldn't be processed with standard tools and need s
 - `Documents/Jobs/CurrentGrants/` - Claude error: Credit balance is too low  (skipped 2026-01-24T07:21:50Z)
 - `Documents/Jobs/FRO/` - Claude error: Credit balance is too low  (skipped 2026-01-24T07:21:55Z)
 - `Documents/Jobs/Harmonic/` - Claude error: Credit balance is too low  (skipped 2026-01-24T07:22:00Z)
+- `Documents/Jobs/Lean/` - Claude error: Credit balance is too low  (skipped 2026-01-24T07:22:05Z)
