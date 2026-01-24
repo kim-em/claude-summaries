@@ -25,7 +25,7 @@ The `MeasureTheory/` directory provides the complete formalization of measure th
 
 ## Subdirectories
 
-- [ ] `Category/` - Categorical formulation of measurable spaces and measure-preserving maps
+- [x] `Category/` - Categorical formulation of measurable spaces and measure-preserving maps
 - [ ] `Constructions/` - Constructions of measures (product measures, projective limits, Haar on spheres, closed compact cylinders)
 - [ ] `Covering/` - Covering theorems (Besicovitch, Vitali families, differentiation theorems, density theorems)
 - [ ] `Function/` - Measurable function theory (AE equality classes, essential supremum, convergence in measure/distribution, conditional expectation, Lp spaces, Jacobians, Hölder inequality, Egorov's theorem)
