@@ -22,7 +22,7 @@ No files are stored directly in the Jobs root directory (only subdirectories).
 
 - [?] `ANU/` - ANU faculty employment records organized by year (2012-2019), HDR supervision, PhD students, honours students, and arrival documentation (5062 files)
 - [?] `ASD/` - Australian Security Declaration countries list documenting international travel history 1982-2014 for visa/security purposes (1 file)
-- [ ] `Applications/` - Grant and fellowship applications organized by year (2008-2019) including ARC Discovery Projects, Future Fellowship, and assessment materials (1079 files)
+- [?] `Applications/` - Grant and fellowship applications organized by year (2008-2019) including ARC Discovery Projects, Future Fellowship, and assessment materials (1079 files)
 - [ ] `AustMS/` - Australian Mathematical Society council materials and annotated Special Committee reports (12 files)
 - [ ] `Berkeley/` - UC Berkeley PhD and teaching records including GSI assignments Fall 2001-Fall 2006, teaching evaluations, graduation documents, medical insurance, and Outstanding GSI Award 2004 (117 files)
 - [ ] `CurrentGrants/` - Active grant tracking with forecast spreadsheets for DP14/DP16/DP20, financial expenditure reports, and symbolic links to grant applications (3 files)
