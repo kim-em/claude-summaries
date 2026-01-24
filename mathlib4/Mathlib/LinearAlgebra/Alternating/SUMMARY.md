@@ -24,7 +24,7 @@ The `Alternating/` directory provides the theory of alternating multilinear maps
 
 ## Subdirectories
 
-- [ ] `Uncurry/` - Uncurrying operations (inverse of currying)
+- [x] `Uncurry/` - Uncurrying operations (inverse of currying)
 
 ## Search Tags
 
