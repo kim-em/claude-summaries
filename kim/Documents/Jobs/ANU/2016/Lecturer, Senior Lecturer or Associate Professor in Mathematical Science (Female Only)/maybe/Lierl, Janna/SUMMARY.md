@@ -28,7 +28,7 @@ Application materials for Dr. Janna Lierl, a probability/analysis researcher spe
 
 ## Subdirectories
 
-- [ ] `papers/` - Contains 3 published research papers on boundary Harnack principle and Dirichlet heat kernels
+- [?] `papers/` - Contains 3 published research papers on boundary Harnack principle and Dirichlet heat kernels
 
 ## Search Tags
 
