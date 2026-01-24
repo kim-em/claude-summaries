@@ -23,7 +23,7 @@ The `VectorMeasure/` directory provides the formalization of vector-valued measu
 
 ## Subdirectories
 
-- [ ] `Decomposition/` - Decomposition theorems for signed and vector measures (Hahn, Jordan, Lebesgue, Radon-Nikodym)
+- [x] `Decomposition/` - Decomposition theorems for signed and vector measures (Hahn, Jordan, Lebesgue, Radon-Nikodym)
 
 ## Search Tags
 
