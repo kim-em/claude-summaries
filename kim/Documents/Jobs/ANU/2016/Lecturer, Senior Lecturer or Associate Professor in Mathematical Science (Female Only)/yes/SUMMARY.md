@@ -21,7 +21,7 @@ No files directly in this directory - all materials organized within candidate s
 ## Subdirectories
 
 - [x] `Bapat, Asilata/` - Algebraic geometry and representation theory specialist with references from Geordie Williamson, Samuel Evens, Tom Braden, Victor Ginzburg
-- [ ] `Bourni, Theodora/` - Differential geometry and geometric analysis researcher
+- [~] `Bourni, Theodora/` - Geometric analyst specializing in minimal surfaces, prescribed mean curvature, varifolds, and mean curvature flow; PhD Stanford 2008 (advisor Leon Simon)
 - [ ] `Tran, Giang/` - Applied mathematics candidate
 - [ ] `Turner, Katharine/` - Applied topology expert with references from Kathryn Hess, Robert Adler, Shmuel Weinberger, Victor Panaretos
 - [ ] `Wang, Hang/` - Mathematical researcher
