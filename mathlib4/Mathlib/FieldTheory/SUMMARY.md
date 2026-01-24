@@ -60,7 +60,7 @@ The `FieldTheory/` directory contains a comprehensive formalization of field the
 - [x] `IsAlgClosed/` - Algebraically closed fields: basic properties, algebraic closure construction, classification, spectrum of rings
 - [x] `Minpoly/` - Minimal polynomials: basic theory, minimal polynomials over fields and integrally closed domains, conjugate roots, conjugacy classes
 - [x] `MvRatFunc/` - Multivariate rational functions and their rank properties
-- [ ] `Normal/` - Normal extensions: definitions, basic properties, normal closure construction
+- [x] `Normal/` - Normal extensions: definitions, basic properties, normal closure construction
 - [ ] `PurelyInseparable/` - Purely inseparable extensions: basic theory, exponents, relationship to perfect closure, tower properties
 - [ ] `RatFunc/` - Rational functions: basic definitions and constructions, degree theory, relationship to polynomials
 - [ ] `SplittingField/` - Splitting fields: construction, uniqueness (IsSplittingField), fundamental properties
