@@ -31,7 +31,7 @@ The `Dynamics/` directory formalizes dynamical systems theory in Mathlib, encomp
 - [x] `Ergodic/` - Ergodic theory: measure-preserving transformations, ergodic maps, conservative dynamics, and related theorems
 - [x] `FixedPoints/` - Fixed point theorems and related topology for dynamical systems
 - [x] `PeriodicPts/` - Periodic points of dynamical systems, including definitions and key lemmas
-- [ ] `TopologicalEntropy/` - Topological entropy theory measuring dynamical complexity via covers, nets, and entourages
+- [x] `TopologicalEntropy/` - Topological entropy theory measuring dynamical complexity via covers, nets, and entourages
 
 ## Search Tags
 
