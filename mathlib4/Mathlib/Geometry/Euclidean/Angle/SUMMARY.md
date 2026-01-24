@@ -23,7 +23,7 @@ The `Angle/` directory formalizes angles in Euclidean geometry, providing both o
 
 ## Subdirectories
 
-- [ ] `Oriented/` - Oriented angles (angles with sign) in 2D: basic definitions using complex exponentials, rotations, right angle properties, affine geometry applications
+- [x] `Oriented/` - Oriented angles (angles with sign) in 2D: basic definitions using complex exponentials, rotations, right angle properties, affine geometry applications
 - [ ] `Unoriented/` - Unoriented angles (unsigned) in arbitrary dimension: basic definitions via inner product, affine geometry, conformal maps, cross products, right angles, triangle inequality
 
 ## Search Tags
