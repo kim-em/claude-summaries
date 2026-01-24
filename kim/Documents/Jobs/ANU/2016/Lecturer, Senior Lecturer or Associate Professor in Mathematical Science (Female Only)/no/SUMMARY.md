@@ -28,7 +28,7 @@ No files directly in this folder - all materials are organized in candidate subd
 - [x] `Dann, Susanna/` - Application materials with 4 reference letters and papers subdirectory; postdoc at Missouri, Assistant Professor at Vienna; research on convex geometry and Busemann-Petty problem
 - [x] `Ginges, Jacinda/` - Application materials for theoretical physicist specializing in atomic many-body theory and QED radiative corrections; 4 strong reference letters from leading international figures (Budker, Kozlov, Flambaum, Berengut); highly cited Physics Reports review; career break 2009-2014
 - [x] `Grigorova, Miryana/` - Application materials for postdoc from Germany specializing in probability theory, stochastic analysis, and mathematical finance; PhD Paris-Diderot 2013 on Choquet integration and risk measures; 2 strong reference letters (Föllmer, Quenez)
-- [ ] `Hamieh, Alia/` - Application materials with 7 reference letters (Akbary-Majdabadno, Khuri-Makdisi, Ng, Taylor, Siksek, Fitzpatrick, Vatsal) plus papers subdirectory
+- [~] `Hamieh, Alia/` - Application materials with 7 reference letters (Akbary-Majdabadno, Khuri-Makdisi, Ng, Taylor, Siksek, Fitzpatrick, Vatsal) plus papers subdirectory; PIMS postdoc at Lethbridge; PhD UBC 2013 under Vatsal; research on analytic/algebraic number theory, automorphic forms, L-functions
 - [ ] `Irmer, Ingrid/` - Application materials with reference letters
 - [ ] `Jhorar, Bablesh/` - Application materials with reference letters
 - [ ] `Jiang, Jiaojiao/` - Application materials (minimal documentation)
