@@ -55,3 +55,4 @@ This file tracks files that couldn't be processed with standard tools and need s
 - `Documents/Jobs/ANU/2016/Lecturer, Senior Lecturer or Associate Professor in Mathematical Science (Female Only)/maybe/Zhu, Houying/` - Claude error: Credit balance is too low  (skipped 2026-01-24T07:19:02Z)
 - `Documents/Jobs/ANU/2016/Lecturer, Senior Lecturer or Associate Professor in Mathematical Science (Female Only)/maybe/` - Claude error: Credit balance is too low  (skipped 2026-01-24T07:19:08Z)
 - `Documents/Jobs/ANU/2016/Lecturer, Senior Lecturer or Associate Professor in Mathematical Science (Female Only)/no/` - Claude error: Credit balance is too low  (skipped 2026-01-24T07:19:12Z)
+- `Documents/Jobs/ANU/2016/Lecturer, Senior Lecturer or Associate Professor in Mathematical Science (Female Only)/yes/` - Claude error: Credit balance is too low  (skipped 2026-01-24T07:19:18Z)
