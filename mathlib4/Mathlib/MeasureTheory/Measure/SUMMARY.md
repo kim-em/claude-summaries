@@ -74,7 +74,7 @@ The `Measure/` directory contains the core formalization of measures on measurab
 - [x] `Decomposition/` - Measure decomposition theorems (Lebesgue decomposition, Hahn decomposition, Jordan decomposition)
 - [x] `Haar/` - Haar measure theory on groups (existence, uniqueness, properties)
 - [x] `Lebesgue/` - Lebesgue measure on ℝⁿ and related Euclidean spaces
-- [ ] `Typeclasses/` - Typeclass instances for measure properties (finite, probability, sigma-finite, locally finite, no atoms)
+- [x] `Typeclasses/` - Typeclass instances for measure properties (finite, probability, sigma-finite, locally finite, no atoms)
 
 ## Search Tags
 
