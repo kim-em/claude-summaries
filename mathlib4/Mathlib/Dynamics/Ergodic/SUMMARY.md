@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Dynamics/Ergodic
-generated: 2026-01-24T00:00:00Z
+generated: 2026-01-24T05:30:20Z
 git_sha: 073b1c781e4870a435fcc3a04440176ab0c8af88
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 8
 subdirs_count: 1
 ---
@@ -13,6 +13,8 @@ subdirs_count: 1
 ## Overview
 
 The `Ergodic/` directory formalizes the mathematical foundations of ergodic theory in Mathlib. It defines measure-preserving transformations, conservative dynamical systems, and ergodic maps, along with their key properties. The theory includes Poincare recurrence theorems (both measure-theoretic and topological), quasi-ergodicity, characterizations of ergodic measures as extreme points of invariant measure sets, and concrete examples of ergodic maps on the additive circle. The directory also establishes that invariant functions under ergodic maps are a.e. constant and develops the Radon-Nikodym derivative theory for invariant measures.
+
+The `Action/` subdirectory extends these concepts to group and monoid actions, defining `ErgodicSMul` and `ErgodicVAdd` typeclasses. It proves that regular group actions are ergodic with respect to invariant measures, and establishes connections between minimal actions and ergodicity—showing that minimal group actions on compact spaces imply ergodicity with respect to Haar measure.
 
 ## Key Files
 
