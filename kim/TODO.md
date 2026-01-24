@@ -45,3 +45,4 @@ This file tracks files that couldn't be processed with standard tools and need s
 - `Documents/Jobs/ANU/2016/Lecturer,/` - Claude error: PDF too large. Please double press esc to edit your message and try again.  (skipped 2025-12-10T22:27:07Z)
 - `Documents/Jobs/ANU/2016/Lecturer,/` - Claude error: PDF too large. Try reading the file a different way (e.g., extract text with a CLI too... (skipped 2026-01-24T05:11:26Z)
 - `Documents/Jobs/ANU/2016/Lecturer,/` - Claude error: PDF too large. Try reading the file a different way (e.g., extract text with a CLI too... (skipped 2026-01-24T05:29:02Z)
+- `Documents/Jobs/ANU/2016/Lecturer, Senior Lecturer or Associate Professor in Mathematical Science (Female Only)/` - PDF too large - folder contains large PDFs that exceed Claude's context limits (skipped 2026-01-24T05:35:35Z)
