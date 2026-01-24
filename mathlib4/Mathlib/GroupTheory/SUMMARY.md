@@ -63,7 +63,7 @@ The `GroupTheory/` directory contains comprehensive formalization of group-theor
 - [x] `Commutator/` - Commutator subgroups: basic theory and finiteness
 - [x] `Congruence/` - Congruence relations on monoids and groups
 - [x] `Coprod/` - Coproduct (free product) of two groups
-- [ ] `Coset/` - Coset theory: basic definitions and cardinality
+- [x] `Coset/` - Coset theory: basic definitions and cardinality
 - [ ] `Coxeter/` - Coxeter groups and Coxeter systems
 - [ ] `FiniteAbelian/` - Structure theory of finite abelian groups
 - [ ] `FreeGroup/` - Free groups: constructions, reductions, normal forms
