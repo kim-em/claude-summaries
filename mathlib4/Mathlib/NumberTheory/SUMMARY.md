@@ -89,7 +89,7 @@ The `NumberTheory/` directory contains comprehensive formalizations of classical
 - [x] `RamificationInertia/` - Ramification and inertia in field extensions
 - [x] `Real/` - Real number-theoretic constructions
 - [x] `Transcendental/` - Transcendental number theory
-- [ ] `Zsqrtd/` - Integer rings of quadratic number fields ℤ[√d]
+- [x] `Zsqrtd/` - Integer rings of quadratic number fields ℤ[√d]
 
 ## Search Tags
 
