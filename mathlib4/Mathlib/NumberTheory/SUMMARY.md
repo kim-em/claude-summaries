@@ -75,7 +75,7 @@ The `NumberTheory/` directory contains comprehensive formalizations of classical
 - [x] `DiophantineApproximation/` - Diophantine approximation theory
 - [x] `DirichletCharacter/` - Dirichlet characters and their properties
 - [x] `EulerProduct/` - Euler product formulas for L-functions
-- [ ] `FLT/` - Fermat's Last Theorem related infrastructure
+- [x] `FLT/` - Fermat's Last Theorem related infrastructure
 - [ ] `Harmonic/` - Harmonic numbers and series
 - [ ] `Height/` - Height functions in Diophantine geometry
 - [ ] `JacobiSum/` - Jacobi sums
