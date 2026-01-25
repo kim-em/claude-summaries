@@ -76,7 +76,7 @@ The `NumberTheory/` directory contains comprehensive formalizations of classical
 - [x] `DirichletCharacter/` - Dirichlet characters and their properties
 - [x] `EulerProduct/` - Euler product formulas for L-functions
 - [x] `FLT/` - Fermat's Last Theorem related infrastructure
-- [ ] `Harmonic/` - Harmonic numbers and series
+- [x] `Harmonic/` - Harmonic numbers and series
 - [ ] `Height/` - Height functions in Diophantine geometry
 - [ ] `JacobiSum/` - Jacobi sums
 - [ ] `LSeries/` - L-series theory (Dirichlet, Riemann zeta, Hurwitz zeta, analytic continuation)
