@@ -27,7 +27,7 @@ The `LegendreSymbol/` directory provides a comprehensive formalization of the Le
 
 ## Subdirectories
 
-- [ ] `QuadraticChar/` - Quadratic characters on finite fields and their Gauss sums
+- [x] `QuadraticChar/` - Quadratic characters on finite fields and their Gauss sums
 
 ## Search Tags
 
