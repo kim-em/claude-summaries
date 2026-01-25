@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/NumberTheory/LSeries
-generated: 2026-01-25T23:30:00Z
+generated: 2026-01-25T23:35:00Z
 git_sha: 542a7d7979ad5f45d2a89008412e565c8fa001d2
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 20
 subdirs_count: 0
 ---
