@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/NumberTheory/Padics
-generated: 2026-01-25T08:15:00Z
+generated: 2026-01-25T22:00:00Z
 git_sha: 542a7d7979ad5f45d2a89008412e565c8fa001d2
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 12
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-The `Padics/` directory contains the complete formalization of p-adic numbers and related structures. It defines the p-adic numbers `ℚ_[p]` as the completion of `ℚ` with respect to the p-adic norm, the p-adic integers `ℤ_[p]` as the subtype with norm ≤ 1, and establishes their fundamental properties (completeness, ultrametric structure, discrete valuation ring properties). The directory includes Hensel's lemma for root finding in p-adic integers, Mahler's theorem on continuous functions via the Mahler basis, connections to ZMod (ℤ/p^nℤ), additive characters, and various equivalent formulations of p-adic structures (via adic completion, valued fields, complex p-adics).
+The `Padics/` directory provides a comprehensive formalization of p-adic number theory, from foundational p-adic valuations through the complete construction of p-adic numbers and their analytic theory. At the foundation, the `PadicVal/` subdirectory defines p-adic valuations on ℕ, ℤ, and ℚ, including Legendre's and Kummer's theorems relating valuations to combinatorial structures. Building on these valuations, the directory constructs the p-adic numbers `ℚ_[p]` as the Cauchy completion of `ℚ` and the p-adic integers `ℤ_[p]` as the norm-bounded subring, establishing their complete nonarchimedean field and discrete valuation ring structures. Advanced topics include Hensel's lemma for polynomial root existence, Mahler's theorem connecting continuous functions to vanishing sequences via the Mahler basis, ring homomorphisms to finite quotients `ZMod p^n`, continuous additive characters, and multiple equivalent characterizations of p-adic structures through adic completions, valued field completions, and complex extensions `ℂ_[p]`.
 
 ## Key Files
 
@@ -33,7 +33,7 @@ The `Padics/` directory contains the complete formalization of p-adic numbers an
 
 ## Subdirectories
 
-- [x] `PadicVal/` - p-adic valuation definitions for ℕ, ℤ, and ℚ
+- [x] `PadicVal/` - p-adic valuations on ℕ, ℤ, ℚ with Legendre's and Kummer's theorems
 
 ## Search Tags
 
