@@ -116,7 +116,7 @@ The `Order/` directory contains comprehensive formalization of order theory in a
 - [x] `Circular/` - Circular order theory
 - [x] `CompactlyGenerated/` - Compactly generated lattices
 - [x] `CompleteLattice/` - Complete lattice theory
-- [ ] `ConditionallyCompleteLattice/` - Conditionally complete lattices
+- [~] `ConditionallyCompleteLattice/` - Conditionally complete lattices
 - [ ] `Defs/` - Core definitions for order theory
 - [ ] `Extension/` - Order extensions
 - [ ] `Filter/` - Filter theory (partial orders of filters, filter bases, ultrafilters, Gödel's completeness theorem infrastructure)
