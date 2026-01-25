@@ -28,7 +28,7 @@ Application materials for Sanchayan Sen, a postdoctoral fellow at Eindhoven Univ
 
 ## Subdirectories
 
-- [ ] `articles/` - Seven research articles on random graph theory including continuum limits, minimal spanning trees, configuration models, multiplicative coalescent, and scaling limits
+- [?] `articles/` - Seven research articles on random graph theory including continuum limits, minimal spanning trees, configuration models, multiplicative coalescent, and scaling limits
 
 ## Search Tags
 

@@ -63,3 +63,4 @@ This file tracks files that couldn't be processed with standard tools and need s
 - `Documents/Jobs/ANU/2016/continuing-positions/Ghosh, Subhroshekhar/articles/` - Claude error: Prompt is too long  (skipped 2026-01-25T05:13:18Z)
 - `Documents/Jobs/ANU/2016/continuing-positions/Kim, Kunwoo - withdrawn/articles/` - Claude error: PDF too large. Try reading the file a different way (e.g., extract text with a CLI too... (skipped 2026-01-25T05:34:39Z)
 - `Documents/Jobs/ANU/2016/continuing-positions/Lecue, Guillaume/articles/` - Claude error: Prompt is too long  (skipped 2026-01-25T05:43:36Z)
+- `Documents/Jobs/ANU/2016/continuing-positions/Sen, Sanchayan/articles/` - Claude error: PDF too large. Try reading the file a different way (e.g., extract text with a CLI too... (skipped 2026-01-25T23:36:49Z)
