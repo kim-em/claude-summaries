@@ -27,7 +27,7 @@ Application materials for Garth Tarr, a Lecturer at University of Newcastle appl
 
 ## Subdirectories
 
-- [ ] `articles/` - 5 research publications by Tarr on robust statistics topics (scale estimation, precision matrices, quantile regression)
+- [x] `articles/` - 5 research publications by Tarr on robust statistics topics (scale estimation, precision matrices, quantile regression)
 
 ## Search Tags
 
