@@ -22,7 +22,7 @@ Collection of 10 weekly calculus tutorial worksheets from Semester 1 2015 for MA
 
 ## Subdirectories
 
-- [ ] `Worksheet 01/` - Week 1 worksheet on Riemann sums, improper integrals, and convergence tests
+- [x] `Worksheet 01/` - Week 1 worksheet on Riemann sums, improper integrals, and convergence tests
 - [ ] `Worksheet 02/` - Week 2 worksheet with LaTeX sources and compiled PDFs
 - [ ] `Worksheet 03/` - Week 3 worksheet with LaTeX sources and compiled PDFs
 - [ ] `Worksheet 04/` - Week 4 worksheet with LaTeX sources and compiled PDFs
