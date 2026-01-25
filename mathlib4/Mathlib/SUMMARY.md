@@ -44,7 +44,7 @@ The `Mathlib/` directory is the core of the mathlib4 library, containing the com
 - [x] `Logic/` - Comprehensive foundational infrastructure: core logic properties (equality, HEq, congruence), type predicates (IsEmpty, Nonempty, Unique, Denumerable), relation theory (reflexive/transitive/equivalence closures, pairwise relations), complete function theory (injective/surjective/bijective with iteration/semiconjugation), type equivalences (bundled bijections with partial equivalences for manifolds), bundled embeddings, encodable types (constructive countability), Small typeclass (universe polymorphism), Nontrivial typeclass (two distinct elements), Gödel's Beta Function Lemma, existence uniqueness (`∃!`), hydra game termination proof, and relator framework for parametricity
 - [x] `Mathport/` - Vestigial directory with README directing to v3-eol tag for historical mathport infrastructure
 - [x] `MeasureTheory/` - Measure theory and integration
-- [ ] `ModelTheory/` - Model theory (structures, theories, definability)
+- [~] `ModelTheory/` - Model theory (structures, theories, definability)
 - [ ] `NumberTheory/` - Number theory (primes, divisibility, Diophantine equations, arithmetic functions)
 - [ ] `Order/` - Order theory (partial orders, lattices, well-founded relations, ordinals)
 - [ ] `Probability/` - Probability theory
