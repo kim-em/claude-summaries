@@ -78,7 +78,7 @@ The `NumberTheory/` directory contains comprehensive formalizations of classical
 - [x] `FLT/` - Fermat's Last Theorem related infrastructure
 - [x] `Harmonic/` - Harmonic numbers and series
 - [x] `Height/` - Height functions in Diophantine geometry
-- [ ] `JacobiSum/` - Jacobi sums
+- [x] `JacobiSum/` - Jacobi sums
 - [ ] `LSeries/` - L-series theory (Dirichlet, Riemann zeta, Hurwitz zeta, analytic continuation)
 - [ ] `LegendreSymbol/` - Legendre and Jacobi symbols, quadratic reciprocity
 - [ ] `LocalField/` - Local field theory
