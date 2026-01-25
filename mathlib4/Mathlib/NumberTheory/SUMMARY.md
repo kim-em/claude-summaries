@@ -87,7 +87,7 @@ The `NumberTheory/` directory contains comprehensive formalizations of classical
 - [x] `NumberField/` - Algebraic number fields (ideals, class groups, adele rings, infinite places, units)
 - [x] `Padics/` - p-adic numbers, valuations, Hensel's lemma, Mahler basis
 - [x] `RamificationInertia/` - Ramification and inertia in field extensions
-- [ ] `Real/` - Real number-theoretic constructions
+- [x] `Real/` - Real number-theoretic constructions
 - [ ] `Transcendental/` - Transcendental number theory
 - [ ] `Zsqrtd/` - Integer rings of quadratic number fields ℤ[√d]
 
