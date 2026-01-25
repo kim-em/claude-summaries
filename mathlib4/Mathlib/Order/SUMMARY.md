@@ -118,7 +118,7 @@ The `Order/` directory contains comprehensive formalization of order theory in a
 - [x] `CompleteLattice/` - Complete lattice theory
 - [x] `ConditionallyCompleteLattice/` - Conditionally complete lattices
 - [x] `Defs/` - Core definitions for order theory
-- [ ] `Extension/` - Order extensions
+- [x] `Extension/` - Order extensions
 - [ ] `Filter/` - Filter theory (partial orders of filters, filter bases, ultrafilters, Gödel's completeness theorem infrastructure)
 - [ ] `Fin/` - Orders on Fin types
 - [ ] `GaloisConnection/` - Galois connections and Galois insertions
