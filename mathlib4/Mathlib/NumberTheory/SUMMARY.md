@@ -70,7 +70,7 @@ The `NumberTheory/` directory contains comprehensive formalizations of classical
 ## Subdirectories
 
 - [x] `ArithmeticFunction/` - Arithmetic functions (Möbius, von Mangoldt, Dirichlet convolution, multiplicative functions)
-- [ ] `ClassNumber/` - Class number theory for number fields and quadratic forms
+- [x] `ClassNumber/` - Class number theory for number fields and quadratic forms
 - [ ] `Cyclotomic/` - Cyclotomic fields and polynomials
 - [ ] `DiophantineApproximation/` - Diophantine approximation theory
 - [ ] `DirichletCharacter/` - Dirichlet characters and their properties
