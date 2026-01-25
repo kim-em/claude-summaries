@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/continuing-positions/Hui, Francis
-generated: 2026-01-25T10:15:00Z
+generated: 2026-01-25T10:40:00Z
 git_sha: fafb26e72fe7b535873cd5b8a8f359b75df7fe29
 git_branch: master
-status: preliminary
+status: complete
 files_count: 6
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Application materials for Francis K.C. Hui, a postdoctoral fellow at ANU's Mathematical Sciences Institute applying for a continuing lecturer position in 2016. Hui completed his PhD in Statistics at UNSW (2012-2014) focusing on finite mixture modeling for multi-species ecological data. His application includes a strong publication record (14+ papers with h-index 5, including a highly-cited Ecology paper with 491 citations), extensive awards (University Medal in Statistics, multiple scholarships), and research specializing in analyzing correlated data, mixed models, and multivariate abundance data in ecology. The folder contains his application letter, CV, four reference letters, and a collection of his research articles.
+Application materials for Francis K.C. Hui, a postdoctoral fellow at ANU's Mathematical Sciences Institute applying for a continuing lecturer position in 2016. Hui completed his PhD in Statistics at UNSW (2012-2014) focusing on finite mixture modeling for multi-species ecological data. His research program bridges statistical methodology and ecological applications, with particular strengths in developing model-based approaches for multivariate abundance data, mixture models for high-dimensional ecological data, and latent variable models for community ecology. The included 13 research articles demonstrate impact across both statistical methodology (Biometrika, JASA, Journal of Multivariate Analysis) and ecological applications (Trends in Ecology & Evolution, Ecology, Methods in Ecology and Evolution), including a highly-cited 2011 Ecology paper (491 citations) arguing against arcsine transformations and a 2015 review on joint modeling in community ecology. His application outlines a research vision focused on mixed models, multivariate abundance data, and bridging methodology with software development (notably the boral R package), supported by four reference letters from Foster (CSIRO), Mueller (USYD), Ormerod (USYD), and his PhD supervisor Warton (UNSW).
 
 ## Key Files
 
