@@ -24,7 +24,7 @@ Weekly calculus tutorial worksheets from MATH1014 Semester 2 2014, spanning Augu
 
 - [x] `Worksheet 01/` - Riemann sums, improper integrals, convergence/divergence tests (August 05-08)
 - [x] `Worksheet 02/` - Area calculations and volumes of revolution (August 12-15)
-- [ ] `Worksheet 03/` - Calculus problems for week 3 with LaTeX sources
+- [x] `Worksheet 03/` - Separable ODEs with initial values and convergent series (August 19-22)
 - [ ] `Worksheet 04/` - Calculus problems for week 4 with LaTeX sources
 - [ ] `Worksheet 05/` - Power series convergence and MacLaurin series (September 23-26)
 - [ ] `Worksheet 06/` - Calculus problems for week 6 with LaTeX sources and compiled PDF
