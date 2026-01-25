@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Order/ConditionallyCompleteLattice
-generated: 2026-01-26T03:15:00Z
+generated: 2026-01-26T03:28:00Z
 git_sha: 542a7d7979ad5f45d2a89008412e565c8fa001d2
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 5
 subdirs_count: 0
 ---
