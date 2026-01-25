@@ -20,7 +20,7 @@ No files in this directory.
 
 ## Subdirectories
 
-- [~] `LinearAlgebra/` - Linear algebra course notes for MATH1014
+- [x] `LinearAlgebra/` - Linear algebra course notes for MATH1014
 
 ## Search Tags
 

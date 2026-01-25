@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/MATH1014/Notes/LinearAlgebra
-generated: 2026-01-25T09:40:00Z
+generated: 2026-01-25T14:30:00Z
 git_sha: fafb26e72fe7b535873cd5b8a8f359b75df7fe29
 git_branch: master
-status: preliminary
+status: complete
 files_count: 9
 subdirs_count: 25
 ---
@@ -12,7 +12,7 @@ subdirs_count: 25
 
 ## Overview
 
-LaTeX-based lecture notes for the linear algebra component of MATH1014 (Mathematics and Applications 2), taught by A/Prof Scott Morrison at ANU in Semester 2 2016. The course material is organized into 25 lectures, each with source files and generated PDFs in both slides and 3-up handout formats. Includes a sophisticated build system using makefiles and latexmk to generate multiple output formats from shared source files.
+Complete LaTeX-based lecture notes for the linear algebra component of MATH1014 (Mathematics and Applications 2), taught by A/Prof Scott Morrison at ANU in Semester 2 2016. The 25 lectures form a comprehensive undergraduate linear algebra course, progressing from geometric vector operations in Euclidean space (Lectures 1-4) through abstract vector space theory and linear transformations (Lectures 5-9), eigenvalue theory and matrix diagonalization (Lectures 11-18), to orthogonality and inner product spaces (Lectures 19-23), culminating in applications including Markov chains, PageRank, and SVD (Lectures 10, 24). Each lecture includes LaTeX source, compiled slides and handout PDFs, and annotated "scribble" PDFs with handwritten notes from in-class presentations. Supporting materials include custom diagrams (created with OmniGraffle), Python/Mathematica examples, and a sophisticated build system that generates multiple output formats from shared source files.
 
 ## Key Files
 
@@ -52,7 +52,7 @@ LaTeX-based lecture notes for the linear algebra component of MATH1014 (Mathemat
 - [x] `Lecture20/` - Orthogonal and orthonormal sets, orthogonal bases, orthogonal matrices
 - [x] `Lecture21/` - Orthogonal projections onto subspaces
 - [x] `Lecture22/` - The Gram-Schmidt Process for converting arbitrary bases into orthogonal and orthonormal bases, with QR matrix factorization
-- [~] `Lecture23/` - The Least Squares Problem (best approximation for inconsistent systems, normal equations A^T A x̂ = A^T b)
+- [x] `Lecture23/` - The Least Squares Problem (best approximation for inconsistent systems, normal equations A^T A x̂ = A^T b)
 - [x] `Lecture24/` - Markov chains, text generation, PageRank algorithm, and SVD image compression with Python/Mathematica examples
 - [x] `Lecture25/` - Final revision session with 13 comprehensive practice problems covering all semester topics (change of basis, eigenvalues, diagonalization, dynamical systems, Markov chains, orthogonal projections)
 
