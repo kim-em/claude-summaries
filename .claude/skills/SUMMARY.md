@@ -1,7 +1,7 @@
 ---
 source_path: /Users/kim/.claude/skills
-generated: 2026-01-25T21:30:00Z
-git_sha: eb619baa87334f5ac3755cd64fb4e52f48ec1dc6
+generated: 2026-01-26T00:00:00Z
+git_sha: 9c94dfb220bf6cef41e74841001ed6f108a6869b
 git_branch: master
 status: complete
 files_count: 0
@@ -42,7 +42,7 @@ This directory contains no files at the top level; all content is organized into
 - [x] `copying-conversation-logs/` - Copy Claude conversation logs from ~/.claude/projects/ to local directories, with UUID filtering to exclude agent subconversations (1 file)
 
 ### Communication Platforms (2 skills)
-- [x] `zulip/` - Zulip read and send access via zulip-client FTS5 search, URL fetching, stream browsing, and message sending with HTML stripping and 80-90% token reduction (11 files)
+- [x] `zulip/` - Zulip read and send access via zulip-client FTS5 search, URL fetching, stream browsing, message sending with HTML stripping and 80-90% token reduction, plus linkifiers documentation (auto-link patterns: #1234 for PRs, docs#Nat.add for mathlib docs, etc.) (11 files)
 - [x] `whatsapp/` - WhatsApp messaging via Baileys library: send/read messages, background logger with launchd automation storing to ~/projects/corpus, multiple read strategies (query stored, real-time monitor, history fetch), QR authentication (12 files)
 
 ### Personal Productivity (4 skills)
