@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/NumberTheory/Transcendental
-generated: 2026-01-25T21:45:00Z
+generated: 2026-01-25T22:30:00Z
 git_sha: ffb766c85c7ad82861131c2f10a0669884e4fd5f
 git_branch: nightly-testing
-status: preliminary
+status: complete
 files_count: 0
 subdirs_count: 2
 ---
@@ -12,7 +12,7 @@ subdirs_count: 2
 
 ## Overview
 
-The `Transcendental/` directory contains formal proofs and theory for transcendental number theory in Lean 4. This directory establishes fundamental results about numbers that are not roots of any non-zero polynomial with integer coefficients. The two main subdirectories focus on different aspects: the Lindemann-Weierstrass theorem (proving transcendence of certain exponential values) and Liouville's theory (characterizing and constructing transcendental numbers via Diophantine approximation). Together these provide both general transcendence criteria and explicit constructions of transcendental numbers.
+The `Transcendental/` directory formalizes fundamental results in transcendental number theory, establishing both theoretical frameworks and explicit constructions. The `Lindemann/` subdirectory provides the analytic machinery for the Lindemann-Weierstrass theorem, including exponential-polynomial approximation results that prove transcendence of certain exponential values. The `Liouville/` subdirectory offers a complementary approach through Diophantine approximation: it proves Liouville's theorem (that numbers with sufficiently good rational approximations are transcendental), constructs explicit Liouville constants via rapidly converging series, and establishes measure-theoretic and topological properties showing that Liouville numbers form a dense Gδ set of measure zero. Together these provide both analytic transcendence criteria (via exponentials) and constructive approximation-based methods (via continued fractions and rational approximation).
 
 ## Key Files
 
@@ -20,8 +20,8 @@ No files directly in this directory.
 
 ## Subdirectories
 
-- [x] `Lindemann/` - Analytic part of the Lindemann-Weierstrass theorem
-- [x] `Liouville/` - Liouville's theorem and Liouville numbers (transcendental via approximation)
+- [x] `Lindemann/` - Analytic estimates for Lindemann-Weierstrass theorem including exponential-polynomial approximations
+- [x] `Liouville/` - Complete theory of Liouville numbers including transcendence theorem, explicit constructions, and measure/topology
 
 ## Search Tags
 
