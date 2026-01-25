@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Order/Category
-generated: 2026-01-25T23:00:00Z
+generated: 2026-01-25T23:13:00Z
 git_sha: ffb766c85c7ad82861131c2f10a0669884e4fd5f
 git_branch: HEAD
-status: preliminary
+status: complete
 files_count: 19
 subdirs_count: 0
 ---
@@ -12,7 +12,7 @@ subdirs_count: 0
 
 ## Overview
 
-The `Category/` directory defines categorical structures for various order-theoretic objects, bundling order types (preorders, partial orders, lattices, Boolean algebras, frames, etc.) into concrete categories with their appropriate morphisms. Each file defines a category structure where objects are types equipped with specific order structures and morphisms are structure-preserving maps (monotone functions, lattice homomorphisms, frame homomorphisms, etc.). This provides the category-theoretic interface for order theory within Mathlib's broader categorical framework.
+The `Category/` directory provides the categorical interface for order theory, systematically organizing the various order-theoretic structures from `Mathlib/Order/` into concrete categories. Each file bundles a specific order type (preorders, partial orders, lattices, Boolean algebras, frames, etc.) into a category where objects are types equipped with the corresponding order structure and morphisms are the appropriate structure-preserving maps (monotone functions, lattice homomorphisms, frame homomorphisms, etc.). This spans the full hierarchy from basic preorders through complete Boolean algebras, including specialized categories for finite orders, linear orders, omega-complete partial orders, and Heyting algebras. The NonemptyFinLinOrd category serves as the standard index category for simplicial objects in algebraic topology, while ωCPO provides the categorical foundation for programming language semantics.
 
 ## Key Files
 
