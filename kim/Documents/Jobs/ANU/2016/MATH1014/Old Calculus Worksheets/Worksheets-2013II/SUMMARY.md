@@ -26,7 +26,7 @@ No files directly in this folder.
 - [x] `Worksheet 04/` - Week 4 (Aug 26-30, 2013): Initial value problems, improper integrals, arc length, series convergence
 - [x] `Worksheet 05/` - Week 5 (Sep 23-27, 2013): Power series convergence, radius/interval of convergence, MacLaurin series
 - [x] `Worksheet 06/` - Week 6 (Oct 1-4, 2013): Parametric curves, tangent lines, concavity, curve sketching
-- [ ] `Worksheet 07/` - Week 7 calculus problems with LaTeX sources and compiled PDF
+- [x] `Worksheet 07/` - Week 7 (Oct 8-11, 2013): Parametric curves, polar coordinates, four-petaled rose curve
 - [ ] `Worksheet 08/` - Week 8 calculus problems with LaTeX sources
 - [ ] `Worksheet 09/` - Week 9 calculus problems with LaTeX sources
 - [ ] `Worksheet 10/` - Week 10 calculus problems with LaTeX sources
