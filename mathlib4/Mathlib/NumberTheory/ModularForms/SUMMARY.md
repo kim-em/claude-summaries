@@ -36,7 +36,7 @@ The `ModularForms/` directory provides a comprehensive formalization of classica
 ## Subdirectories
 
 - [x] `EisensteinSeries/` - Eisenstein series definitions, convergence, q-expansions, and boundedness
-- [ ] `JacobiTheta/` - Jacobi theta functions in one and two variables with bounds and manifold properties
+- [x] `JacobiTheta/` - Jacobi theta functions in one and two variables with bounds and manifold properties
 
 ## Search Tags
 
