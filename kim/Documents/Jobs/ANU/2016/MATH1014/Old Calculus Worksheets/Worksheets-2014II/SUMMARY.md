@@ -22,7 +22,7 @@ Weekly calculus tutorial worksheets from MATH1014 Semester 2 2014, spanning Augu
 
 ## Subdirectories
 
-- [ ] `Worksheet 01/` - Riemann sums, improper integrals, convergence/divergence tests (August 05-08)
+- [x] `Worksheet 01/` - Riemann sums, improper integrals, convergence/divergence tests (August 05-08)
 - [ ] `Worksheet 02/` - Calculus problems for week 2 with LaTeX sources
 - [ ] `Worksheet 03/` - Calculus problems for week 3 with LaTeX sources
 - [ ] `Worksheet 04/` - Calculus problems for week 4 with LaTeX sources
