@@ -82,7 +82,7 @@ The `NumberTheory/` directory contains comprehensive formalizations of classical
 - [x] `LSeries/` - L-series theory (Dirichlet, Riemann zeta, Hurwitz zeta, analytic continuation)
 - [x] `LegendreSymbol/` - Legendre and Jacobi symbols, quadratic reciprocity
 - [x] `LocalField/` - Local field theory
-- [~] `ModularForms/` - Modular forms and their q-expansions
+- [x] `ModularForms/` - Modular forms and their q-expansions
 - [ ] `MulChar/` - Multiplicative characters
 - [ ] `NumberField/` - Algebraic number fields (ideals, class groups, adele rings, infinite places, units)
 - [ ] `Padics/` - p-adic numbers, valuations, Hensel's lemma, Mahler basis

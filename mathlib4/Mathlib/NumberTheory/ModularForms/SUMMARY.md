@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/NumberTheory/ModularForms
-generated: 2026-01-25T22:30:00Z
+generated: 2026-01-25T22:51:00Z
 git_sha: 542a7d7979ad5f45d2a89008412e565c8fa001d2
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 27
 subdirs_count: 2
 ---
@@ -12,7 +12,7 @@ subdirs_count: 2
 
 ## Overview
 
-The `ModularForms/` directory provides a comprehensive formalization of classical modular form theory for the upper half-plane. It develops the foundational machinery (slash actions, invariant forms, arithmetic subgroups, congruence subgroups), defines modular forms and cusp forms with their boundedness properties, and establishes key results including q-expansion theory, Hecke bounds for cusp forms, the Petersson scalar product, and specific examples like Eisenstein series, Jacobi theta functions, and the Dedekind eta function. The implementation covers both the abstract theory (slash invariance, group actions, cusps) and concrete computational aspects (norm bounds, polynomial growth of coefficients).
+The `ModularForms/` directory provides a comprehensive formalization of classical modular form theory for the upper half-plane, combining foundational abstract theory with concrete examples and computational tools. It develops the core machinery (slash actions, invariant forms, arithmetic subgroups, congruence subgroups), defines modular forms and cusp forms with their boundedness properties, and establishes key results including q-expansion theory, Hecke bounds for cusp forms, and the Petersson scalar product. The implementation features complete theories of two major modular form families: Eisenstein series (with full q-expansion formulas relating to Riemann zeta, Bernoulli numbers, and divisor sums, plus the quasi-modular weight-2 special case) and Jacobi theta functions (in one and two variables, with modular transformations via Poisson summation and exponential decay bounds). Additional examples include the Dedekind eta function formalized as a non-vanishing differentiable infinite product. The directory seamlessly integrates abstract theory (slash invariance, group actions, cusps) with concrete computational aspects (norm bounds, polynomial growth of coefficients, convergence proofs).
 
 ## Key Files
 
@@ -35,8 +35,8 @@ The `ModularForms/` directory provides a comprehensive formalization of classica
 
 ## Subdirectories
 
-- [x] `EisensteinSeries/` - Eisenstein series definitions, convergence, q-expansions, and boundedness
-- [x] `JacobiTheta/` - Jacobi theta functions in one and two variables with bounds and manifold properties
+- [x] `EisensteinSeries/` - Eisenstein series for weights k ≥ 2: holomorphic modular forms with q-expansions relating to Riemann zeta and divisor sums (k ≥ 3), plus quasi-modular weight-2 case requiring conditional summation
+- [x] `JacobiTheta/` - Jacobi theta functions in one and two variables: holomorphy, modular transformations via Poisson summation, exponential decay bounds, and manifold differentiability on ℍ
 
 ## Search Tags
 
