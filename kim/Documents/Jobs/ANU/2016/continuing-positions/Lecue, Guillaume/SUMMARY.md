@@ -28,7 +28,7 @@ Application materials for Guillaume Lecué, a CNRS researcher at CREST-ENSAE (Fr
 
 ## Subdirectories
 
-- [ ] `articles/` - Collection of 22 research articles by Lecué covering empirical risk minimization, aggregation methods, compressed sensing, oracle inequalities, phase retrieval, and high-dimensional statistics (published in Annals of Statistics, Bernoulli, IEEE Transactions on Information Theory, Electronic Journal of Statistics, and conference proceedings)
+- [?] `articles/` - Collection of 22 research articles by Lecué covering empirical risk minimization, aggregation methods, compressed sensing, oracle inequalities, phase retrieval, and high-dimensional statistics (published in Annals of Statistics, Bernoulli, IEEE Transactions on Information Theory, Electronic Journal of Statistics, and conference proceedings)
 
 ## Search Tags
 
