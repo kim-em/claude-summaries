@@ -71,7 +71,7 @@ The `NumberTheory/` directory contains comprehensive formalizations of classical
 
 - [x] `ArithmeticFunction/` - Arithmetic functions (Möbius, von Mangoldt, Dirichlet convolution, multiplicative functions)
 - [x] `ClassNumber/` - Class number theory for number fields and quadratic forms
-- [ ] `Cyclotomic/` - Cyclotomic fields and polynomials
+- [x] `Cyclotomic/` - Cyclotomic fields and polynomials
 - [ ] `DiophantineApproximation/` - Diophantine approximation theory
 - [ ] `DirichletCharacter/` - Dirichlet characters and their properties
 - [ ] `EulerProduct/` - Euler product formulas for L-functions
