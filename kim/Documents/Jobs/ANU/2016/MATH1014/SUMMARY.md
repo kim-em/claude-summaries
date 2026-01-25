@@ -38,7 +38,7 @@ MATH1014 (Mathematics and Applications 1) Semester 2 2016 teaching materials for
 - [x] `Notes/` - Course notes subdirectory for linear algebra content
 - [x] `PastExams/` - Past exam papers from 2014-2015 for student practice (linear algebra mid-semester and final exams with solutions)
 - [x] `Old Calculus Worksheets/` - Historical worksheet collections from previous years (2013-2015)
-- [ ] `SELT/` - Student Experience of Learning and Teaching evaluation forms and tutorial group assignments
+- [x] `SELT/` - Student Experience of Learning and Teaching evaluation forms and tutorial group assignments
 
 ## Search Tags
 
