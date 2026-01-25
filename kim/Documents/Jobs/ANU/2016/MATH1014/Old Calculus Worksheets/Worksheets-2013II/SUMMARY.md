@@ -20,7 +20,7 @@ No files directly in this folder.
 
 ## Subdirectories
 
-- [ ] `Worksheet 01/` - Week 1 (Aug 5-9, 2013): Riemann sums, improper integrals, convergence tests
+- [x] `Worksheet 01/` - Week 1 (Aug 5-9, 2013): Riemann sums, improper integrals, convergence tests
 - [ ] `Worksheet 02/` - Week 2 calculus problems with LaTeX sources
 - [ ] `Worksheet 03/` - Week 3 calculus problems with LaTeX sources
 - [ ] `Worksheet 04/` - Week 4 calculus problems with LaTeX sources
