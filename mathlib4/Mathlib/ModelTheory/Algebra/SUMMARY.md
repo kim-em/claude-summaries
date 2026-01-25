@@ -20,7 +20,7 @@ This directory contains no files directly—all content is organized into subdir
 
 ## Subdirectories
 
-- [ ] `Field/` - Model theory of fields: field axioms, characteristic p, algebraically closed fields (ACF), completeness, Lefschetz principle
+- [x] `Field/` - Model theory of fields: field axioms, characteristic p, algebraically closed fields (ACF), completeness, Lefschetz principle
 - [ ] `Ring/` - Language of rings, structure compatibility, definability of polynomial zero loci, FreeCommRing term conversion
 
 ## Search Tags
