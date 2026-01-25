@@ -45,7 +45,7 @@ The `NumberField/` directory contains the formalization of algebraic number fiel
 - [x] `Discriminant/` - Discriminant computations and properties
 - [x] `Ideal/` - Ideal theory in rings of integers
 - [x] `InfinitePlace/` - Infinite places and their structure
-- [ ] `Units/` - Units in rings of integers, regulator
+- [x] `Units/` - Units in rings of integers, regulator
 
 ## Search Tags
 
