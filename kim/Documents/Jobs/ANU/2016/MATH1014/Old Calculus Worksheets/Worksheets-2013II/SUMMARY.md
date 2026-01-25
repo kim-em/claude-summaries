@@ -24,7 +24,7 @@ No files directly in this folder.
 - [x] `Worksheet 02/` - Week 2 (Aug 12-16, 2013): Area under curves, volume of revolution using washer method
 - [x] `Worksheet 03/` - Week 3 calculus problems with LaTeX sources
 - [x] `Worksheet 04/` - Week 4 (Aug 26-30, 2013): Initial value problems, improper integrals, arc length, series convergence
-- [ ] `Worksheet 05/` - Week 5 calculus problems with LaTeX sources
+- [x] `Worksheet 05/` - Week 5 (Sep 23-27, 2013): Power series convergence, radius/interval of convergence, MacLaurin series
 - [ ] `Worksheet 06/` - Week 6 calculus problems with LaTeX sources and compiled PDF
 - [ ] `Worksheet 07/` - Week 7 calculus problems with LaTeX sources and compiled PDF
 - [ ] `Worksheet 08/` - Week 8 calculus problems with LaTeX sources
