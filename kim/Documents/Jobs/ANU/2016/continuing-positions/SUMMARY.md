@@ -27,7 +27,7 @@ Faculty continuing position selection committee materials for a female-only lect
 - [x] `Ghosh, Subhroshekhar/` - Application materials for Subhroshekhar Ghosh
 - [x] `Hui, Francis/` - Application materials for Francis Hui (postdoctoral fellow at ANU MSI applying for continuing lecturer position, includes application, CV, 4 reference letters from Foster/Mueller/Ormerod/Warton, and 13 research articles on ecological statistics and mixture models)
 - [x] `Kim, Kunwoo - withdrawn/` - Application materials for Kunwoo Kim (withdrew from consideration)
-- [~] `Lecue, Guillaume/` - Application materials for Guillaume Lecué (CNRS researcher at CREST-ENSAE specializing in mathematical statistics, empirical risk minimization, and high-dimensional statistics; includes CV, 6 reference letters from Bartlett/Koltchinskii/Massart/Mendelson/Vayatis/van de Geer, and 22 research articles)
+- [x] `Lecue, Guillaume/` - Application materials for Guillaume Lecué (CNRS researcher at CREST-ENSAE specializing in mathematical statistics, empirical risk minimization, and high-dimensional statistics; includes CV, 6 reference letters from Bartlett/Koltchinskii/Massart/Mendelson/Vayatis/van de Geer, and 22 research articles)
 - [ ] `Portal, Pierre/` - Application materials for Pierre Portal
 - [ ] `Sen, Sanchayan/` - Application materials for Sanchayan Sen
 - [ ] `Tarr, Garth/` - Application materials for Garth Tarr

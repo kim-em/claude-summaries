@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/continuing-positions/Lecue, Guillaume
-generated: 2026-01-25T10:30:00Z
+generated: 2026-01-25T10:45:00Z
 git_sha: fafb26e72fe7b535873cd5b8a8f359b75df7fe29
 git_branch: master
-status: preliminary
+status: complete
 files_count: 7
 subdirs_count: 1
 ---
@@ -12,7 +12,9 @@ subdirs_count: 1
 
 ## Overview
 
-Application materials for Guillaume Lecué, a CNRS researcher at CREST-ENSAE (France) applying for the 2016 ANU continuing position in Mathematical Science. Lecué is a mathematical statistician specializing in empirical risk minimization, learning theory, compressed sensing, and high-dimensional statistics. The folder contains his CV, six reference letters from prominent statisticians (Bartlett, Koltchinskii, Massart, Mendelson, Vayatis, van de Geer), and a collection of his research articles.
+Complete application package for Guillaume Lecué, a CNRS researcher at CREST-ENSAE (France) applying for the 2016 ANU continuing position in Mathematical Science. Lecué is a prominent mathematical statistician from Tsybakov's school specializing in empirical risk minimization, learning theory, compressed sensing, and high-dimensional statistics. The application demonstrates exceptional academic credentials: 26 publications in top-tier journals (Annals of Statistics, Bernoulli, IEEE Trans. Info Theory), prestigious awards including the Mark Fulk award (2006) and Prix de la chancellerie (€10,000, 2008), teaching positions at École Polytechnique and ENSAE, and industry consulting experience.
+
+Particularly notable is the strong internal endorsement from Shahar Mendelson (ANU collaborator), who ranks Lecué above other prominent young statisticians including Richard Nickl (Cambridge), Alexander Rakhlin (Penn), Philippe Rigollet (MIT), and Holger Rauhut (Aachen). Mendelson emphasizes Lecué's unique role as a "middle link" bridging theoretical and applied statistics. The application includes six reference letters from world-leading statisticians and a comprehensive collection of 22 research articles spanning his key research areas.
 
 ## Key Files
 
