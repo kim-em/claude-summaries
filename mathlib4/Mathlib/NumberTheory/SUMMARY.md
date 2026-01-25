@@ -84,7 +84,7 @@ The `NumberTheory/` directory contains comprehensive formalizations of classical
 - [x] `LocalField/` - Local field theory
 - [x] `ModularForms/` - Modular forms and their q-expansions
 - [x] `MulChar/` - Multiplicative characters
-- [~] `NumberField/` - Algebraic number fields (ideals, class groups, adele rings, infinite places, units)
+- [x] `NumberField/` - Algebraic number fields (ideals, class groups, adele rings, infinite places, units)
 - [ ] `Padics/` - p-adic numbers, valuations, Hensel's lemma, Mahler basis
 - [ ] `RamificationInertia/` - Ramification and inertia in field extensions
 - [ ] `Real/` - Real number-theoretic constructions
