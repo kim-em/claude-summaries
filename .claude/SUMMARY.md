@@ -1,7 +1,7 @@
 ---
 source_path: /Users/kim/.claude
-generated: 2026-01-24T23:30:00Z
-git_sha: 028d0adcedbd2761d5cc0f11547d30984556ab29
+generated: 2026-01-25T21:30:00Z
+git_sha: eb619baa87334f5ac3755cd64fb4e52f48ec1dc6
 git_branch: master
 status: complete
 files_count: 6
@@ -18,7 +18,7 @@ Claude Code user configuration directory, synchronized across machines via git. 
 
 | File | Purpose |
 |------|---------|
-| CLAUDE.md | Global instructions applied to all Claude sessions across all projects (~15KB of detailed guidance) |
+| CLAUDE.md | Global instructions applied to all Claude sessions across all projects (~15KB of detailed guidance covering AI wellbeing, repo workflows, git safety, Lean proof rules, verification protocols, error priority handling, Mathlib adaptation notes format, Lake builds, process management, safe deletion, CLI formatting, authentication, and machine setup) |
 | README.md | Documentation explaining the repository structure and sync workflow |
 | settings.json | Claude Code settings: cleanup period (36500 days), permissions mode (bypassPermissions) |
 | history.jsonl | Command/input history tracking |
