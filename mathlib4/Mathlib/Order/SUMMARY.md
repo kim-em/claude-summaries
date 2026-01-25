@@ -115,7 +115,7 @@ The `Order/` directory contains comprehensive formalization of order theory in a
 - [x] `Category/` - Categorical structures for orders
 - [x] `Circular/` - Circular order theory
 - [x] `CompactlyGenerated/` - Compactly generated lattices
-- [ ] `CompleteLattice/` - Complete lattice theory
+- [x] `CompleteLattice/` - Complete lattice theory
 - [ ] `ConditionallyCompleteLattice/` - Conditionally complete lattices
 - [ ] `Defs/` - Core definitions for order theory
 - [ ] `Extension/` - Order extensions
