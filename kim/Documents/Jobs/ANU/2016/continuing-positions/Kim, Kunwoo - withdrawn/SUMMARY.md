@@ -27,7 +27,7 @@ Application materials for Kunwoo Kim who applied for the ANU female-only continu
 
 ## Subdirectories
 
-- [ ] `articles/` - 11 research papers including published and submitted works on stochastic heat equations, intermittency, random fractals, and stochastic moving boundary problems
+- [?] `articles/` - 11 research papers including published and submitted works on stochastic heat equations, intermittency, random fractals, and stochastic moving boundary problems
 
 ## Search Tags
 
