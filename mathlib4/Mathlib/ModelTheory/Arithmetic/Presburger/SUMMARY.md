@@ -22,7 +22,7 @@ The `Presburger/` directory contains formalizations of Presburger arithmetic and
 
 ## Subdirectories
 
-- [ ] `Semilinear/` - Theory of linear and semilinear sets in additive commutative monoids
+- [x] `Semilinear/` - Theory of linear and semilinear sets in additive commutative monoids
 
 ## Search Tags
 
