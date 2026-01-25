@@ -28,7 +28,7 @@ Collection of 10 weekly calculus tutorial worksheets from Semester 1 2015 for MA
 - [x] `Worksheet 04/` - Week 4 worksheet on differential equations, improper integrals, arc length, and series convergence
 - [x] `Worksheet 05/` - Week 5 worksheet on power series convergence and MacLaurin series
 - [x] `Worksheet 06/` - Week 6 worksheet on parametric curves (tangent lines, concavity, curve sketching)
-- [ ] `Worksheet 07/` - Week 7 worksheet with LaTeX sources, compiled PDFs, and old versions
+- [x] `Worksheet 07/` - Week 7 worksheet on Taylor polynomial approximation and parametric curves
 - [ ] `Worksheet 08/` - Week 8 worksheet with LaTeX sources and compiled PDFs
 - [ ] `Worksheet 09/` - Week 9 worksheet with LaTeX sources and compiled PDFs
 - [ ] `Worksheet 10/` - Week 10 worksheet with LaTeX sources and compiled PDFs
