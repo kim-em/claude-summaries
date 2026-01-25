@@ -114,7 +114,7 @@ The `Order/` directory contains comprehensive formalization of order theory in a
 - [x] `Bounds/` - Bounds, suprema, and infima
 - [x] `Category/` - Categorical structures for orders
 - [x] `Circular/` - Circular order theory
-- [ ] `CompactlyGenerated/` - Compactly generated lattices
+- [x] `CompactlyGenerated/` - Compactly generated lattices
 - [ ] `CompleteLattice/` - Complete lattice theory
 - [ ] `ConditionallyCompleteLattice/` - Conditionally complete lattices
 - [ ] `Defs/` - Core definitions for order theory
