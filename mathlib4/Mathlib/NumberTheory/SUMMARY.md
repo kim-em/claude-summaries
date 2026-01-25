@@ -77,7 +77,7 @@ The `NumberTheory/` directory contains comprehensive formalizations of classical
 - [x] `EulerProduct/` - Euler product formulas for L-functions
 - [x] `FLT/` - Fermat's Last Theorem related infrastructure
 - [x] `Harmonic/` - Harmonic numbers and series
-- [~] `Height/` - Height functions in Diophantine geometry
+- [x] `Height/` - Height functions in Diophantine geometry
 - [ ] `JacobiSum/` - Jacobi sums
 - [ ] `LSeries/` - L-series theory (Dirichlet, Riemann zeta, Hurwitz zeta, analytic continuation)
 - [ ] `LegendreSymbol/` - Legendre and Jacobi symbols, quadratic reciprocity
