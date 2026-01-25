@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/continuing-positions/Kim, Kunwoo - withdrawn
-generated: 2026-01-25T09:50:00Z
+generated: 2026-01-25T09:58:00Z
 git_sha: fafb26e72fe7b535873cd5b8a8f359b75df7fe29
 git_branch: master
-status: preliminary
+status: complete
 files_count: 6
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Application materials for Kunwoo Kim who applied for the ANU female-only continuing position in Mathematical Science but withdrew from consideration. Kim was a postdoctoral fellow at MSRI and the Technion (starting January 2016) with a PhD from University of Illinois at Urbana-Champaign (2012) under advisor Richard Sowers. His research focused on stochastic analysis and probability, particularly stochastic partial differential equations (SPDEs), numerical analysis of SPDEs, and random fractals. The application includes a formal cover letter, CV with extensive publication record in stochastic PDEs, and four reference letters from distinguished mathematicians.
+Application materials for Kunwoo Kim who applied for the ANU 2016 female-only continuing position in Mathematical Science but withdrew from consideration. Kim was a postdoctoral fellow at MSRI (2015) and moving to the Technion (starting January 2016), with a PhD from University of Illinois at Urbana-Champaign (2012) under Richard Sowers. His research focused on stochastic analysis and probability, particularly stochastic partial differential equations (SPDEs), numerical analysis of SPDEs, intermittency phenomena, and random fractals. The application includes a cover letter expressing interest in Academic Level B positions, a comprehensive CV showing 13 publications on SPDEs, and four strong reference letters from his PhD advisor (Sowers), research mentor (Khoshnevisan), research collaborator (Mueller), and teaching supervisor (Korevaar). The `articles/` subdirectory containing 11 of his research papers was too large to process and is marked for manual review.
 
 ## Key Files
 
@@ -27,7 +27,7 @@ Application materials for Kunwoo Kim who applied for the ANU female-only continu
 
 ## Subdirectories
 
-- [?] `articles/` - 11 research papers including published and submitted works on stochastic heat equations, intermittency, random fractals, and stochastic moving boundary problems
+- [?] `articles/` - 11 research papers (published and submitted) on stochastic heat equations, intermittency, random fractals, and stochastic moving boundary problems (skipped: too large to process)
 
 ## Search Tags
 
