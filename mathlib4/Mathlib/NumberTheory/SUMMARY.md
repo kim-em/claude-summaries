@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/NumberTheory
-generated: 2026-01-25T21:30:00Z
+generated: 2026-01-25T05:20:30Z
 git_sha: 542a7d7979ad5f45d2a89008412e565c8fa001d2
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 47
 subdirs_count: 21
 ---
@@ -12,7 +12,17 @@ subdirs_count: 21
 
 ## Overview
 
-The `NumberTheory/` directory contains comprehensive formalizations of classical and modern number theory, spanning elementary topics (primality, divisibility, factorization) through advanced theories (L-series, p-adic analysis, algebraic number theory, modular forms). The directory includes major results like Bertrand's postulate, the Lucas-Lehmer primality test for Mersenne primes, Pell's equation solutions, Diophantine equations (including Matiyasevic's theorem), and arithmetic function theory. It provides both computational tools (primality tests, factorization algorithms) and deep theoretical frameworks (class numbers, adele rings, L-functions, p-adic valuations).
+The `NumberTheory/` directory provides a comprehensive formalization spanning the entire landscape of number theory, from elementary results to deep modern theorems. At the elementary level, it establishes foundational theory: primality testing (Lucas-Lehmer for Mersenne primes, Fermat pseudoprimes), divisibility and perfect numbers, factorization properties, Bertrand's postulate, Chebyshev's theorem, Wilson's theorem, and smooth numbers. Classical Diophantine theory includes complete solutions to Pell's equation, Pythagorean triples, sums of squares (Fermat's two-square theorem, Lagrange's four-square theorem), Matiyasevic's theorem on Diophantine sets, and verified proofs of Fermat's Last Theorem for n=3 and n=4.
+
+The arithmetic function framework (`ArithmeticFunction/`) establishes the Dirichlet ring structure with Möbius inversion, von Mangoldt function, divisor sums, and multiplicative characters. This infrastructure supports advanced analytic number theory through the `LSeries/` subdirectory, which provides a complete treatment of L-series theory: Riemann and Hurwitz zeta functions with analytic continuation and functional equations, Dirichlet L-functions with Euler products and non-vanishing results, culminating in a full proof of Dirichlet's theorem on primes in arithmetic progressions.
+
+Algebraic number theory is formalized through multiple interconnected subdirectories. The `NumberField/` framework defines number fields as finite extensions of ℚ with complete infrastructure: rings of integers as Dedekind domains with integral bases, fractional ideals, discriminants (Hermite-Minkowski theorem), class numbers and Minkowski bounds, infinite places (real/complex embeddings) and finite places (v-adic valuations), canonical embedding into ℝ^r₁ × ℂ^r₂ enabling geometric methods, adele rings for global-local perspectives, and Dirichlet's Unit Theorem. Specialized number field classes include `Cyclotomic/` (cyclotomic extensions ℚ(ζₙ) with Galois groups (ℤ/nℤ)ˣ, discriminant formulas, cyclotomic characters), `ClassNumber/` (finiteness via admissible absolute values for both number fields and function fields), and `Zsqrtd/` (quadratic integer rings ℤ[√d] with Gaussian integers ℤ[i] as a Euclidean domain).
+
+The `Padics/` subdirectory develops p-adic number theory from valuations (Legendre's and Kummer's theorems) through construction of ℚ_p and ℤ_p with their complete nonarchimedean structures, Hensel's lemma, Mahler's theorem connecting continuous functions to vanishing sequences, and p-adic complex numbers ℂ_p. Local field theory (`LocalField/`) establishes general non-archimedean local fields with DVR structure and finite residue fields.
+
+Additional specialized topics include `ModularForms/` (slash actions, Eisenstein series, Jacobi theta functions, Dedekind eta, q-expansions, Petersson product, Hecke bounds), `LegendreSymbol/` (quadratic reciprocity with Gauss and Eisenstein lemmas, Jacobi symbols, additive characters), `DirichletCharacter/` (primitive characters, conductors, Gauss sums, orthogonality), `DiophantineApproximation/` (Dirichlet's theorem, Legendre's theorem on continued fractions), `Harmonic/` (harmonic numbers with Euler-Mascheroni constant γ and connections to Γ'(n+1) and ζ(s) near s=1), `Height/` (height functions for Diophantine geometry), `RamificationInertia/` (ramification index and inertia degree in Galois extensions), and `Transcendental/` (Lindemann-Weierstrass analytic methods and Liouville's constructive transcendence via Diophantine approximation).
+
+The directory seamlessly integrates computational tools (primality tests, factorization, norm bounds) with deep theoretical frameworks (class field theory infrastructure, analytic continuation, functional equations), providing a unified foundation for both elementary and advanced number-theoretic research in Lean.
 
 ## Key Files
 
