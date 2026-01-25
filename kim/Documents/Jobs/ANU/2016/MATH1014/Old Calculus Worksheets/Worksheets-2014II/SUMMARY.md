@@ -28,7 +28,7 @@ Weekly calculus tutorial worksheets from MATH1014 Semester 2 2014, spanning Augu
 - [x] `Worksheet 04/` - Differential equations, improper integrals, circle/sphere geometry, series convergence (August 26-29)
 - [x] `Worksheet 05/` - Power series convergence and MacLaurin series (September 23-26)
 - [x] `Worksheet 06/` - Parametric curves: tangent lines, concavity analysis, curve sketching (September 30 - October 3)
-- [ ] `Worksheet 07/` - Calculus problems for week 7 with LaTeX sources and compiled PDF
+- [x] `Worksheet 07/` - Parametric curves: arclength and area calculations (October 7-10)
 - [ ] `Worksheet 08/` - Calculus problems for week 8 with LaTeX sources
 - [ ] `Worksheet 09/` - Calculus problems for week 9 with LaTeX sources
 - [ ] `Worksheet 10/` - Multivariable calculus: critical points, Hessian matrices, second derivative test (October 28-31)
