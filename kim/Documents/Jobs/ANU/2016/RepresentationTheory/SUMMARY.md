@@ -21,7 +21,7 @@ This folder contains only subdirectories with student work.
 ## Subdirectories
 
 - [x] `Benjamin/` - Benjamin Thompson's course materials including final report on Burnside-Dixon Algorithm and Hurwitz's Theorem
-- [ ] `Tejas/` - Tejas Iyer's course materials including final report on computing characters of finite groups and problem sets
+- [x] `Tejas/` - Tejas Iyer's course materials including final report on computing characters of finite groups and problem sets
 
 ## Search Tags
 
