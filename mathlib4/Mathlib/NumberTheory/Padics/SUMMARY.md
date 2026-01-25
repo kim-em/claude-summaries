@@ -33,7 +33,7 @@ The `Padics/` directory contains the complete formalization of p-adic numbers an
 
 ## Subdirectories
 
-- [ ] `PadicVal/` - p-adic valuation definitions for ℕ, ℤ, and ℚ
+- [x] `PadicVal/` - p-adic valuation definitions for ℕ, ℤ, and ℚ
 
 ## Search Tags
 
