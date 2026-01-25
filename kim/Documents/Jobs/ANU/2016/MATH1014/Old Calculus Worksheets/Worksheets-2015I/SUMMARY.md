@@ -29,7 +29,7 @@ Collection of 10 weekly calculus tutorial worksheets from Semester 1 2015 for MA
 - [x] `Worksheet 05/` - Week 5 worksheet on power series convergence and MacLaurin series
 - [x] `Worksheet 06/` - Week 6 worksheet on parametric curves (tangent lines, concavity, curve sketching)
 - [x] `Worksheet 07/` - Week 7 worksheet on Taylor polynomial approximation and parametric curves
-- [ ] `Worksheet 08/` - Week 8 worksheet with LaTeX sources and compiled PDFs
+- [x] `Worksheet 08/` - Week 8 worksheet on arc length calculations for polar curves
 - [ ] `Worksheet 09/` - Week 9 worksheet with LaTeX sources and compiled PDFs
 - [ ] `Worksheet 10/` - Week 10 worksheet with LaTeX sources and compiled PDFs
 
