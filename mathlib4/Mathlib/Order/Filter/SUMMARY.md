@@ -53,7 +53,7 @@ The `Filter/` directory provides comprehensive formalization of filter theory in
 ## Subdirectories
 
 - [x] `AtTopBot/` - Filters at top and bottom (atTop, atBot) for ordered types
-- [ ] `Bases/` - Filter bases and their properties
+- [x] `Bases/` - Filter bases and their properties
 - [ ] `Germ/` - Germs of functions modulo filters (equivalence classes of eventually equal functions)
 - [ ] `Ultrafilter/` - Ultrafilters (maximal proper filters) and their properties
 
