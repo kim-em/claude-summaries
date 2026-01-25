@@ -23,7 +23,7 @@ Faculty continuing position selection committee materials for a female-only lect
 ## Subdirectories
 
 - [x] `Choi, Yunjin/` - Application materials for Yunjin Choi (includes application, CV, reference letters from Johnstone/Owen/Taylor/Tibshirani, and research articles)
-- [ ] `Fang, Xiao/` - Application materials for Xiao Fang
+- [x] `Fang, Xiao/` - Application materials for Xiao Fang (complete package with CV, research/teaching statements, peer reviews, student evaluations, and 4 strong reference letters from Barbour/Chen/Shao describing breakthrough work on Stein's method and multivariate normal approximation)
 - [ ] `Ghosh, Subhroshekhar/` - Application materials for Subhroshekhar Ghosh
 - [ ] `Hui, Francis/` - Application materials for Francis Hui
 - [ ] `Kim, Kunwoo - withdrawn/` - Application materials for Kunwoo Kim (withdrew from consideration)
