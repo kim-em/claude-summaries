@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/continuing-positions/Tarr, Garth
-generated: 2026-01-26T10:30:00Z
+generated: 2026-01-26T11:00:00Z
 git_sha: fafb26e72fe7b535873cd5b8a8f359b75df7fe29
 git_branch: master
-status: preliminary
+status: complete
 files_count: 6
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Application materials for Garth Tarr, a Lecturer at University of Newcastle applying for a continuing lecturer/senior lecturer position in Mathematical Sciences at ANU in 2016. Tarr was a postdoctoral fellow at ANU MSI in 2014-2015 under Alan Welsh and Samuel Müller. The application showcases an early-career statistician with exceptional research output in robust statistics and model selection, strong teaching credentials (multiple awards), and emerging leadership in statistical software development (R packages with hundreds of downloads monthly). His PhD from University of Sydney (2014) focused on quantile-based estimation of scale and dependence, and he had already published 5 peer-reviewed articles plus 3 influential R packages by application time.
+Application materials for Garth Tarr, a Lecturer at University of Newcastle applying for a continuing lecturer/senior lecturer position in Mathematical Sciences at ANU in 2016. Tarr was a postdoctoral fellow at ANU MSI in 2014-2015 under Alan Welsh and Samuel Müller. The application showcases an exceptional early-career statistician with a distinctive research profile combining theoretical depth, computational innovation, and practical impact. His 5 peer-reviewed publications span robust scale estimation (Pn estimator with 86% efficiency), precision matrix estimation under cellwise contamination for high-dimensional data, quantile regression confidence intervals for small samples, and theoretical work on long range dependent processes. Beyond traditional publications, Tarr had developed 3 influential R packages (mplot, pairsD3, edgebundleR) with hundreds of monthly downloads, earning comparisons to Hadley Wickham from his PhD supervisor Samuel Müller. His teaching record was exceptional (Vice-Chancellor's Award, coordination of 700-student courses), and reference letters uniformly describe him as performing at senior lecturer level with potential to "go all the way in academia." The application represents a return to ANU after his successful 2014-2015 postdoctoral fellowship.
 
 ## Key Files
 
@@ -27,7 +27,7 @@ Application materials for Garth Tarr, a Lecturer at University of Newcastle appl
 
 ## Subdirectories
 
-- [x] `articles/` - 5 research publications by Tarr on robust statistics topics (scale estimation, precision matrices, quantile regression)
+- [x] `articles/` - 5 peer-reviewed research publications demonstrating expertise in robust statistics (Pn scale estimator, precision matrix estimation under cellwise contamination), quantile regression (bootstrap confidence intervals, asymptotic theory for long range dependence), and computational methods combining theoretical statistics with practical R implementation
 
 ## Search Tags
 
