@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/NumberTheory/ModularForms/EisensteinSeries
-generated: 2026-01-25T21:30:00Z
+generated: 2026-01-25T22:45:00Z
 git_sha: 542a7d7979ad5f45d2a89008412e565c8fa001d2
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 7
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-The `EisensteinSeries/` directory provides a comprehensive formalization of Eisenstein series for modular forms, including their definitions, convergence properties, holomorphicity, and q-expansions. It establishes that Eisenstein series of weight k ≥ 3 and level Γ(N) are modular forms by proving slash-invariance, boundedness at cusps, and holomorphicity. The implementation includes detailed summability results, uniform convergence proofs, and explicit q-expansion formulas relating Eisenstein series to Riemann zeta values and Bernoulli numbers. A specialized treatment of the weight-2 case (E2) is provided separately, as it requires different techniques due to conditional convergence.
+The `EisensteinSeries/` directory provides a comprehensive formalization of Eisenstein series for modular forms across all weights k ≥ 2. For weights k ≥ 3, the implementation establishes that Eisenstein series are genuine modular forms by proving slash-invariance, boundedness at cusps, and holomorphicity via absolutely convergent sums over coprime integer pairs. The theory includes detailed summability results, uniform convergence proofs, and explicit q-expansion formulas relating Eisenstein series to Riemann zeta values, Bernoulli numbers, and divisor sums. The weight-2 case receives specialized treatment in the `E2/` subdirectory, as it requires conditional summation techniques and exhibits quasi-modular behavior (transforming with an anomalous defect function under SL(2,ℤ) action) rather than being a true modular form.
 
 ## Key Files
 
