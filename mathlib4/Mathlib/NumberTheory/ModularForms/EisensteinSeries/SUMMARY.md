@@ -28,7 +28,7 @@ The `EisensteinSeries/` directory provides a comprehensive formalization of Eise
 
 ## Subdirectories
 
-- [ ] `E2/` - Weight-2 Eisenstein series requiring conditional summation over symmetric intervals
+- [x] `E2/` - Weight-2 Eisenstein series requiring conditional summation over symmetric intervals
 
 ## Search Tags
 
