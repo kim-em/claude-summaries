@@ -20,7 +20,7 @@ No files in this directory - all content is in subdirectories.
 
 ## Subdirectories
 
-- [~] `Presburger/` - Presburger arithmetic (first-order theory of natural numbers with addition)
+- [x] `Presburger/` - Presburger arithmetic (first-order theory of natural numbers with addition)
 
 ## Search Tags
 
