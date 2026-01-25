@@ -73,7 +73,7 @@ The `NumberTheory/` directory contains comprehensive formalizations of classical
 - [x] `ClassNumber/` - Class number theory for number fields and quadratic forms
 - [x] `Cyclotomic/` - Cyclotomic fields and polynomials
 - [x] `DiophantineApproximation/` - Diophantine approximation theory
-- [ ] `DirichletCharacter/` - Dirichlet characters and their properties
+- [x] `DirichletCharacter/` - Dirichlet characters and their properties
 - [ ] `EulerProduct/` - Euler product formulas for L-functions
 - [ ] `FLT/` - Fermat's Last Theorem related infrastructure
 - [ ] `Harmonic/` - Harmonic numbers and series
