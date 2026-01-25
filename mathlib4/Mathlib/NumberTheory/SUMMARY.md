@@ -81,7 +81,7 @@ The `NumberTheory/` directory contains comprehensive formalizations of classical
 - [x] `JacobiSum/` - Jacobi sums
 - [x] `LSeries/` - L-series theory (Dirichlet, Riemann zeta, Hurwitz zeta, analytic continuation)
 - [x] `LegendreSymbol/` - Legendre and Jacobi symbols, quadratic reciprocity
-- [ ] `LocalField/` - Local field theory
+- [x] `LocalField/` - Local field theory
 - [ ] `ModularForms/` - Modular forms and their q-expansions
 - [ ] `MulChar/` - Multiplicative characters
 - [ ] `NumberField/` - Algebraic number fields (ideals, class groups, adele rings, infinite places, units)
