@@ -27,7 +27,7 @@ Weekly calculus tutorial worksheets from MATH1014 Semester 2 2014, spanning Augu
 - [x] `Worksheet 03/` - Separable ODEs with initial values and convergent series (August 19-22)
 - [x] `Worksheet 04/` - Differential equations, improper integrals, circle/sphere geometry, series convergence (August 26-29)
 - [x] `Worksheet 05/` - Power series convergence and MacLaurin series (September 23-26)
-- [ ] `Worksheet 06/` - Calculus problems for week 6 with LaTeX sources and compiled PDF
+- [x] `Worksheet 06/` - Parametric curves: tangent lines, concavity analysis, curve sketching (September 30 - October 3)
 - [ ] `Worksheet 07/` - Calculus problems for week 7 with LaTeX sources and compiled PDF
 - [ ] `Worksheet 08/` - Calculus problems for week 8 with LaTeX sources
 - [ ] `Worksheet 09/` - Calculus problems for week 9 with LaTeX sources
