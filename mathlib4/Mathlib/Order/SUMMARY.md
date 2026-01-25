@@ -111,7 +111,7 @@ The `Order/` directory contains comprehensive formalization of order theory in a
 - [x] `Atoms/` - Atomic and coatomic structures
 - [x] `BooleanAlgebra/` - Boolean algebra hierarchy
 - [x] `BoundedOrder/` - Bounded orders with top and bottom
-- [ ] `Bounds/` - Bounds, suprema, and infima
+- [x] `Bounds/` - Bounds, suprema, and infima
 - [ ] `Category/` - Categorical structures for orders
 - [ ] `Circular/` - Circular order theory
 - [ ] `CompactlyGenerated/` - Compactly generated lattices
