@@ -31,7 +31,7 @@ Application materials for Subhroshekhar Ghosh, a postdoctoral researcher at Prin
 
 ## Subdirectories
 
-- [ ] `articles/` - Research papers authored or co-authored by Ghosh (10 papers on topics including Gaussian zeros, Ginibre eigenvalues, determinantal processes, percolation, random polynomials, rigidity and tolerance in point processes, quantum algorithms, and semiclassical limits)
+- [?] `articles/` - Research papers authored or co-authored by Ghosh (10 papers on topics including Gaussian zeros, Ginibre eigenvalues, determinantal processes, percolation, random polynomials, rigidity and tolerance in point processes, quantum algorithms, and semiclassical limits)
 
 ## Search Tags
 

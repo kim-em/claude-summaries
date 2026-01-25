@@ -60,3 +60,4 @@ This file tracks files that couldn't be processed with standard tools and need s
 - `Documents/Jobs/ANU/2016/Lecturer, Senior Lecturer or Associate Professor in Mathematical Science (Female Only)/yes/Wang, Hang/papers/` - Claude error: PDF too large. Try reading the file a different way (e.g., extract text with a CLI too... (skipped 2026-01-24T16:03:31Z)
 - `Documents/Jobs/ANU/2016/Lecturer, Senior Lecturer or Associate Professor in Mathematical Science (Female Only)/yes/Wang, Qian/papers/` - Claude error: PDF too large. Try reading the file a different way (e.g., extract text with a CLI too... (skipped 2026-01-24T16:12:29Z)
 - `Documents/Jobs/ANU/2016/MATH1014/Notes/LinearAlgebra/Lecture10/diagrams/` - Claude error: Request too large. Try with a smaller file.  (skipped 2026-01-24T18:26:58Z)
+- `Documents/Jobs/ANU/2016/continuing-positions/Ghosh, Subhroshekhar/articles/` - Claude error: Prompt is too long  (skipped 2026-01-25T05:13:18Z)
