@@ -22,7 +22,7 @@ No files directly in this folder.
 
 - [x] `Worksheets-2013II/` - 10 weekly calculus worksheets from Semester 2 2013 with LaTeX sources
 - [x] `Worksheets-2014II/` - 10 weekly calculus worksheets from Semester 2 2014 with LaTeX sources and compiled PDF (WA_MATH 1014_14II.pdf, 24 pages)
-- [ ] `Worksheets-2015I/` - 10 weekly calculus worksheets from Semester 1 2015 with LaTeX sources and compiled PDF (WA_MATH 1014_14II.pdf, 24 pages)
+- [~] `Worksheets-2015I/` - 10 weekly calculus worksheets from Semester 1 2015 with LaTeX sources and compiled PDF (WA_MATH 1014_14II.pdf, 24 pages)
 
 ## Search Tags
 
