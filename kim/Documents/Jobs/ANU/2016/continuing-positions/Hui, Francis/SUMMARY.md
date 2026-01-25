@@ -27,7 +27,7 @@ Application materials for Francis K.C. Hui, a postdoctoral fellow at ANU's Mathe
 
 ## Subdirectories
 
-- [ ] `articles/` - Collection of 13 research articles by Francis Hui covering topics in ecological statistics, mixture models, species distribution modeling, and multivariate abundance data analysis
+- [x] `articles/` - Collection of 13 research articles by Francis Hui covering topics in ecological statistics, mixture models, species distribution modeling, and multivariate abundance data analysis
 
 ## Search Tags
 
