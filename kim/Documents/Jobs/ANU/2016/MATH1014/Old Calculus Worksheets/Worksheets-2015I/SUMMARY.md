@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/MATH1014/Old Calculus Worksheets/Worksheets-2015I
-generated: 2026-01-25T09:30:00Z
+generated: 2026-01-25T11:15:00Z
 git_sha: fafb26e72fe7b535873cd5b8a8f359b75df7fe29
 git_branch: master
-status: preliminary
+status: complete
 files_count: 1
 subdirs_count: 10
 ---
@@ -12,7 +12,7 @@ subdirs_count: 10
 
 ## Overview
 
-Collection of 10 weekly calculus tutorial worksheets from Semester 1 2015 for MATH1014. Each worksheet directory contains LaTeX source files for both the problems (Worksheet XX_MATH 1014.tex) and solutions (WA XX_MATH 1014.tex), along with their compiled PDF versions. Topics covered include Riemann sums, improper integrals, convergence/divergence tests, integration by parts, and other first-year calculus content. The collection also includes a compiled PDF combining all worksheets.
+Complete set of 10 weekly calculus tutorial worksheets from Semester 1 2015 for MATH1014 at ANU. The collection follows a carefully structured curriculum progression: starting with single-variable integration techniques (Riemann sums, improper integrals, convergence tests, integration by parts) in Weeks 1-5, moving to geometric applications and series theory (solids of revolution, arc length, power series, Taylor polynomials) in Weeks 6-8, and culminating in multivariable calculus (partial differential equations, chain rule, critical points, directional derivatives) in Weeks 9-10. Each worksheet directory contains LaTeX source files for both problems and solutions, with compiled PDFs providing full worked solutions. The collection includes a master PDF (WA_MATH 1014_14II.pdf) combining all 10 worksheets with answers for convenient reference.
 
 ## Key Files
 
@@ -35,4 +35,4 @@ Collection of 10 weekly calculus tutorial worksheets from Semester 1 2015 for MA
 
 ## Search Tags
 
-anu math1014 calculus worksheets 2015 semester1 riemann-sums improper-integrals convergence divergence integration-by-parts tutorial-problems latex midpoint-approximation comparison-test p-integrals
+anu math1014 calculus worksheets 2015 semester1 riemann-sums improper-integrals convergence divergence integration-by-parts tutorial-problems latex midpoint-approximation comparison-test p-integrals solids-of-revolution washer-method differential-equations separable-ode initial-value-problem infinite-series telescoping-sum power-series maclaurin-series taylor-polynomial lagrange-remainder parametric-curves polar-coordinates arc-length multivariable-calculus laplace-equation partial-derivatives chain-rule critical-points hessian-matrix second-derivative-test directional-derivatives gradient saddle-points ratio-test alternating-series-test endpoint-analysis
