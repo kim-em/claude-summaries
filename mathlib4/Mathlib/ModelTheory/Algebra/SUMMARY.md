@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/ModelTheory/Algebra
-generated: 2026-01-25T10:15:30Z
+generated: 2026-01-25T20:15:00Z
 git_sha: 542a7d7979ad5f45d2a89008412e565c8fa001d2
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 0
 subdirs_count: 2
 ---
@@ -12,7 +12,7 @@ subdirs_count: 2
 
 ## Overview
 
-The `Algebra/` directory applies first-order model theory to algebraic structures, specifically rings and fields. It defines the language of rings (with operations +, *, -, 0, 1), establishes compatibility between model-theoretic structures and Mathlib's algebraic type classes, and develops theories for fields, algebraically closed fields, and their characteristic properties. This directory bridges the gap between abstract model theory (syntax, semantics, structures) and concrete algebra, enabling reasoning about rings and fields using first-order logic.
+The `Algebra/` directory applies first-order model theory to algebraic structures, specifically rings and fields. It provides the formal language of rings with operations (+, *, -, 0, 1), establishes compatibility between model-theoretic structures (`Language.ring.Structure`) and Mathlib's algebraic type classes (`Ring`, `Field`), and develops complete first-order theories for fields with various characteristics and algebraically closed fields. The directory solves the fundamental problem of bridging two different ways to express algebraic structures: via Mathlib's type classes versus model theory's structure semantics. It includes major results such as the completeness and categoricity of the theory of algebraically closed fields (ACF), the Lefschetz principle relating characteristic 0 to characteristic p, and the definability of polynomial zero loci.
 
 ## Key Files
 
@@ -20,8 +20,8 @@ This directory contains no files directly—all content is organized into subdir
 
 ## Subdirectories
 
-- [x] `Field/` - Model theory of fields: field axioms, characteristic p, algebraically closed fields (ACF), completeness, Lefschetz principle
-- [x] `Ring/` - Language of rings, structure compatibility, definability of polynomial zero loci, FreeCommRing term conversion
+- [x] `Field/` - First-order theory of fields as axioms over the language of rings, theories of fields with specific characteristics (0 and prime p), complete theory of algebraically closed fields with completeness and κ-categoricity proofs, Lefschetz principle relating characteristic 0 to characteristic p
+- [x] `Ring/` - Defines `Language.ring` with function symbols {+, *, -, 0, 1}, `CompatibleRing` type class for reconciling model-theoretic and algebraic structures, bidirectional conversions, definability of multivariable polynomial zero loci, and conversion of `FreeCommRing` elements to terms
 
 ## Search Tags
 
