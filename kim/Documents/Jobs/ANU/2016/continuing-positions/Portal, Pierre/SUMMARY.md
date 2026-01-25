@@ -27,7 +27,7 @@ Application materials for Pierre Portal, a candidate for a female-only continuin
 
 ## Subdirectories
 
-- [~] `articles/` - Research publications (11 PDF files including papers on Gaussian Hardy spaces, tent spaces, functional calculus, Ornstein-Uhlenbeck operators, and related topics in harmonic and stochastic analysis)
+- [x] `articles/` - Research publications (11 PDF files including papers on Gaussian Hardy spaces, tent spaces, functional calculus, Ornstein-Uhlenbeck operators, and related topics in harmonic and stochastic analysis)
 
 ## Search Tags
 
