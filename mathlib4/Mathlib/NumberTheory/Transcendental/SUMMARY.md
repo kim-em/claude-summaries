@@ -21,7 +21,7 @@ No files directly in this directory.
 ## Subdirectories
 
 - [x] `Lindemann/` - Analytic part of the Lindemann-Weierstrass theorem
-- [ ] `Liouville/` - Liouville's theorem and Liouville numbers (transcendental via approximation)
+- [x] `Liouville/` - Liouville's theorem and Liouville numbers (transcendental via approximation)
 
 ## Search Tags
 
