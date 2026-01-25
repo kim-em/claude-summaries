@@ -45,7 +45,7 @@ The `ModelTheory/` directory contains a comprehensive formalization of first-ord
 ## Subdirectories
 
 - [x] `Algebra/` - Model theory of algebraic structures (fields, rings)
-- [~] `Arithmetic/` - Model theory of arithmetic (Presburger arithmetic)
+- [x] `Arithmetic/` - Model theory of arithmetic (Presburger arithmetic)
 - [ ] `Topology/` - Model theory of topological structures
 
 ## Search Tags
