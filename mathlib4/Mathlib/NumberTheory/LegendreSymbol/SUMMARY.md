@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/NumberTheory/LegendreSymbol
-generated: 2026-01-25T22:15:00Z
+generated: 2026-01-25T22:50:00Z
 git_sha: 542a7d7979ad5f45d2a89008412e565c8fa001d2
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 6
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-The `LegendreSymbol/` directory provides a comprehensive formalization of the Legendre and Jacobi symbols, fundamental tools in number theory for determining quadratic residuosity. The directory includes the definition and basic properties of the Legendre symbol for primes, its generalization to the Jacobi symbol for composite moduli, the celebrated Law of Quadratic Reciprocity and its supplementary laws, Gauss's and Eisenstein's lemmas, and the underlying theory of quadratic characters on finite fields and rings. The implementation includes optimized computational methods for efficient evaluation via fast recursive algorithms.
+The `LegendreSymbol/` directory provides a comprehensive formalization of the Legendre and Jacobi symbols, fundamental tools in number theory for determining quadratic residuosity. The directory includes the definition and basic properties of the Legendre symbol for primes (via Euler's criterion), its generalization to the Jacobi symbol for composite moduli, the celebrated Law of Quadratic Reciprocity and its supplementary laws for -1, 2, and -2, and Gauss's and Eisenstein's lemmas used in reciprocity proofs. The underlying theory is built on additive characters, quadratic characters on finite fields (which compute via Euler's criterion and connect to special values via Gauss sums), and specialized characters χ₄, χ₈, χ₈' on ZMod rings. The `QuadraticChar/` subdirectory extends these ideas to finite fields generally, proving when elements like -1, 2, and odd primes are squares based on field cardinality modulo 4 and 8. Applications include binary quadratic forms, counting square roots, and efficient computation via fast recursive algorithms with csimp rules.
 
 ## Key Files
 
@@ -27,7 +27,7 @@ The `LegendreSymbol/` directory provides a comprehensive formalization of the Le
 
 ## Subdirectories
 
-- [x] `QuadraticChar/` - Quadratic characters on finite fields and their Gauss sums
+- [x] `QuadraticChar/` - Quadratic characters on finite fields determining quadratic residuosity via Euler's criterion, Gauss sum theory for special values at 2/-2, criteria for when elements are squares based on card F mod 8, reciprocity theorem relating characters across different fields
 
 ## Search Tags
 

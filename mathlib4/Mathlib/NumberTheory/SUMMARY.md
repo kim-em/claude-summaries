@@ -80,7 +80,7 @@ The `NumberTheory/` directory contains comprehensive formalizations of classical
 - [x] `Height/` - Height functions in Diophantine geometry
 - [x] `JacobiSum/` - Jacobi sums
 - [x] `LSeries/` - L-series theory (Dirichlet, Riemann zeta, Hurwitz zeta, analytic continuation)
-- [~] `LegendreSymbol/` - Legendre and Jacobi symbols, quadratic reciprocity
+- [x] `LegendreSymbol/` - Legendre and Jacobi symbols, quadratic reciprocity
 - [ ] `LocalField/` - Local field theory
 - [ ] `ModularForms/` - Modular forms and their q-expansions
 - [ ] `MulChar/` - Multiplicative characters
