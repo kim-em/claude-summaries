@@ -31,7 +31,7 @@ Collection of 10 weekly calculus tutorial worksheets from Semester 1 2015 for MA
 - [x] `Worksheet 07/` - Week 7 worksheet on Taylor polynomial approximation and parametric curves
 - [x] `Worksheet 08/` - Week 8 worksheet on arc length calculations for polar curves
 - [x] `Worksheet 09/` - Week 9 worksheet on Laplace equation and multivariable chain rule
-- [ ] `Worksheet 10/` - Week 10 worksheet with LaTeX sources and compiled PDFs
+- [x] `Worksheet 10/` - Week 10 worksheet on critical points (Hessian, second derivative test) and directional derivatives
 
 ## Search Tags
 
