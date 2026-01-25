@@ -46,7 +46,7 @@ The `Mathlib/` directory is the core of the mathlib4 library, containing the com
 - [x] `MeasureTheory/` - Measure theory and integration
 - [x] `ModelTheory/` - Comprehensive first-order model theory following the Flypitch project: complete infrastructure for languages, structures, theories (Compactness, Löwenheim-Skolem, Fraïssé), semantic properties (ultraproducts, types, definability, categoricity), with specialized applications to algebraic structures (complete theories of algebraically closed fields, Lefschetz principle), arithmetic (Presburger arithmetic via semilinear sets), and topology (type spaces as totally separated spaces)
 - [x] `NumberTheory/` - Number theory (primes, divisibility, Diophantine equations, arithmetic functions)
-- [ ] `Order/` - Order theory (partial orders, lattices, well-founded relations, ordinals)
+- [~] `Order/` - Order theory (partial orders, lattices, well-founded relations, ordinals)
 - [ ] `Probability/` - Probability theory
 - [ ] `RepresentationTheory/` - Representation theory of groups and algebras
 - [ ] `RingTheory/` - Ring theory (ideals, modules, homological algebra, commutative algebra)
