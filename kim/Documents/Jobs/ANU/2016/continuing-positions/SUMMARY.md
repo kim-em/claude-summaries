@@ -22,7 +22,7 @@ Faculty continuing position selection committee materials for a female-only lect
 
 ## Subdirectories
 
-- [ ] `Choi, Yunjin/` - Application materials for Yunjin Choi (includes application, CV, reference letters from Johnstone/Owen/Taylor/Tibshirani, and research articles)
+- [x] `Choi, Yunjin/` - Application materials for Yunjin Choi (includes application, CV, reference letters from Johnstone/Owen/Taylor/Tibshirani, and research articles)
 - [ ] `Fang, Xiao/` - Application materials for Xiao Fang
 - [ ] `Ghosh, Subhroshekhar/` - Application materials for Subhroshekhar Ghosh
 - [ ] `Hui, Francis/` - Application materials for Francis Hui
