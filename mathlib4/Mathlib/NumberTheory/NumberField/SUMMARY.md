@@ -41,7 +41,7 @@ The `NumberField/` directory contains the formalization of algebraic number fiel
 ## Subdirectories
 
 - [x] `CanonicalEmbedding/` - Canonical embedding into product of completions
-- [ ] `Cyclotomic/` - Cyclotomic extension theory for number fields
+- [x] `Cyclotomic/` - Cyclotomic extension theory for number fields
 - [ ] `Discriminant/` - Discriminant computations and properties
 - [ ] `Ideal/` - Ideal theory in rings of integers
 - [ ] `InfinitePlace/` - Infinite places and their structure
