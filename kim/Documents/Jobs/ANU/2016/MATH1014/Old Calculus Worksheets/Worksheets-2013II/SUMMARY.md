@@ -29,7 +29,7 @@ No files directly in this folder.
 - [x] `Worksheet 07/` - Week 7 (Oct 8-11, 2013): Parametric curves, polar coordinates, four-petaled rose curve
 - [x] `Worksheet 08/` - Week 8 (Oct 14-18, 2013): Polar coordinates, cardioid area, arc length calculations
 - [x] `Worksheet 09/` - Week 9 (Oct 21-25, 2013): Laplace equation PDE verification, chain rule with parametric curves
-- [ ] `Worksheet 10/` - Week 10 calculus problems with LaTeX sources
+- [x] `Worksheet 10/` - Week 10 (Oct 28-Nov 1, 2013): Multivariable optimization, critical points, Hessian matrix, second derivative test
 
 ## Search Tags
 
