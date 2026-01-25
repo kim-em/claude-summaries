@@ -25,7 +25,7 @@ Faculty continuing position selection committee materials for a female-only lect
 - [x] `Choi, Yunjin/` - Application materials for Yunjin Choi (includes application, CV, reference letters from Johnstone/Owen/Taylor/Tibshirani, and research articles)
 - [x] `Fang, Xiao/` - Application materials for Xiao Fang (complete package with CV, research/teaching statements, peer reviews, student evaluations, and 4 strong reference letters from Barbour/Chen/Shao describing breakthrough work on Stein's method and multivariate normal approximation)
 - [x] `Ghosh, Subhroshekhar/` - Application materials for Subhroshekhar Ghosh
-- [ ] `Hui, Francis/` - Application materials for Francis Hui
+- [~] `Hui, Francis/` - Application materials for Francis Hui (postdoctoral fellow at ANU MSI applying for continuing lecturer position, includes application, CV, 4 reference letters from Foster/Mueller/Ormerod/Warton, and 13 research articles on ecological statistics and mixture models)
 - [ ] `Kim, Kunwoo - withdrawn/` - Application materials for Kunwoo Kim (withdrew from consideration)
 - [ ] `Lecue, Guillaume/` - Application materials for Guillaume Lecue
 - [ ] `Portal, Pierre/` - Application materials for Pierre Portal
