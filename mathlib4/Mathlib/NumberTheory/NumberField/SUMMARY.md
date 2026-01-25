@@ -44,7 +44,7 @@ The `NumberField/` directory contains the formalization of algebraic number fiel
 - [x] `Cyclotomic/` - Cyclotomic extension theory for number fields
 - [x] `Discriminant/` - Discriminant computations and properties
 - [x] `Ideal/` - Ideal theory in rings of integers
-- [ ] `InfinitePlace/` - Infinite places and their structure
+- [x] `InfinitePlace/` - Infinite places and their structure
 - [ ] `Units/` - Units in rings of integers, regulator
 
 ## Search Tags
