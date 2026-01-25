@@ -31,7 +31,7 @@ Weekly calculus tutorial worksheets from MATH1014 Semester 2 2014, spanning Augu
 - [x] `Worksheet 07/` - Parametric curves: arclength and area calculations (October 7-10)
 - [x] `Worksheet 08/` - Polar coordinates: area enclosed by cardioid, arc length of circular curve (October 14-17)
 - [x] `Worksheet 09/` - Laplace equation PDE verification and chain rule on parametric ellipse (October 21-24)
-- [ ] `Worksheet 10/` - Multivariable calculus: critical points, Hessian matrices, second derivative test (October 28-31)
+- [x] `Worksheet 10/` - Multivariable calculus: critical points, Hessian matrices, second derivative test (October 28-31)
 
 ## Search Tags
 
