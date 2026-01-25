@@ -27,7 +27,7 @@ No files directly in this folder.
 - [x] `Worksheet 05/` - Week 5 (Sep 23-27, 2013): Power series convergence, radius/interval of convergence, MacLaurin series
 - [x] `Worksheet 06/` - Week 6 (Oct 1-4, 2013): Parametric curves, tangent lines, concavity, curve sketching
 - [x] `Worksheet 07/` - Week 7 (Oct 8-11, 2013): Parametric curves, polar coordinates, four-petaled rose curve
-- [ ] `Worksheet 08/` - Week 8 calculus problems with LaTeX sources
+- [x] `Worksheet 08/` - Week 8 (Oct 14-18, 2013): Polar coordinates, cardioid area, arc length calculations
 - [ ] `Worksheet 09/` - Week 9 calculus problems with LaTeX sources
 - [ ] `Worksheet 10/` - Week 10 calculus problems with LaTeX sources
 
