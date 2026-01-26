@@ -105,7 +105,7 @@ The `RingTheory/` directory contains comprehensive formalizations of commutative
 - [x] `GradedAlgebra/` - Graded rings and algebras
 - [x] `HahnSeries/` - Hahn series (generalization of Laurent series)
 - [x] `HopfAlgebra/` - Hopf algebras (bialgebras with antipode)
-- [ ] `Ideal/` - Comprehensive ideal theory (operations, quotients, primes, maximals)
+- [~] `Ideal/` - Comprehensive ideal theory (operations, quotients, primes, maximals)
 - [ ] `IdealFilter/` - Filters of ideals
 - [ ] `Int/` - Ring-theoretic properties specific to integers
 - [ ] `IntegralClosure/` - Integral closure of rings in extensions
