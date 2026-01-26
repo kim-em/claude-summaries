@@ -20,7 +20,7 @@ No files directly in this directory - all materials are organized in individual 
 
 ## Subdirectories
 
-- [~] `Davis, Diana/` - Application materials including 5 reference letters from Smillie, Alongi, Schwartz, Loepp, and Tabachnikov, plus research papers
+- [x] `Davis, Diana/` - Application materials including 5 reference letters from Smillie, Alongi, Schwartz, Loepp, and Tabachnikov, plus research papers
 - [ ] `Holcomb, Diane/` - Application materials including 4 reference letters from Valko, Rider, Bayly, and Ercolani
 - [ ] `Knapp, Johanna/` - Application materials including 4 reference letters from Rebhan, Sharpe, Katzarkov, and Lerche, plus research papers
 - [ ] `Li, Wei/` - Application materials including 3 reference letters from Gaiotto, Theisen, and Takayanagi
