@@ -40,7 +40,7 @@ No files at this level - all content is organized in individual candidate subdir
 - [x] `Pourhasan, Razieh/` - Application from theoretical physicist specializing in holography and gauge/gravity duality, PhD Waterloo/Perimeter 2014, postdoc at University of Iceland, Scientific American cover article author, on maternity leave during application
 - [x] `Rupam, Rishika/` - Application from Lille postdoc, PhD Texas A&M 2015 under Poltoratski, complex analysis specialist who corrected de Branges' error on meromorphic inner functions, paper in Journal d'Analyse Mathematique, L.F. Guseman Prize winner
 - [x] `Salmeron, Raquel/` - Former ANU researcher (2006-2015) in magnetohydrodynamics and protostellar disks, PhD Physics Sydney 2005, MBA, Australian citizen, strong teaching record and excellent references from Ferrario, Wardle, and Ireland, moved to Airservices Australia in 2015
-- [~] `Saorin Gomez, Eugenia/` - Assistant researcher at Otto-von-Guericke Universität Magdeburg specializing in convex geometry and Brunn-Minkowski theory, PhD from University of Murcia 2008, very strong references describing her as top 3% in field, solved 40+ year old open problems, co-supervised PhD student, required visa sponsorship
+- [x] `Saorin Gomez, Eugenia/` - Assistant researcher at Otto-von-Guericke Universität Magdeburg specializing in convex geometry and Brunn-Minkowski theory, PhD from University of Murcia 2008, very strong references describing her as top 3% in field, solved 40+ year old open problems, co-supervised PhD student, required visa sponsorship
 - [ ] `Seelinger, Nora/` - Application materials
 - [ ] `Snow, Kate/` - Application materials
 - [ ] `Sohail, Ayesha/` - Application materials

@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/continuing-positions/no/Saorin Gomez, Eugenia
-generated: 2026-01-26T07:15:00Z
+generated: 2026-01-26T08:45:00Z
 git_sha: fafb26e72fe7b535873cd5b8a8f359b75df7fe29
 git_branch: master
-status: preliminary
+status: complete
 files_count: 5
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Application materials for Eugenia Saorín Gómez, a Spanish mathematician specializing in convex geometry and Brunn-Minkowski theory who applied for the 2016 ANU female-only continuing position in Mathematical Science. At the time of application (October 2016), she was an assistant researcher at Otto-von-Guericke Universität Magdeburg, Germany. She required visa sponsorship and could start April 1, 2017. The application includes CV, research and teaching statements, and four strong reference letters from prominent geometers.
+Application materials for Eugenia Saorín Gómez, a highly accomplished Spanish mathematician specializing in convex geometry and Brunn-Minkowski theory who applied for the 2016 ANU female-only continuing position in Mathematical Science. At the time of application (October 2016), she was an assistant researcher at Otto-von-Guericke Universität Magdeburg, Germany, with a PhD from University of Murcia (2008). Her research record includes seven published papers (2010-2015) in top convex geometry journals covering mixed volumes, quermassintegrals, inner parallel bodies, kernel centers, and Bonnesen-style inequalities. References uniformly describe her as among the top 3% of young researchers internationally in her field, highlighting her solutions to 40+ year old open problems and noting her achievements while being a mother of two as "almost superhuman." Despite this exceptionally strong profile, she was not advanced to final consideration for the position. She required visa sponsorship and could start April 1, 2017.
 
 ## Key Files
 
@@ -26,7 +26,7 @@ Application materials for Eugenia Saorín Gómez, a Spanish mathematician specia
 
 ## Subdirectories
 
-- [x] `papers/` - Seven published research papers in convex geometry (PDF format, 146KB-457KB each)
+- [x] `papers/` - Seven published research papers (2010-2015) in convex geometry covering Brunn-Minkowski theory, mixed volumes, quermassintegrals, inner parallel bodies, kernel centers, and Bonnesen-style inequalities, published in J. Geom. Anal., Monatsh. Math., J. Math. Anal. Appl., Forum Math., Israel J. Math., and Beitr. Algebra Geom.
 
 ## Search Tags
 
