@@ -27,7 +27,7 @@ Application materials for Dr. Vanessa Robins, an ANU research fellow in Applied 
 
 ## Subdirectories
 
-- [ ] `papers/` - Three selected research publications on computational topology and connectedness
+- [?] `papers/` - Three selected research publications on computational topology and connectedness
 
 ## Search Tags
 
