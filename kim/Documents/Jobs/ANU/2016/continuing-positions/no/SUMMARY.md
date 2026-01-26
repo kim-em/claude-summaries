@@ -20,7 +20,7 @@ No files at this level - all content is organized in individual candidate subdir
 
 ## Subdirectories
 
-- [~] `Aghaei, Nezhla/` - Application and reference letters from Loran, Teschner, Quella, and Schomerus
+- [x] `Aghaei, Nezhla/` - Application and reference letters from Loran, Teschner, Quella, and Schomerus
 - [ ] `Begum, Azra/` - Application materials
 - [ ] `Burtscher, Annegret/` - Application materials
 - [ ] `Cheung, Yeuk-Kwan Edna/` - Application materials
