@@ -35,7 +35,7 @@ No files at this level - all content is organized in individual candidate subdir
 - [x] `Leitner, Arielle/` - Postdoctoral researcher at Technion, PhD from UCSB (2015), research on geometric transitions and Cartan subgroup limits using non-standard analysis, four published papers, strong teaching with inquiry-based methods, required visa sponsorship
 - [x] `Liang, Xuan/` - PhD candidate in Statistics from Peking University specializing in environmental statistics and PM2.5 air pollution analysis in China, strong references from Song Xi Chen (supervisor), Qiwei Yao (LSE), and Theis Lange (Copenhagen), required visa sponsorship
 - [x] `Liao, Xian/` - Postdoctoral researcher from Bonn specializing in PDEs and fluid mechanics, PhD from Paris-Est Créteil, research on zero Mach number systems and density patch problems, required visa sponsorship
-- [ ] `Myer, Ziva/` - Application materials
+- [~] `Myer, Ziva/` - Application from Bryn Mawr PhD candidate in contact/symplectic geometry, research on A∞ algebras for Legendrians using generating families, strong references from advisor Lisa Traynor and Joshua Sabloff, required visa sponsorship
 - [ ] `O.Donnol, Danielle/` - Application materials
 - [ ] `Pourhasan, Razieh/` - Application materials
 - [ ] `Rupam, Rishika/` - Application materials
