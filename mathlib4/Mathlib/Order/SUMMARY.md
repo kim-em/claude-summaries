@@ -129,7 +129,7 @@ The `Order/` directory contains comprehensive formalization of order theory in a
 - [x] `Monotone/` - Monotone and antitone functions
 - [x] `Partition/` - Partitions and equivalence relations
 - [x] `Preorder/` - Preorders, partial orders, linear orders
-- [~] `Prod/` - Product orders
+- [x] `Prod/` - Product orders
 - [ ] `Rel/` - Binary relations
 - [ ] `RelIso/` - Relation isomorphisms and embeddings
 - [ ] `ScottContinuity/` - Scott continuity theory
