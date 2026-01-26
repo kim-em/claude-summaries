@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/continuing-positions/maybe/Lierl, Janna
-generated: 2026-01-26T09:15:00Z
+generated: 2026-01-26T09:18:00Z
 git_sha: fafb26e72fe7b535873cd5b8a8f359b75df7fe29
 git_branch: master
-status: preliminary
+status: complete
 files_count: 8
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Application materials for Janna Lierl, a candidate for the 2016 ANU Mathematical Science continuing position search. Dr. Lierl completed her Ph.D. in 2012 at Cornell University (advised by L. Saloff-Coste) and held postdoctoral positions at Bonn and University of Illinois Urbana-Champaign before becoming an Assistant Professor at University of Connecticut. Her research focuses on stochastic analysis, particularly Harnack inequalities, heat kernels, boundary Harnack principles, and parabolic inequalities on metric measure spaces and fractals.
+Complete application dossier for Dr. Janna Lierl, categorized as an intermediate-strength candidate in the 2016 ANU Mathematical Science continuing position search. Dr. Lierl's materials show a strong research profile in probability theory and analysis. She completed her Ph.D. in 2012 at Cornell University under L. Saloff-Coste, then held postdoctoral positions at Bonn and University of Illinois Urbana-Champaign before becoming an Assistant Professor at University of Connecticut. Her research focuses on technically demanding areas of stochastic analysis, particularly Harnack inequalities, heat kernels, boundary Harnack principles, and parabolic inequalities on metric measure spaces and fractals. The application received strong endorsements from leading researchers in the field (Barlow, Song, Grigoryan), characterizing her work as "strong" in a "technically demanding area."
 
 ## Key Files
 
