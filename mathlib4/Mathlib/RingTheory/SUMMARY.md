@@ -104,7 +104,7 @@ The `RingTheory/` directory contains comprehensive formalizations of commutative
 - [x] `FractionalIdeal/` - Fractional ideals over Dedekind domains
 - [x] `GradedAlgebra/` - Graded rings and algebras
 - [x] `HahnSeries/` - Hahn series (generalization of Laurent series)
-- [ ] `HopfAlgebra/` - Hopf algebras (bialgebras with antipode)
+- [x] `HopfAlgebra/` - Hopf algebras (bialgebras with antipode)
 - [ ] `Ideal/` - Comprehensive ideal theory (operations, quotients, primes, maximals)
 - [ ] `IdealFilter/` - Filters of ideals
 - [ ] `Int/` - Ring-theoretic properties specific to integers
