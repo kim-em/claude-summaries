@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/continuing-positions/maybe/Ray, Arunima
-generated: 2026-01-26T08:45:00Z
+generated: 2026-01-26T09:30:00Z
 git_sha: fafb26e72fe7b535873cd5b8a8f359b75df7fe29
 git_branch: master
-status: preliminary
+status: complete
 files_count: 3
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Application materials for Dr. Arunima Ray, a postdoctoral instructor at Brandeis University applying for a continuing lecturer position at ANU Mathematical Sciences Institute in 2016. Ray received her Ph.D. from Rice University in May 2014 under Tim Cochran, specializing in low-dimensional topology and knot concordance. The folder contains her complete application package including CV, research and teaching statements, cover letter, reference letters, and selected research papers.
+Application materials for Dr. Arunima Ray, a postdoctoral instructor at Brandeis University applying for a continuing lecturer position at ANU Mathematical Sciences Institute in 2016. Ray received her Ph.D. from Rice University in May 2014 under Tim Cochran, specializing in low-dimensional topology and knot concordance. The folder contains her complete application package including CV, research and teaching statements, cover letter, two reference letters (from Jae Choon Cha and Shelly Harvey), and selected research papers published in *Algebraic & Geometric Topology*. Her application indicates availability to start July 1, 2017. The reference letters strongly praise her research productivity and quality, noting 10 papers produced in less than 3 years post-PhD, with 5 appearing in top journals.
 
 ## Key Files
 
@@ -24,7 +24,7 @@ Application materials for Dr. Arunima Ray, a postdoctoral instructor at Brandeis
 
 ## Subdirectories
 
-- [x] `papers/` - Selected research papers demonstrating Ray's work in knot concordance and low-dimensional topology
+- [x] `papers/` - Two research papers in *Algebraic & Geometric Topology* (2015-2016) on Casson towers, knot concordance filtrations, and satellite operators as group actions
 
 ## Search Tags
 
