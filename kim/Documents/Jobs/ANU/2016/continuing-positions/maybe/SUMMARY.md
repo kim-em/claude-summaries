@@ -36,7 +36,7 @@ No files directly in this directory - all materials are organized in individual 
 - [x] `Robins, Vanessa/` - Application materials including 5 reference letters from Bradley, Edelsbrunner, Meiss, Mischaikow, and Hyde, plus research papers
 - [x] `Saez Trumper, Mariel/` - Application materials including 4 reference letters from Bjorner, Valdinoci, Musso, and Mazzeo, plus research papers
 - [x] `Shah, Hemangi/` - Application materials from Reader at Harish-Chandra Research Institute in differential geometry specializing in harmonic manifolds, including 2 reference letters from Connell and Ledrappier
-- [ ] `Shi, Yang/` - Application materials including 4 reference letters from Viallet, Nijhoff, Kajiwara, and Joshi, plus research papers
+- [~] `Shi, Yang/` - Application materials including 4 reference letters from Viallet, Nijhoff, Kajiwara, and Joshi, plus research papers
 - [ ] `Zhu, Houying/` - Application materials with research papers
 
 ## Search Tags
