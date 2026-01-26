@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/RingTheory/Flat
-generated: 2026-01-26T21:15:00Z
+generated: 2026-01-26T21:45:00Z
 git_sha: 542a7d7979ad5f45d2a89008412e565c8fa001d2
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 10
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-The `Flat/` directory contains the comprehensive formalization of flat modules and algebras over commutative (semi)rings. This includes the core definition of flatness (preservation of injective maps under tensor products), characterizations via various criteria (equational criterion, character modules, tensor exactness), structural properties (stability under composition, base change, and localization), specialized results for domains and Dedekind domains, and the theory of faithfully flat modules. The formalization covers both theoretical foundations and practical characterizations, including connections to torsion-freeness, projective modules, and exact functors.
+The `Flat/` directory contains the comprehensive formalization of flat modules and algebras over commutative (semi)rings, representing one of the fundamental homological properties in commutative algebra. The theory begins with the core definition of flatness (preservation of injective maps under tensor products) and develops multiple equivalent characterizations: the equational criterion (factoring relations through free modules), categorical exactness (preserving finite limits and short exact sequences), tensor characterizations via character modules (Baer criterion), and algebraic criteria involving torsion-freeness. The formalization establishes structural stability results (composition, base change, localization) and specialized theorems for integral domains, Dedekind domains, and Bézout domains. A major component is the theory of faithfully flat modules, which refines flatness by adding the faithfulness condition (IM ≠ M for maximal ideals I), enabling both preservation and reflection of exactness, zero detection, and descent properties for ring homomorphisms. The combination provides both the theoretical foundations for homological algebra and practical tools for checking flatness in concrete situations.
 
 ## Key Files
 
@@ -28,9 +28,11 @@ The `Flat/` directory contains the comprehensive formalization of flat modules a
 | Tensor.lean | Characterizations of flatness over rings via tensor products with ideals; proves M is flat iff character module is injective (Baer criterion), and establishes equivalence with tensor injectivity for (finitely generated) ideals |
 | TorsionFree.lean | Relationship between flatness and torsion-freeness: flat modules are torsion-free; over Dedekind domains, Bézout domains, and rings whose localizations are valuation rings, flatness is equivalent to torsion-freeness |
 
+The subdirectory extends the theory to **faithfully flat modules**, which add the faithfulness condition (proper ideals remain proper) to flatness, enabling stronger results including exactness reflection, zero detection for modules and maps, descent of ring homomorphism properties, algebra-specific characterizations via prime spectrum surjectivity, and local ring criteria.
+
 ## Subdirectories
 
-- [x] `FaithfullyFlat/` - Faithfully flat modules (flat modules M where IM ≠ M for all maximal ideals I)
+- [x] `FaithfullyFlat/` - Faithfully flat modules and algebras: theory of modules that are both flat and faithful (IM ≠ M for maximal ideals I), with characterizations via exact sequence reflection, zero detection, descent properties for ring homomorphisms, and algebra-specific results including prime spectrum surjectivity and local ring criteria
 
 ## Search Tags
 
