@@ -42,7 +42,7 @@ The `Probability/` directory provides comprehensive formalization of probability
 - [x] `Kernel/` - Probability kernels (Markov kernels) with composition operations, disintegration theory, and Ionescu-Tulcea theorem for infinite products
 - [x] `Martingale/` - Martingale theory: core definitions, Doob's decomposition and convergence theorems, optional stopping/sampling, upcrossing estimates, and generalized Borel-Cantelli
 - [x] `Moments/` - Moment-generating functions, variance, covariance, sub-Gaussian variables, and concentration inequalities
-- [ ] `ProbabilityMassFunction/` - Discrete probability distributions
+- [x] `ProbabilityMassFunction/` - Discrete probability distributions
 - [ ] `Process/` - Stochastic processes
 
 ## Search Tags
