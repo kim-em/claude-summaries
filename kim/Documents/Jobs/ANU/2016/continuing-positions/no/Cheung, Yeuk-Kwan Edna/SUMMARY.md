@@ -25,7 +25,7 @@ Application materials from Dr. Yeuk-Kwan Edna Cheung for the 2016 ANU Mathematic
 
 ## Subdirectories
 
-- [ ] `papers/` - Research papers (5 files)
+- [x] `papers/` - Research papers (5 files)
 
 ## Search Tags
 
