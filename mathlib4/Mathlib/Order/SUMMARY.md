@@ -124,7 +124,7 @@ The `Order/` directory contains comprehensive formalization of order theory in a
 - [x] `GaloisConnection/` - Galois connections and Galois insertions
 - [x] `Heyting/` - Heyting algebras
 - [x] `Hom/` - Order homomorphisms
-- [ ] `Interval/` - Intervals in orders
+- [~] `Interval/` - Intervals in orders
 - [ ] `Lattice/` - Lattice theory
 - [ ] `Monotone/` - Monotone and antitone functions
 - [ ] `Partition/` - Partitions and equivalence relations
