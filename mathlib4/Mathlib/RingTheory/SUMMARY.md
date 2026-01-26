@@ -99,7 +99,7 @@ The `RingTheory/` directory contains comprehensive formalizations of commutative
 - [x] `Etale/` - Étale algebras and morphisms
 - [x] `Extension/` - Ring extensions and their properties
 - [x] `FilteredAlgebra/` - Filtered algebras and associated graded algebras
-- [~] `Finiteness/` - Various finiteness conditions (finite type, finite presentation, etc.)
+- [x] `Finiteness/` - Various finiteness conditions (finite type, finite presentation, etc.)
 - [ ] `Flat/` - Flat modules and algebras
 - [ ] `FractionalIdeal/` - Fractional ideals over Dedekind domains
 - [ ] `GradedAlgebra/` - Graded rings and algebras
