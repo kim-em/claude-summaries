@@ -27,7 +27,7 @@ Application materials for Dr. Reshma Ramadurai, a postdoctoral fellow from Unive
 
 ## Subdirectories
 
-- [ ] `papers/` - Research papers submitted with application (4 PDF files)
+- [x] `papers/` - Research papers submitted with application: four peer-reviewed publications (2011-2012) on Folkman numbers, hypergraph coloring, and algorithmic graph theory
 
 ## Search Tags
 
