@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/continuing-positions/no/Dann, Susanna
-generated: 2026-01-26T05:40:00Z
+generated: 2026-01-26T07:55:00Z
 git_sha: fafb26e72fe7b535873cd5b8a8f359b75df7fe29
 git_branch: master
-status: preliminary
+status: complete
 files_count: 5
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Application materials for Susanna Dann, a candidate for the 2016 ANU female-only continuing position in Mathematical Science who was not advanced to final consideration. Dann is a mathematician specializing in convex geometry, with expertise in the Busemann-Petty problem, intersection bodies, and Fourier analysis in convex geometry. Her application includes a full application PDF, four reference letters, and a papers subdirectory with two research publications.
+Application materials for Susanna Dann, a candidate for the 2016 ANU female-only continuing position in Mathematical Science who was not advanced to final consideration. Dann is a mathematician from Vienna University of Technology specializing in convex geometry, with particular expertise in the Busemann-Petty problem, intersection bodies, and Fourier analysis in convex geometry. Her research portfolio includes publications in prestigious journals (Advances in Mathematics, Advances in Applied Mathematics) on topics including sections of convex bodies with symmetries and the Busemann-Petty problem in complex hyperbolic space. The application package includes her full application (51 pages), four reference letters from prominent mathematicians (Alexander Koldobsky, Grigoris Paouris, Dana Weston, Monika Ludwig), and two representative research papers demonstrating her contributions to geometric analysis and convex geometry.
 
 ## Key Files
 

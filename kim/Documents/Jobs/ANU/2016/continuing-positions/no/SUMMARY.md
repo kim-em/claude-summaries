@@ -25,7 +25,7 @@ No files at this level - all content is organized in individual candidate subdir
 - [x] `Burtscher, Annegret/` - Application and reference letters from Grant, Kunzinger, Chrusciel, and Donninger, specialist in mathematical general relativity
 - [x] `Cheung, Yeuk-Kwan Edna/` - Application from Princeton Ph.D. and Nanjing University Professor specializing in string theory and cosmology, required visa sponsorship
 - [x] `Corran, Ruth/` - Application from Australian mathematician at American University of Paris, PhD supervisor David Easdown, research in algebra and braid groups
-- [~] `Dann, Susanna/` - Application from convex geometry specialist, includes research on Busemann-Petty problem and intersection bodies, references from Koldobsky, Paouris, Weston, and Ludwig
+- [x] `Dann, Susanna/` - Application from convex geometry specialist, includes research on Busemann-Petty problem and intersection bodies, references from Koldobsky, Paouris, Weston, and Ludwig
 - [ ] `Ginges, Jacinda/` - Application materials
 - [ ] `Grigorova, Miryana/` - Application materials
 - [ ] `Hamieh, Alia/` - Application and reference letters from Akbary-Majdabadno, Khuri-Makdisi, Ng, Taylor, Siksek, Fitzpatrick, and Vatsal, plus papers
