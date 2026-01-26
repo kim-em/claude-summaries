@@ -126,7 +126,7 @@ The `Order/` directory contains comprehensive formalization of order theory in a
 - [x] `Hom/` - Order homomorphisms
 - [x] `Interval/` - Intervals in orders
 - [x] `Lattice/` - Lattice theory
-- [~] `Monotone/` - Monotone and antitone functions
+- [x] `Monotone/` - Monotone and antitone functions
 - [ ] `Partition/` - Partitions and equivalence relations
 - [ ] `Preorder/` - Preorders, partial orders, linear orders
 - [ ] `Prod/` - Product orders
