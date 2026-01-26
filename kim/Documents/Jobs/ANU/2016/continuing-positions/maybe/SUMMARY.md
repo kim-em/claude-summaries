@@ -24,7 +24,7 @@ No files directly in this directory - all materials are organized in individual 
 - [x] `Holcomb, Diane/` - Application materials including 4 reference letters from Valko, Rider, Bayly, and Ercolani
 - [x] `Knapp, Johanna/` - Application materials including 4 reference letters from Rebhan, Sharpe, Katzarkov, and Lerche, plus research papers
 - [x] `Li, Wei/` - Application materials including 3 reference letters from Gaiotto, Theisen, and Takayanagi
-- [ ] `Lierl, Janna/` - Application materials including 4 reference letters from Barlow, Song, Ahlgren, and Grigoryan, plus additional documents
+- [~] `Lierl, Janna/` - Application materials including 4 reference letters from Barlow, Song, Ahlgren, and Grigoryan, plus additional documents
 - [ ] `Lindsey, Kathryn/` - Application materials with research papers
 - [ ] `Massierer, Maike/` - Application materials including 4 reference letters from Harvey, Gorla, Hess, and Gaudry, plus research papers
 - [ ] `Monniaux, Sylvie/` - Application materials including 4 reference letters from Hofmann, Coulhon, Gallouet, and Arendt, plus research papers
