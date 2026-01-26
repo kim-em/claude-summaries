@@ -87,7 +87,7 @@ The `RingTheory/` directory contains comprehensive formalizations of commutative
 - [x] `Adjoin/` - Theory of adjoining elements to rings and algebras
 - [x] `Algebraic/` - Algebraic elements and algebraic extensions of rings
 - [x] `AlgebraicIndependent/` - Algebraically independent sets and transcendence bases
-- [ ] `Artinian/` - Artinian rings and modules (descending chain condition)
+- [x] `Artinian/` - Artinian rings and modules (descending chain condition)
 - [ ] `Bialgebra/` - Bialgebras (algebras with compatible coalgebra structure)
 - [ ] `Coalgebra/` - Coalgebras (dual notion to algebras)
 - [ ] `Congruence/` - Congruence relations on rings
