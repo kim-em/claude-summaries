@@ -89,7 +89,7 @@ The `RingTheory/` directory contains comprehensive formalizations of commutative
 - [x] `AlgebraicIndependent/` - Algebraically independent sets and transcendence bases
 - [x] `Artinian/` - Artinian rings and modules (descending chain condition)
 - [x] `Bialgebra/` - Bialgebras (algebras with compatible coalgebra structure)
-- [ ] `Coalgebra/` - Coalgebras (dual notion to algebras)
+- [x] `Coalgebra/` - Coalgebras (dual notion to algebras)
 - [ ] `Congruence/` - Congruence relations on rings
 - [ ] `Coprime/` - Coprime ideals and elements
 - [ ] `DedekindDomain/` - Dedekind domains (Noetherian integrally closed dimension 1 domains)
