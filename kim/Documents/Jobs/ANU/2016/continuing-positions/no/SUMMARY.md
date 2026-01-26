@@ -24,7 +24,7 @@ No files at this level - all content is organized in individual candidate subdir
 - [x] `Begum, Azra/` - Application from mathematics lecturer at Al Qassim University, required visa sponsorship
 - [x] `Burtscher, Annegret/` - Application and reference letters from Grant, Kunzinger, Chrusciel, and Donninger, specialist in mathematical general relativity
 - [x] `Cheung, Yeuk-Kwan Edna/` - Application from Princeton Ph.D. and Nanjing University Professor specializing in string theory and cosmology, required visa sponsorship
-- [~] `Corran, Ruth/` - Application from Australian mathematician at American University of Paris, PhD supervisor David Easdown, research in algebra and braid groups
+- [x] `Corran, Ruth/` - Application from Australian mathematician at American University of Paris, PhD supervisor David Easdown, research in algebra and braid groups
 - [ ] `Dann, Susanna/` - Application materials
 - [ ] `Ginges, Jacinda/` - Application materials
 - [ ] `Grigorova, Miryana/` - Application materials
