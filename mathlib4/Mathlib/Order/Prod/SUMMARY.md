@@ -20,7 +20,7 @@ The `Prod/` directory serves as an organizational container for product order st
 
 ## Subdirectories
 
-- [ ] `Lex/` - Lexicographic product orders
+- [x] `Lex/` - Lexicographic product orders
 
 ## Search Tags
 
