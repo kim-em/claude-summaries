@@ -132,7 +132,7 @@ The `Order/` directory contains comprehensive formalization of order theory in a
 - [x] `Prod/` - Product orders
 - [x] `Rel/` - Binary relations
 - [x] `RelIso/` - Relation isomorphisms and embeddings
-- [ ] `ScottContinuity/` - Scott continuity theory
+- [x] `ScottContinuity/` - Scott continuity theory
 - [ ] `SuccPred/` - Successor and predecessor functions
 - [ ] `UpperLower/` - Upper and lower sets
 
