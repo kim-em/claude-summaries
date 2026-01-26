@@ -30,7 +30,7 @@ No files directly in this directory - all materials are organized in individual 
 - [x] `Monniaux, Sylvie/` - Application materials including 4 reference letters from Hofmann, Coulhon, Gallouet, and Arendt, plus research papers
 - [x] `Neusser, Katharina/` - Application materials including 4 reference letters from Cap, Calderbank, Eastwood, and Gover, plus research papers
 - [x] `Nur Saglam, Kadriye/` - Application materials from UMN PhD candidate in topology
-- [~] `Puskas, Anna/` - Application materials including 6 reference letters from Brubaker, Lenart, Bump, Dai, Chinta, and Patnaik
+- [x] `Puskas, Anna/` - Application materials including 6 reference letters from Brubaker, Lenart, Bump, Dai, Chinta, and Patnaik
 - [ ] `Ramadurai, Reshma/` - Application materials including reference letter from Greenhill and additional scanned documents
 - [ ] `Ray, Arunima/` - Application materials including 2 reference letters from Cha and Harvey, plus research papers
 - [ ] `Robins, Vanessa/` - Application materials including 5 reference letters from Bradley, Edelsbrunner, Meiss, Mischaikow, and Hyde, plus research papers
