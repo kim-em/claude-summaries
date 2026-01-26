@@ -26,7 +26,7 @@ No files at this level - all content is organized in individual candidate subdir
 - [x] `Cheung, Yeuk-Kwan Edna/` - Application from Princeton Ph.D. and Nanjing University Professor specializing in string theory and cosmology, required visa sponsorship
 - [x] `Corran, Ruth/` - Application from Australian mathematician at American University of Paris, PhD supervisor David Easdown, research in algebra and braid groups
 - [x] `Dann, Susanna/` - Application from convex geometry specialist, includes research on Busemann-Petty problem and intersection bodies, references from Koldobsky, Paouris, Weston, and Ludwig
-- [~] `Ginges, Jacinda/` - Application from atomic theorist at UNSW specializing in QED radiative corrections and tests of fundamental physics, 5-year career break for child-rearing, reference letters from Budker, Berengut, Kozlov, and Flambaum
+- [x] `Ginges, Jacinda/` - Application from atomic theorist at UNSW specializing in QED radiative corrections and tests of fundamental physics, 5-year career break for child-rearing, reference letters from Budker, Berengut, Kozlov, and Flambaum
 - [ ] `Grigorova, Miryana/` - Application materials
 - [ ] `Hamieh, Alia/` - Application and reference letters from Akbary-Majdabadno, Khuri-Makdisi, Ng, Taylor, Siksek, Fitzpatrick, and Vatsal, plus papers
 - [ ] `Irmer, Ingrid/` - Application materials
