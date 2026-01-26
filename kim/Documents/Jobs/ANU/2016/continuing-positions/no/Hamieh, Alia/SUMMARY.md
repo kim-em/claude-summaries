@@ -29,7 +29,7 @@ Job application materials for Dr. Alia Hamieh for the 2016 ANU female-only conti
 
 ## Subdirectories
 
-- [~] `papers/` - Contains one published research paper
+- [x] `papers/` - Contains one published research paper
 
 ## Search Tags
 
