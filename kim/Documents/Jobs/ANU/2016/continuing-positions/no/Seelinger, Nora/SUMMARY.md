@@ -25,7 +25,7 @@ Application materials from Nora Seeliger for the 2016 ANU female-only continuing
 
 ## Subdirectories
 
-- [ ] `papers/` - Research papers by candidate
+- [~] `papers/` - Research papers by candidate
 
 ## Search Tags
 
