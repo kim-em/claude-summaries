@@ -38,7 +38,7 @@ The `Kernel/` directory provides a comprehensive formalization of Markov kernels
 
 - [x] `Composition/` - Kernel composition operations and properties
 - [x] `Disintegration/` - Disintegration theory (decomposing measures into kernels)
-- [ ] `IonescuTulcea/` - Ionescu-Tulcea theorem for constructing measures on infinite products
+- [~] `IonescuTulcea/` - Ionescu-Tulcea theorem for constructing measures on infinite products
 
 ## Search Tags
 
