@@ -30,7 +30,7 @@ No files at this level - all content is organized in individual candidate subdir
 - [x] `Grigorova, Miryana/` - Application from postdoctoral researcher at Center for Risk and Insurance Hanover, PhD from Paris-Diderot on Choquet integration and risk measures, strong references from Föllmer and Quenez, required visa sponsorship
 - [x] `Hamieh, Alia/` - Application from number theorist specializing in modular forms and L-functions, PIMS postdoc at Lethbridge, exceptional teaching evaluations, seven reference letters
 - [x] `Irmer, Ingrid/` - Application from Australian/German topologist at University of Melbourne, PhD from Bonn, specializes in mapping class groups and low-dimensional geometry
-- [ ] `Jhorar, Bablesh/` - Application materials
+- [~] `Jhorar, Bablesh/` - Application from Assistant Professor at CDLU Sirsa, PhD in algebraic number theory from Panjab University, research on Ore's Theorem and Hensel's Lemma, required visa sponsorship
 - [ ] `Jiang, Jiaojiao/` - Application materials
 - [ ] `Leitner, Arielle/` - Application materials
 - [ ] `Liang, Xuan/` - Application materials
