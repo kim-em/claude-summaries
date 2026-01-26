@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/continuing-positions/no/Cheung, Yeuk-Kwan Edna
-generated: 2026-01-26T05:30:00Z
+generated: 2026-01-26T06:02:00Z
 git_sha: fafb26e72fe7b535873cd5b8a8f359b75df7fe29
 git_branch: master
-status: preliminary
+status: complete
 files_count: 4
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Application materials from Dr. Yeuk-Kwan Edna Cheung for the 2016 ANU Mathematical Sciences Institute Associate Professor position (female-only continuing position). Dr. Cheung was a Professor at Nanjing University with a Ph.D. from Princeton (2000) specializing in string theory, cosmology, and N=4 Super Yang-Mills amplitudes. She required visa sponsorship (no right to work in Australia) and could start June 1, 2017. Her application included prestigious references from Ori Ganor (Berkeley), Robert Brandenberger (McGill), Edward Witten (IAS Princeton), and Rob Myers (Perimeter Institute).
+Application materials from Dr. Yeuk-Kwan Edna Cheung for the 2016 ANU Mathematical Sciences Institute Associate Professor position (female-only continuing position). Dr. Cheung was a Professor at Nanjing University with a Ph.D. from Princeton (2000) specializing in string theory, cosmology, and N=4 Super Yang-Mills amplitudes. Her research portfolio included five publications from 2000-2006 in top-tier journals (Journal of High Energy Physics and Nuclear Physics B) covering N=2 string theory, non-commutative geometry, moduli stabilization, and gravimagnetic fields, with collaborators from Princeton IAS, UC Berkeley, Perimeter Institute, and McGill. She required visa sponsorship (no right to work in Australia) and could start June 1, 2017. Her application included prestigious references from Ori Ganor (Berkeley), Robert Brandenberger (McGill), Edward Witten (IAS Princeton), and Rob Myers (Perimeter Institute).
 
 ## Key Files
 
