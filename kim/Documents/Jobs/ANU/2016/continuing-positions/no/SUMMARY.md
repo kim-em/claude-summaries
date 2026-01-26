@@ -29,7 +29,7 @@ No files at this level - all content is organized in individual candidate subdir
 - [x] `Ginges, Jacinda/` - Application from atomic theorist at UNSW specializing in QED radiative corrections and tests of fundamental physics, 5-year career break for child-rearing, reference letters from Budker, Berengut, Kozlov, and Flambaum
 - [x] `Grigorova, Miryana/` - Application from postdoctoral researcher at Center for Risk and Insurance Hanover, PhD from Paris-Diderot on Choquet integration and risk measures, strong references from Föllmer and Quenez, required visa sponsorship
 - [x] `Hamieh, Alia/` - Application from number theorist specializing in modular forms and L-functions, PIMS postdoc at Lethbridge, exceptional teaching evaluations, seven reference letters
-- [~] `Irmer, Ingrid/` - Application from Australian/German topologist at University of Melbourne, PhD from Bonn, specializes in mapping class groups and low-dimensional geometry
+- [x] `Irmer, Ingrid/` - Application from Australian/German topologist at University of Melbourne, PhD from Bonn, specializes in mapping class groups and low-dimensional geometry
 - [ ] `Jhorar, Bablesh/` - Application materials
 - [ ] `Jiang, Jiaojiao/` - Application materials
 - [ ] `Leitner, Arielle/` - Application materials
