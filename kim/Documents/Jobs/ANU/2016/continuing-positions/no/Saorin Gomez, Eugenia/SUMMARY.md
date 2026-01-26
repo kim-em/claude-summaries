@@ -26,7 +26,7 @@ Application materials for Eugenia Saorín Gómez, a Spanish mathematician specia
 
 ## Subdirectories
 
-- [ ] `papers/` - Seven published research papers in convex geometry (PDF format, 146KB-457KB each)
+- [x] `papers/` - Seven published research papers in convex geometry (PDF format, 146KB-457KB each)
 
 ## Search Tags
 
