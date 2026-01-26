@@ -100,7 +100,7 @@ The `RingTheory/` directory contains comprehensive formalizations of commutative
 - [x] `Extension/` - Ring extensions and their properties
 - [x] `FilteredAlgebra/` - Filtered algebras and associated graded algebras
 - [x] `Finiteness/` - Various finiteness conditions (finite type, finite presentation, etc.)
-- [ ] `Flat/` - Flat modules and algebras
+- [~] `Flat/` - Flat modules and algebras
 - [ ] `FractionalIdeal/` - Fractional ideals over Dedekind domains
 - [ ] `GradedAlgebra/` - Graded rings and algebras
 - [ ] `HahnSeries/` - Hahn series (generalization of Laurent series)
