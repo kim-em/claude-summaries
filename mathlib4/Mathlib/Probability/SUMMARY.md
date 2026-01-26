@@ -39,7 +39,7 @@ The `Probability/` directory provides comprehensive formalization of probability
 - [x] `Decision/` - Statistical decision theory: risk measures for estimators including average risk, Bayes risk, and minimax risk with fundamental inequalities
 - [x] `Distributions/` - Concrete probability distributions
 - [x] `Independence/` - Independence theory for random variables and events
-- [ ] `Kernel/` - Probability kernels (Markov kernels)
+- [~] `Kernel/` - Probability kernels (Markov kernels)
 - [ ] `Martingale/` - Martingale theory
 - [ ] `Moments/` - Moments of random variables (variance, MGFs)
 - [ ] `ProbabilityMassFunction/` - Discrete probability distributions
