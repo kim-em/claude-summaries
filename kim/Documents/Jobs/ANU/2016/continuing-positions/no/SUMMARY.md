@@ -31,7 +31,7 @@ No files at this level - all content is organized in individual candidate subdir
 - [x] `Hamieh, Alia/` - Application from number theorist specializing in modular forms and L-functions, PIMS postdoc at Lethbridge, exceptional teaching evaluations, seven reference letters
 - [x] `Irmer, Ingrid/` - Application from Australian/German topologist at University of Melbourne, PhD from Bonn, specializes in mapping class groups and low-dimensional geometry
 - [x] `Jhorar, Bablesh/` - Application from Assistant Professor at CDLU Sirsa, PhD in algebraic number theory from Panjab University, research on Ore's Theorem and Hensel's Lemma, required visa sponsorship
-- [ ] `Jiang, Jiaojiao/` - Application materials
+- [x] `Jiang, Jiaojiao/` - Application from Deakin University PhD candidate in Applied Statistics and Complex Networks, required visa sponsorship
 - [ ] `Leitner, Arielle/` - Application materials
 - [ ] `Liang, Xuan/` - Application materials
 - [ ] `Liao, Xian/` - Application materials
