@@ -35,7 +35,7 @@ No files directly in this directory - all materials are organized in individual 
 - [x] `Ray, Arunima/` - Application materials from Brandeis postdoc in low-dimensional topology/knot concordance, including 2 reference letters from Cha and Harvey, plus research papers
 - [x] `Robins, Vanessa/` - Application materials including 5 reference letters from Bradley, Edelsbrunner, Meiss, Mischaikow, and Hyde, plus research papers
 - [x] `Saez Trumper, Mariel/` - Application materials including 4 reference letters from Bjorner, Valdinoci, Musso, and Mazzeo, plus research papers
-- [ ] `Shah, Hemangi/` - Application materials including 2 reference letters from Connell and Ledrappier
+- [x] `Shah, Hemangi/` - Application materials from Reader at Harish-Chandra Research Institute in differential geometry specializing in harmonic manifolds, including 2 reference letters from Connell and Ledrappier
 - [ ] `Shi, Yang/` - Application materials including 4 reference letters from Viallet, Nijhoff, Kajiwara, and Joshi, plus research papers
 - [ ] `Zhu, Houying/` - Application materials with research papers
 
