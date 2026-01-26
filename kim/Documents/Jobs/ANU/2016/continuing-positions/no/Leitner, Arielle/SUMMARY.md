@@ -26,7 +26,7 @@ Application from Arielle Leitner, a postdoctoral researcher at Technion - Israel
 
 ## Subdirectories
 
-- [ ] `papers/` - Three published research papers on subgroups of SL(4,R), conjugacy limits in SL(3,R), and universal cycles (2010-2016)
+- [x] `papers/` - Three published research papers on subgroups of SL(4,R), conjugacy limits in SL(3,R), and universal cycles (2010-2016)
 
 ## Search Tags
 
