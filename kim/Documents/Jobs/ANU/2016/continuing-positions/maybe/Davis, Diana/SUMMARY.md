@@ -27,7 +27,7 @@ Application materials for Diana Davis, a candidate in the 2016 ANU Mathematical 
 
 ## Subdirectories
 
-- [~] `papers/` - Two selected research publications on billiards and flat surfaces
+- [x] `papers/` - Two selected research publications on billiards and flat surfaces
 
 ## Search Tags
 
