@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/continuing-positions/no/Rupam, Rishika
-generated: 2026-01-26T05:35:00Z
+generated: 2026-01-26T06:05:00Z
 git_sha: fafb26e72fe7b535873cd5b8a8f359b75df7fe29
 git_branch: master
-status: preliminary
+status: complete
 files_count: 6
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Application materials for Dr. Rishika Rupam, a postdoctoral researcher at Université de Lille 1, for the 2016 ANU female-only continuing position in Mathematical Sciences. The application was not advanced to final consideration. Dr. Rupam completed her PhD at Texas A&M University in 2015 under the supervision of Alexei Poltoratski, specializing in complex analysis, harmonic analysis, meromorphic inner functions, and spectral problems for differential operators.
+Application materials for Dr. Rishika Rupam, a postdoctoral researcher at Université de Lille 1, for the 2016 ANU female-only continuing position in Mathematical Sciences. The application was not advanced to final consideration. Dr. Rupam completed her PhD at Texas A&M University in 2015 under the supervision of Alexei Poltoratski, specializing in complex analysis, harmonic analysis, meromorphic inner functions, and spectral problems for differential operators. Her most notable achievement was correcting a key lemma in de Branges' famous 1968 book on Hilbert spaces of entire functions, with a paper accepted in Journal d'Analyse Mathematique. The application includes a published paper demonstrating her research on restricted interpolation by meromorphic inner functions with applications to inverse spectral theory for Schrödinger operators.
 
 ## Key Files
 
@@ -27,7 +27,7 @@ Application materials for Dr. Rishika Rupam, a postdoctoral researcher at Univer
 
 ## Subdirectories
 
-- [x] `papers/` - Contains published paper "Restricted interpolation by meromorphic inner functions" coauthored with Alexei Poltoratski, published in Concrete Operators 3 (2016)
+- [x] `papers/` - Contains published 10-page research article on meromorphic inner functions and restricted interpolation (Concrete Operators 3, 2016), surveying uniqueness, existence, and interpolation results with applications to inverse spectral theory for Schrödinger operators
 
 ## Search Tags
 
