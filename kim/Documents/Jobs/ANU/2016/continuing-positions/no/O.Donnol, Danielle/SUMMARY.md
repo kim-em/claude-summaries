@@ -33,7 +33,7 @@ Application materials for Danielle O'Donnol, who applied for the 2016 ANU female
 
 ## Subdirectories
 
-- [ ] `papers/` - Published research papers
+- [x] `papers/` - Published research papers
 
 ## Search Tags
 
