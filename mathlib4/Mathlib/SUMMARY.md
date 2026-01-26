@@ -48,7 +48,7 @@ The `Mathlib/` directory is the core of the mathlib4 library, containing the com
 - [x] `NumberTheory/` - Number theory (primes, divisibility, Diophantine equations, arithmetic functions)
 - [x] `Order/` - Complete order theory formalization: foundational hierarchy (preorders through complete Boolean algebras), completeness structures (complete/conditionally complete lattices, frames), morphisms (order homomorphisms, embeddings, isomorphisms, Galois connections), specialized structures (Boolean/Heyting algebras, atoms, bounds), Filter theory for topology/analysis, three-layer interval formalization, concrete categories, successor/predecessor operations proving locally finite orders countable and ℤ-isomorphic, upper/lower sets with closure operators, extension theorems (Szpilrajn, well-order), well-founded relations/ordinals, chains/Zorn's lemma, fixed points (Knaster-Tarski, Bourbaki-Witt), Jordan-Hölder, Krull dimension
 - [x] `Probability/` - Comprehensive probability theory: PDFs, conditional probability/expectation, random variable laws, PMFs, CDFs, identically distributed variables, Borel-Cantelli lemmas, strong law of large numbers (Etemadi's version), with subdirectories for kernels, martingales, processes, moments, independence, distributions, and decision theory
-- [ ] `RepresentationTheory/` - Representation theory of groups and algebras
+- [~] `RepresentationTheory/` - Representation theory of groups and algebras
 - [ ] `RingTheory/` - Ring theory (ideals, modules, homological algebra, commutative algebra)
 - [ ] `SetTheory/` - Set theory (cardinals, ordinals, ZFC foundations)
 - [ ] `Std/` - Standard library compatibility and extensions
