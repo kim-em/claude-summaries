@@ -26,7 +26,7 @@ Application materials for Ruth Corran, an Australian mathematician based in Pari
 
 ## Subdirectories
 
-- [ ] `papers/` - Two published papers: on braid groups of imprimitive complex reflection groups (J. Algebra 2015) and automaticity of singular Artin monoids (Int. J. Comput. Math. 2013)
+- [?] `papers/` - Two published papers: on braid groups of imprimitive complex reflection groups (J. Algebra 2015) and automaticity of singular Artin monoids (Int. J. Comput. Math. 2013)
 
 ## Search Tags
 

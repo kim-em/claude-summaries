@@ -69,3 +69,4 @@ This file tracks files that couldn't be processed with standard tools and need s
 - `Documents/Jobs/ANU/2016/continuing-positions/maybe/Monniaux, Sylvie/papers/` - Claude error: Prompt is too long  (skipped 2026-01-26T00:51:58Z)
 - `Documents/Jobs/ANU/2016/continuing-positions/maybe/Robins, Vanessa/papers/` - Claude error: Prompt is too long  (skipped 2026-01-26T01:51:26Z)
 - `Documents/Jobs/ANU/2016/continuing-positions/no/Burtscher, Annegret/papers/` - Claude error: Prompt is too long  (skipped 2026-01-26T02:56:54Z)
+- `Documents/Jobs/ANU/2016/continuing-positions/no/Corran, Ruth/papers/` - Claude error: Prompt is too long  (skipped 2026-01-26T03:20:19Z)
