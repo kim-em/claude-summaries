@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Order/Filter
-generated: 2026-01-26T21:15:00Z
+generated: 2026-01-26T23:45:00Z
 git_sha: 542a7d7979ad5f45d2a89008412e565c8fa001d2
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 31
 subdirs_count: 4
 ---
@@ -12,7 +12,11 @@ subdirs_count: 4
 
 ## Overview
 
-The `Filter/` directory provides comprehensive formalization of filter theory in mathematics. Filters abstract two key ideas: limits (sequences, functions at points or infinity) and "eventual" behavior (things happening for large enough values, near points, or almost everywhere). The directory includes core definitions (Filter structure, principal filters), fundamental operations (map, comap, Tendsto), lattice structure (complete lattice on filters), and extensive theory on filter bases, ultrafilters, convergence, boundedness, pointwise operations, and specialized filters (cofinite, atTop/atBot). This infrastructure forms the foundation for topology, measure theory, and analysis in Mathlib.
+The `Filter/` directory provides the complete formalization of filter theory in mathematics, serving as the foundation for topology, measure theory, and analysis in Mathlib. Filters abstract two fundamental ideas: limits (sequences, functions at points or infinity) and "eventual" behavior (properties that hold for large enough values, near points, or almost everywhere).
+
+The directory is organized in four conceptual layers: (1) **Core infrastructure** includes the Filter structure as a complete lattice, map/comap operations forming a Galois connection, the monad structure, Tendsto for convergence, and NeBot for non-triviality. (2) **Specialized filters** provides atTop/atBot for limits at infinity in ordered types with extensive arithmetic preservation (monoid/group/ring/field operations, archimedean casts, completeness), the cofinite filter with countable intersection properties, and cardinal-indexed generalizations. (3) **Structural tools** includes filter bases (alternative representations via downward-directed collections), ultrafilters (maximal proper filters characterized by complement membership), and germs (equivalence classes of functions under eventual equality, with comprehensive algebraic structure). (4) **Operations and properties** provides pointwise algebraic operations, boundedness/coboundedness predicates, extrema with respect to filters, lifting operations, products and Pi types, indicator functions, and specialized constructions for rings, partial functions, and intervals.
+
+The four subdirectories extend core theory with critical infrastructure: `AtTopBot/` formalizes limits at infinity with arithmetic preservation theorems for 19 different algebraic contexts; `Bases/` provides the filter basis formalism for convenient filter construction; `Germ/` defines local function behavior via eventual equality quotients with inherited algebraic structure; and `Ultrafilter/` establishes maximal filter theory including the ultrafilter lemma and hyperfilter construction.
 
 ## Key Files
 
@@ -52,10 +56,10 @@ The `Filter/` directory provides comprehensive formalization of filter theory in
 
 ## Subdirectories
 
-- [x] `AtTopBot/` - Filters at top and bottom (atTop, atBot) for ordered types
-- [x] `Bases/` - Filter bases and their properties
-- [x] `Germ/` - Germs of functions modulo filters (equivalence classes of eventually equal functions)
-- [x] `Ultrafilter/` - Ultrafilters (maximal proper filters) and their properties
+- [x] `AtTopBot/` - Filters at top and bottom (atTop, atBot) for ordered types with comprehensive algebraic preservation theorems (19 files covering monoids, groups, rings, fields, archimedean structures, complete lattices)
+- [x] `Bases/` - Filter basis theory providing alternative filter representations via downward-directed set collections
+- [x] `Germ/` - Germs of functions modulo filters (equivalence classes under eventual equality) with inherited algebraic structures (monoid, group, ring, module, lattice)
+- [x] `Ultrafilter/` - Ultrafilters (maximal proper filters) with monad structure, ultrafilter lemma, and hyperfilter construction
 
 ## Search Tags
 
