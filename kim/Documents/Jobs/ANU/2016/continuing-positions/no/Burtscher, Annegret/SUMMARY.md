@@ -26,7 +26,7 @@ This folder contains the complete job application package for Dr. Annegret Burts
 
 ## Subdirectories
 
-- [ ] `papers/` - Sample publications submitted with the application
+- [?] `papers/` - Sample publications submitted with the application
 
 ## Search Tags
 
