@@ -33,7 +33,7 @@ No files at this level - all content is organized in individual candidate subdir
 - [x] `Jhorar, Bablesh/` - Application from Assistant Professor at CDLU Sirsa, PhD in algebraic number theory from Panjab University, research on Ore's Theorem and Hensel's Lemma, required visa sponsorship
 - [x] `Jiang, Jiaojiao/` - Application from Deakin University PhD candidate in Applied Statistics and Complex Networks, required visa sponsorship
 - [x] `Leitner, Arielle/` - Postdoctoral researcher at Technion, PhD from UCSB (2015), research on geometric transitions and Cartan subgroup limits using non-standard analysis, four published papers, strong teaching with inquiry-based methods, required visa sponsorship
-- [~] `Liang, Xuan/` - PhD candidate in Statistics from Peking University specializing in environmental statistics and PM2.5 air pollution analysis in China, strong references from Song Xi Chen (supervisor), Qiwei Yao (LSE), and Theis Lange (Copenhagen), required visa sponsorship
+- [x] `Liang, Xuan/` - PhD candidate in Statistics from Peking University specializing in environmental statistics and PM2.5 air pollution analysis in China, strong references from Song Xi Chen (supervisor), Qiwei Yao (LSE), and Theis Lange (Copenhagen), required visa sponsorship
 - [ ] `Liao, Xian/` - Application materials
 - [ ] `Myer, Ziva/` - Application materials
 - [ ] `O.Donnol, Danielle/` - Application materials
