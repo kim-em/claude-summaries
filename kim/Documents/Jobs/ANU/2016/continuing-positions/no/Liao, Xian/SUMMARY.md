@@ -26,7 +26,7 @@ Application materials from Xian Liao, a postdoctoral researcher in mathematical 
 
 ## Subdirectories
 
-- [ ] `papers/` - Research publications
+- [?] `papers/` - Research publications
 
 ## Search Tags
 
