@@ -107,7 +107,7 @@ The `RingTheory/` directory contains comprehensive formalizations of commutative
 - [x] `HopfAlgebra/` - Hopf algebras (bialgebras with antipode)
 - [x] `Ideal/` - Comprehensive ideal theory (operations, quotients, primes, maximals); associated primes of modules; minimal primes and radicals; ideal norms for ring extensions; quotient ring theory with isomorphism theorems
 - [x] `IdealFilter/` - Filters of ideals
-- [ ] `Int/` - Ring-theoretic properties specific to integers
+- [x] `Int/` - Ring-theoretic properties specific to integers
 - [ ] `IntegralClosure/` - Integral closure of rings in extensions
 - [ ] `Invariant/` - Invariant theory (invariants under group actions)
 - [ ] `Jacobson/` - Jacobson rings and radical theory
