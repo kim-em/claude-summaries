@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Probability/Distributions
-generated: 2026-01-26T20:30:00Z
+generated: 2026-01-26T21:10:00Z
 git_sha: 542a7d7979ad5f45d2a89008412e565c8fa001d2
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 9
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-The `Distributions/` directory provides formalized implementations of concrete probability distributions over various spaces. It includes continuous distributions (beta, exponential, gamma, Pareto) with probability density functions (PDFs) over the reals, discrete distributions (geometric, Poisson) with probability mass functions (PMFs) over the naturals, and specialized distributions (uniform over sets and fintypes, set-Bernoulli for random sets). The directory also contains Fernique's theorem proving exponential integrability for rotation-invariant Gaussian measures. Each distribution file defines the PDF/PMF, proves it integrates/sums to 1, constructs the corresponding probability measure, and for continuous distributions often includes the cumulative distribution function (CDF).
+The `Distributions/` directory provides comprehensive formalized implementations of concrete probability distributions spanning continuous, discrete, and general measure-theoretic settings. It includes classical continuous distributions (beta, exponential, gamma, Pareto) with explicit probability density functions (PDFs) over the reals, discrete distributions (geometric, Poisson) with probability mass functions (PMFs) over the naturals, and specialized distributions (uniform over sets and fintypes, set-Bernoulli for random sets). The `Gaussian/` subdirectory contains a particularly sophisticated treatment extending from the real line to arbitrary Banach and Hilbert spaces, with characteristic function methods, transformation laws, convolution properties, and Fernique's theorem for exponential integrability. Each distribution file follows a consistent pattern: defines the PDF/PMF, proves normalization (integrates/sums to 1), constructs the corresponding probability measure, and often includes CDFs, characteristic/moment generating functions, and moment calculations. The directory represents a rich library spanning elementary distributions to advanced infinite-dimensional theory.
 
 ## Key Files
 
