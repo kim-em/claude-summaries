@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/RingTheory/Ideal
-generated: 2026-01-26T20:45:00Z
+generated: 2026-01-26T23:15:00Z
 git_sha: 542a7d7979ad5f45d2a89008412e565c8fa001d2
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 27
 subdirs_count: 4
 ---
@@ -12,7 +12,9 @@ subdirs_count: 4
 
 ## Overview
 
-The `Ideal/` directory contains the core theory of ideals in commutative and non-commutative rings. Ideals are implemented as `Submodule R R`, interpreting scalar multiplication as ring multiplication. This directory provides fundamental definitions (ideal construction, two-sided ideals, prime and maximal ideals), operations (maps, comap, products, quotients, span), structural properties (height, primality, principality, primary decomposition), and specialized topics (cotangent modules, associated primes, ideal norms). It includes major theorems like Krull's height theorem and going-up/going-down lemmas for ring extensions.
+The `Ideal/` directory contains the comprehensive theory of ideals in commutative and non-commutative rings, serving as the foundation for much of algebraic geometry and commutative algebra in mathlib. Ideals are implemented as `Submodule R R`, interpreting scalar multiplication as ring multiplication. This directory provides fundamental definitions (ideal construction, two-sided ideals, prime and maximal ideals), operations (maps, comap, products, quotients, span), structural properties (height, primality, principality), and major theorems including Krull's height theorem and the going-up/going-down lemmas for ring extensions.
+
+The subdirectories extend this foundation to specialized topics: `AssociatedPrime/` develops the theory connecting modules to their associated primes (proving finiteness for Noetherian modules and characterizing zero divisors); `MinimalPrime/` establishes minimal primes over ideals and their relationship to radicals; `Norm/` defines absolute and relative ideal norms for ring extensions (crucial for algebraic number theory); and `Quotient/` provides the complete theory of quotient rings including isomorphism theorems, the Chinese remainder theorem, and preservation of Noetherian properties.
 
 ## Key Files
 
@@ -48,10 +50,10 @@ The `Ideal/` directory contains the core theory of ideals in commutative and non
 
 ## Subdirectories
 
-- [x] `AssociatedPrime/` - Associated prime ideals of modules and their finiteness
-- [x] `MinimalPrime/` - Minimal prime ideals and localization properties
-- [x] `Norm/` - Ideal norms (absolute norm and relative norm for ring extensions)
-- [x] `Quotient/` - Quotient rings by ideals and their properties
+- [x] `AssociatedPrime/` - Associated primes of modules (annihilators of elements); proves finitely generated Noetherian modules have finitely many associated primes; characterizes zero divisors as union of associated primes; localization theory
+- [x] `MinimalPrime/` - Minimal prime ideals over a given ideal; existence and uniqueness; intersection of minimal primes equals radical; localization and quotient properties; finiteness in Noetherian rings
+- [x] `Norm/` - Absolute ideal norm (cardinality of quotient) and relative ideal norm (ideal spanned by element norms); multiplicativity and transitivity; determinant formulas for algebraic number theory
+- [x] `Quotient/` - Quotient rings R ⧸ I as rings and modules; first isomorphism theorem; Chinese remainder theorem for coprime ideals; prime/maximal quotients (domains/fields); nilpotent properties; Noetherian preservation; index calculations; power transition maps for adic theory
 
 ## Search Tags
 
