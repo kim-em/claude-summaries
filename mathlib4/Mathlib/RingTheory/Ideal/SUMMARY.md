@@ -51,7 +51,7 @@ The `Ideal/` directory contains the core theory of ideals in commutative and non
 - [x] `AssociatedPrime/` - Associated prime ideals of modules and their finiteness
 - [x] `MinimalPrime/` - Minimal prime ideals and localization properties
 - [x] `Norm/` - Ideal norms (absolute norm and relative norm for ring extensions)
-- [ ] `Quotient/` - Quotient rings by ideals and their properties
+- [x] `Quotient/` - Quotient rings by ideals and their properties
 
 ## Search Tags
 
