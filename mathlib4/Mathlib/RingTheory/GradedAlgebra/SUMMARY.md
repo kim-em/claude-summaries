@@ -26,7 +26,7 @@ The `GradedAlgebra/` directory provides the theory of graded rings and algebras,
 
 ## Subdirectories
 
-- [ ] `Homogeneous/` - Homogeneous elements, ideals, submodules, and subsemirings in graded structures
+- [x] `Homogeneous/` - Homogeneous elements, ideals, submodules, and subsemirings in graded structures
 
 ## Search Tags
 
