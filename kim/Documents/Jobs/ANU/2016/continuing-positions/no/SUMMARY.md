@@ -21,7 +21,7 @@ No files at this level - all content is organized in individual candidate subdir
 ## Subdirectories
 
 - [x] `Aghaei, Nezhla/` - Application and reference letters from Loran, Teschner, Quella, and Schomerus
-- [ ] `Begum, Azra/` - Application materials
+- [x] `Begum, Azra/` - Application from mathematics lecturer at Al Qassim University, required visa sponsorship
 - [ ] `Burtscher, Annegret/` - Application materials
 - [ ] `Cheung, Yeuk-Kwan Edna/` - Application materials
 - [ ] `Corran, Ruth/` - Application materials
