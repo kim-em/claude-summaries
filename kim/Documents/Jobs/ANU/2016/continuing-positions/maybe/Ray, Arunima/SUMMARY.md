@@ -24,7 +24,7 @@ Application materials for Dr. Arunima Ray, a postdoctoral instructor at Brandeis
 
 ## Subdirectories
 
-- [ ] `papers/` - Selected research papers demonstrating Ray's work in knot concordance and low-dimensional topology
+- [x] `papers/` - Selected research papers demonstrating Ray's work in knot concordance and low-dimensional topology
 
 ## Search Tags
 
