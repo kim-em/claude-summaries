@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/RingTheory/DedekindDomain
-generated: 2026-01-26T20:30:00Z
+generated: 2026-01-26T20:45:00Z
 git_sha: 542a7d7979ad5f45d2a89008412e565c8fa001d2
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 14
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-The `DedekindDomain/` directory contains the formalization of Dedekind domains and Dedekind rings, which are Noetherian integrally closed domains (or rings) of Krull dimension at most one. This theory is fundamental to algebraic number theory, providing the framework for studying rings of integers in number fields and their generalizations. The directory includes multiple equivalent characterizations (dimension ≤ 1, DVR localizations, UFD structure), extensive factorization theory for ideals and fractional ideals, adic valuations and completions, the different ideal for ring extensions, and specialized structures like S-integers, S-units, Selmer groups, and the finite adèle ring.
+The `DedekindDomain/` directory contains the formalization of Dedekind domains and Dedekind rings, which are Noetherian integrally closed domains (or rings) of Krull dimension at most one. This theory is fundamental to algebraic number theory, providing the framework for studying rings of integers in number fields and their generalizations. The directory establishes multiple equivalent characterizations (dimension ≤ 1, DVR localizations, invertibility of fractional ideals), proves that the fractional ideals form a semifield and the ideals form a unique factorization monoid, develops extensive factorization theory with v-adic multiplicities and finite support, constructs adic valuations and completions, formalizes the different ideal with ramification criteria, and provides specialized structures for global number theory (S-integers, S-units, Selmer groups, finite adèle ring). The `Ideal/` subdirectory proves the invertibility characterization and develops tools for working with prime factorizations via the Chinese Remainder Theorem.
 
 ## Key Files
 
@@ -34,7 +34,7 @@ The `DedekindDomain/` directory contains the formalization of Dedekind domains a
 
 ## Subdirectories
 
-- [x] `Ideal/` - Specialized ideal theory for Dedekind domains
+- [x] `Ideal/` - Invertibility characterization (IsDedekindDomainInv), semifield/UFM instances, HeightOneSpectrum, and Chinese Remainder Theorem applications
 
 ## Search Tags
 
