@@ -103,7 +103,7 @@ The `RingTheory/` directory contains comprehensive formalizations of commutative
 - [x] `Flat/` - Flat modules and algebras (preservation of injectivity under tensoring), characterizations via equational criterion, character modules, and categorical exactness; includes stability results, domain-specific theorems, torsion-freeness equivalences, and faithfully flat theory with descent properties
 - [x] `FractionalIdeal/` - Fractional ideals over Dedekind domains
 - [x] `GradedAlgebra/` - Graded rings and algebras
-- [ ] `HahnSeries/` - Hahn series (generalization of Laurent series)
+- [~] `HahnSeries/` - Hahn series (generalization of Laurent series)
 - [ ] `HopfAlgebra/` - Hopf algebras (bialgebras with antipode)
 - [ ] `Ideal/` - Comprehensive ideal theory (operations, quotients, primes, maximals)
 - [ ] `IdealFilter/` - Filters of ideals
