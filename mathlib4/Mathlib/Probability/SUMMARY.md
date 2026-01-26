@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Probability
-generated: 2026-01-26T19:30:00Z
+generated: 2026-01-26T23:50:00Z
 git_sha: 542a7d7979ad5f45d2a89008412e565c8fa001d2
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 15
 subdirs_count: 8
 ---
@@ -12,7 +12,7 @@ subdirs_count: 8
 
 ## Overview
 
-The `Probability/` directory provides comprehensive formalization of probability theory built on measure theory foundations. It defines core probability concepts including probability density functions (PDFs), conditional probability and expectation, random variables with laws, probability mass functions, cumulative distribution functions (CDFs), and identically distributed random variables. The directory includes major theorems such as the Borel-Cantelli lemmas and the strong law of large numbers (Etemadi's version requiring only pairwise independence). It also contains specialized subdirectories for probability kernels, martingales, stochastic processes, moments (variance, MGFs), independence theory, concrete distributions, and decision theory.
+The `Probability/` directory provides comprehensive formalization of modern probability theory built on rigorous measure-theoretic foundations. At the top level, it defines core concepts including probability density functions (PDFs) via Radon-Nikodym derivatives, conditional probability measures with Bayes' theorem, random variable laws (distributions), cumulative distribution functions (CDFs), identically distributed random variables, and fundamental limit theorems (Borel-Cantelli lemmas, strong law of large numbers). The directory encompasses eight major subdirectories forming a complete probability library: `Kernel/` provides the Markov kernel infrastructure with composition operations, disintegration theory for product spaces, and Ionescu-Tulcea theorem for infinite products; `Independence/` develops both unconditional and conditional independence via a unified kernel framework with characterizations through bounded continuous functions and characteristic functions, plus Kolmogorov's 0-1 law; `Distributions/` implements concrete continuous distributions (beta, exponential, gamma, Pareto) and discrete distributions (geometric, Poisson, uniform), with sophisticated Gaussian theory extending to infinite-dimensional Banach and Hilbert spaces including Fernique's theorem; `ProbabilityMassFunction/` formalizes discrete distributions as a monad with Bernoulli and binomial constructions; `Martingale/` establishes martingale theory with Doob's decomposition and convergence theorems, optional stopping and sampling theorems, upcrossing estimates, and Lévy's generalized Borel-Cantelli; `Moments/` develops moment-generating functions as analytic functions with derivatives yielding moments, variance and covariance theory, sub-Gaussian variables, and Chernoff/Hoeffding concentration inequalities; `Process/` defines filtrations, adapted and progressively measurable processes, stopping times, hitting times, predictable processes, and finite-dimensional distributions; and `Decision/` formalizes statistical decision theory with risk measures (average, Bayes, minimax) and data-processing inequalities. Together, these components provide the mathematical foundation for rigorous probability theory from elementary concepts through advanced stochastic process analysis and statistical inference.
 
 ## Key Files
 
@@ -36,14 +36,14 @@ The `Probability/` directory provides comprehensive formalization of probability
 
 ## Subdirectories
 
-- [x] `Decision/` - Statistical decision theory: risk measures for estimators including average risk, Bayes risk, and minimax risk with fundamental inequalities
-- [x] `Distributions/` - Concrete probability distributions
-- [x] `Independence/` - Independence theory for random variables and events
-- [x] `Kernel/` - Probability kernels (Markov kernels) with composition operations, disintegration theory, and Ionescu-Tulcea theorem for infinite products
-- [x] `Martingale/` - Martingale theory: core definitions, Doob's decomposition and convergence theorems, optional stopping/sampling, upcrossing estimates, and generalized Borel-Cantelli
-- [x] `Moments/` - Moment-generating functions, variance, covariance, sub-Gaussian variables, and concentration inequalities
-- [x] `ProbabilityMassFunction/` - Discrete probability distributions
-- [x] `Process/` - Stochastic processes
+- [x] `Decision/` - Statistical decision theory: framework for analyzing estimators via loss functions and risk measures (average risk, Bayes risk, minimax risk), with fundamental inequalities relating Bayes and minimax risk and data-processing theorems showing information loss increases risk
+- [x] `Distributions/` - Concrete probability distributions spanning continuous (beta, exponential, gamma, Pareto with explicit PDFs), discrete (geometric, Poisson with PMFs), uniform distributions, and comprehensive Gaussian theory from real line to infinite-dimensional Banach/Hilbert spaces with characteristic functions, convolution properties, and Fernique's theorem for exponential integrability
+- [x] `Independence/` - Comprehensive independence theory with kernel-based framework unifying unconditional and conditional independence: four flavors (sets of sets, σ-algebras, events, random variables) with notation `X ⟂ᵢ[μ] Y`, characterizations via bounded continuous functions and characteristic functions, multiplicativity of expectation, infinite product measures, stochastic process independence, and Kolmogorov's 0-1 law for tail σ-algebras
+- [x] `Kernel/` - Markov kernels (measurable maps `α → Measure β`): foundational theory with classifications (Markov, finite, s-finite), basic constructors (deterministic, constant, identity, restriction), composition operations (sequential `∘ₖ`, parallel `∥ₖ`, composition-product `⊗ₖ`, simple product `×ₖ`) with Chapman-Kolmogorov equations, disintegration theory decomposing product measures into marginals and conditional kernels for standard Borel spaces, Ionescu-Tulcea theorem for infinite products from history-dependent kernels, Radon-Nikodym derivatives and Lebesgue decomposition, regular conditional probability distributions, and Bayesian posterior distributions
+- [x] `Martingale/` - Discrete-time martingale theory: core definitions (martingales, supermartingales, submartingales) with respect to filtrations, Doob's decomposition into martingale and predictable parts, optional stopping theorem (fair game theorem) with Doob's maximal inequality, Doob's upcrossing estimate, martingale convergence theorems (almost everywhere and L¹), optional sampling theorem, and Lévy's generalized Borel-Cantelli lemma
+- [x] `Moments/` - Moment theory centered on moment-generating functions (MGF) and cumulant-generating functions (CGF): analyticity of MGF with derivatives yielding moments, integrability domains as convex intervals, complex MGF extension connecting to characteristic functions with uniqueness results, variance and covariance theory (Chebyshev's inequality, Bhatia-Davis and Popoviciu's inequalities), covariance bilinear forms for Banach and Hilbert spaces, tilted measures relating MGF derivatives to variance, sub-Gaussian random variables, and concentration inequalities (Hoeffding's lemma and inequality, Azuma-Hoeffding for martingales)
+- [x] `ProbabilityMassFunction/` - Discrete probability formalization via PMF type (functions `α → ℝ≥0∞` summing to 1) with conversions to/from measure theory, monadic structure (`pure`, `bind`, `bindOnSupport`) making PMF a lawful monad, functorial operations (`map`, `seq`), construction utilities (`ofFinset`, `ofFintype`, `normalize`, `filter`), concrete distributions (Bernoulli, binomial with choose coefficients), and integration theory connecting PMFs to expected values via weighted sums
+- [x] `Process/` - Stochastic process foundations: filtrations (monotone sequences of sub-σ-algebras), adapted and progressively measurable processes, stopping times with associated σ-algebras and stopped processes, hitting times as stopping times for discrete processes, predictable σ-algebras and predictable processes, finite-dimensional distributions with projective limit characterization, Kolmogorov-Chentsov conditions for continuous modifications, and partition-based filtrations for constructing measurable functions
 
 ## Search Tags
 
