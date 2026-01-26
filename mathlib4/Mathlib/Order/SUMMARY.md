@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Order
-generated: 2026-01-25T19:30:00Z
+generated: 2026-01-27T00:00:00Z
 git_sha: ffb766c85c7ad82861131c2f10a0669884e4fd5f
 git_branch: HEAD
-status: preliminary
+status: complete
 files_count: 88
 subdirs_count: 27
 ---
@@ -12,7 +12,13 @@ subdirs_count: 27
 
 ## Overview
 
-The `Order/` directory contains comprehensive formalization of order theory in a broad sense, implementing the foundational hierarchy from basic preorders through complete Boolean algebras. The directory includes extensive theory on partial orders, lattices (semi-, complete, modular, distributive), well-founded relations, ordinals via initial/principal segments, chains and antichains, Galois connections, filters, fixed points, and major theorems (Zorn's lemma, Jordan-Hölder, Knaster-Tarski). It also provides specialized topics including Krull dimension for algebraic geometry, omega-complete partial orders for programming language semantics, and various order-theoretic constructions (closure operators, nuclei, directed sets, supremum/infimum operations on sequences).
+The `Order/` directory provides the complete formalization of order theory in Mathlib, establishing the mathematical infrastructure for reasoning about ordered structures throughout the library. This directory spans the full hierarchy from basic preorders (reflexive transitive relations) through sophisticated structures like complete Boolean algebras and omega-complete partial orders, with applications ranging from topology and analysis to algebraic geometry and programming language semantics.
+
+The directory is organized around several conceptual layers that build systematically: (1) **Foundational definitions** (`Defs/`, `Basic.lean`, `Lattice.lean`) establish the core typeclass hierarchy from preorders through partial orders, linear orders, semilattices, and lattices, with covering relations, minimal/maximal elements, and upper/lower sets. (2) **Completeness structures** (`CompleteLattice/`, `ConditionallyCompleteLattice/`, `CompleteBooleanAlgebra.lean`) provide suprema and infima for arbitrary sets (complete lattices), bounded sets (conditionally complete lattices), and frame structures for point-free topology. (3) **Morphisms and relationships** (`Hom/`, `RelIso/`, `GaloisConnection/`, `Monotone/`) formalize structure-preserving maps, order embeddings/isomorphisms, Galois connections as categorical adjoints, and monotonicity properties essential for functional analysis. (4) **Specialized order structures** (`BooleanAlgebra/`, `Heyting/`, `Atoms/`, `Bounds/`, `BoundedOrder/`) develop Boolean algebras for classical logic, Heyting algebras for intuitionistic logic, atomic lattices, and bounded orders with top/bottom elements.
+
+Critical subdirectories extend the core theory with essential mathematical infrastructure: `Filter/` provides the foundation for topology and analysis through the complete formalization of filters (including atTop/atBot for limits at infinity, ultrafilters, filter bases, and germs); `Interval/` implements three representations of intervals (abstract objects, finite sets via `LocallyFiniteOrder`, infinite sets with ord-connectedness); `Category/` organizes all order structures into concrete categories from preorders through complete Boolean algebras (with `NonemptyFinLinOrd` as the standard simplicial index category); `SuccPred/` formalizes successor/predecessor operations with archimedean variants, proving linear locally finite orders are countable and order-isomorphic to subsets of ℤ; `UpperLower/` develops upper/lower set theory with closure operators; and `Extension/` proves any partial order extends to a linear order (Szpilrajn) and any well-founded order extends to a well-order.
+
+The directory also includes advanced mathematical theories with specific applications: well-founded relations and ordinals via initial/principal segment embeddings (`WellFounded.lean`, `InitialSeg.lean`) provide the foundation for ordinal arithmetic; chains, antichains, and maximal chains (`Antichain.lean`, `Preorder/Chain.lean`) support Zorn's lemma and the Hausdorff maximality principle (`CompleteLattice/Chain.lean`, `Zorn.lean`); Galois connections and insertions enable lifting order structures between types; filters abstract limits and "eventual" behavior for topology, measure theory, and analysis; fixed-point theorems (Knaster-Tarski, Bourbaki-Witt) underpin inductive definitions; Jordan-Hölder theory on composition series applies to groups and modules; and Krull dimension provides the order-theoretic foundation for dimension theory in algebraic geometry.
 
 ## Key Files
 
@@ -108,33 +114,33 @@ The `Order/` directory contains comprehensive formalization of order theory in a
 
 ## Subdirectories
 
-- [x] `Atoms/` - Atomic and coatomic structures
-- [x] `BooleanAlgebra/` - Boolean algebra hierarchy
-- [x] `BoundedOrder/` - Bounded orders with top and bottom
-- [x] `Bounds/` - Bounds, suprema, and infima
-- [x] `Category/` - Categorical structures for orders
-- [x] `Circular/` - Circular order theory
-- [x] `CompactlyGenerated/` - Compactly generated lattices
-- [x] `CompleteLattice/` - Complete lattice theory
-- [x] `ConditionallyCompleteLattice/` - Conditionally complete lattices
-- [x] `Defs/` - Core definitions for order theory
-- [x] `Extension/` - Order extensions
-- [x] `Filter/` - Filter theory (partial orders of filters, filter bases, ultrafilters, Gödel's completeness theorem infrastructure)
-- [x] `Fin/` - Orders on Fin types
-- [x] `GaloisConnection/` - Galois connections and Galois insertions
-- [x] `Heyting/` - Heyting algebras
-- [x] `Hom/` - Order homomorphisms
-- [x] `Interval/` - Intervals in orders
-- [x] `Lattice/` - Lattice theory
-- [x] `Monotone/` - Monotone and antitone functions
-- [x] `Partition/` - Partitions and equivalence relations
-- [x] `Preorder/` - Preorders, partial orders, linear orders
-- [x] `Prod/` - Product orders
-- [x] `Rel/` - Binary relations
-- [x] `RelIso/` - Relation isomorphisms and embeddings
-- [x] `ScottContinuity/` - Scott continuity theory
-- [x] `SuccPred/` - Successor and predecessor functions
-- [x] `UpperLower/` - Upper and lower sets
+- [x] `Atoms/` - Finiteness-specific theory: finite partial orders with boundaries are automatically atomic/coatomic, simple orders are finite, locally finite orders are strongly atomic/coatomic
+- [x] `BooleanAlgebra/` - Boolean algebra typeclasses and core API: generalized Boolean algebras (distributive lattices with relative complement `\`), full Boolean algebras (with absolute complement `ᶜ`), De Morgan laws, Heyting implication, and concrete instance for `Set α`
+- [x] `BoundedOrder/` - Bounded order theory: `OrderTop`/`OrderBot`/`BoundedOrder` typeclasses for orders with greatest/least elements, fundamental lemmas (top_unique, bot_le, le_top), bounded lattice operations, monotonicity characterizations on bounded orders
+- [x] `Bounds/` - Upper/lower bounds for sets: core predicates (`BddAbove`/`BddBelow`, `IsLeast`/`IsGreatest`, `IsLUB`/`IsGLB`), cofinality, behavior under monotone/antitone functions, images, products, unions, and order isomorphisms—foundational infrastructure for analysis and lattice theory
+- [x] `Category/` - Concrete categories for order structures: systematically organizes preorders, partial orders, linear orders, lattices, bounded lattices, distributive lattices, Boolean algebras, Heyting algebras, frames, complete lattices, and ωCPO into categories; includes `NonemptyFinLinOrd` as standard simplicial index category
+- [x] `Circular/` - Circular order instances: provides `CircularOrder` for `ZMod n`, `Fin n`, and `ℤ` derived from linear orders using "loop around" construction
+- [x] `CompactlyGenerated/` - Compactly generated complete lattices: defines compact elements, proves equivalence of four well-foundedness characterizations, establishes compactly generated modular lattices are complemented iff atomistic, includes interval-specific compactness results
+- [x] `CompleteLattice/` - Complete lattice core theory: typeclasses (`CompleteLattice`, `CompleteLinearOrder`), `sSup`/`sInf`/`iSup`/`iInf` operations, Hausdorff's maximality principle, finset-indexed operations, group-compatible lattice operations, lexicographic Pi types, SetLike sublattices, bicartesian squares for category theory
+- [x] `ConditionallyCompleteLattice/` - Conditionally complete lattices (suprema/infima for nonempty bounded sets): core typeclasses, `csSup`/`csInf` theory with boundedness assumptions, indexed variants (`ciSup`/`ciInf`), extensions to `WithTop`/`WithBot`, connections to finsets and group operations—canonical examples are ℝ, ℕ, ℤ
+- [x] `Defs/` - Foundational order definitions: unbundled relation classes (reflexive, transitive, antisymmetric), core typeclasses (`Preorder`, `PartialOrder`, `LinearOrder`), covering relations (`⋖`, `⩿`), minimal/maximal elements, upper/lower sets, decidability, min/max operations
+- [x] `Extension/` - Order extension theorems: Szpilrajn extension (partial order → linear order via Zorn's lemma), well-order extension (well-founded → well-order via ordinal rank and lexicographic product)
+- [x] `Filter/` - Complete filter theory foundation: filter structure as complete lattice, map/comap Galois connection, monad structure, Tendsto for convergence, NeBot for non-triviality, specialized filters (atTop/atBot with 19-file arithmetic preservation, cofinite, ultrafilters, bases, germs), pointwise operations, boundedness, extrema, products—abstracts limits and "eventual" behavior for topology/measure/analysis
+- [x] `Fin/` - Order structures on `Fin n`: bounded linear order, extensive order embeddings/isomorphisms (cast, succ, rev, succAbove), monotonicity results, finset order isomorphisms (orderIsoSingleton, orderIsoPair, orderIsoTriple), tuple ordering (pi_lex, cons/snoc/insertNth isomorphisms)
+- [x] `GaloisConnection/` - Galois connections as order-theoretic adjoints: core definitions (`GaloisConnection`, `GaloisInsertion`, `GaloisCoinsertion`), monotonicity and uniqueness, operations on bounds/suprema/infima, lifting order structures (semilattices, lattices, complete lattices) via Galois insertions with choice functions
+- [x] `Heyting/` - Heyting algebras (intuitionistic logic model): (co-/bi-)Heyting algebra typeclasses with implication `⇨` and difference `\`, co-Heyting boundary operator (topological boundary), homomorphisms (`HeytingHom`, `CoheytingHom`, `BiheytingHom`), proof that regular elements (satisfying `aᶜᶜ = a`) form a Boolean algebra enabling classical reasoning within intuitionistic logic
+- [x] `Hom/` - Bundled order morphisms: `OrderHom` (monotone maps), `OrderEmbedding`, `OrderIso`, lattice homomorphisms (`SupHom`, `InfHom`, `LatticeHom`, `BoundedLatticeHom`), complete lattice homomorphisms (`sSupHom`, `sInfHom`, `FrameHom`, `CompleteLatticeHom`), complete lattice structure on `α →o β`, set-theoretic constructions, lexicographic order, `WithTop`/`WithBot` extensions
+- [x] `Interval/` - Three-layer interval formalization: abstract interval objects with lattice operations and lexicographic ordering (`Basic.lean`, `Lex.lean`), finite set intervals via `LocallyFiniteOrder` (`Finset/` proving linear locally finite orders aren't densely ordered, successor interval relations, box decomposition), infinite set intervals with `OrdConnected` typeclass and comprehensive theory (`Set/` with 25 files covering all interval notations, unordered intervals, interactions with monotone functions/projections/type constructors)
+- [x] `Lattice/` - Lattice congruence relations: `LatticeCon` structure (equivalence relations compatible with `⊓` and `⊔`), alternative simplified constructor, kernel of lattice homomorphism as congruence
+- [x] `Monotone/` - Monotonicity theory: core definitions (`Monotone`, `Antitone`, `StrictMono`, `StrictAnti` with "On" variants), comprehensive API (dual transformations, well-foundedness, linear order reflection, products, Pi types), monotone extension theorem, monovariance (functions varying together without requiring ordered index), odd function monotonicity, union-based monotonicity
+- [x] `Partition/` - Partitions in complete lattices and finsets: general partitions as independent families with given supremum, finite partitions (`Finpartition`) with refinement order and bind operations, equipartitions (parts of nearly equal size for Szemerédi regularity), connections to equivalence relations
+- [x] `Preorder/` - Specialized preorder theory: chains and flags (comparable element sets, maximal chains, `IsChain`, `Flag` type with SuccChain construction—ported from Isabelle/HOL Zorn theory), finiteness results (minimal/maximal element existence in finite sets), pointwise order on finitely supported functions (`Finsupp`)
+- [x] `Prod/` - Product order structures: focuses on lexicographic products (ordering first by first component, then second); `Lex/` subdirectory contains order homomorphisms converting between standard and lexicographic products
+- [x] `Rel/` - Relations and Galois connections: constructs Galois connection between power sets from arbitrary binary relation, proves `leftDual`/`rightDual` operations form adjoint functions with inverse bijections between fixed points—applications to topos theory and categorical logic
+- [x] `RelIso/` - Relation morphisms foundation: `RelHom` (→r, one-directional preservation), `RelEmbedding` (↪r, injective bidirectional preservation), `RelIso` (≃r, bijective bidirectional preservation); includes composition, identity, dual, constructors, preservation of relation properties, lexicographic sum/product embeddings/isomorphisms, subrelation embeddings, directed/well-foundedness preservation
+- [x] `ScottContinuity/` - Scott continuity from domain theory: characterization via supremum preservation on directed sets (`scottContinuous_iff_map_sSup`), Scott continuity of meet in complete linear orders, product space Scott continuity
+- [x] `SuccPred/` - Successor/predecessor operations: `SuccOrder`/`PredOrder` typeclasses with comprehensive API, archimedean variants (iterating succ/pred reaches all comparable elements), successor/predecessor limits, proves linear locally finite orders are countable and order-isomorphic to ℤ/ℕ/finite subsets, suprema/infima relations in complete linear orders, interval decompositions, closure properties for relations, initial segment preservation, rooted tree applications, `WithBot`/`WithTop` extensions
+- [x] `UpperLower/` - Upper/lower set theory: unbundled predicates (`IsUpperSet`, `IsLowerSet`) and bundled types (`UpperSet`, `LowerSet` ordered by reverse inclusion matching filter convention), complete lattice and completely distributive lattice structures, principal sets (`Ici`, `Iic`, `Ioi`, `Iio`), upper/lower closure operators with Galois connections, set difference operations, products, complementation isomorphism, fibration characterizations, finiteness in locally finite orders, relative upper/lower sets
 
 ## Search Tags
 
