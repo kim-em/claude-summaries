@@ -36,7 +36,7 @@ The `Probability/` directory provides comprehensive formalization of probability
 
 ## Subdirectories
 
-- [~] `Decision/` - Decision theory
+- [x] `Decision/` - Statistical decision theory: risk measures for estimators including average risk, Bayes risk, and minimax risk with fundamental inequalities
 - [ ] `Distributions/` - Concrete probability distributions
 - [ ] `Independence/` - Independence theory for random variables and events
 - [ ] `Kernel/` - Probability kernels (Markov kernels)

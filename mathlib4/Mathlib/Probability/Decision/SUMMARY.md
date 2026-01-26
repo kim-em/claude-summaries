@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Probability/Decision
-generated: 2026-01-26T20:15:00Z
+generated: 2026-01-26T21:45:00Z
 git_sha: 542a7d7979ad5f45d2a89008412e565c8fa001d2
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 0
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-The `Decision/` directory provides formalization of decision theory in a probabilistic setting. It defines the framework for analyzing estimation problems where an estimator (randomized or deterministic) makes decisions based on observed data, and the quality of those decisions is measured by a loss function. The core concepts formalized include risk (expected loss of an estimator), average risk with respect to a prior distribution, Bayes risk (optimal expected loss), and minimax risk (worst-case optimal loss). The directory currently contains a single subdirectory focusing on risk theory for statistical decision problems.
+The `Decision/` directory provides formalization of statistical decision theory, a framework for analyzing how estimators make decisions based on observed data. In this setting, an estimator (which may be randomized or deterministic) maps observations to estimates of unknown parameters, and the quality of these decisions is quantified by a loss function. The directory develops the fundamental theory of risk: average risk (expected loss under a prior distribution over parameters), Bayes risk (the optimal expected loss achievable by any estimator for a given prior), and minimax risk (the best worst-case loss over all possible parameter values). The formalization includes key results such as the inequality relating Bayes and minimax risk, data-processing inequalities showing how information loss increases risk, and analysis of degenerate cases where observations carry no information. This provides the mathematical foundation for comparing estimators and understanding the fundamental limits of statistical inference.
 
 ## Key Files
 
