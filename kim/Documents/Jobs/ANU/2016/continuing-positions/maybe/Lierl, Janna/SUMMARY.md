@@ -28,7 +28,7 @@ Application materials for Janna Lierl, a candidate for the 2016 ANU Mathematical
 
 ## Subdirectories
 
-- [ ] `papers/` - Research papers including three publications on scale-invariant boundary Harnack principles and Dirichlet heat kernels
+- [?] `papers/` - Research papers including three publications on scale-invariant boundary Harnack principles and Dirichlet heat kernels
 
 ## Search Tags
 
