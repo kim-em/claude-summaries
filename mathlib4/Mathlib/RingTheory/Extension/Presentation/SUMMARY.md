@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/RingTheory/Extension/Presentation
-generated: 2026-01-26T22:15:00Z
+generated: 2026-01-26T22:42:00Z
 git_sha: 542a7d7979ad5f45d2a89008412e565c8fa001d2
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 3
 subdirs_count: 0
 ---
@@ -12,7 +12,7 @@ subdirs_count: 0
 
 ## Overview
 
-The `Presentation/` directory formalizes the theory of presentations of algebras and submersive presentations. A presentation consists of generators together with a family of relations (polynomials in those generators that span the kernel). Submersive presentations are finite presentations with fewer relations than generators, equipped with an invertible Jacobian determinant. These are fundamental structures in algebraic geometry, particularly for defining standard smooth algebras.
+The `Presentation/` directory formalizes the theory of presentations of algebras and submersive presentations, building on the extension and generator theory in the parent directory. A presentation (defined in `Basic.lean`) consists of generators together with a family of relations (polynomials in those generators that span the kernel of the induced map). Submersive presentations (`Submersive.lean`) are finite presentations with fewer relations than generators, equipped with an invertible Jacobian determinant—these characterize standard smooth algebras in algebraic geometry. The `Core.lean` file provides machinery for descending presentations to coefficient subrings, enabling removal of Noetherian hypotheses by working over finitely generated coefficient rings. This directory provides the algebraic foundations for studying smooth morphisms and complete intersections.
 
 ## Key Files
 
