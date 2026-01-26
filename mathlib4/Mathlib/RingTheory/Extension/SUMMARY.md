@@ -24,7 +24,7 @@ The `Extension/` directory formalizes the theory of algebra extensions and gener
 ## Subdirectories
 
 - [x] `Cotangent/` - Cotangent space theory for extensions
-- [ ] `Presentation/` - Presentations of algebras
+- [~] `Presentation/` - Presentations of algebras
 
 ## Search Tags
 
