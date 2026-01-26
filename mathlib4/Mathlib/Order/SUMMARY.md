@@ -128,7 +128,7 @@ The `Order/` directory contains comprehensive formalization of order theory in a
 - [x] `Lattice/` - Lattice theory
 - [x] `Monotone/` - Monotone and antitone functions
 - [x] `Partition/` - Partitions and equivalence relations
-- [ ] `Preorder/` - Preorders, partial orders, linear orders
+- [x] `Preorder/` - Preorders, partial orders, linear orders
 - [ ] `Prod/` - Product orders
 - [ ] `Rel/` - Binary relations
 - [ ] `RelIso/` - Relation isomorphisms and embeddings
