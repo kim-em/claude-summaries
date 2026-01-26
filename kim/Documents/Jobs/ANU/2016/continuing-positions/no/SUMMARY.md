@@ -32,7 +32,7 @@ No files at this level - all content is organized in individual candidate subdir
 - [x] `Irmer, Ingrid/` - Application from Australian/German topologist at University of Melbourne, PhD from Bonn, specializes in mapping class groups and low-dimensional geometry
 - [x] `Jhorar, Bablesh/` - Application from Assistant Professor at CDLU Sirsa, PhD in algebraic number theory from Panjab University, research on Ore's Theorem and Hensel's Lemma, required visa sponsorship
 - [x] `Jiang, Jiaojiao/` - Application from Deakin University PhD candidate in Applied Statistics and Complex Networks, required visa sponsorship
-- [~] `Leitner, Arielle/` - Postdoctoral researcher at Technion, PhD from UCSB (2015), research on geometric transitions and Cartan subgroup limits using non-standard analysis, four published papers, strong teaching with inquiry-based methods, required visa sponsorship
+- [x] `Leitner, Arielle/` - Postdoctoral researcher at Technion, PhD from UCSB (2015), research on geometric transitions and Cartan subgroup limits using non-standard analysis, four published papers, strong teaching with inquiry-based methods, required visa sponsorship
 - [ ] `Liang, Xuan/` - Application materials
 - [ ] `Liao, Xian/` - Application materials
 - [ ] `Myer, Ziva/` - Application materials

@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/continuing-positions/no/Leitner, Arielle
-generated: 2026-01-26T05:50:00Z
+generated: 2026-01-26T06:15:00Z
 git_sha: fafb26e72fe7b535873cd5b8a8f359b75df7fe29
 git_branch: master
-status: preliminary
+status: complete
 files_count: 5
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Application from Arielle Leitner, a postdoctoral researcher at Technion - Israel Institute of Technology, for the 2016 ANU female-only continuing position in Mathematical Science. PhD from UC Santa Barbara (2015) under Daryl Cooper. Research specializes in geometric topology, geometric transitions, Lie groups, and convex projective structures. Particularly focused on limits of the Cartan subgroup in SL(n,R) and applications to generalized cusps on projective manifolds. Required visa sponsorship. Not advanced to final consideration.
+Application from Arielle Leitner, a postdoctoral researcher at Technion - Israel Institute of Technology, for the 2016 ANU female-only continuing position in Mathematical Science. PhD from UC Santa Barbara (2015) under Daryl Cooper, with active research program in geometric topology, Lie groups, and convex projective structures. Particularly focused on limits of the Cartan subgroup in SL(n,ℝ) and applications to generalized cusps on projective manifolds. Published work demonstrates innovative use of nonstandard analysis and hyperreal numbers to study geometric transitions. Research portfolio includes three published papers (2010-2016) spanning work from undergraduate REU through doctoral research, including classification of subgroups in SL(4,ℝ), conjugacy limits in SL₃(ℝ), and universal cycles in combinatorics. Strong teaching credentials emphasizing inquiry-based learning. Required visa sponsorship. Not advanced to final consideration.
 
 ## Key Files
 
