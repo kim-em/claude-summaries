@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/continuing-positions/maybe/Shi, Yang
-generated: 2026-01-26T08:45:00Z
+generated: 2026-01-26T09:30:00Z
 git_sha: fafb26e72fe7b535873cd5b8a8f359b75df7fe29
 git_branch: master
-status: preliminary
+status: complete
 files_count: 5
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Application materials for Yang Shi, a postdoctoral researcher from the University of Sydney applying for a 2016 ANU Mathematical Sciences continuing position (Lecturer Level B, female only, position 511070). Yang Shi specializes in integrable systems, discrete Painlevé equations, and combinatorial geometry. Her application demonstrates breakthrough research establishing geometric connections between discrete integrable systems and strong teaching experience including large first-year courses.
+Complete application materials for Yang Shi, a University of Sydney postdoctoral researcher applying for a 2016 ANU Mathematical Sciences continuing position (Lecturer Level B, female only, position 511070). Yang Shi's application showcases breakthrough research in integrable systems and discrete Painlevé equations, particularly her pioneering work on geometric reductions connecting multi-dimensional ABS lattice equations to discrete Painlevé systems through Weyl group symmetries. The application includes strong reference letters from leading researchers (Nalini Joshi, Claude Viallet, Frank Nijhoff, Kenji Kajiwara) and two significant Journal of Physics A publications (2014, 2015) demonstrating novel geometric approaches to discrete integrable systems.
 
 ## Key Files
 
