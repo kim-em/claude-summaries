@@ -134,7 +134,7 @@ The `Order/` directory contains comprehensive formalization of order theory in a
 - [x] `RelIso/` - Relation isomorphisms and embeddings
 - [x] `ScottContinuity/` - Scott continuity theory
 - [x] `SuccPred/` - Successor and predecessor functions
-- [ ] `UpperLower/` - Upper and lower sets
+- [x] `UpperLower/` - Upper and lower sets
 
 ## Search Tags
 
