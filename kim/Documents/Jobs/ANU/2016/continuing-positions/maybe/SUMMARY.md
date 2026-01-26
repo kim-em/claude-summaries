@@ -28,7 +28,7 @@ No files directly in this directory - all materials are organized in individual 
 - [x] `Lindsey, Kathryn/` - Application materials from UChicago Dickson Instructor/NSF postdoc in dynamical systems, including 4 references and research papers on translation surfaces
 - [x] `Massierer, Maike/` - Application materials including 4 reference letters from Harvey, Gorla, Hess, and Gaudry, plus research papers
 - [x] `Monniaux, Sylvie/` - Application materials including 4 reference letters from Hofmann, Coulhon, Gallouet, and Arendt, plus research papers
-- [~] `Neusser, Katharina/` - Application materials including 4 reference letters from Cap, Calderbank, Eastwood, and Gover, plus research papers
+- [x] `Neusser, Katharina/` - Application materials including 4 reference letters from Cap, Calderbank, Eastwood, and Gover, plus research papers
 - [ ] `Nur Saglam, Kadriye/` - Application materials (application PDF only, minimal documentation)
 - [ ] `Puskas, Anna/` - Application materials including 6 reference letters from Brubaker, Lenart, Bump, Dai, Chinta, and Patnaik
 - [ ] `Ramadurai, Reshma/` - Application materials including reference letter from Greenhill and additional scanned documents

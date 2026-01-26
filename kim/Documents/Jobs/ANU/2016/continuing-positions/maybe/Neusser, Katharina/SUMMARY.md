@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/continuing-positions/maybe/Neusser, Katharina
-generated: 2026-01-26T09:15:00Z
+generated: 2026-01-26T11:00:00Z
 git_sha: fafb26e72fe7b535873cd5b8a8f359b75df7fe29
 git_branch: master
-status: preliminary
+status: complete
 files_count: 6
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Application materials for Katharina Neusser, candidate for a 2016 ANU Mathematical Sciences continuing position (Lecturer Level B, Job No. 511070). Neusser is an Austrian differential geometer specializing in parabolic geometries, who was a postdoctoral fellow at ANU MSI from 2010-2015. The folder contains her complete application package including CV, research and teaching statements, selection criteria responses, cover letter, and four reference letters from distinguished collaborators (Cap, Calderbank, Eastwood, and Gover), plus two research papers.
+Application materials for Katharina Neusser, candidate for a 2016 ANU Mathematical Sciences continuing position (Lecturer Level B, Job No. 511070). Neusser is an Austrian differential geometer specializing in parabolic geometries and related geometric structures, who was a postdoctoral fellow at ANU MSI from 2010-2015. The folder contains her complete application package with four uniformly glowing reference letters from distinguished collaborators (her PhD supervisor Cap, and colleagues Calderbank, Eastwood, and Gover) emphasizing her exceptional thesis (awarded Austria's highest honor *promotio sub auspiciis praesidentis*), her role as "driving force" in a major 117-page c-projective geometry collaboration, and her "tremendous energy" in opening new research directions. The included research papers demonstrate her expertise in automorphism groups of generic distributions and prolongation methods for overdetermined PDEs on infinitesimal flag manifolds.
 
 ## Key Files
 
