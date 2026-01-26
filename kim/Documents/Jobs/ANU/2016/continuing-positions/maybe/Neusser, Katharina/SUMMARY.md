@@ -26,7 +26,7 @@ Application materials for Katharina Neusser, candidate for a 2016 ANU Mathematic
 
 ## Subdirectories
 
-- [ ] `papers/` - Two research publications in differential geometry
+- [~] `papers/` - Two research publications in differential geometry
 
 ## Search Tags
 
