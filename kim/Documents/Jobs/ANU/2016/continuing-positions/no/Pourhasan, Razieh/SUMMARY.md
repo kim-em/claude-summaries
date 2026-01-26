@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/continuing-positions/no/Pourhasan, Razieh
-generated: 2026-01-26T06:00:00Z
+generated: 2026-01-26T06:30:00Z
 git_sha: fafb26e72fe7b535873cd5b8a8f359b75df7fe29
 git_branch: master
-status: preliminary
+status: complete
 files_count: 7
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Application materials for Razieh Pourhasan, a theoretical physicist specializing in holography, black holes, and gauge/gravity duality. PhD from University of Waterloo/Perimeter Institute (2014) with supervisors Robert C. Myers and Robert B. Mann. At time of application, postdoctoral research fellow at University of Iceland (on maternity leave June-November 2016). Notable achievements include 14 publications (2 as graduate student in Iran, 11 more during PhD), high-profile media coverage in Nature News and Scientific American cover article on holographic cosmology, and John Brodie Prize as top PhD graduate from Perimeter Institute 2014.
+Application materials for Razieh Pourhasan, a highly productive theoretical physicist specializing in holography, black holes, and gauge/gravity duality. PhD from University of Waterloo/Perimeter Institute (2014) with supervisors Robert C. Myers and Robert B. Mann. At time of application, postdoctoral research fellow at University of Iceland (on maternity leave June-November 2016). Notable achievements include 14 publications spanning diverse topics—including pioneering work on heavy fermion metals using Gauss-Bonnet gravity (published in JHEP 2011), holographic cosmology (Scientific American cover story), spacetime entanglement, and non-Fermi liquids—plus John Brodie Prize as top PhD graduate from Perimeter Institute 2014. Reference letters emphasize versatility across research topics, creative problem-solving, high productivity (11 papers during PhD), strong collaborative abilities, and ability to work independently. The application demonstrates computational skills and an independent research agenda in both theoretical and numerical aspects of holography.
 
 ## Key Files
 
