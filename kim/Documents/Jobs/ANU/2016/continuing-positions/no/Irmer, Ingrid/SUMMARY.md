@@ -22,7 +22,7 @@ Application materials from Ingrid Irmer for the 2016 ANU female-only continuing 
 
 ## Subdirectories
 
-- [ ] `papers/` - Research paper on Chillingworth class and stable length
+- [x] `papers/` - Research paper on Chillingworth class and stable length
 
 ## Search Tags
 
