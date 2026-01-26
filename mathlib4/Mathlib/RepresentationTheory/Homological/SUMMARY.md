@@ -24,7 +24,7 @@ The `Homological/` directory develops homological algebra of group representatio
 ## Subdirectories
 
 - [x] `GroupCohomology/` - Group cohomology theory (7 files: Basic, FiniteCyclic, Functoriality, Hilbert90, LongExactSequence, LowDegree, Shapiro)
-- [ ] `GroupHomology/` - Group homology theory (6 files: Basic, FiniteCyclic, Functoriality, LongExactSequence, LowDegree, Shapiro)
+- [~] `GroupHomology/` - Group homology theory (6 files: Basic, FiniteCyclic, Functoriality, LongExactSequence, LowDegree, Shapiro)
 
 ## Search Tags
 
