@@ -36,7 +36,7 @@ No files at this level - all content is organized in individual candidate subdir
 - [x] `Liang, Xuan/` - PhD candidate in Statistics from Peking University specializing in environmental statistics and PM2.5 air pollution analysis in China, strong references from Song Xi Chen (supervisor), Qiwei Yao (LSE), and Theis Lange (Copenhagen), required visa sponsorship
 - [x] `Liao, Xian/` - Postdoctoral researcher from Bonn specializing in PDEs and fluid mechanics, PhD from Paris-Est Créteil, research on zero Mach number systems and density patch problems, required visa sponsorship
 - [x] `Myer, Ziva/` - Application from Bryn Mawr PhD candidate in contact/symplectic geometry, research on A∞ algebras for Legendrians using generating families, strong references from advisor Lisa Traynor and Joshua Sabloff, required visa sponsorship
-- [ ] `O.Donnol, Danielle/` - Application materials
+- [~] `O.Donnol, Danielle/` - Application from Indiana University Visiting Assistant Professor, PhD from UCLA, research in knot theory, spatial graphs, and DNA topology, extensive teaching including Calculus I coordination, NSF grant, required visa sponsorship
 - [ ] `Pourhasan, Razieh/` - Application materials
 - [ ] `Rupam, Rishika/` - Application materials
 - [ ] `Salmeron, Raquel/` - Application materials
