@@ -26,7 +26,7 @@ Application materials for Mariel Saez-Trumper, Professor and department chair at
 
 ## Subdirectories
 
-- [ ] `papers/` - Research papers including 10 publications on mean curvature flow, Allen-Cahn equations, fractional Laplacian, network flow, and related PDEs in geometric analysis
+- [x] `papers/` - Research papers including 10 publications on mean curvature flow, Allen-Cahn equations, fractional Laplacian, network flow, and related PDEs in geometric analysis
 
 ## Search Tags
 
