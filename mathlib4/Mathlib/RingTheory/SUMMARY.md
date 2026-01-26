@@ -91,7 +91,7 @@ The `RingTheory/` directory contains comprehensive formalizations of commutative
 - [x] `Bialgebra/` - Bialgebras (algebras with compatible coalgebra structure)
 - [x] `Coalgebra/` - Coalgebras (dual notion to algebras)
 - [x] `Congruence/` - Congruence relations on rings
-- [ ] `Coprime/` - Coprime ideals and elements
+- [x] `Coprime/` - Coprime ideals and elements
 - [ ] `DedekindDomain/` - Dedekind domains (Noetherian integrally closed dimension 1 domains)
 - [ ] `Derivation/` - Derivations on rings and modules (Leibniz rule operators)
 - [ ] `DiscreteValuationRing/` - Discrete valuation rings (DVRs)
