@@ -125,7 +125,7 @@ The `Order/` directory contains comprehensive formalization of order theory in a
 - [x] `Heyting/` - Heyting algebras
 - [x] `Hom/` - Order homomorphisms
 - [x] `Interval/` - Intervals in orders
-- [ ] `Lattice/` - Lattice theory
+- [x] `Lattice/` - Lattice theory
 - [ ] `Monotone/` - Monotone and antitone functions
 - [ ] `Partition/` - Partitions and equivalence relations
 - [ ] `Preorder/` - Preorders, partial orders, linear orders
