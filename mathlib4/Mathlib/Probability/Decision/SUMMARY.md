@@ -20,7 +20,7 @@ The `Decision/` directory provides formalization of decision theory in a probabi
 
 ## Subdirectories
 
-- [ ] `Risk/` - Risk theory for estimators: definitions of average risk, Bayes risk, and minimax risk, along with fundamental inequalities and data-processing theorems
+- [x] `Risk/` - Risk theory for estimators: definitions of average risk, Bayes risk, and minimax risk, along with fundamental inequalities and data-processing theorems
 
 ## Search Tags
 
