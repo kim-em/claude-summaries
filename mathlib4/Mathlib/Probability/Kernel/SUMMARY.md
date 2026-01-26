@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Probability/Kernel
-generated: 2026-01-26T22:30:00Z
+generated: 2026-01-26T23:40:00Z
 git_sha: 542a7d7979ad5f45d2a89008412e565c8fa001d2
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 15
 subdirs_count: 3
 ---
@@ -12,7 +12,7 @@ subdirs_count: 3
 
 ## Overview
 
-The `Kernel/` directory provides a comprehensive formalization of Markov kernels (probability kernels) in measure theory. A kernel from measurable space α to β is a measurable map `α → Measure β`. This includes core definitions and classifications of kernels (Markov, finite, s-finite), basic kernel operations (deterministic, constant, identity, restriction, composition), kernel composition and product operations, disintegration theory for decomposing measures via kernels, Radon-Nikodym derivatives and Lebesgue decomposition for kernels, conditional distributions and regular conditional probability, posterior distributions (Bayesian inference), and the Ionescu-Tulcea theorem for constructing measures on infinite product spaces.
+The `Kernel/` directory provides a comprehensive formalization of Markov kernels (probability kernels) in measure theory. A kernel from measurable space α to β is a measurable map `α → Measure β`. The directory establishes the foundational theory including core definitions and classifications (Markov, finite, s-finite kernels), basic kernel constructors (deterministic, constant, identity, restriction), and several major theoretical components. The Composition subdirectory implements sequential composition (`η ∘ₖ κ`), parallel composition (`κ ∥ₖ η`), composition-product (`κ ⊗ₖ η`), and simple product (`κ ×ₖ η`), with Chapman-Kolmogorov equations for Markov chains. The Disintegration subdirectory provides the full theory of decomposing measures on product spaces into marginals and conditional kernels (`ρ = ρ.fst ⊗ₘ ρ.condKernel`), proved for standard Borel spaces using conditional CDFs, martingale convergence for densities, and measurable embeddings into ℝ. The IonescuTulcea subdirectory constructs measures on infinite product spaces from sequences of history-dependent kernels via Carathéodory extension, providing the foundation for defining Markov processes and stochastic processes. The core files cover Radon-Nikodym derivatives and Lebesgue decomposition for kernels, regular conditional probability distributions, posterior distributions for Bayesian inference, integration and measurability of kernel integrals, and invariance and irreducibility properties.
 
 ## Key Files
 
@@ -36,9 +36,9 @@ The `Kernel/` directory provides a comprehensive formalization of Markov kernels
 
 ## Subdirectories
 
-- [x] `Composition/` - Kernel composition operations and properties
-- [x] `Disintegration/` - Disintegration theory (decomposing measures into kernels)
-- [x] `IonescuTulcea/` - Ionescu-Tulcea theorem for constructing measures on infinite products
+- [x] `Composition/` - Sequential, parallel, composition-product, and simple product operations with Chapman-Kolmogorov equations, absolute continuity, and integration formulas
+- [x] `Disintegration/` - Decomposition of measures into marginals and conditional kernels for standard Borel spaces using CDFs, density via martingale convergence, and uniqueness theorems
+- [x] `IonescuTulcea/` - Construction of measures on infinite product spaces from sequences of history-dependent kernels via Carathéodory extension for Markov processes
 
 ## Search Tags
 
