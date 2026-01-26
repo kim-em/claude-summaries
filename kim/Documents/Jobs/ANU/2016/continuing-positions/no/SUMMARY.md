@@ -23,7 +23,7 @@ No files at this level - all content is organized in individual candidate subdir
 - [x] `Aghaei, Nezhla/` - Application and reference letters from Loran, Teschner, Quella, and Schomerus
 - [x] `Begum, Azra/` - Application from mathematics lecturer at Al Qassim University, required visa sponsorship
 - [x] `Burtscher, Annegret/` - Application and reference letters from Grant, Kunzinger, Chrusciel, and Donninger, specialist in mathematical general relativity
-- [ ] `Cheung, Yeuk-Kwan Edna/` - Application materials
+- [~] `Cheung, Yeuk-Kwan Edna/` - Application from Princeton Ph.D. and Nanjing University Professor specializing in string theory and cosmology, required visa sponsorship
 - [ ] `Corran, Ruth/` - Application materials
 - [ ] `Dann, Susanna/` - Application materials
 - [ ] `Ginges, Jacinda/` - Application materials
