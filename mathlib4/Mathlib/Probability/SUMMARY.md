@@ -36,7 +36,7 @@ The `Probability/` directory provides comprehensive formalization of probability
 
 ## Subdirectories
 
-- [ ] `Decision/` - Decision theory
+- [~] `Decision/` - Decision theory
 - [ ] `Distributions/` - Concrete probability distributions
 - [ ] `Independence/` - Independence theory for random variables and events
 - [ ] `Kernel/` - Probability kernels (Markov kernels)
