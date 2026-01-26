@@ -22,7 +22,7 @@ Application materials for Bablesh Jhorar, a candidate for the 2016 ANU female-on
 
 ## Subdirectories
 
-- [ ] `papers/` - Research publication demonstrating her work on reformulation of Hensel's Lemma
+- [x] `papers/` - Research publication demonstrating her work on reformulation of Hensel's Lemma
 
 ## Search Tags
 
