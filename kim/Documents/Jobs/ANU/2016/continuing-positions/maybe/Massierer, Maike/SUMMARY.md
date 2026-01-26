@@ -26,7 +26,7 @@ Application materials for Maike Massierer, a candidate in the 2016 ANU Mathemati
 
 ## Subdirectories
 
-- [ ] `papers/` - Two research publications: point compression for trace zero subgroups (with Gorla, 2015) and tame class field theory for global function fields (with Hess, 2016)
+- [~] `papers/` - Two research publications: point compression for trace zero subgroups (with Gorla, 2015) and tame class field theory for global function fields (with Hess, 2016)
 
 ## Search Tags
 
