@@ -34,7 +34,7 @@ The `DedekindDomain/` directory contains the formalization of Dedekind domains a
 
 ## Subdirectories
 
-- [ ] `Ideal/` - Specialized ideal theory for Dedekind domains
+- [~] `Ideal/` - Specialized ideal theory for Dedekind domains
 
 ## Search Tags
 
