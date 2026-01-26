@@ -31,7 +31,7 @@ The `Independence/` directory provides a comprehensive formalization of independ
 
 ## Subdirectories
 
-- [ ] `Kernel/` - Kernel-based definitions of independence (fundamental definitions used by the main independence concepts)
+- [x] `Kernel/` - Kernel-based definitions of independence (fundamental definitions used by the main independence concepts)
 
 ## Search Tags
 
