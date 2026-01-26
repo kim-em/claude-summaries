@@ -3,7 +3,7 @@ source_path: /Users/kim/projects/lean/mathlib4/Mathlib/RepresentationTheory
 generated: 2026-01-26T23:45:00Z
 git_sha: 542a7d7979ad5f45d2a89008412e565c8fa001d2
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 16
 subdirs_count: 2
 ---
@@ -12,7 +12,7 @@ subdirs_count: 2
 
 ## Overview
 
-The `RepresentationTheory/` directory formalizes the theory of group and monoid representations, focusing on linear representations over commutative rings and fields. It includes both unbundled representations (as monoid homomorphisms `G →* (V →ₗ[k] V)`) and bundled categorical representations (`Rep k G` as the category of `k`-linear `G`-representations), with a focus on finite-dimensional representations (`FDRep k G`). The directory contains foundational constructions (trivial, induced, coinduced representations), key theorems (Maschke's theorem, Schur's lemma, character orthogonality), structural theory (invariants, coinvariants, subrepresentations, irreducibility), and advanced topics including Tannaka duality and homological methods (group cohomology/homology via projective resolutions).
+The `RepresentationTheory/` directory provides a comprehensive formalization of representation theory spanning general algebras, groups, and monoids, with deep integration of homological methods. The core layer develops two equivalent frameworks for group representations: unbundled representations as monoid homomorphisms `G →* (V →ₗ[k] V)` and bundled categorical representations `Rep k G` (defined as `Action (ModuleCat k) G`), with the categorical formulation proven to be a `k`-linear abelian symmetric monoidal category equivalent to `ModuleCat k[G]`. Finite-dimensional theory (`FDRep k G`) includes rigidity, monoidal structure, and character theory with orthogonality theorems for irreducible representations over algebraically closed fields. Structural theory encompasses invariants/coinvariants (with adjunctions and tensor formulas), subrepresentations, irreducibility (via simple order on subrepresentations), induced/coinduced representations (with adjunctions between induction/restriction functors and Shapiro's lemma machinery), and finite index isomorphisms between induction and coinduction. Key theorems include Maschke's theorem (semisimplicity when `|G|` is invertible in the field), Schur's lemma (both for groups and general algebras over algebraically closed fields), and Tannaka duality (recovering finite groups from `FDRep k G` as monoidal automorphisms of the forgetful functor). The `AlgebraRepresentation/` subdirectory establishes foundational Schur's lemma for general algebras and proves irreducible commutative algebra representations are one-dimensional. The `Homological/` subdirectory provides a complete homological algebra framework with projective resolutions (standard resolution and bar resolution, proven exact and isomorphic via homotopy equivalence, plus periodic resolutions for finite cyclic groups), group cohomology (Hⁿ(G, A) ≅ Extⁿ(k, A) with Shapiro's lemma, Hilbert's Theorem 90, long exact sequences, and explicit finite cyclic formulas), and group homology (Hₙ(G, A) ≅ Torₙ(A, k) with functoriality, long exact sequences, and low-degree computations). The directory constitutes a modern, categorical treatment of representation theory with full homological infrastructure.
 
 ## Key Files
 
