@@ -28,7 +28,7 @@ Application materials for Razieh Pourhasan, a theoretical physicist specializing
 
 ## Subdirectories
 
-- [ ] `papers/` - Research publications including "Gauss-Bonnet black holes and heavy fermion metals" published in J. High Energy Phys.
+- [x] `papers/` - Research publications including "Gauss-Bonnet black holes and heavy fermion metals" published in J. High Energy Phys.
 
 ## Search Tags
 
