@@ -26,7 +26,7 @@ Application materials for Susanna Dann, a candidate for the 2016 ANU female-only
 
 ## Subdirectories
 
-- [~] `papers/` - Contains two research publications by Dann on sections of convex bodies and the Busemann-Petty problem in complex hyperbolic space
+- [x] `papers/` - Contains two research publications by Dann on sections of convex bodies and the Busemann-Petty problem in complex hyperbolic space
 
 ## Search Tags
 
