@@ -25,7 +25,7 @@ The `Interval/` directory provides formalization of order intervals in multiple 
 ## Subdirectories
 
 - [x] `Finset/` - Intervals as finite sets
-- [ ] `Set/` - Intervals as infinite sets
+- [x] `Set/` - Intervals as infinite sets
 
 ## Search Tags
 
