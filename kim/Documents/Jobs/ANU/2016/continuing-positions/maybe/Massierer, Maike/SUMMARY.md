@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/continuing-positions/maybe/Massierer, Maike
-generated: 2026-01-26T09:15:00Z
+generated: 2026-01-26T12:30:00Z
 git_sha: fafb26e72fe7b535873cd5b8a8f359b75df7fe29
 git_branch: master
-status: preliminary
+status: complete
 files_count: 5
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Application materials for Maike Massierer, a candidate in the 2016 ANU Mathematical Sciences Institute continuing position search. Dr. Massierer was a German mathematician specializing in computational number theory, algebraic geometry, and cryptography. At the time of application (October 2016), she was a research associate at UNSW working with David Harvey, holding a 457 visa requiring sponsorship. Her research focused on point counting algorithms, complex multiplication, discrete logarithm problems, and elliptic/hyperelliptic curve cryptography.
+Application materials for Maike Massierer, a candidate in the 2016 ANU Mathematical Sciences Institute continuing position search categorized as intermediate strength ("maybe" tier). Dr. Massierer was a German mathematician specializing in computational number theory, algebraic geometry, and cryptography. At the time of application (October 2016), she was a research associate at UNSW working with David Harvey, holding a 457 visa requiring sponsorship. Her research portfolio demonstrates sophisticated expertise in point counting algorithms, complex multiplication, discrete logarithm problems, and elliptic/hyperelliptic curve cryptography, with particular strength in constructive algebraic methods with cryptographic applications. The included papers showcase both her theoretical contributions (class field theory for function fields) and practical cryptographic work (efficient point compression techniques).
 
 ## Key Files
 
