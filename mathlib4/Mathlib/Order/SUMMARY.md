@@ -122,7 +122,7 @@ The `Order/` directory contains comprehensive formalization of order theory in a
 - [x] `Filter/` - Filter theory (partial orders of filters, filter bases, ultrafilters, Gödel's completeness theorem infrastructure)
 - [x] `Fin/` - Orders on Fin types
 - [x] `GaloisConnection/` - Galois connections and Galois insertions
-- [ ] `Heyting/` - Heyting algebras
+- [~] `Heyting/` - Heyting algebras
 - [ ] `Hom/` - Order homomorphisms
 - [ ] `Interval/` - Intervals in orders
 - [ ] `Lattice/` - Lattice theory
