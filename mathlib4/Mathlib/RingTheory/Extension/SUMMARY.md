@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/RingTheory/Extension
-generated: 2026-01-26T21:30:00Z
+generated: 2026-01-26T23:15:00Z
 git_sha: 542a7d7979ad5f45d2a89008412e565c8fa001d2
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 2
 subdirs_count: 2
 ---
@@ -12,7 +12,7 @@ subdirs_count: 2
 
 ## Overview
 
-The `Extension/` directory formalizes the theory of algebra extensions and generators. It provides two main structures: `Algebra.Extension` represents an extension P → S of an R-algebra S (a surjective R-algebra homomorphism), and `Algebra.Generators` represents a family of generators for an algebra (an assignment of variables to values with a section of the induced polynomial map). Both structures support homomorphisms between extensions/generators, composition, base change, localization, and cotangent space constructions. The theory includes universal property characterizations and relationships between presentations and their kernels.
+The `Extension/` directory provides a complete framework for formalizing algebra extensions, generators, presentations, and the naive cotangent complex in algebraic geometry. At the foundation are two key structures: `Algebra.Extension` (surjective R-algebra homomorphisms P → S) and `Algebra.Generators` (families of generators with polynomial maps R[X] → S). Building on these, the `Presentation/` subdirectory develops the theory of presentations (generators plus relations) and submersive presentations (characterized by invertible Jacobians)—the algebraic foundation for smooth morphisms. The `Cotangent/` subdirectory provides the naive cotangent complex construction for presentations, yielding exact sequences `I/I² → ⨁ᵢ S dxᵢ → Ω[S/R] → 0`, with complete homology theory (H¹ independent of presentation choice), base change and localization formulas, and computational tools for verifying submersivity via Jacobian calculations. This provides the essential algebraic machinery for studying differential properties of algebra homomorphisms in the style of modern algebraic geometry.
 
 ## Key Files
 
@@ -23,9 +23,9 @@ The `Extension/` directory formalizes the theory of algebra extensions and gener
 
 ## Subdirectories
 
-- [x] `Cotangent/` - Cotangent space theory for extensions
-- [x] `Presentation/` - Presentations of algebras
+- [x] `Cotangent/` - Naive cotangent complex theory for algebra presentations: cotangent space construction (I/I² → ⨁ S dxᵢ → Ω[S/R]), exactness results, first homology H¹(L_{S/R}) independent of presentation, base change and localization behavior, Jacobian-based criteria for submersivity
+- [x] `Presentation/` - Presentations of algebras (generators plus relations spanning the kernel): presentation dimension, submersive presentations (finite with invertible Jacobian), Jacobi matrix and differential constructions, descent to coefficient subrings for removing Noetherian hypotheses
 
 ## Search Tags
 
-algebra-extension generators presentation polynomial-ring multivariate-polynomial surjection section cotangent-space infinitesimal-extension base-change localization composition kernel ideal finite-type scalar-tower homomorphism reindexing
+algebra-extension generators presentation polynomial-ring multivariate-polynomial surjection section cotangent-space cotangent-complex conormal-space naive-cotangent-complex H1-cotangent first-homology kaehler-differentials infinitesimal-extension base-change localization composition kernel ideal finite-type finite-presentation scalar-tower homomorphism reindexing submersive jacobian jacobi-matrix differential smooth-algebra standard-smooth exact-sequence tensor-product coefficients subalgebra descent noetherian dimension pderiv determinant basis homotopy

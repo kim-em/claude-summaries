@@ -97,7 +97,7 @@ The `RingTheory/` directory contains comprehensive formalizations of commutative
 - [x] `DiscreteValuationRing/` - Discrete valuation rings (DVRs)
 - [x] `DividedPowers/` - Divided power structures on ideals
 - [x] `Etale/` - Étale algebras and morphisms
-- [~] `Extension/` - Ring extensions and their properties
+- [x] `Extension/` - Ring extensions and their properties
 - [ ] `FilteredAlgebra/` - Filtered algebras and associated graded algebras
 - [ ] `Finiteness/` - Various finiteness conditions (finite type, finite presentation, etc.)
 - [ ] `Flat/` - Flat modules and algebras
