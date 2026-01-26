@@ -27,7 +27,7 @@ Application materials for Dr. Rishika Rupam, a postdoctoral researcher at Univer
 
 ## Subdirectories
 
-- [ ] `papers/` - Contains published paper "Restricted interpolation by meromorphic inner functions" coauthored with Alexei Poltoratski, published in Concrete Operators 3 (2016)
+- [x] `papers/` - Contains published paper "Restricted interpolation by meromorphic inner functions" coauthored with Alexei Poltoratski, published in Concrete Operators 3 (2016)
 
 ## Search Tags
 
