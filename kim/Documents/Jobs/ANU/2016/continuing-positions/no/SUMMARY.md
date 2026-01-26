@@ -39,7 +39,7 @@ No files at this level - all content is organized in individual candidate subdir
 - [x] `O.Donnol, Danielle/` - Application from Indiana University Visiting Assistant Professor, PhD from UCLA, research in knot theory, spatial graphs, and DNA topology, extensive teaching including Calculus I coordination, NSF grant, required visa sponsorship
 - [x] `Pourhasan, Razieh/` - Application from theoretical physicist specializing in holography and gauge/gravity duality, PhD Waterloo/Perimeter 2014, postdoc at University of Iceland, Scientific American cover article author, on maternity leave during application
 - [x] `Rupam, Rishika/` - Application from Lille postdoc, PhD Texas A&M 2015 under Poltoratski, complex analysis specialist who corrected de Branges' error on meromorphic inner functions, paper in Journal d'Analyse Mathematique, L.F. Guseman Prize winner
-- [ ] `Salmeron, Raquel/` - Application materials
+- [x] `Salmeron, Raquel/` - Former ANU researcher (2006-2015) in magnetohydrodynamics and protostellar disks, PhD Physics Sydney 2005, MBA, Australian citizen, strong teaching record and excellent references from Ferrario, Wardle, and Ireland, moved to Airservices Australia in 2015
 - [ ] `Saorin Gomez, Eugenia/` - Application materials
 - [ ] `Seelinger, Nora/` - Application materials
 - [ ] `Snow, Kate/` - Application materials
