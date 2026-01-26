@@ -30,7 +30,7 @@ The `Flat/` directory contains the comprehensive formalization of flat modules a
 
 ## Subdirectories
 
-- [ ] `FaithfullyFlat/` - Faithfully flat modules (flat modules M where IM ≠ M for all maximal ideals I)
+- [x] `FaithfullyFlat/` - Faithfully flat modules (flat modules M where IM ≠ M for all maximal ideals I)
 
 ## Search Tags
 
