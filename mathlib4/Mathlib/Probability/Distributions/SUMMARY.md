@@ -30,7 +30,7 @@ The `Distributions/` directory provides formalized implementations of concrete p
 
 ## Subdirectories
 
-- [ ] `Gaussian/` - Gaussian (normal) distributions
+- [x] `Gaussian/` - Gaussian (normal) distributions
 
 ## Search Tags
 
