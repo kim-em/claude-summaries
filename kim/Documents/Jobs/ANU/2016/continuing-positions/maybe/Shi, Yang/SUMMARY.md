@@ -26,7 +26,7 @@ Application materials for Yang Shi, a postdoctoral researcher from the Universit
 
 ## Subdirectories
 
-- [ ] `papers/` - Selected research papers (2 PDFs on geometric reductions and discrete Painlevé systems)
+- [~] `papers/` - Selected research papers (2 PDFs on geometric reductions and discrete Painlevé systems)
 
 ## Search Tags
 
