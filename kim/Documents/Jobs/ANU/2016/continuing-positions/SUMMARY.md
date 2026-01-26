@@ -32,7 +32,7 @@ Faculty continuing position selection committee materials for a female-only lect
 - [x] `Sen, Sanchayan/` - Application materials for Sanchayan Sen (postdoctoral fellow at TU Eindhoven, PhD from NYU Courant under Sourav Chatterjee, specializing in random graphs and probability theory with 11 publications including work on critical random graph scaling limits and universality classes)
 - [x] `Tarr, Garth/` - Application materials for Garth Tarr (Lecturer at University of Newcastle, former ANU postdoc 2014-2015, PhD Sydney 2014; exceptional early-career researcher in robust statistics and model selection with 5 publications, 3 influential R packages, and outstanding teaching record)
 - [x] `maybe/` - Applications for 18 candidates categorized as intermediate strength spanning diverse mathematical subdisciplines (dynamical systems, probability, topology, geometry, number theory, PDEs, mathematical physics) and career stages (PhD students to department chairs); includes internal ANU candidate Robins and former ANU postdoc Neusser; several requiring visa sponsorship
-- [ ] `no/` - Applications for candidates not advanced (includes Aghaei, Begum, Burtscher, Cheung, Corran, Dann, Ginges, Grigorova, Hamieh, Irmer, Jhorar, Jiang, Leitner, Liang, Liao, Myer, O'Donnol, Pourhasan, Rupam, Salmeron, and others)
+- [~] `no/` - Applications for candidates not advanced (includes Aghaei, Begum, Burtscher, Cheung, Corran, Dann, Ginges, Grigorova, Hamieh, Irmer, Jhorar, Jiang, Leitner, Liang, Liao, Myer, O'Donnol, Pourhasan, Rupam, Salmeron, and others)
 - [ ] `yes/` - Applications for 7 strongest candidates (Bapat, Bourni, Tran, Turner, Wang H., Wang Q., Yang)
 
 ## Search Tags
