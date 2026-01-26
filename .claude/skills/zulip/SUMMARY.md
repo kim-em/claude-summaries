@@ -1,7 +1,7 @@
 ---
 source_path: /Users/kim/.claude/skills/zulip
-generated: 2026-01-26T00:00:00Z
-git_sha: 9c94dfb220bf6cef41e74841001ed6f108a6869b
+generated: 2026-01-27T07:30:00Z
+git_sha: ed277fbac3a8184299aeec0196c8ee73aa6ac448
 git_branch: master
 status: complete
 files_count: 11

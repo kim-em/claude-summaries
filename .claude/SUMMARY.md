@@ -1,7 +1,7 @@
 ---
 source_path: /Users/kim/.claude
-generated: 2026-01-26T00:00:00Z
-git_sha: 9c94dfb220bf6cef41e74841001ed6f108a6869b
+generated: 2026-01-27T07:30:00Z
+git_sha: ed277fbac3a8184299aeec0196c8ee73aa6ac448
 git_branch: master
 status: complete
 files_count: 6
@@ -18,7 +18,7 @@ Claude Code user configuration directory, synchronized across machines via git. 
 
 | File | Purpose |
 |------|---------|
-| CLAUDE.md | Global instructions applied to all Claude sessions across all projects (~15KB of detailed guidance covering AI wellbeing, repo workflows, git safety, Lean proof rules, verification protocols, error priority handling, Mathlib adaptation notes format, Lake builds, process management, safe deletion, CLI formatting, authentication, and machine setup) |
+| CLAUDE.md | Global instructions applied to all Claude sessions across all projects (~15KB of detailed guidance covering AI wellbeing, repo workflows, Claude integration preferences (skills over MCP servers), automation-first approach for new features, git safety, Lean proof rules, verification protocols, error priority handling, Mathlib adaptation notes format, Lake builds, process management, safe deletion, CLI formatting, authentication, and machine setup) |
 | README.md | Documentation explaining the repository structure and sync workflow |
 | settings.json | Claude Code settings: cleanup period (36500 days), permissions mode (bypassPermissions) |
 | history.jsonl | Command/input history tracking |
@@ -29,7 +29,7 @@ Claude Code user configuration directory, synchronized across machines via git. 
 
 ### Configuration & Extensions (4 directories)
 - [x] `commands/` - Custom slash commands (reflect.md, coffee.md, update-log.md)
-- [x] `skills/` - 21 custom skills with SKILL.md definitions and helper scripts (including zulip with FTS5 search and message sending, merge-conflict-helper with 10-step PR workflow, copying-conversation-logs)
+- [x] `skills/` - 22 custom skills with SKILL.md definitions and helper scripts (including search-corpus for personal archive search across WhatsApp/SMS/email/GitHub/etc., zulip with FTS5 search and message sending, merge-conflict-helper with 10-step PR workflow, copying-conversation-logs)
 - [x] `plugins/` - Plugin configuration with versioned plugin registries (v1/v2) and marketplaces subdirectory
 - [x] `projects/` - Per-project session history and context (62 project directories)
 
