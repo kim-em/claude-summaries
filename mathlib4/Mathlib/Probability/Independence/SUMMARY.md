@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Probability/Independence
-generated: 2026-01-26T19:45:00Z
+generated: 2026-01-26T20:15:00Z
 git_sha: 542a7d7979ad5f45d2a89008412e565c8fa001d2
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 10
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-The `Independence/` directory provides a comprehensive formalization of independence theory in probability. It defines four flavors of independence (sets of sets, σ-algebras, sets/events, and functions/random variables), both for families (`iIndep*`) and pairs (`Indep*`), with notation `X ⟂ᵢ[μ] Y` for independence of random variables. The directory covers unconditional independence, conditional independence given a σ-algebra, independence characterizations via bounded continuous functions and characteristic functions, integration results for independent random variables (multiplicativity of expectation), infinite families of random variables, stochastic process independence, and Kolmogorov's 0-1 law for tail σ-algebras. It also proves that integrability combined with independence implies the measure is a probability measure.
+The `Independence/` directory provides a comprehensive formalization of independence theory in probability, built on a kernel-based framework that unifies unconditional and conditional independence. The directory defines four flavors of independence (sets of sets, σ-algebras, sets/events, and functions/random variables), both for families (`iIndep*`) and pairs (`Indep*`), with notation `X ⟂ᵢ[μ] Y` for unconditional independence and `X ⟂ᵢ[Z, hZ; μ] Y` for conditional independence. The `Kernel/` subdirectory provides the foundational kernel-based definitions that work with respect to a kernel `κ : Kernel α Ω` and measure `μ`, generalizing both conditional independence (using `condExpKernel`) and unconditional independence (using `Kernel.const Unit μ`). The main directory builds on this foundation to provide user-facing independence concepts, multiple characterizations (via bounded continuous functions, characteristic functions), integration results (multiplicativity of expectation for independent variables), infinite product measures for arbitrary families, stochastic process independence, and Kolmogorov's 0-1 law for tail σ-algebras. The fundamental π-system lemma shows that independent π-systems generate independent σ-algebras.
 
 ## Key Files
 
@@ -31,7 +31,7 @@ The `Independence/` directory provides a comprehensive formalization of independ
 
 ## Subdirectories
 
-- [x] `Kernel/` - Kernel-based definitions of independence (fundamental definitions used by the main independence concepts)
+- [x] `Kernel/` - Kernel-based independence framework: `iIndepSets`/`iIndep`/`iIndepSet`/`iIndepFun` definitions with respect to a kernel and measure; generalizes both unconditional and conditional independence; π-system lemma; independence preserved under composition, arithmetic operations, and suprema of directed families; conditional probability factorization
 
 ## Search Tags
 
