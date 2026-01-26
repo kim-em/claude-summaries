@@ -37,7 +37,7 @@ The `RepresentationTheory/` directory formalizes the theory of group and monoid 
 
 ## Subdirectories
 
-- [ ] `AlgebraRepresentation/` - General algebra representation theory (Schur's lemma for algebras over algebraically closed fields, irreducible commutative algebra representations are one-dimensional)
+- [x] `AlgebraRepresentation/` - General algebra representation theory (Schur's lemma for algebras over algebraically closed fields, irreducible commutative algebra representations are one-dimensional)
 - [ ] `Homological/` - Homological algebra of representations (projective resolutions of trivial representation, group cohomology/homology, finite cyclic groups)
 
 ## Search Tags
