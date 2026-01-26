@@ -38,7 +38,7 @@ No files at this level - all content is organized in individual candidate subdir
 - [x] `Myer, Ziva/` - Application from Bryn Mawr PhD candidate in contact/symplectic geometry, research on A∞ algebras for Legendrians using generating families, strong references from advisor Lisa Traynor and Joshua Sabloff, required visa sponsorship
 - [x] `O.Donnol, Danielle/` - Application from Indiana University Visiting Assistant Professor, PhD from UCLA, research in knot theory, spatial graphs, and DNA topology, extensive teaching including Calculus I coordination, NSF grant, required visa sponsorship
 - [x] `Pourhasan, Razieh/` - Application from theoretical physicist specializing in holography and gauge/gravity duality, PhD Waterloo/Perimeter 2014, postdoc at University of Iceland, Scientific American cover article author, on maternity leave during application
-- [ ] `Rupam, Rishika/` - Application materials
+- [~] `Rupam, Rishika/` - Application from Lille postdoc, PhD Texas A&M 2015 under Poltoratski, complex analysis specialist who corrected de Branges' error on meromorphic inner functions, paper in Journal d'Analyse Mathematique, L.F. Guseman Prize winner
 - [ ] `Salmeron, Raquel/` - Application materials
 - [ ] `Saorin Gomez, Eugenia/` - Application materials
 - [ ] `Seelinger, Nora/` - Application materials
