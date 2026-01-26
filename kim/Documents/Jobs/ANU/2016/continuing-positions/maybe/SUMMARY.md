@@ -31,7 +31,7 @@ No files directly in this directory - all materials are organized in individual 
 - [x] `Neusser, Katharina/` - Application materials including 4 reference letters from Cap, Calderbank, Eastwood, and Gover, plus research papers
 - [x] `Nur Saglam, Kadriye/` - Application materials from UMN PhD candidate in topology
 - [x] `Puskas, Anna/` - Application materials including 6 reference letters from Brubaker, Lenart, Bump, Dai, Chinta, and Patnaik
-- [~] `Ramadurai, Reshma/` - Application materials from University of Waikato postdoc in combinatorics and graph theory, including reference letters from Greenhill and Dudek
+- [x] `Ramadurai, Reshma/` - Application materials from University of Waikato postdoc in combinatorics and graph theory, including reference letters from Greenhill and Dudek
 - [ ] `Ray, Arunima/` - Application materials including 2 reference letters from Cha and Harvey, plus research papers
 - [ ] `Robins, Vanessa/` - Application materials including 5 reference letters from Bradley, Edelsbrunner, Meiss, Mischaikow, and Hyde, plus research papers
 - [ ] `Saez Trumper, Mariel/` - Application materials including 4 reference letters from Bjorner, Valdinoci, Musso, and Mazzeo, plus research papers
