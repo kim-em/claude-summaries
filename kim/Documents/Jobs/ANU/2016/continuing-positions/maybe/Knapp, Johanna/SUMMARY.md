@@ -26,7 +26,7 @@ Application materials for Johanna Knapp, an Austrian theoretical physicist apply
 
 ## Subdirectories
 
-- [ ] `papers/` - Collection of 8 research papers spanning string theory, F-theory GUTs, matrix factorizations, and mirror symmetry (2004-2011)
+- [?] `papers/` - Collection of 8 research papers spanning string theory, F-theory GUTs, matrix factorizations, and mirror symmetry (2004-2011)
 
 ## Search Tags
 
