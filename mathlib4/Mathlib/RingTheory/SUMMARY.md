@@ -95,7 +95,7 @@ The `RingTheory/` directory contains comprehensive formalizations of commutative
 - [x] `DedekindDomain/` - Dedekind domains (Noetherian integrally closed dimension 1 domains)
 - [x] `Derivation/` - Derivations on rings and modules (Leibniz rule operators)
 - [x] `DiscreteValuationRing/` - Discrete valuation rings (DVRs)
-- [ ] `DividedPowers/` - Divided power structures on ideals
+- [x] `DividedPowers/` - Divided power structures on ideals
 - [ ] `Etale/` - Étale algebras and morphisms
 - [ ] `Extension/` - Ring extensions and their properties
 - [ ] `FilteredAlgebra/` - Filtered algebras and associated graded algebras
