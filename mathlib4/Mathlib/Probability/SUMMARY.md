@@ -43,7 +43,7 @@ The `Probability/` directory provides comprehensive formalization of probability
 - [x] `Martingale/` - Martingale theory: core definitions, Doob's decomposition and convergence theorems, optional stopping/sampling, upcrossing estimates, and generalized Borel-Cantelli
 - [x] `Moments/` - Moment-generating functions, variance, covariance, sub-Gaussian variables, and concentration inequalities
 - [x] `ProbabilityMassFunction/` - Discrete probability distributions
-- [~] `Process/` - Stochastic processes
+- [x] `Process/` - Stochastic processes
 
 ## Search Tags
 
