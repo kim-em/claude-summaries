@@ -85,7 +85,7 @@ The `RingTheory/` directory contains comprehensive formalizations of commutative
 
 - [x] `AdicCompletion/` - Adic completions of rings with respect to ideals
 - [x] `Adjoin/` - Theory of adjoining elements to rings and algebras
-- [ ] `Algebraic/` - Algebraic elements and algebraic extensions of rings
+- [x] `Algebraic/` - Algebraic elements and algebraic extensions of rings
 - [ ] `AlgebraicIndependent/` - Algebraically independent sets and transcendence bases
 - [ ] `Artinian/` - Artinian rings and modules (descending chain condition)
 - [ ] `Bialgebra/` - Bialgebras (algebras with compatible coalgebra structure)
