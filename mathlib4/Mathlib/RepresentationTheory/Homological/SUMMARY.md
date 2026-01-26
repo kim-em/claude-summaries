@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/RepresentationTheory/Homological
-generated: 2026-01-26T09:15:00Z
+generated: 2026-01-26T23:57:00Z
 git_sha: 542a7d7979ad5f45d2a89008412e565c8fa001d2
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 2
 subdirs_count: 2
 ---
@@ -12,7 +12,7 @@ subdirs_count: 2
 
 ## Overview
 
-The `Homological/` directory develops homological algebra of group representations, focusing on projective resolutions of the trivial representation and their use in computing group (co)homology. It provides two fundamental projective resolutions: the standard resolution (alternating face map complex of the universal cover of the classifying space) and the bar resolution (with objects `Gⁿ →₀ k[G]` and differentials defined by group multiplication). The directory establishes exactness of these resolutions, proves their isomorphism, and applies them to define group cohomology and homology functors. Special treatment is given to finite cyclic groups with an efficient periodic resolution.
+The `Homological/` directory provides a comprehensive development of homological algebra for k-linear G-representations, centered on two dual theories: group cohomology and group homology. The foundational layer (Resolution.lean, FiniteCyclic.lean) constructs projective resolutions of the trivial representation—both the standard resolution using alternating face maps on the classifying space and the bar resolution using group multiplication—proves their exactness and isomorphism, and provides specialized periodic resolutions for finite cyclic groups. Building on these resolutions, the GroupCohomology subdirectory develops Hⁿ(G, A) as the cohomology of inhomogeneous cochains, establishes the fundamental isomorphism Hⁿ(G, A) ≅ Extⁿ(k, A), and proves major theorems including Shapiro's lemma for coinduced representations and Hilbert's Theorem 90 for Galois extensions. The GroupHomology subdirectory provides the dual theory with Hₙ(G, A) as homology of inhomogeneous chains and the fundamental isomorphism Hₙ(G, A) ≅ Torₙ(A, k). Both theories include extensive machinery for low-degree computations (H⁰ as invariants/coinvariants, H¹ as homomorphisms/abelianization), functoriality with respect to group homomorphisms and representation morphisms, long exact sequences induced by short exact sequences of representations, and explicit formulas for finite cyclic groups in terms of the norm map and generator action. The directory constitutes a complete toolkit for computational and theoretical group (co)homology in the context of representation theory.
 
 ## Key Files
 
