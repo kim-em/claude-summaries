@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/continuing-positions/no/Hamieh, Alia
-generated: 2026-01-26T10:15:00Z
+generated: 2026-01-26T10:38:00Z
 git_sha: fafb26e72fe7b535873cd5b8a8f359b75df7fe29
 git_branch: master
-status: preliminary
+status: complete
 files_count: 10
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Job application materials for Dr. Alia Hamieh for the 2016 ANU female-only continuing position in Mathematical Science. This was not advanced to final consideration. The folder contains a complete application package including the application form, CV, research statement, teaching philosophy, student evaluations, seven reference letters, and one research paper.
+Job application materials for Dr. Alia Hamieh for the 2016 ANU female-only continuing position in Mathematical Science. This was not advanced to final consideration. The folder contains a complete application package including the application form, CV, research statement, teaching philosophy, student evaluations, seven reference letters, and one research paper. Dr. Hamieh was a PIMS postdoctoral fellow at University of Lethbridge with exceptional credentials: Ph.D. from UBC under Vinayak Vatsal, research specialization in number theory (particularly anticyclotomic L-functions, modular forms, and special values), and outstanding teaching record with perfect student evaluations. Her submitted research paper (Manuscripta Mathematica, 2014) generalizes Vatsal's results on special values of Rankin-Selberg L-functions in anticyclotomic extensions. References uniformly praised her research potential and teaching excellence, with one referee calling her "the strongest postdoc in Lethbridge in the last ten years."
 
 ## Key Files
 
