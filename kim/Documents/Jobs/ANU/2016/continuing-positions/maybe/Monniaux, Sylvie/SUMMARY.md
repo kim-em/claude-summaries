@@ -26,7 +26,7 @@ Application materials for Sylvie Monniaux, a candidate in the 2016 ANU Mathemati
 
 ## Subdirectories
 
-- [ ] `papers/` - Collection of 8 research papers on operator theory, evolution equations, maximal regularity, and fluid dynamics
+- [?] `papers/` - Collection of 8 research papers on operator theory, evolution equations, maximal regularity, and fluid dynamics
 
 ## Search Tags
 
