@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/Order/Interval
-generated: 2026-01-26T22:00:00Z
+generated: 2026-01-26T23:00:00Z
 git_sha: 542a7d7979ad5f45d2a89008412e565c8fa001d2
 git_branch: heads/nightly-testing
-status: preliminary
+status: complete
 files_count: 3
 subdirs_count: 2
 ---
@@ -12,7 +12,11 @@ subdirs_count: 2
 
 ## Overview
 
-The `Interval/` directory provides formalization of order intervals in multiple representations: as abstract data types (`NonemptyInterval` and `Interval`), as finite sets (`Finset`), as infinite sets (`Set`), and as multisets. The core `Basic.lean` file defines intervals as first-class objects with ordering and lattice structure, suitable for interval arithmetic. These interval types can be converted to their corresponding set/finset/multiset representations and provide consistent APIs across all representations.
+The `Interval/` directory provides a comprehensive three-layer formalization of order intervals in Mathlib: abstract interval objects, finite set intervals, and infinite set intervals. At the top level, `Basic.lean` defines intervals as first-class algebraic objects (`NonemptyInterval` and `Interval`) with ordering, lattice operations, and coercions to sets, suitable for interval arithmetic. `Lex.lean` provides lexicographic ordering on these interval objects, and `Multiset.lean` wraps the finset API for locally finite orders.
+
+The `Finset/` subdirectory (7 files) implements intervals as finite sets via the `LocallyFiniteOrder` typeclass, which axiomatizes orders where all bounded intervals are finite. It provides concrete implementations for ℕ and `Fin n`, proves that linear locally finite orders cannot be densely ordered (unless trivial), and establishes relationships between interval types in successor orders. The `SuccPred.lean` module shows how adjacent intervals relate (`Ico (succ a) b = Ioo a b`), while `Box.lean` demonstrates decomposition of ordered rings into hollow interval "boxes" for counting arguments.
+
+The `Set/` subdirectory (25 files) is the most comprehensive component, providing the foundational theory of intervals as infinite sets. Starting from core definitions and the fundamental `OrdConnected` typeclass (sets containing all intermediate points), it covers all standard interval notations (`Icc/Ico/Ioc/Ioo` for bounded, `Ici/Iic/Ioi/Iio` for unbounded), unordered intervals (`uIcc`) that work regardless of endpoint ordering (useful for bounding boxes), and extensive theory on how intervals interact with monotone functions, projections, order embeddings, successor/predecessor structure, and type constructors (`Fin`, `Pi`, `WithBot`, `WithTop`). This layer provides the theoretical foundation that the other representations build upon.
 
 ## Key Files
 
