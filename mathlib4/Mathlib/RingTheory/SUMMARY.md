@@ -118,7 +118,7 @@ The `RingTheory/` directory contains comprehensive formalizations of commutative
 - [x] `Localization/` - Localization of rings at multiplicative sets
 - [x] `Morita/` - Morita equivalence of rings and modules
 - [x] `MvPolynomial/` - Multivariate polynomials in detail
-- [ ] `MvPowerSeries/` - Multivariate formal power series
+- [x] `MvPowerSeries/` - Multivariate formal power series
 - [ ] `Nilpotent/` - Nilpotent elements and nilradical
 - [ ] `Noetherian/` - Noetherian rings and modules (ascending chain condition)
 - [ ] `NonUnitalSubring/` - Non-unital subrings (rngs)
