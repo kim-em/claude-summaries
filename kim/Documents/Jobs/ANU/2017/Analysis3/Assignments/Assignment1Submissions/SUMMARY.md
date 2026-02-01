@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2017/Analysis3/Assignments/Assignment1Submissions
-generated: 2026-02-01T19:45:00Z
+generated: 2026-02-01T20:30:00Z
 git_sha: 82e48fac2630605cbf5d639581eb346abdd693bc
 git_branch: master
-status: preliminary
+status: complete
 files_count: 16
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Student PDF submissions for MATH3325 Analysis 3 Assignment 1, covering bounded linear transformations, adjoints, strong convergence, compact operators, and integral operators on L^2. Contains 16 original student submissions (one labeled MATH3225, likely a course code typo) and a graded subfolder with annotated versions of all 16 submissions. File sizes range from 113KB to 13MB, with most submissions in the 150-400KB range. Students are identified by university ID (u-numbers) with some including names.
+Complete submission and grading record for MATH3325 Analysis 3 Assignment 1 (Semester 2, 2017). Contains 16 original student PDF submissions covering topics on bounded linear transformations, adjoints, strong convergence, compact operators, and integral operators on L^2 Hilbert spaces. The graded subfolder contains all 16 submissions with instructor annotations, corrections, and marks. File sizes for originals range from 114KB to 13MB (one appears to be scanned/image-based), while graded versions are slightly larger due to annotations (185KB to 13MB). Students are identified by ANU u-numbers, with some submissions including student names. One submission is mislabeled as MATH3225 (course code typo).
 
 ## Key Files
 
@@ -37,8 +37,8 @@ Student PDF submissions for MATH3325 Analysis 3 Assignment 1, covering bounded l
 
 ## Subdirectories
 
-- [x] `graded/` - 16 annotated/graded versions of student submissions with feedback and marks
+- [x] `graded/` - 16 annotated/graded versions of student submissions with instructor feedback, corrections, and marks
 
 ## Search Tags
 
-anu 2017 math3325 analysis-3 assignment1 student-submissions grading pdf functional-analysis hilbert-space compact-operators
+anu 2017 math3325 analysis-3 assignment1 student-submissions grading pdf functional-analysis hilbert-space compact-operators adjoint strong-convergence integral-operators
