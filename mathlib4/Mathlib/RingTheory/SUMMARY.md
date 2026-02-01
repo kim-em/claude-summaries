@@ -133,7 +133,7 @@ The `RingTheory/` directory contains comprehensive formalizations of commutative
 - [x] `Regular/` - Regular rings and regular sequences
 - [x] `RingHom/` - Ring homomorphism theory and properties
 - [x] `RootsOfUnity/` - Roots of unity in rings
-- [ ] `SimpleModule/` - Simple modules (no nontrivial submodules)
+- [x] `SimpleModule/` - Simple modules (no nontrivial submodules)
 - [ ] `SimpleRing/` - Simple rings (no nontrivial two-sided ideals)
 - [ ] `Smooth/` - Smooth algebras and morphisms
 - [ ] `Spectrum/` - Prime spectrum of rings (Spec R)
