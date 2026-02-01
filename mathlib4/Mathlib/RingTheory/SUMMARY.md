@@ -115,7 +115,7 @@ The `RingTheory/` directory contains comprehensive formalizations of commutative
 - [x] `KrullDimension/` - Krull dimension of rings and modules
 - [x] `LocalProperties/` - Properties of ring homomorphisms that can be checked locally
 - [x] `LocalRing/` - Local rings (unique maximal ideal) and their properties
-- [ ] `Localization/` - Localization of rings at multiplicative sets
+- [~] `Localization/` - Localization of rings at multiplicative sets
 - [ ] `Morita/` - Morita equivalence of rings and modules
 - [ ] `MvPolynomial/` - Multivariate polynomials in detail
 - [ ] `MvPowerSeries/` - Multivariate formal power series
