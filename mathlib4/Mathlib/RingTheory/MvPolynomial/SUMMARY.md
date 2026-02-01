@@ -34,7 +34,7 @@ This directory contains ring-theoretic results about multivariate polynomials th
 ## Subdirectories
 
 - [x] `MonomialOrder/` - Additional monomial order constructions (DegLex)
-- [ ] `Symmetric/` - Symmetric polynomials: definitions, fundamental theorem, Newton identities
+- [x] `Symmetric/` - Symmetric polynomials: definitions, fundamental theorem, Newton identities
 
 ## Search Tags
 
