@@ -35,7 +35,7 @@ Complete course materials for MATH3325 Analysis 3 Honours course taught in Semes
 - [x] `LectureNotes/` - 14 sets of lecture notes plus 3 appendices covering Hilbert spaces, compact operators, calculus, Fourier transform, fundamental solutions, Dirichlet problem, measure theory, integration theory, function spaces, Radon-Nikodym, Stone-Weierstrass, spectral theory, Banach spaces, and Radon integration
 - [x] `ProblemSets/` - Weekly problem sets (4 sets with hints) and past problem sets collection
 - [x] `SELT/` - Student Evaluation of Learning and Teaching survey request
-- [ ] `books/` - Reference textbooks including Stein & Shakarchi series (all 4 volumes), Conway, Bressan, Halmos, Helmberg, and Pedersen
+- [x] `books/` - Reference textbooks including Stein & Shakarchi series (all 4 volumes), Conway, Bressan, Halmos, Helmberg, and Pedersen
 - [ ] `grades/` - Grade spreadsheets for MATH3325 and MATH6214, grade adjustment CSVs, and Mathematica notebook for grade calculations
 
 ## Search Tags
