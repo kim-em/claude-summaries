@@ -32,7 +32,7 @@ Complete course materials for MATH3325 Analysis 3 Honours course taught in Semes
 - [x] `Assignments/` - Four assignments with PDF questions, LaTeX source, sample solutions, and student submission folders
 - [x] `Essays/` - Essay component with suggested topics (wavelets, Hilbert transform, C*-algebras, ergodic theory, Brownian motion, FFT), example essays, drafts, and final submissions
 - [x] `Exams/` - Final exam with questions, rejected problems, solutions, past exams, graded student exams, and MSI exam class file
-- [ ] `LectureNotes/` - 14 sets of lecture notes plus 3 appendices covering Hilbert spaces, compact operators, calculus, Fourier transform, fundamental solutions, Dirichlet problem, measure theory, integration theory, function spaces, Radon-Nikodym, Stone-Weierstrass, spectral theory, Banach spaces, and Radon integration
+- [~] `LectureNotes/` - 14 sets of lecture notes plus 3 appendices covering Hilbert spaces, compact operators, calculus, Fourier transform, fundamental solutions, Dirichlet problem, measure theory, integration theory, function spaces, Radon-Nikodym, Stone-Weierstrass, spectral theory, Banach spaces, and Radon integration
 - [ ] `ProblemSets/` - Weekly problem sets (4 sets with hints) and past problem sets collection
 - [ ] `SELT/` - Student Evaluation of Learning and Teaching survey request
 - [ ] `books/` - Reference textbooks including Stein & Shakarchi series (all 4 volumes), Conway, Bressan, Halmos, Helmberg, and Pedersen
