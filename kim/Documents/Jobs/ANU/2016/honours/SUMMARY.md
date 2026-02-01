@@ -24,7 +24,7 @@ Honours student supervision and grading materials from 2016 at ANU. Contains ind
 
 - [x] `Honours Reports/` - Central collection of grader/supervisor reports (RR=reader report, SR=supervisor report) for 2016 honours students, plus thesis PDFs and Masters reports
 - [x] `Iyer/` - Examiner reports for Tejas Iyer's honours thesis from McKay, Portal, and Trudgian
-- [ ] `Maynard/` - Lachlan Maynard's thesis and grader's report (topic appears to be number theory based on filename)
+- [x] `Maynard/` - Lachlan Maynard's thesis on combinatorial knot Floer homology in lens spaces, with grader's report (mark 78)
 - [ ] `Thompson/` - Benjamin Thompson's supervisor report on Khovanov homology of rational tangles (rated first class, 90-93 range)
 - [ ] `Verity/` - Florence Verity's thesis on formal verification of vote counting in Coq, with multiple grader reports and accompanying code
 - [ ] `Wang/` - Victor Wang's thesis with annotations/comments (on cluster algebras and Grassmannians)
