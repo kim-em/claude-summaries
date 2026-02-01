@@ -28,7 +28,7 @@ MATH3349 Category Theory reading course materials from 2017 with 11 enrolled stu
 
 ## Subdirectories
 
-- [ ] `week1/` - An Ran's presentation on categories, functors, and natural transformations; course notes on whether monoids are equivalent to their opposites
+- [x] `week1/` - An Ran's presentation on categories, functors, and natural transformations; course notes on whether monoids are equivalent to their opposites
 - [ ] `week2/` - Zac Dowton's presentation on free/faithful/essentially surjective functors and initial/terminal objects
 - [ ] `week3/` - Yahya Fidouh's presentation on adjunctions with supplementary notes on equivalence of categories
 - [ ] `week4/` - James Bailie's presentation materials
