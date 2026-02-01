@@ -24,7 +24,7 @@ Private administrative materials for MATH3349 Category Theory course in Semester
 ## Subdirectories
 
 - [x] `assignment2/` - Student submissions for Category Theory Assignment 2 (5 students: An Ran Chen, James Bailie, Nge Kie Seng, Xiang Li, Joanne Zheng)
-- [ ] `assignment3/` - Student submissions for Category Theory Assignment 3 (4 students: An Ran Chen, James Bailie, Nge Kie Seng, Xiang Li)
+- [x] `assignment3/` - Student submissions for Category Theory Assignment 3 (4 students: An Ran Chen, James Bailie, Nge Kie Seng, Xiang Li)
 - [ ] `reports/` - Draft course reports submitted by students (2 draft reports from Nge Kie Seng)
 
 ## Search Tags
