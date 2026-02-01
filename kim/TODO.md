@@ -32,6 +32,17 @@ This file tracks files that couldn't be processed with standard tools and need s
 - `Documents/Jobs/ANU/2016/Analysis3/Essays/cheater/Analysis Essay/Reference_Books_and_Notes_Listed_in_Desprition_of_the_essay/Moraes, Peres_BrownianMotion.pdf` (7.6MB, 413 pages) in [Reference_Books_and_Notes_Listed_in_Desprition_of_the_essay/SUMMARY.md](Documents/Jobs/ANU/2016/Analysis3/Essays/cheater/Analysis%20Essay/Reference_Books_and_Notes_Listed_in_Desprition_of_the_essay/SUMMARY.md)
   - Textbook on Brownian motion by Mörters and Peres
 
+## Office Documents (need extraction tools)
+
+- `Documents/Jobs/ANU/2017/S2-timetabling/2017 Staff availability.doc` in [S2-timetabling/SUMMARY.md](Documents/Jobs/ANU/2017/S2-timetabling/SUMMARY.md)
+  - Staff availability constraints for semester 2 2017 scheduling
+- `Documents/Jobs/ANU/2017/S2-timetabling/2017 Timetable Data Collection Spreadsheet.xlsx` in [S2-timetabling/SUMMARY.md](Documents/Jobs/ANU/2017/S2-timetabling/SUMMARY.md)
+  - Centralized data collection for semester 2 2017 timetable planning
+- `Documents/Jobs/ANU/2017/S2-timetabling/MATH1014Profile.docx` in [S2-timetabling/SUMMARY.md](Documents/Jobs/ANU/2017/S2-timetabling/SUMMARY.md)
+  - Course profile document for MATH1014 Mathematics and Applications 1
+- `Documents/Jobs/ANU/2017/S2-timetabling/MATH1116Profile.docx` in [S2-timetabling/SUMMARY.md](Documents/Jobs/ANU/2017/S2-timetabling/SUMMARY.md)
+  - Course profile document for MATH1116 Advanced Mathematics and Applications 1
+
 ## Excel Spreadsheets (need extraction tools)
 
 - `Documents/Jobs/ANU/2013/Analysis3/Andrew's materials/organizational/Attendance.xls` (29KB) in [organizational/SUMMARY.md](Documents/Jobs/ANU/2013/Analysis3/Andrew's%20materials/organizational/SUMMARY.md)
