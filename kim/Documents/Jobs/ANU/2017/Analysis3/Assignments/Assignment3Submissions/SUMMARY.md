@@ -35,7 +35,7 @@ Student submissions for MATH3325 Analysis 3 Honours Assignment 3, covering measu
 
 ## Subdirectories
 
-- [ ] `graded/` - 14 annotated PDFs with instructor feedback and marks (sizes 460KB-9.7MB); includes u5829965 graded copy without original
+- [x] `graded/` - 14 annotated PDFs with instructor feedback and marks (sizes 460KB-9.7MB); includes u5829965 graded copy without original
 
 ## Search Tags
 
