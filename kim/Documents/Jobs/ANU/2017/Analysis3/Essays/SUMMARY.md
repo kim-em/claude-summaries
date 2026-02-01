@@ -24,7 +24,7 @@ Essay component for MATH3325 Analysis 3 Honours course. Contains suggested essay
 ## Subdirectories
 
 - [x] `EssayDrafts/` - 13 draft essay submissions from students (PDF format, named by student)
-- [ ] `EssayExamples/` - 4 example essays from previous years (Example1-4.pdf)
+- [~] `EssayExamples/` - 4 example essays from previous years (Example1-4.pdf)
 - [ ] `FinalEssays/` - 14 final essay submissions from students (PDF format, named by student)
 
 ## Search Tags
