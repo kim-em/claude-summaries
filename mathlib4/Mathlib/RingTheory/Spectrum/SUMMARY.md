@@ -21,7 +21,7 @@ No files directly in this directory - all content is organized in subdirectories
 ## Subdirectories
 
 - [x] `Prime/` - Prime spectrum Spec R: the type of all prime ideals with Zariski topology, basic opens, zero loci, comap operations, spectral space structure
-- [ ] `Maximal/` - Maximal spectrum mSpec R: the type of all maximal ideals as a subset of the prime spectrum with subspace topology
+- [x] `Maximal/` - Maximal spectrum mSpec R: the type of all maximal ideals as a subset of the prime spectrum with subspace topology
 
 ## Search Tags
 
