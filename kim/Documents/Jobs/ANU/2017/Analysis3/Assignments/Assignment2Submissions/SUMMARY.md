@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2017/Analysis3/Assignments/Assignment2Submissions
-generated: 2026-02-01T19:15:00Z
+generated: 2026-02-01T19:25:00Z
 git_sha: 82e48fac2630605cbf5d639581eb346abdd693bc
 git_branch: master
-status: preliminary
+status: complete
 files_count: 18
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Student submissions for MATH3325 Analysis 3 Assignment 2 (Semester 2, 2017). Contains 17 PDF submissions for Assignment 2 covering Fourier transforms, wave equations, entire functions, and convolution topics. One misfiled Assignment 3 submission (u5829965) is also present. Submissions are a mix of named students (8) and anonymous university ID submissions (9). The graded subfolder contains marked versions with instructor feedback.
+Student submissions for MATH3325 Analysis 3 Assignment 2 (Semester 2, 2017). Contains 17 PDF submissions covering Fourier transforms, wave equations, entire functions, and convolution topics. Submissions include 8 named students and 9 anonymous university ID submissions. One misfiled Assignment 3 submission (u5829965) is also present. The graded subfolder contains 16 marked PDFs with instructor annotations - file sizes are 2-3x larger due to markup (ranging from 235KB to 1.9MB). Note that the misfiled Assignment 3 submission was not graded in this folder.
 
 ## Key Files
 
