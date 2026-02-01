@@ -110,7 +110,7 @@ The `RingTheory/` directory contains comprehensive formalizations of commutative
 - [x] `Int/` - Ring-theoretic properties specific to integers
 - [x] `IntegralClosure/` - Integral closure of rings in extensions
 - [x] `Invariant/` - Invariant theory (invariants under group actions)
-- [ ] `Jacobson/` - Jacobson rings and radical theory
+- [x] `Jacobson/` - Jacobson rings and radical theory
 - [ ] `Kaehler/` - Kähler differentials for ring homomorphisms
 - [ ] `KrullDimension/` - Krull dimension of rings and modules
 - [ ] `LocalProperties/` - Properties of ring homomorphisms that can be checked locally
