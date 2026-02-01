@@ -41,7 +41,7 @@ The `Valuation/` directory contains comprehensive formalization of valuation the
 ## Subdirectories
 
 - [x] `Discrete/` - Discrete valuation theory
-- [ ] `ValuativeRel/` - Valuative relations (generalization of valuations)
+- [~] `ValuativeRel/` - Valuative relations (generalization of valuations)
 
 ## Search Tags
 
