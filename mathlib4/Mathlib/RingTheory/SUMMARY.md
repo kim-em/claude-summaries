@@ -136,7 +136,7 @@ The `RingTheory/` directory contains comprehensive formalizations of commutative
 - [x] `SimpleModule/` - Simple modules (no nontrivial submodules)
 - [x] `SimpleRing/` - Simple rings (no nontrivial two-sided ideals)
 - [x] `Smooth/` - Smooth algebras and morphisms
-- [ ] `Spectrum/` - Prime spectrum of rings (Spec R)
+- [~] `Spectrum/` - Prime spectrum of rings (Spec R)
 - [ ] `TensorProduct/` - Tensor products of algebras and modules
 - [ ] `Trace/` - Trace maps for ring extensions
 - [ ] `TwoSidedIdeal/` - Two-sided ideals in non-commutative rings
