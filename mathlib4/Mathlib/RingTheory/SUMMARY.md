@@ -129,7 +129,7 @@ The `RingTheory/` directory contains comprehensive formalizations of commutative
 - [x] `Polynomial/` - Univariate polynomial theory in detail
 - [x] `PolynomialLaw/` - Polynomial laws and functions
 - [x] `PowerSeries/` - Formal power series R⟦X⟧
-- [ ] `QuasiFinite/` - Quasi-finite algebras and morphisms
+- [x] `QuasiFinite/` - Quasi-finite algebras and morphisms
 - [ ] `Regular/` - Regular rings and regular sequences
 - [ ] `RingHom/` - Ring homomorphism theory and properties
 - [ ] `RootsOfUnity/` - Roots of unity in rings
