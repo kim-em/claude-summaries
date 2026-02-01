@@ -128,7 +128,7 @@ The `RingTheory/` directory contains comprehensive formalizations of commutative
 - [x] `Perfectoid/` - Perfectoid rings (adic spaces in arithmetic geometry)
 - [x] `Polynomial/` - Univariate polynomial theory in detail
 - [x] `PolynomialLaw/` - Polynomial laws and functions
-- [ ] `PowerSeries/` - Formal power series R⟦X⟧
+- [x] `PowerSeries/` - Formal power series R⟦X⟧
 - [ ] `QuasiFinite/` - Quasi-finite algebras and morphisms
 - [ ] `Regular/` - Regular rings and regular sequences
 - [ ] `RingHom/` - Ring homomorphism theory and properties
