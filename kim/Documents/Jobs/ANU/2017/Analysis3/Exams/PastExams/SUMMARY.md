@@ -20,7 +20,7 @@ Archive of past final examinations for MATH3325/MATH6214 Advanced Functional Ana
 
 ## Subdirectories
 
-- [ ] `2013/` - 2013 final exam with sample solutions and rejected problems
+- [x] `2013/` - 2013 final exam with sample solutions and rejected problems
 - [ ] `2014/` - 2014 final exam with candidate problems and rejects
 - [ ] `2015/` - 2015 final exam (named ass.final) with solutions
 - [ ] `2016/` - 2016 final exam with solutions (11MB) and rejects
