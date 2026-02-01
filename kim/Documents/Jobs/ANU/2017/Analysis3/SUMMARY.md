@@ -36,7 +36,7 @@ Complete course materials for MATH3325 Analysis 3 Honours course taught in Semes
 - [x] `ProblemSets/` - Weekly problem sets (4 sets with hints) and past problem sets collection
 - [x] `SELT/` - Student Evaluation of Learning and Teaching survey request
 - [x] `books/` - Reference textbooks including Stein & Shakarchi series (all 4 volumes), Conway, Bressan, Halmos, Helmberg, and Pedersen
-- [ ] `grades/` - Grade spreadsheets for MATH3325 and MATH6214, grade adjustment CSVs, and Mathematica notebook for grade calculations
+- [x] `grades/` - Grade spreadsheets for MATH3325 and MATH6214, grade adjustment CSVs, and Mathematica notebook for grade calculations
 
 ## Search Tags
 
