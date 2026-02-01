@@ -123,7 +123,7 @@ The `RingTheory/` directory contains comprehensive formalizations of commutative
 - [x] `Noetherian/` - Noetherian rings and modules (ascending chain condition)
 - [x] `NonUnitalSubring/` - Non-unital subrings (rngs)
 - [x] `NonUnitalSubsemiring/` - Non-unital subsemirings
-- [ ] `Norm/` - Norm maps for ring extensions
+- [x] `Norm/` - Norm maps for ring extensions
 - [ ] `OreLocalization/` - Ore localization for non-commutative rings
 - [ ] `Perfectoid/` - Perfectoid rings (adic spaces in arithmetic geometry)
 - [ ] `Polynomial/` - Univariate polynomial theory in detail
