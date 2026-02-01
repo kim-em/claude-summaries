@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/RingTheory/Polynomial/Eisenstein
-generated: 2026-02-01T20:00:00Z
+generated: 2026-02-01T21:15:00Z
 git_sha: 6d1f75c8fd1461c972d4681f9cd70ab711a346b3
 git_branch: feat-affine-convex-space
-status: preliminary
+status: complete
 files_count: 4
 subdirs_count: 0
 ---
