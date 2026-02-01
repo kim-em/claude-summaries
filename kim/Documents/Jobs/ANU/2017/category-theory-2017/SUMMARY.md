@@ -34,7 +34,7 @@ MATH3349 Category Theory reading course materials from 2017 with 11 enrolled stu
 - [x] `week4/` - James Bailie's presentation materials
 - [x] `week5/` - Kie Seng Nge's presentation materials
 - [x] `week6/` - Joanne Zheng's presentation materials with student report document
-- [ ] `week7/` - Xiang Li's presentation on Yoneda embedding
+- [x] `week7/` - Xiang Li's presentation on Yoneda embedding
 
 ## Search Tags
 
