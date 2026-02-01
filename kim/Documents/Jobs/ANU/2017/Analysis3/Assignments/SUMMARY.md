@@ -34,7 +34,7 @@ Four assignments for MATH3325 Analysis 3 Honours (Semester 2, 2017) covering fun
 
 - [x] `Assignment1Submissions/` - 16 student PDF submissions plus graded subfolder
 - [x] `Assignment2Submissions/` - 17 student PDF submissions plus graded subfolder (includes one misfiled Assignment 3)
-- [~] `Assignment3Submissions/` - 14 student PDF submissions plus graded subfolder
+- [x] `Assignment3Submissions/` - 14 student PDF submissions plus graded subfolder
 - [ ] `Assignment4Submissions/` - 13 student PDF submissions
 - [ ] `unreleased-solutions/` - Additional solutions not released to students: Assignment1 and Assignment4 solutions to old/alternate problems, Assignment2 sample solutions (PDF + LaTeX), Assignment3 sample solutions LaTeX source
 
