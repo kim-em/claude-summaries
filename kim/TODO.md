@@ -73,3 +73,4 @@ This file tracks files that couldn't be processed with standard tools and need s
 - `Documents/Jobs/ANU/2016/continuing-positions/no/Liao, Xian/papers/` - Claude error: PDF too large. Try reading the file a different way (e.g., extract text with a CLI too... (skipped 2026-01-26T04:58:37Z)
 - `Documents/Jobs/ANU/2016/honours/Honours Reports/Hons Theses/` - Claude error: PDF too large. Try reading the file a different way (e.g., extract text with a CLI too... (skipped 2026-02-01T00:22:31Z)
 - `Documents/Jobs/ANU/2016/honours/Verity/` - Claude error: Prompt is too long  (skipped 2026-02-01T00:39:22Z)
+- `Documents/Jobs/ANU/2016/honours/Wang/` - Claude error: Prompt is too long  (skipped 2026-02-01T00:41:13Z)
