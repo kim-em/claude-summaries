@@ -28,7 +28,7 @@ Final examination materials for MATH3325/MATH6214 Advanced Functional Analysis c
 
 ## Subdirectories
 
-- [ ] `GradedExams/` - Graded final exam submissions from all 14 students (PDFs by student ID: u5367242, u5388727, u5511112, u5571462, u5590056, u5642917, u5747877, u5771757, u5798374, u5806726, u5829167, u5829965, u5865555, u6265247)
+- [x] `GradedExams/` - Graded final exam submissions from all 14 students (PDFs by student ID: u5367242, u5388727, u5511112, u5571462, u5590056, u5642917, u5747877, u5771757, u5798374, u5806726, u5829167, u5829965, u5865555, u6265247)
 - [ ] `PastExams/` - Historical exam collection from previous years (2013-2017)
 
 ## Search Tags
