@@ -143,7 +143,7 @@ The `RingTheory/` directory contains comprehensive formalizations of commutative
 - [x] `UniqueFactorizationDomain/` - Unique factorization domains (UFDs)
 - [x] `Unramified/` - Unramified extensions and morphisms
 - [x] `Valuation/` - Valuations on rings and fields
-- [ ] `WittVector/` - Witt vectors (p-adic algebraic constructions)
+- [x] `WittVector/` - Witt vectors (p-adic algebraic constructions)
 - [ ] `ZMod/` - Ring structure on ℤ/nℤ
 
 ## Search Tags
