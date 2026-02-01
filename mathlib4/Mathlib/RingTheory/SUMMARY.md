@@ -139,7 +139,7 @@ The `RingTheory/` directory contains comprehensive formalizations of commutative
 - [x] `Spectrum/` - Prime spectrum of rings (Spec R)
 - [x] `TensorProduct/` - Tensor products of algebras and modules
 - [x] `Trace/` - Trace maps for ring extensions
-- [ ] `TwoSidedIdeal/` - Two-sided ideals in non-commutative rings
+- [x] `TwoSidedIdeal/` - Two-sided ideals in non-commutative rings
 - [ ] `UniqueFactorizationDomain/` - Unique factorization domains (UFDs)
 - [ ] `Unramified/` - Unramified extensions and morphisms
 - [ ] `Valuation/` - Valuations on rings and fields
