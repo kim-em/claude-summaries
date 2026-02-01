@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/RingTheory/Localization
-generated: 2026-02-01T12:00:00Z
+generated: 2026-02-01T21:30:00Z
 git_sha: 6d1f75c8fd1461c972d4681f9cd70ab711a346b3
 git_branch: feat-affine-convex-space
-status: preliminary
+status: complete
 files_count: 23
 subdirs_count: 2
 ---
@@ -12,7 +12,7 @@ subdirs_count: 2
 
 ## Overview
 
-This directory formalizes the localization of commutative rings at multiplicative submonoids. The core concept is the `IsLocalization M S` typeclass expressing that an R-algebra S is the localization of R at submonoid M, characterized by three properties: elements of M become units, all elements of S can be expressed as fractions, and the kernel is controlled by M. The development includes the fraction ring/field construction (`IsFractionRing`), localization at prime ideals (`AtPrime`), localization away from an element, and extensive theory connecting localization with ideals, modules, integrality, and algebraic extensions.
+This directory formalizes the localization of commutative rings at multiplicative submonoids, a fundamental construction in commutative algebra. The core concept is the `IsLocalization M S` typeclass expressing that an R-algebra S is the localization of R at submonoid M, characterized by three properties: elements of M become units, all elements of S can be expressed as fractions via `mk'`, and the kernel is controlled by M. The development spans the full theory including: the fraction ring/field construction (`IsFractionRing`) for localization at non-zero-divisors; localization at prime ideals (`AtPrime`) yielding local rings with bijections to primes contained in P; localization "away" from single elements as `Submonoid.powers x` with connection to `AdjoinRoot`; and extensive theory connecting localization with ideals (the `orderIsoOfPrime` correspondence), modules (lifting bases and linear independence), integrality (clearing denominators via `integerNormalization`), and iterated localizations.
 
 ## Key Files
 
@@ -42,9 +42,9 @@ This directory formalizes the localization of commutative rings at multiplicativ
 
 ## Subdirectories
 
-- [x] `AtPrime/` - Detailed theory of localization at prime ideal complements
-- [x] `Away/` - Localization away from single element (inverting one element)
+- [x] `AtPrime/` - Localization at prime ideal complements: proves such localizations are local rings (`AtPrime.isLocalRing`), establishes `orderIsoOfPrime` bijection between primes of localization and primes contained in P, residue field isomorphisms, and for Dedekind domains, preservation of ramification indices and inertia degrees
+- [x] `Away/` - Localization away from single element (inverting powers of x): `IsLocalization.Away` abbreviation, `invSelf` and `selfZPow` for integer powers, equivalence `awayEquivAdjoin` with `AdjoinRoot (C r * X - 1)`, `finitePresentation` instance
 
 ## Search Tags
 
-localization ring-localization commutative-ring fraction-ring field-of-fractions IsLocalization IsFractionRing AtPrime primeCompl mk' algebraMap lift map algEquiv prime-ideal comap integral algebraic integerNormalization module basis linear-independence scalar-tower Localization FractionRing nonZeroDivisors
+localization ring-localization commutative-ring fraction-ring field-of-fractions IsLocalization IsFractionRing AtPrime primeCompl mk' algebraMap lift map algEquiv prime-ideal comap integral algebraic integerNormalization module basis linear-independence scalar-tower Localization FractionRing nonZeroDivisors Away Submonoid.powers invSelf selfZPow awayEquivAdjoin AdjoinRoot local-ring isLocalRing orderIsoOfPrime maximalIdeal residue-field ramification-index inertia-degree
