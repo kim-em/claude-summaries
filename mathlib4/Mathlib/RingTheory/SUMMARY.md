@@ -120,7 +120,7 @@ The `RingTheory/` directory contains comprehensive formalizations of commutative
 - [x] `MvPolynomial/` - Multivariate polynomials in detail
 - [x] `MvPowerSeries/` - Multivariate formal power series
 - [x] `Nilpotent/` - Nilpotent elements and nilradical
-- [ ] `Noetherian/` - Noetherian rings and modules (ascending chain condition)
+- [x] `Noetherian/` - Noetherian rings and modules (ascending chain condition)
 - [ ] `NonUnitalSubring/` - Non-unital subrings (rngs)
 - [ ] `NonUnitalSubsemiring/` - Non-unital subsemirings
 - [ ] `Norm/` - Norm maps for ring extensions
