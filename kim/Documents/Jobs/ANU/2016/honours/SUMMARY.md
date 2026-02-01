@@ -22,7 +22,7 @@ Honours student supervision and grading materials from 2016 at ANU. Contains ind
 
 ## Subdirectories
 
-- [ ] `Honours Reports/` - Central collection of grader/supervisor reports (RR=reader report, SR=supervisor report) for 2016 honours students, plus thesis PDFs and Masters reports
+- [~] `Honours Reports/` - Central collection of grader/supervisor reports (RR=reader report, SR=supervisor report) for 2016 honours students, plus thesis PDFs and Masters reports
 - [ ] `Iyer/` - Examiner reports for Tejas Iyer's honours thesis from McKay, Portal, and Trudgian
 - [ ] `Maynard/` - Lachlan Maynard's thesis and grader's report (topic appears to be number theory based on filename)
 - [ ] `Thompson/` - Benjamin Thompson's supervisor report on Khovanov homology of rational tangles (rated first class, 90-93 range)
