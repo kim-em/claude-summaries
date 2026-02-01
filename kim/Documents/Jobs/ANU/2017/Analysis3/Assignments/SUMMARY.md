@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2017/Analysis3/Assignments
-generated: 2026-02-01T18:30:00Z
+generated: 2026-02-01T19:01:00Z
 git_sha: 82e48fac2630605cbf5d639581eb346abdd693bc
 git_branch: master
-status: preliminary
+status: complete
 files_count: 11
 subdirs_count: 5
 ---
@@ -36,7 +36,7 @@ Four assignments for MATH3325 Analysis 3 Honours (Semester 2, 2017) covering fun
 - [x] `Assignment2Submissions/` - 17 student PDF submissions plus graded subfolder (includes one misfiled Assignment 3)
 - [x] `Assignment3Submissions/` - 14 student PDF submissions plus graded subfolder
 - [x] `Assignment4Submissions/` - 13 student PDF submissions
-- [ ] `unreleased-solutions/` - Additional solutions not released to students: Assignment1 and Assignment4 solutions to old/alternate problems, Assignment2 sample solutions (PDF + LaTeX), Assignment3 sample solutions LaTeX source
+- [x] `unreleased-solutions/` - Additional solutions not released to students: Assignment1 and Assignment4 solutions to old/alternate problems, Assignment2 sample solutions (PDF + LaTeX), Assignment3 sample solutions LaTeX source
 
 ## Search Tags
 
