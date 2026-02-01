@@ -26,7 +26,7 @@ Sixth year of ANU faculty employment documenting a major career milestone with t
 - [x] `Adele-Jackson-UQ-ASC/` - Australian Summer Course student from UQ, contains ASC report and course materials
 - [x] `Analysis3/` - MATH3325 Analysis 3 Honours course materials including lecture notes, problem sets, assignments, exams, grades, student access plans, and reference books
 - [x] `S2-timetabling/` - Semester 2 timetabling administration with staff availability and course profile documents for MATH1014 and MATH1116
-- [ ] `category-theory-2017/` - MATH3349 Category Theory reading course (11 students) based on Leinster's Basic Category Theory, with weekly presentations, assignments, and student materials
+- [~] `category-theory-2017/` - MATH3349 Category Theory reading course (11 students) based on Leinster's Basic Category Theory, with weekly presentations, assignments, and student materials
 - [ ] `category-theory-private/` - Private course administration including student assignments, reports, and academic practice documentation
 - [ ] `honours/` - Honours student supervision materials with examiner reports for Angus Gruen, Yanbai Zhang, An Ran, Heng, and Sam Quinn
 - [ ] `hott-2017/` - Homotopy Type Theory reading group materials covering HoTT book, fibrations, univalence axiom, and early connections to interactive theorem proving (Coq, Lean, Agda)
