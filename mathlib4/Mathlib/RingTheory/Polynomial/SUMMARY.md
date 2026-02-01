@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/RingTheory/Polynomial
-generated: 2026-02-01T12:00:00Z
+generated: 2026-02-01T22:30:00Z
 git_sha: 6d1f75c8fd1461c972d4681f9cd70ab711a346b3
 git_branch: feat-affine-convex-space
-status: preliminary
+status: complete
 files_count: 30
 subdirs_count: 4
 ---
@@ -12,7 +12,9 @@ subdirs_count: 4
 
 ## Overview
 
-The `Polynomial/` directory contains comprehensive ring-theoretic results about univariate polynomials `R[X]`. This includes foundational algebraic properties (polynomial rings over integral domains and Noetherian rings are themselves integral domains and Noetherian), GCD and unique factorization for polynomial rings, content and primitive polynomials, Gauss's lemma for irreducibility over fraction fields, classical named polynomial families (Chebyshev, Bernstein, Dickson, Pochhammer, Legendre), Vieta's formulas relating coefficients to roots, root scaling and integral normalization, quotients of polynomial rings, and advanced topics like Hilbert polynomials, Wronskians, and separable degree.
+The `Polynomial/` directory contains comprehensive ring-theoretic results about univariate polynomials `R[X]`. This includes foundational algebraic properties (polynomial rings over integral domains and Noetherian rings are themselves integral domains and Noetherian), GCD and unique factorization for polynomial rings, content and primitive polynomials, Gauss's lemma for irreducibility over fraction fields, classical named polynomial families (Chebyshev, Bernstein, Dickson, Pochhammer, Hermite, Legendre), Vieta's formulas relating coefficients to roots, root scaling and integral normalization, quotients of polynomial rings, and advanced topics like Hilbert polynomials, Wronskians, and separable degree.
+
+The subdirectories provide deep dives into specialized polynomial topics: cyclotomic polynomials with their roots-of-unity characterizations and factorization over finite fields; Eisenstein's irreducibility criterion with generalizations for computing rings of integers; Hermite polynomials connecting to Gaussian derivatives; and resultants/discriminants via Sylvester matrices for detecting common roots and repeated roots.
 
 ## Key Files
 
