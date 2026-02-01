@@ -140,7 +140,7 @@ The `RingTheory/` directory contains comprehensive formalizations of commutative
 - [x] `TensorProduct/` - Tensor products of algebras and modules
 - [x] `Trace/` - Trace maps for ring extensions
 - [x] `TwoSidedIdeal/` - Two-sided ideals in non-commutative rings
-- [ ] `UniqueFactorizationDomain/` - Unique factorization domains (UFDs)
+- [x] `UniqueFactorizationDomain/` - Unique factorization domains (UFDs)
 - [ ] `Unramified/` - Unramified extensions and morphisms
 - [ ] `Valuation/` - Valuations on rings and fields
 - [ ] `WittVector/` - Witt vectors (p-adic algebraic constructions)
