@@ -24,7 +24,7 @@ The `IntegralClosure/` directory formalizes the theory of integral closures in r
 
 ## Subdirectories
 
-- [ ] `Algebra/` - Integral algebras: the class `Algebra.IsIntegral` (all elements integral), integral closure as a subalgebra, integrality over ideals
+- [x] `Algebra/` - Integral algebras: the class `Algebra.IsIntegral` (all elements integral), integral closure as a subalgebra, integrality over ideals
 - [ ] `IsIntegral/` - Core predicate `IsIntegral`: definition, basic properties (mapping, adjoin spans), almost integral elements and complete integral closure
 - [ ] `IsIntegralClosure/` - Characteristic predicate `IsIntegralClosure A R B` stating A is the integral closure of R in B; properties including inverse membership in division rings, equivalence of finite type + integral = finite
 
