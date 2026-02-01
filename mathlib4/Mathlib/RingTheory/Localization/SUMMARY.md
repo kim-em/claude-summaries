@@ -42,7 +42,7 @@ This directory formalizes the localization of commutative rings at multiplicativ
 
 ## Subdirectories
 
-- [ ] `AtPrime/` - Detailed theory of localization at prime ideal complements
+- [x] `AtPrime/` - Detailed theory of localization at prime ideal complements
 - [ ] `Away/` - Localization away from single element (inverting one element)
 
 ## Search Tags
