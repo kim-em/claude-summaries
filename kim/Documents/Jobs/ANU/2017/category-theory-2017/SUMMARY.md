@@ -32,7 +32,7 @@ MATH3349 Category Theory reading course materials from 2017 with 11 enrolled stu
 - [x] `week2/` - Zac Dowton's presentation on free/faithful/essentially surjective functors and initial/terminal objects
 - [x] `week3/` - Yahya Fidouh's presentation on adjunctions with supplementary notes on equivalence of categories
 - [x] `week4/` - James Bailie's presentation materials
-- [ ] `week5/` - Kie Seng Nge's presentation materials
+- [x] `week5/` - Kie Seng Nge's presentation materials
 - [ ] `week6/` - Joanne Zheng's presentation materials with student report document
 - [ ] `week7/` - Xiang Li's presentation on Yoneda embedding
 
