@@ -47,7 +47,7 @@ Central repository of grading documentation for the 2016 ANU Mathematics honours
 
 ## Subdirectories
 
-- [ ] `Hons Theses/` - PDF copies of all 2016 honours theses (Thompson, McCarthy, Crilly, Chalker, Jeffs, Hunter, Rowlands, Harris, Iyer, Wang)
+- [?] `Hons Theses/` - PDF copies of all 2016 honours theses (Thompson, McCarthy, Crilly, Chalker, Jeffs, Hunter, Rowlands, Harris, Iyer, Wang)
 - [ ] `Masters/` - Reports and materials for Masters students (Elliot Herrington, Johnny Lim, Huicheng Liang on image denoising algorithms)
 
 ## Search Tags
