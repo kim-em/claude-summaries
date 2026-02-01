@@ -1,7 +1,7 @@
 ---
 source_path: /Users/kim/.claude/skills/zulip
-generated: 2026-01-27T07:30:00Z
-git_sha: ed277fbac3a8184299aeec0196c8ee73aa6ac448
+generated: 2026-02-01T00:12:20Z
+git_sha: 746ff35df7e0fb3b71b76f1250847cdde64c2f96
 git_branch: master
 status: complete
 files_count: 11
@@ -20,8 +20,8 @@ A Claude Code skill for interacting with Zulip chat on leanprover.zulipchat.com 
 |------|---------|
 | SKILL.md | Skill definition (name: zulip, allowed-tools: Bash/Read/Grep/Write) with complete documentation including FTS5 search via zulip-client as primary method, helper scripts for URL fetching, stream browsing, personal messages, direct API access via curl with narrow filters, message sending capabilities, and Zulip linkifiers documentation (auto-link patterns like #1234 for PRs, docs#Nat.add for mathlib docs) |
 | format-messages.py | Core formatter converting Zulip API JSON to human-readable output with HTMLStripper class, relative timestamps ("2m ago", "3h ago", "yesterday HH:MM"), compact and verbose modes. Reduces token usage by extracting only essential fields |
-| fetch-url | Python script to fetch messages from Zulip URLs by extracting message ID from /near/XXXXXX pattern. Includes proper UTF-8 decoding of Zulip's .XX hex-encoded URL components (treating them as byte sequences). Takes URL and optional context window (default 5 before, 10 after) |
-| send-message | Bash script to post messages to Zulip streams. Takes stream, topic, and message (or - to read from stdin). Supports heredocs for multi-line messages with markdown and @mentions |
+| fetch-url | Python script to fetch messages from Zulip URLs by extracting message ID from /near/XXXXXX pattern. Handles both /stream/ and /channel/ URL formats (Zulip renamed streams to channels). Includes proper UTF-8 decoding of Zulip's .XX hex-encoded URL components (treating them as byte sequences). Takes URL and optional context window (default 5 before, 10 after) |
+| send-message | Bash script to post messages to Zulip streams. Supports `--site` (`-s`) flag to target specific Zulip instances (leanprover default, lean-fro). Takes stream, topic, and message (or - to read from stdin). Supports heredocs for multi-line messages with markdown and @mentions |
 | search | Python script for searching all messages across a Zulip instance with term, count, and site parameters |
 | my-search | Python script to search only the authenticated user's own messages using sender filter |
 | stream-topic | Python script to retrieve messages from a specific stream+topic combination |
