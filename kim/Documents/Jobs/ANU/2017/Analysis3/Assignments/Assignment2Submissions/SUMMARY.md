@@ -38,7 +38,7 @@ Student submissions for MATH3325 Analysis 3 Assignment 2 (Semester 2, 2017). Con
 
 ## Subdirectories
 
-- [ ] `graded/` - 16 marked PDFs with instructor annotations and feedback (file sizes larger due to markup)
+- [x] `graded/` - 16 marked PDFs with instructor annotations and feedback (file sizes larger due to markup)
 
 ## Search Tags
 
