@@ -51,7 +51,7 @@ The `Polynomial/` directory contains comprehensive ring-theoretic results about 
 ## Subdirectories
 
 - [x] `Cyclotomic/` - Cyclotomic polynomials and their properties
-- [ ] `Eisenstein/` - Eisenstein's irreducibility criterion
+- [~] `Eisenstein/` - Eisenstein's irreducibility criterion
 - [ ] `Hermite/` - Hermite polynomials
 - [ ] `Resultant/` - Resultant and discriminant of polynomials
 
