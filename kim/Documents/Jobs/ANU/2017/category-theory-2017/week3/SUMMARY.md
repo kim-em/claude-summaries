@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2017/category-theory-2017/week3
-generated: 2026-02-01T11:30:00Z
+generated: 2026-02-01T12:00:00Z
 git_sha: 7245a15de2c91327f8b60cb9642193d25383e1f2
 git_branch: master
-status: preliminary
+status: complete
 files_count: 2
 subdirs_count: 0
 ---
