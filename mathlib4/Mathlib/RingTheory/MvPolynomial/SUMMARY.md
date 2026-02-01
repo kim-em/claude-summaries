@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/RingTheory/MvPolynomial
-generated: 2026-02-01T12:00:00Z
+generated: 2026-02-01T22:00:00Z
 git_sha: 6d1f75c8fd1461c972d4681f9cd70ab711a346b3
 git_branch: feat-affine-convex-space
-status: preliminary
+status: complete
 files_count: 12
 subdirs_count: 2
 ---
@@ -12,7 +12,9 @@ subdirs_count: 2
 
 ## Overview
 
-This directory contains ring-theoretic results about multivariate polynomials that go beyond the basic algebra in `Mathlib.Algebra.MvPolynomial`. Topics include: characteristic propagation and basis structures; Euler's homogeneous identity for weighted and unweighted homogeneous polynomials; expansion (Frobenius) maps and their iteration; connections to free commutative rings for model-theoretic applications; Gröbner basis division algorithms with respect to monomial orderings; homogeneous polynomial submodules and components; monomial ideal membership; irreducibility criteria for linear and quadratic polynomials; localization of polynomial rings; monomial order theory (degree, leading coefficients, S-polynomials); algebra tower structures; and weighted homogeneous polynomials with weighted degree functions.
+This directory contains ring-theoretic results about multivariate polynomials that go beyond the basic algebra in `Mathlib.Algebra.MvPolynomial`. The core topics are: homogeneous polynomials (both uniform total degree and weighted variants) with Euler's identity and component decomposition; monomial orders with associated division algorithms for Gröbner basis computations; and symmetric polynomials including the fundamental theorem and Newton's identities.
+
+Additional topics include: characteristic propagation and basis structures; Frobenius expansion maps; free commutative ring constructions for model theory; irreducibility criteria for linear and quadratic polynomials; localization of polynomial rings; and algebra tower structures.
 
 ## Key Files
 
@@ -33,9 +35,9 @@ This directory contains ring-theoretic results about multivariate polynomials th
 
 ## Subdirectories
 
-- [x] `MonomialOrder/` - Additional monomial order constructions (DegLex)
-- [x] `Symmetric/` - Symmetric polynomials: definitions, fundamental theorem, Newton identities
+- [x] `MonomialOrder/` - Degree-lexicographic order: connects `degLex` ordering to total degree, proves `degree_degLexDegree` and monotonicity
+- [x] `Symmetric/` - Symmetric polynomials: elementary/complete homogeneous/power sum/monomial symmetric bases; fundamental theorem (subalgebra isomorphism via esymm); Newton's identities via Zeilberger's involution
 
 ## Search Tags
 
-multivariate-polynomial ring-theory homogeneous weighted-homogeneous monomial-order Groebner-basis leading-coefficient leading-term S-polynomial division-algorithm irreducibility localization algebra-tower characteristic Euler-identity expansion Frobenius free-commutative-ring monomial-ideal symmetric-polynomial Newton-identities
+multivariate-polynomial ring-theory homogeneous weighted-homogeneous monomial-order Groebner-basis leading-coefficient leading-term S-polynomial division-algorithm irreducibility localization algebra-tower characteristic Euler-identity expansion Frobenius free-commutative-ring monomial-ideal symmetric-polynomial elementary-symmetric Newton-identities degLex
