@@ -33,7 +33,7 @@ Weekly problem sets for the MATH3325 Analysis 3 Honours course, consisting of 4 
 
 ## Subdirectories
 
-- [ ] `PastProblemSets/` - Collection of 5 problem sets from previous course offerings (prob05.tex, probset4-7.tex)
+- [x] `PastProblemSets/` - Collection of 5 problem sets from previous course offerings (prob05.tex, probset4-7.tex)
 
 ## Search Tags
 
