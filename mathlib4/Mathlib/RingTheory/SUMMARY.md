@@ -142,7 +142,7 @@ The `RingTheory/` directory contains comprehensive formalizations of commutative
 - [x] `TwoSidedIdeal/` - Two-sided ideals in non-commutative rings
 - [x] `UniqueFactorizationDomain/` - Unique factorization domains (UFDs)
 - [x] `Unramified/` - Unramified extensions and morphisms
-- [~] `Valuation/` - Valuations on rings and fields
+- [x] `Valuation/` - Valuations on rings and fields
 - [ ] `WittVector/` - Witt vectors (p-adic algebraic constructions)
 - [ ] `ZMod/` - Ring structure on ℤ/nℤ
 
