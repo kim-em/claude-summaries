@@ -39,7 +39,7 @@ Complete set of lecture notes for MATH3325 Analysis 3 Honours course covering ad
 
 ## Subdirectories
 
-- [ ] `diagrams/` - Contains a single PDF diagram (upper-integral.pdf) used in the lecture notes
+- [x] `diagrams/` - Contains a single PDF diagram (upper-integral.pdf) used in the lecture notes
 
 ## Search Tags
 
