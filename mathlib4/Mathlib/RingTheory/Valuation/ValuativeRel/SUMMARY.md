@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/projects/lean/mathlib4/Mathlib/RingTheory/Valuation/ValuativeRel
-generated: 2026-02-01T23:00:00Z
+generated: 2026-02-01T23:30:00Z
 git_sha: 5cb27be88dd78e9476463c255b7852485b175fb7
 git_branch: master
-status: preliminary
+status: complete
 files_count: 2
 subdirs_count: 0
 ---
