@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2017/Analysis3/Exams/PastExams
-generated: 2026-02-01T14:02:00Z
+generated: 2026-02-01T14:30:00Z
 git_sha: 82e48fac2630605cbf5d639581eb346abdd693bc
 git_branch: master
-status: preliminary
+status: complete
 files_count: 0
 subdirs_count: 5
 ---
@@ -24,7 +24,7 @@ Archive of past final examinations for MATH3325/MATH6214 Advanced Functional Ana
 - [x] `2014/` - 2014 final exam with candidate problems and rejects
 - [x] `2015/` - 2015 final exam (named ass.final) with solutions
 - [x] `2016/` - 2016 final exam with solutions (11MB) and rejects
-- [ ] `2017/` - 2017 final exam copy with solutions (7.7MB) and rejects
+- [x] `2017/` - 2017 final exam copy with solutions (7.7MB) and rejects
 
 ## Search Tags
 

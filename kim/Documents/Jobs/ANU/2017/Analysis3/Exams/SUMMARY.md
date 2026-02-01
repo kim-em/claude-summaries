@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2017/Analysis3/Exams
-generated: 2026-02-01T13:50:00Z
+generated: 2026-02-01T14:30:00Z
 git_sha: 82e48fac2630605cbf5d639581eb346abdd693bc
 git_branch: master
-status: preliminary
+status: complete
 files_count: 7
 subdirs_count: 2
 ---
@@ -29,7 +29,7 @@ Final examination materials for MATH3325/MATH6214 Advanced Functional Analysis c
 ## Subdirectories
 
 - [x] `GradedExams/` - Graded final exam submissions from all 14 students (PDFs by student ID: u5367242, u5388727, u5511112, u5571462, u5590056, u5642917, u5747877, u5771757, u5798374, u5806726, u5829167, u5829965, u5865555, u6265247)
-- [~] `PastExams/` - Historical exam collection from previous years (2013-2017)
+- [x] `PastExams/` - Historical exam collection from previous years (2013-2017)
 
 ## Search Tags
 
