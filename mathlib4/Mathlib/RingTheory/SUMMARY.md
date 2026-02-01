@@ -116,7 +116,7 @@ The `RingTheory/` directory contains comprehensive formalizations of commutative
 - [x] `LocalProperties/` - Properties of ring homomorphisms that can be checked locally
 - [x] `LocalRing/` - Local rings (unique maximal ideal) and their properties
 - [x] `Localization/` - Localization of rings at multiplicative sets
-- [ ] `Morita/` - Morita equivalence of rings and modules
+- [x] `Morita/` - Morita equivalence of rings and modules
 - [ ] `MvPolynomial/` - Multivariate polynomials in detail
 - [ ] `MvPowerSeries/` - Multivariate formal power series
 - [ ] `Nilpotent/` - Nilpotent elements and nilradical
