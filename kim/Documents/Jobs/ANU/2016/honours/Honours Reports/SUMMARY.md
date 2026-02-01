@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2016/honours/Honours Reports
-generated: 2026-02-01T12:30:00Z
+generated: 2026-02-01T13:15:00Z
 git_sha: 82e48fac2630605cbf5d639581eb346abdd693bc
 git_branch: master
-status: preliminary
+status: complete
 files_count: 26
 subdirs_count: 2
 ---
@@ -12,7 +12,7 @@ subdirs_count: 2
 
 ## Overview
 
-Central repository of grading documentation for the 2016 ANU Mathematics honours cohort. Contains supervisor reports (SR) and reader reports (RR) for 10 honours students: Chalker, Crilly, Harris, Hunter, Iyer, Jeffs, McCarthy, Rowlands, Thompson, and Wang. Also includes reports for Zhihao Qiao (Jake), an honours student whose thesis on the chemical master equation with low rank tensor approximations received mixed reviews suggesting 2A-level work. The folder includes a marks spreadsheet and two subdirectories: one with all honours theses as PDFs, and another with Masters student reports (Elliot Herrington, Johnny Lim, and Huicheng Liang on numerical algorithms for image denoising).
+Central repository of grading documentation for the 2016 ANU Mathematics honours cohort. Contains supervisor reports (SR) and reader reports (RR) for 10 honours students: Chalker, Crilly, Harris, Hunter, Iyer, Jeffs, McCarthy, Rowlands, Thompson, and Wang. Thesis topics span pure and applied mathematics, including Khovanov homology (Thompson), cluster algebras and Grassmannians (Wang), and tensor train methods for the chemical master equation (Qiao, who received more critical reviews suggesting 2A-level work). The folder includes a marks spreadsheet tracking final grades. The Hons Theses subdirectory contains PDF copies of all submitted theses. The Masters subdirectory documents three Masters students supervised through MSI: Elliot Herrington (invariant metrics in complex analysis, 86), Johnny Lim (Maslov index and spectral flow in Lagrangian Floer theory, 86), and Huicheng Liang (ADMM and primal-dual algorithms for image denoising, 75).
 
 ## Key Files
 
