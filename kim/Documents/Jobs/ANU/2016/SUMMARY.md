@@ -30,7 +30,7 @@ Fifth year of ANU faculty employment (2016) documenting promotion to Associate P
 - [x] `MATH1014/` - First-year calculus course Semester 2 teaching materials co-taught with Griffith Ware
 - [x] `PDR/` - Performance Development Review documents
 - [x] `RepresentationTheory/` - Special topics course on Representation Theory Semester 1 materials
-- [~] `honours/` - Honours student supervision records including Benjamin Thompson, Tejas Iyer, Florrie Verity, Victor Wang
+- [x] `honours/` - Honours student supervision records including Benjamin Thompson, Tejas Iyer, Florrie Verity, Victor Wang
 - [ ] `postdoc/` - Postdoctoral hiring committee work including applications and selection
 
 ## Search Tags
