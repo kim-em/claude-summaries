@@ -28,7 +28,7 @@ The `LocalRing/` directory contains the theory of local rings - commutative ring
 
 ## Subdirectories
 
-- [ ] `MaximalIdeal/` - Construction and properties of the unique maximal ideal in local rings
+- [x] `MaximalIdeal/` - Construction and properties of the unique maximal ideal in local rings
 - [ ] `ResidueField/` - Residue field k = R/m and its properties
 - [ ] `RingHom/` - Local ring homomorphisms (IsLocalHom)
 
