@@ -32,7 +32,7 @@ Four assignments for MATH3325 Analysis 3 Honours (Semester 2, 2017) covering fun
 
 ## Subdirectories
 
-- [ ] `Assignment1Submissions/` - 16 student PDF submissions plus graded subfolder
+- [~] `Assignment1Submissions/` - 16 student PDF submissions plus graded subfolder
 - [ ] `Assignment2Submissions/` - 17 student PDF submissions plus graded subfolder (includes one misfiled Assignment 3)
 - [ ] `Assignment3Submissions/` - 14 student PDF submissions plus graded subfolder
 - [ ] `Assignment4Submissions/` - 13 student PDF submissions
