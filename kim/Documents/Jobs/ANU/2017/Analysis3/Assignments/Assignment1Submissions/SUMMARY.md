@@ -37,7 +37,7 @@ Student PDF submissions for MATH3325 Analysis 3 Assignment 1, covering bounded l
 
 ## Subdirectories
 
-- [ ] `graded/` - 16 annotated/graded versions of student submissions with feedback and marks
+- [x] `graded/` - 16 annotated/graded versions of student submissions with feedback and marks
 
 ## Search Tags
 
