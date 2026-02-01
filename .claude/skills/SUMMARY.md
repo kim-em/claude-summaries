@@ -1,18 +1,18 @@
 ---
 source_path: /Users/kim/.claude/skills
-generated: 2026-02-01T00:12:20Z
-git_sha: 746ff35df7e0fb3b71b76f1250847cdde64c2f96
+generated: 2026-02-01T14:00:00Z
+git_sha: 5ab0a683024feca845347c2f155eaf4d2e8ceb52
 git_branch: master
 status: complete
 files_count: 0
-subdirs_count: 22
+subdirs_count: 23
 ---
 
 # skills
 
 ## Overview
 
-A comprehensive collection of 22 custom Claude Code skills that significantly extend Claude's capabilities across six major domains: Lean4/Mathlib development, GitHub integration, session management, communication platforms, personal productivity, and meta-skills for workflow evolution. Each skill combines a SKILL.md definition (with activation triggers and tool permissions) with specialized helper scripts, providing both declarative knowledge and executable automation.
+A comprehensive collection of 23 custom Claude Code skills that significantly extend Claude's capabilities across six major domains: Lean4/Mathlib development, GitHub integration, session management, communication platforms, personal productivity, and meta-skills for workflow evolution. Each skill combines a SKILL.md definition (with activation triggers and tool permissions) with specialized helper scripts, providing both declarative knowledge and executable automation.
 
 The skills demonstrate sophisticated design patterns: expect-based TUI automation (claude-usage), two-phase workflow documentation (lean4-bootstrap), API response optimization (github-api-large-responses), style codification from corpus analysis (kim-writing-style), and systematic reduction methodologies (lean-mwe). The collection includes both simple single-file skills (mathlib-build, folder-summary) and complex multi-script systems (zulip with 11 files, new-claude-sessions with 9 files), showing the skill framework's flexibility from quick configuration flags to full automation stacks.
 
@@ -45,11 +45,12 @@ This directory contains no files at the top level; all content is organized into
 - [x] `zulip/` - Zulip read and send access via zulip-client FTS5 search, URL fetching, stream browsing, message sending with HTML stripping and 80-90% token reduction, plus linkifiers documentation (auto-link patterns: #1234 for PRs, docs#Nat.add for mathlib docs, etc.) (11 files)
 - [x] `whatsapp/` - WhatsApp messaging via Baileys library: send/read messages, background logger with launchd automation storing to ~/projects/corpus, multiple read strategies (query stored, real-time monitor, history fetch), QR authentication (12 files)
 
-### Personal Productivity (5 skills)
+### Personal Productivity (6 skills)
 - [x] `search-corpus/` - Full-text search across personal archives (WhatsApp, SMS, Zulip, GitHub, Stack Exchange, AI chats, email via notmuch, browsing history, Wayback archives) using FTS5 with time filtering and contact resolution via Google Contacts integration (1 file)
 - [x] `todo/` - Manage ~/metacortex/TODO.md with emoji status and linked notes (1 file)
 - [x] `log/` - Daily activity logs in ~/metacortex/logs/ (YYYY-MM/DD.md format) (1 file)
 - [x] `kim-writing-style/` - Writing style guide derived from 3,000+ Zulip messages (1 file)
+- [x] `music-metadata/` - Identify unknown music albums using audio fingerprinting (chromaprint/AcoustID) and apply tags via beets or manual mid3v2, with fallback workflow when albums aren't in MusicBrainz (1 file)
 - [x] `synchronizing-home-git-repo/` - Workflow for resolving git conflicts in home directory repo: handles submodule conflicts (checks for unpushed work), deleted submodules, untracked files blocking merge, and ensures submodules are on main branch (not detached HEAD) after sync (1 file)
 
 ### Web Automation (1 skill)
@@ -60,4 +61,4 @@ This directory contains no files at the top level; all content is organized into
 
 ## Search Tags
 
-skills claude-code automation lean4 mathlib github zulip whatsapp session-management todo-list activity-logs browser-automation mwe minimal-working-example bootstrapping merge-conflicts iterm2 cursor writing-style pr-monitoring playwright puppeteer mcp web-scraping javascript spa chrome-profile authentication headless quota subscription limits reset pacing expect tui parsing json bash folder-summary summarization indexing catalog directory-tree two-phase preliminary final notifications mentions review-requests api jq filtering pagination elan toolchain stage0 stage1 update-stage0 environment-extensions olean-format compiler build-flags verbosity lake quiet diagnostics errors warnings technical-communication pr-descriptions documentation announcements hedging collaborative-language progressive-disclosure guard_msgs tactic-failures kernel-errors grind compiler-panics reduction backtracking git-merge conflict-analysis auto-resolution import-conflicts version-conflicts build-verification spawning parallel-workflows applescript ssh-remote machine-aware git-clone mathlib-cache window-automation task-management metacortex notes linked-notes emoji-status git-sync planning-sessions priorities due-dates baileys qr-code nodejs esm unofficial send-message read-messages phone-number chat messaging logger background-service launchd corpus persistent-storage query real-time-monitoring history-fetch leanprover lean-fro api-client search stream topic html-formatter credentials token-reduction forum-scraping network-interception auto-wait locator-api aristotle automated-theorem-proving harmonic sorry counterexample autoformalize pipx python-api proof-generation home-directory dotfiles submodules git-pull git-submodule detached-head unpushed-commits conflict-resolution backup preservation skill-creation yaml-frontmatter markdown-documentation trigger-conditions workflow-documentation meta-programming conversation-logs archiving backup jsonl session-history copying fts5 full-text-search fork-handling push-target personal-archives sms email stackexchange ai-chats chrome-history wayback notmuch contact-resolution google-contacts phone-number-lookup time-filtering proactive-search aggregated-search sqlite linkifiers
+skills claude-code automation lean4 mathlib github zulip whatsapp session-management todo-list activity-logs browser-automation mwe minimal-working-example bootstrapping merge-conflicts iterm2 cursor writing-style pr-monitoring playwright puppeteer mcp web-scraping javascript spa chrome-profile authentication headless quota subscription limits reset pacing expect tui parsing json bash folder-summary summarization indexing catalog directory-tree two-phase preliminary final notifications mentions review-requests api jq filtering pagination elan toolchain stage0 stage1 update-stage0 environment-extensions olean-format compiler build-flags verbosity lake quiet diagnostics errors warnings technical-communication pr-descriptions documentation announcements hedging collaborative-language progressive-disclosure guard_msgs tactic-failures kernel-errors grind compiler-panics reduction backtracking git-merge conflict-analysis auto-resolution import-conflicts version-conflicts build-verification spawning parallel-workflows applescript ssh-remote machine-aware git-clone mathlib-cache window-automation task-management metacortex notes linked-notes emoji-status git-sync planning-sessions priorities due-dates baileys qr-code nodejs esm unofficial send-message read-messages phone-number chat messaging logger background-service launchd corpus persistent-storage query real-time-monitoring history-fetch leanprover lean-fro api-client search stream topic html-formatter credentials token-reduction forum-scraping network-interception auto-wait locator-api aristotle automated-theorem-proving harmonic sorry counterexample autoformalize pipx python-api proof-generation home-directory dotfiles submodules git-pull git-submodule detached-head unpushed-commits conflict-resolution backup preservation skill-creation yaml-frontmatter markdown-documentation trigger-conditions workflow-documentation meta-programming conversation-logs archiving backup jsonl session-history copying fts5 full-text-search fork-handling push-target personal-archives sms email stackexchange ai-chats chrome-history wayback notmuch contact-resolution google-contacts phone-number-lookup time-filtering proactive-search aggregated-search sqlite linkifiers music-metadata audio fingerprinting chromaprint acoustid beets musicbrainz tagging mp3 id3 mid3v2 mutagen album identification cd-ripping
