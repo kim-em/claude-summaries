@@ -42,6 +42,8 @@ This file tracks files that couldn't be processed with standard tools and need s
   - Course profile document for MATH1014 Mathematics and Applications 1
 - `Documents/Jobs/ANU/2017/S2-timetabling/MATH1116Profile.docx` in [S2-timetabling/SUMMARY.md](Documents/Jobs/ANU/2017/S2-timetabling/SUMMARY.md)
   - Course profile document for MATH1116 Advanced Mathematics and Applications 1
+- `Documents/Jobs/ANU/2017/category-theory-2017/week6/report-category-theory.docx` in [category-theory-2017/week6/SUMMARY.md](Documents/Jobs/ANU/2017/category-theory-2017/week6/SUMMARY.md)
+  - Student report document for week 6 presentation on Yoneda's lemma
 
 ## Excel Spreadsheets (need extraction tools)
 
