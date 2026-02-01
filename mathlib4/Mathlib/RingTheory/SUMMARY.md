@@ -113,7 +113,7 @@ The `RingTheory/` directory contains comprehensive formalizations of commutative
 - [x] `Jacobson/` - Jacobson rings and radical theory
 - [x] `Kaehler/` - Kähler differentials for ring homomorphisms
 - [x] `KrullDimension/` - Krull dimension of rings and modules
-- [ ] `LocalProperties/` - Properties of ring homomorphisms that can be checked locally
+- [x] `LocalProperties/` - Properties of ring homomorphisms that can be checked locally
 - [ ] `LocalRing/` - Local rings (unique maximal ideal) and their properties
 - [ ] `Localization/` - Localization of rings at multiplicative sets
 - [ ] `Morita/` - Morita equivalence of rings and modules
