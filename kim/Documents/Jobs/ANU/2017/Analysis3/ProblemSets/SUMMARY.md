@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2017/Analysis3/ProblemSets
-generated: 2026-02-01T13:50:00Z
+generated: 2026-02-01T13:52:00Z
 git_sha: 82e48fac2630605cbf5d639581eb346abdd693bc
 git_branch: master
-status: preliminary
+status: complete
 files_count: 12
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Weekly problem sets for the MATH3325 Analysis 3 Honours course, consisting of 4 problem sets with LaTeX source files, compiled PDFs, and detailed hints documents. These problem sets were designed to be discussed in weekly tutorials and cover topics in Hilbert spaces, $L^p$ spaces, bounded linear transformations (BLTs), orthogonal projections, finite rank operators, and compact operators. The folder also contains a collection of past problem sets from previous course offerings.
+Weekly problem sets for the MATH3325 Analysis 3 Honours course in 2017, consisting of 4 problem sets with LaTeX source files, compiled PDFs, and detailed hints documents. These problem sets were designed to be discussed in weekly tutorials and cover topics in Hilbert spaces, $L^p$ spaces, bounded linear transformations (BLTs), orthogonal projections, finite rank operators, and compact operators. The folder also contains an archive of 5 past problem sets from 2010 and 2012 course offerings focusing on measure theory, weak topology, Hausdorff dimension, and Radon-Nikodym theorem, providing additional practice problems and demonstrating the evolution of course topics over the years.
 
 ## Key Files
 
