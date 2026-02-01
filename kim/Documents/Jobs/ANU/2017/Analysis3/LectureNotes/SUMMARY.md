@@ -1,9 +1,9 @@
 ---
 source_path: /Users/kim/Documents/Jobs/ANU/2017/Analysis3/LectureNotes
-generated: 2026-02-01T15:00:00Z
+generated: 2026-02-01T17:30:00Z
 git_sha: 82e48fac2630605cbf5d639581eb346abdd693bc
 git_branch: master
-status: preliminary
+status: complete
 files_count: 36
 subdirs_count: 1
 ---
@@ -12,7 +12,7 @@ subdirs_count: 1
 
 ## Overview
 
-Complete set of lecture notes for MATH3325 Analysis 3 Honours course covering advanced functional analysis and measure theory. Contains 14 numbered lecture notes and 3 appendices (A, B, C), each with both LaTeX source (.tex) and compiled PDF versions. The notes develop a coherent path from Hilbert space theory through spectral theory to Banach spaces, with parallel coverage of measure theory and integration. Topics include functional calculus, orthonormal bases, compact operators, Fourier transform, fundamental solutions of PDEs, the Dirichlet problem, Radon-Nikodym derivatives, Stone-Weierstrass theorem, spectral theory, and Banach space theory. The appendices provide alternative approaches to Radon integration, measure theory, and spectral theory.
+Complete set of lecture notes for MATH3325 Analysis 3 Honours course covering advanced functional analysis and measure theory. Contains 14 numbered lecture notes and 3 appendices (A, B, C), each with both LaTeX source (.tex) and compiled PDF versions. The notes develop a coherent path from Hilbert space theory through spectral theory to Banach spaces, with parallel coverage of measure theory and integration. Topics include functional calculus, orthonormal bases, compact operators, Fourier transform, fundamental solutions of PDEs, the Dirichlet problem, Radon-Nikodym derivatives, Stone-Weierstrass theorem, spectral theory, and Banach space theory. The appendices provide alternative approaches to Radon integration, measure theory, and spectral theory. A single handwritten diagram illustrating upper integral approximation is stored separately in the diagrams subdirectory and used in the integration theory sections of the notes.
 
 ## Key Files
 
